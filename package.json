@@ -1,0 +1,45 @@
+{
+  "name": "spider-banshujiang",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/jiangshanmeta/spider-banshujiang#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiangshanmeta/spider-banshujiang.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jiangshanmeta/spider-banshujiang/issues"
+  },
+  "keywords": [],
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint . --fix",
+    "spider": "esno ./src/index.ts"
+  },
+  "dependencies": {
+    "esno": "^0.16.3",
+    "node-html-parser": "^6.1.1"
+  },
+  "devDependencies": {
+    "@antfu/eslint-config": "^0.27.0",
+    "@types/node": "^18.11.0",
+    "eslint": "^8.25.0",
+    "typescript": "^4.8.4"
+  },
+  "eslintConfig": {
+    "extends": "@antfu/eslint-config-ts",
+    "rules": {
+      "import/first": "off",
+      "no-unused-vars": "off",
+      "@typescript-eslint/no-unused-vars": "off",
+      "@typescript-eslint/ban-ts-comment": "off",
+      "no-use-before-define": "off",
+      "no-unused-expressions": "off",
+      "prefer-const": "off",
+      "no-alert": "off",
+      "@typescript-eslint/consistent-type-definitions": "off"
+    }
+  }
+}
