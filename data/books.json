@@ -50920,5 +50920,205 @@
                 "link": "/e_books/3050/webstorage_links/16222/to_link"
             }
         ]
+    },
+    {
+        "id": 3051,
+        "title": "Programming AWS Lambda",
+        "img": "http://image.banshujiang.cn/3051.jpeg?timestamp=1666269865320",
+        "author": "John Chapin and Mike Roberts",
+        "language": "英文",
+        "publishYear": 2020,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3051/webstorage_links/16230/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3051/webstorage_links/16229/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3052,
+        "title": "Programming PHP 4th Edition",
+        "img": "http://image.banshujiang.cn/3052.jpeg?timestamp=1666269969869",
+        "author": "Kevin Tatroe and Peter MacIntyre",
+        "language": "英文",
+        "publishYear": 2020,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3052/webstorage_links/16233/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3052/webstorage_links/16234/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3053,
+        "title": "Reliable Machine Learning",
+        "img": "http://image.banshujiang.cn/3053.jpeg?timestamp=1666271204784",
+        "author": "Cathy Chen, Niall Richard Murphy, Kranti Parisa, D. Sculley, and Todd Underwood",
+        "language": "英文",
+        "publishYear": 2022,
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3053/webstorage_links/16238/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3053/webstorage_links/16237/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3054,
+        "title": "Strategic Writing for UX",
+        "img": "http://image.banshujiang.cn/3054.jpeg?timestamp=1666271276451",
+        "author": "Torrey Podmajersky",
+        "language": "英文",
+        "publishYear": 2019,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3054/webstorage_links/16240/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3055,
+        "title": "Stream Processing with Apache Spark",
+        "img": "http://image.banshujiang.cn/3055.jpeg?timestamp=1666271405248",
+        "author": "Gerard Maas and François Garillot",
+        "language": "英文",
+        "publishYear": 2019,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3055/webstorage_links/16242/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3056,
+        "title": "Terraform: Up &amp; Running 3rd Edition",
+        "img": "http://image.banshujiang.cn/3056.jpeg?timestamp=1666271468542",
+        "author": "Yevgeniy Brikman",
+        "language": "英文",
+        "publishYear": 2022,
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3056/webstorage_links/16246/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3056/webstorage_links/16245/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3057,
+        "title": "The AI Organization",
+        "img": "http://image.banshujiang.cn/3057.jpeg?timestamp=1666271537450",
+        "author": "David Carmona",
+        "language": "英文",
+        "publishYear": 2019,
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3057/webstorage_links/16248/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3058,
+        "title": "The Practitioner’s Guide to Graph Data",
+        "img": "http://image.banshujiang.cn/3058.jpeg?timestamp=1666271593799",
+        "author": "Denise Koessler Gosnell and Matthias Broecheler",
+        "language": "英文",
+        "publishYear": 2020,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3058/webstorage_links/16252/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3058/webstorage_links/16251/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3059,
+        "title": "Responsive Web Design with HTML5 and CSS 3rd Edition",
+        "img": "http://image.banshujiang.cn/3059.jpeg?timestamp=1666271665885",
+        "author": "Ben Frain",
+        "language": "英文",
+        "publishYear": 2020,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3059/webstorage_links/16256/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3059/webstorage_links/16257/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3059/webstorage_links/16258/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3060,
+        "title": "The Pragmatic Programmer 20th Anniversary Edition",
+        "img": "http://image.banshujiang.cn/3060.jpeg?timestamp=1666271819951",
+        "author": "Dave Thomas and Andy Hunt",
+        "language": "英文",
+        "publishYear": 2020,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3060/webstorage_links/16266/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3060/webstorage_links/16264/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3060/webstorage_links/16265/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/3060/webstorage_links/16263/to_link"
+            }
+        ]
     }
 ]
