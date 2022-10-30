@@ -1,4 +1,5 @@
 import http from 'http'
+import https from 'https'
 import fs from 'fs'
 import path from 'path'
 
@@ -28,16 +29,17 @@ export function parseListPage(content: string) {
 }
 
 function downloadImage(src: string) {
+  const protocal = src.startsWith('https') ? https : http
   return new Promise<string>((resolve) => {
-    http.get(src, {
-      host: 'image.banshujiang.cn',
+    protocal.get(src, {
+      // host: 'image.banshujiang.cn',
       headers: {
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
         'Accept-Encoding': 'gzip, deflate',
         'Accept-Language': 'zh-CN,zh;q=0.9',
         'Cache-Control': 'no-cache',
         'Connection': 'keep-alive',
-        'Host': 'image.banshujiang.cn',
+        // 'Host': 'image.banshujiang.cn',
         'Pragma': 'no-cache',
         'Referer': 'http://banshujiang.cn/',
         'Upgrade-Insecure-Requests': 1,
