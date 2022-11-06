@@ -52310,5 +52310,330 @@
                 "link": "/e_books/3115/webstorage_links/16520/to_link"
             }
         ]
+    },
+    {
+        "id": 3116,
+        "title": "Deep Learning with TensorFlow and Keras 3rd Edition",
+        "img": "http://image.banshujiang.cn/3116.jpeg?timestamp=1667574936081",
+        "author": "Amita Kapoor, Antonio Gulli and Sujit Pal",
+        "language": "英文",
+        "publishYear": 2022,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3116/webstorage_links/16528/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3116/webstorage_links/16527/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3116/webstorage_links/16526/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3117,
+        "title": "Python Crash Course 3rd Edition",
+        "img": "http://image.banshujiang.cn/3117.jpeg?timestamp=1667575129817",
+        "author": "Eric Matthes",
+        "language": "英文",
+        "publishYear": 2022,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3117/webstorage_links/16534/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3117/webstorage_links/16532/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3117/webstorage_links/16533/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3118,
+        "title": "Solid Introduction To Software Design and Architecture with Typescript",
+        "img": "http://image.banshujiang.cn/3118.jpeg?timestamp=1667575251875",
+        "author": "Khalil Stemmler",
+        "language": "英文",
+        "publishYear": 2022,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3118/webstorage_links/16537/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3118/webstorage_links/16538/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3119,
+        "title": "The Art of Computer Programming Part 2",
+        "img": "http://image.banshujiang.cn/3119.jpeg?timestamp=1667576429120",
+        "author": "Donald E. Knuth Stanford University",
+        "language": "英文",
+        "publishYear": 2022,
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3119/webstorage_links/16542/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3119/webstorage_links/16541/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3120,
+        "title": "iOS Apprentice 8th Edition",
+        "img": "http://image.banshujiang.cn/3120.jpeg?timestamp=1667576813482",
+        "author": "Joey deVilla, Eli Ganim &amp; Matthijs Hollemans",
+        "language": "英文",
+        "publishYear": 2019,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3120/webstorage_links/16546/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3120/webstorage_links/16547/to_link"
+            },
+            {
+                "fmt": "CODE",
+                "title": "城通网盘",
+                "link": "/e_books/3120/webstorage_links/16548/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3121,
+        "title": "Algorithms",
+        "img": "http://image.banshujiang.cn/3121.jpeg?timestamp=1667637019524",
+        "author": "Jeff Erickson",
+        "language": "英文",
+        "publishYear": 2019,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3121/webstorage_links/16550/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3122,
+        "title": "Android Test-Driven Development by Tutorials",
+        "img": "http://image.banshujiang.cn/3122.jpeg?timestamp=1667637103652",
+        "author": "Lance Gleason, Victoria Gonda and Fernando Sproviero",
+        "language": "英文",
+        "publishYear": 2019,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3122/webstorage_links/16556/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3122/webstorage_links/16555/to_link"
+            },
+            {
+                "fmt": "CODE",
+                "title": "城通网盘",
+                "link": "/e_books/3122/webstorage_links/16554/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3123,
+        "title": "Big Data A Tutorial-Based Approach",
+        "img": "http://image.banshujiang.cn/3123.jpeg?timestamp=1667637469178",
+        "author": "Nasir Raheem",
+        "language": "英文",
+        "publishYear": 2019,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3123/webstorage_links/16560/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3123/webstorage_links/16559/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3124,
+        "title": "Catalyst by Tutorials",
+        "img": "http://image.banshujiang.cn/3124.jpeg?timestamp=1667637749695",
+        "author": "Marin Benčević, Nick Bonatsakis &amp; Andy Pereira",
+        "language": "英文",
+        "publishYear": 2019,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3124/webstorage_links/16566/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3124/webstorage_links/16565/to_link"
+            },
+            {
+                "fmt": "CODE",
+                "title": "城通网盘",
+                "link": "/e_books/3124/webstorage_links/16564/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3125,
+        "title": "Combine: Asynchronous Programming with Swift",
+        "img": "http://image.banshujiang.cn/3125.jpeg?timestamp=1667637970278",
+        "author": "Scott Gardner, Shai Mishali, Florent Pillet &amp; Marin Todorov",
+        "language": "英文",
+        "publishYear": 2019,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3125/webstorage_links/16572/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3125/webstorage_links/16571/to_link"
+            },
+            {
+                "fmt": "CODE",
+                "title": "城通网盘",
+                "link": "/e_books/3125/webstorage_links/16570/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3126,
+        "title": "Data Structures &amp; Algorithms in Kotlin",
+        "img": "http://image.banshujiang.cn/3126.jpeg?timestamp=1667638605560",
+        "author": "Irina Galata &amp; Matei Suica",
+        "language": "英文",
+        "publishYear": 2019,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3126/webstorage_links/16577/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3126/webstorage_links/16576/to_link"
+            },
+            {
+                "fmt": "CODE",
+                "title": "城通网盘",
+                "link": "/e_books/3126/webstorage_links/16578/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3127,
+        "title": "Database Processing 15th Edition",
+        "img": "http://image.banshujiang.cn/3127.jpeg?timestamp=1667638760995",
+        "author": "David M. Kroenke",
+        "language": "英文",
+        "publishYear": 2018,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3127/webstorage_links/16580/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3128,
+        "title": "Dynamics and Control of Robotic Systems",
+        "img": "http://image.banshujiang.cn/3128.jpeg?timestamp=1667638824163",
+        "author": "AndrewJ.KurdilaandPinhasBen-Tzvi",
+        "language": "英文",
+        "publishYear": 2019,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3128/webstorage_links/16583/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3128/webstorage_links/16584/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3129,
+        "title": "Kotlin Coroutines by Tutorials 2nd Edition",
+        "img": "http://image.banshujiang.cn/3129.jpeg?timestamp=1667638900840",
+        "author": "Filip Babić and Nishant Srivastava",
+        "language": "英文",
+        "publishYear": 2019,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3129/webstorage_links/16590/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3129/webstorage_links/16589/to_link"
+            },
+            {
+                "fmt": "CODE",
+                "title": "城通网盘",
+                "link": "/e_books/3129/webstorage_links/16588/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3130,
+        "title": "Learn To Program with App Inventor",
+        "img": "http://image.banshujiang.cn/3130.jpeg?timestamp=1667639053902",
+        "author": "Lyra Blizzard Logan",
+        "language": "英文",
+        "publishYear": 2019,
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3130/webstorage_links/16592/to_link"
+            }
+        ]
     }
 ]
