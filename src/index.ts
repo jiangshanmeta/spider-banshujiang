@@ -7,8 +7,8 @@ import { parseDetailPage, parseListPage } from './parse-page'
 
 async function getItem(id: number) {
   const raw = await getDetailPageRaw(id)
-  const data = await parseDetailPage(raw, id);
-  (books as Array<{ id: number }>).push(data)
+  const data = await parseDetailPage(raw, id)
+  books.push(data)
 
   fs.writeFileSync(path.join(__dirname, '../data/books.json'), JSON.stringify(books, null, 4), 'utf8')
 }

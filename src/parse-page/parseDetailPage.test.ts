@@ -1,6 +1,6 @@
 import { describe, expect, jest, test } from '@jest/globals'
 import { parseDetailPage } from './parseDetailPage'
-import type { downloadImage } from './downloadImage'
+import * as DownloadImageModlue from './downloadImage'
 
 const html = `
 <html lang="zh_CN" xmlns:wb="http://open.weibo.com/wb"><head>
@@ -154,18 +154,16 @@ const html = `
 </body></html>
 `
 
-jest.mock('./downloadImage', () => {
-  const mockDownloadImage = jest.fn<typeof downloadImage>().mockImplementation(async () => {
-    return 'mock img'
+describe('parseDetailPage', () => {
+  afterEach(() => {
+    jest.restoreAllMocks()
   })
 
-  return {
-    downloadImage: mockDownloadImage,
-  }
-})
-
-describe('parseDetailPage', () => {
   test('get one record', () => {
+    const spy = jest.spyOn(DownloadImageModlue, 'downloadImage').mockImplementationOnce(async () => {
+      return 'test download img'
+    })
+
     return parseDetailPage(html, 3149).then((data) => {
       expect(data).toEqual({
         id: 3149,
@@ -192,6 +190,9 @@ describe('parseDetailPage', () => {
           },
         ],
       })
+
+      expect(spy).toBeCalledTimes(1)
+      expect(spy.mock.calls[0][0]).toBe('https://imagebsj.netlify.app/3149.jpeg')
     })
   })
 })

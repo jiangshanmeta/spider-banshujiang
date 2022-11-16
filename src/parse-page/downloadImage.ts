@@ -37,3 +37,5 @@ export function downloadImage(src: string) {
     })
   })
 }
+
+export type DownloadImage = typeof downloadImage

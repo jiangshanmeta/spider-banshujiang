@@ -6,7 +6,7 @@ export function parseDetailPage(content: string, id: number) {
   const container = root.querySelector('.row.shadow-panel')!
 
   const title = container.querySelector('.ebook-title')!.querySelector('a')!.innerText
-  const img = container.querySelector('img')!.getAttribute('src')
+  const img = container.querySelector('img')!.getAttribute('src')!
   const trs = container.querySelectorAll('tr')
   const author = trs[0].querySelectorAll('td')[1].innerText
   const language = trs[1].querySelectorAll('td')[1].innerText
@@ -17,7 +17,7 @@ export function parseDetailPage(content: string, id: number) {
     return {
       fmt: li.querySelector('.format-tag')!.innerText,
       title: aTag.innerText,
-      link: aTag.getAttribute('href'),
+      link: aTag.getAttribute('href')!,
     }
   })
 
@@ -31,7 +31,7 @@ export function parseDetailPage(content: string, id: number) {
     formats,
   }
 
-  return downloadImage(img!).then(() => {
+  return downloadImage(img).then(() => {
     return result
   })
 }
