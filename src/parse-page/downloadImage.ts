@@ -28,7 +28,7 @@ export function downloadImage(src: string) {
         const index = src.indexOf('?')
         const end = index > -1 ? index : src.length
         const name = src.slice(0, end).split('/').pop()!
-        fs.writeFileSync(path.join(__dirname, '../data/images', name), rawData, 'binary')
+        fs.writeFileSync(path.join(__dirname, '../../data/images', name), rawData, 'binary')
         resolve(name)
       })
     }).on('error', (e) => {

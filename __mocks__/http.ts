@@ -5,9 +5,6 @@ const http = jest.createMockFromModule<{
 }>('http')
 
 http.get = jest.fn().mockImplementation((_, cb) => {
-  // eslint-disable-next-line no-console
-  console.log('stub http get')
-
   const e: any = new EventEmitter()
   e.setEncoding = jest.fn()
 
