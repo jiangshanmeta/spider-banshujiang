@@ -53115,5 +53115,215 @@
                 "link": "/e_books/3150/webstorage_links/16704/to_link"
             }
         ]
+    },
+    {
+        "id": 3151,
+        "title": "Clean Architecture",
+        "img": "http://image.banshujiang.cn/3151.jpeg?timestamp=1668781268224",
+        "author": "Robert C. Martin",
+        "language": "英文",
+        "publishYear": 2017,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3151/webstorage_links/16710/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3151/webstorage_links/16709/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/3151/webstorage_links/16708/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3152,
+        "title": "JavaScript: Optimizing Native JavaScript",
+        "img": "http://image.banshujiang.cn/3152.jpeg?timestamp=1668781414287",
+        "author": "Robert C. Etheredge",
+        "language": "英文",
+        "publishYear": 2017,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3152/webstorage_links/16714/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3152/webstorage_links/16713/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3153,
+        "title": "Machine Learning for Business",
+        "img": "http://image.banshujiang.cn/3153.jpeg?timestamp=1668843653669",
+        "author": "Doug Hudgeon and Richard Nichol",
+        "language": "英文",
+        "publishYear": 2019,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3153/webstorage_links/16716/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3154,
+        "title": "Machine Learning with Tensorflow",
+        "img": "http://image.banshujiang.cn/3154.jpeg?timestamp=1668843735087",
+        "author": "Nishant Shukla",
+        "language": "英文",
+        "publishYear": 2018,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3154/webstorage_links/16719/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3154/webstorage_links/16720/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3155,
+        "title": "Object Design Style Guide",
+        "img": "http://image.banshujiang.cn/3155.jpeg?timestamp=1668843830342",
+        "author": "Matthias Noback",
+        "language": "英文",
+        "publishYear": 2019,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3155/webstorage_links/16722/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3156,
+        "title": "Practical Data Science with R 2nd Edition",
+        "img": "http://image.banshujiang.cn/3156.jpeg?timestamp=1668843910137",
+        "author": "Nina Zumel and John Mount",
+        "language": "英文",
+        "publishYear": 2019,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3156/webstorage_links/16724/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3157,
+        "title": "Practices of the Python Pro",
+        "img": "http://image.banshujiang.cn/3157.jpeg?timestamp=1668844014036",
+        "author": "Dane Hillard",
+        "language": "英文",
+        "publishYear": 2019,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3157/webstorage_links/16728/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3157/webstorage_links/16729/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3157/webstorage_links/16730/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3158,
+        "title": "Programmer’s Guide to Apache Thrift",
+        "img": "http://image.banshujiang.cn/3158.jpeg?timestamp=1668844081680",
+        "author": "Randy Abernethy",
+        "language": "英文",
+        "publishYear": 2019,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3158/webstorage_links/16734/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3158/webstorage_links/16735/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3158/webstorage_links/16736/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3159,
+        "title": "Programming with Types",
+        "img": "http://image.banshujiang.cn/3159.jpeg?timestamp=1668844150402",
+        "author": "Vlad Riscutia",
+        "language": "英文",
+        "publishYear": 2019,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3159/webstorage_links/16742/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3159/webstorage_links/16740/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3159/webstorage_links/16741/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3160,
+        "title": "Reactive Application Development",
+        "img": "http://image.banshujiang.cn/3160.jpeg?timestamp=1668844230302",
+        "author": "Duncan Devore, Sean Walsh and Brian Hanafee",
+        "language": "英文",
+        "publishYear": 2018,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3160/webstorage_links/16748/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3160/webstorage_links/16746/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3160/webstorage_links/16747/to_link"
+            }
+        ]
     }
 ]
