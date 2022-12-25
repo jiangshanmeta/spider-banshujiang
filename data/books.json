@@ -53515,5 +53515,30 @@
                 "link": "/e_books/3170/webstorage_links/16784/to_link"
             }
         ]
+    },
+    {
+        "id": 3171,
+        "title": "Cassandra: The Definitive Guide 2nd Edition",
+        "img": "http://image.banshujiang.cn/3171.jpeg?timestamp=1671815273154",
+        "author": "Jeff Carpenter and Eben Hewitt",
+        "language": "英文",
+        "publishYear": 2016,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3171/webstorage_links/16790/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3171/webstorage_links/16788/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3171/webstorage_links/16789/to_link"
+            }
+        ]
     }
 ]
