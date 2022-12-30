@@ -53325,5 +53325,220 @@
                 "link": "/e_books/3160/webstorage_links/16747/to_link"
             }
         ]
+    },
+    {
+        "id": 3161,
+        "title": "RxJS in Action",
+        "img": "http://image.banshujiang.cn/3161.jpeg?timestamp=1670765642475",
+        "author": "Paul P. Daniels and Luis Atencio",
+        "language": "英文",
+        "publishYear": 2017,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3161/webstorage_links/16750/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3162,
+        "title": "Streaming Data",
+        "img": "http://image.banshujiang.cn/3162.jpeg?timestamp=1670765760887",
+        "author": "Andrew G. Psaltis",
+        "language": "英文",
+        "publishYear": 2017,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3162/webstorage_links/16752/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3163,
+        "title": "The Joy of Kotlin",
+        "img": "http://image.banshujiang.cn/3163.jpeg?timestamp=1670765823846",
+        "author": "Pierre-yves Saumont",
+        "language": "英文",
+        "publishYear": 2019,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3163/webstorage_links/16754/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3164,
+        "title": "Web Components in Action",
+        "img": "http://image.banshujiang.cn/3164.jpeg?timestamp=1670765899415",
+        "author": "Ben Farrell",
+        "language": "英文",
+        "publishYear": 2019,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3164/webstorage_links/16760/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3164/webstorage_links/16758/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3164/webstorage_links/16759/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3165,
+        "title": "WebAssembly in Action",
+        "img": "http://image.banshujiang.cn/3165.jpeg?timestamp=1670765971462",
+        "author": "C. Gerard Gallant",
+        "language": "英文",
+        "publishYear": 2019,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3165/webstorage_links/16764/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3165/webstorage_links/16765/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3165/webstorage_links/16766/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3166,
+        "title": "Mining Social Media",
+        "img": "http://image.banshujiang.cn/3166.jpeg?timestamp=1670940900340",
+        "author": "Lam Thuy Vo",
+        "language": "英文",
+        "publishYear": 2019,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3166/webstorage_links/16772/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3166/webstorage_links/16773/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3167,
+        "title": "Agile Application Security",
+        "img": "http://image.banshujiang.cn/3167.jpeg?timestamp=1670941103138",
+        "author": "Laura Bell, Michael Brunton-Spall, Rich Smith, and Jim Bird",
+        "language": "英文",
+        "publishYear": 2017,
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3167/webstorage_links/16775/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/3167/webstorage_links/16774/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3168,
+        "title": "Ansible: Up and Running 2nd Edition",
+        "img": "http://image.banshujiang.cn/3168.jpeg?timestamp=1670941434445",
+        "author": "Lorin Hochstein and René Moser",
+        "language": "英文",
+        "publishYear": 2017,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3168/webstorage_links/16777/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3168/webstorage_links/16778/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3169,
+        "title": "bash Cookbook 2nd Edition",
+        "img": "http://image.banshujiang.cn/3169.jpeg?timestamp=1670941526048",
+        "author": "Carl Albing and JP Vossen",
+        "language": "英文",
+        "publishYear": 2017,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3169/webstorage_links/16781/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3169/webstorage_links/16782/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3170,
+        "title": "Building Web Apps with WordPress 2nd Edition",
+        "img": "http://image.banshujiang.cn/3170.jpeg?timestamp=1670941635865",
+        "author": "Brian Messenlehner and Jason Coleman",
+        "language": "英文",
+        "publishYear": 2019,
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3170/webstorage_links/16784/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3171,
+        "title": "Cassandra: The Definitive Guide 2nd Edition",
+        "img": "http://image.banshujiang.cn/3171.jpeg?timestamp=1671815273154",
+        "author": "Jeff Carpenter and Eben Hewitt",
+        "language": "英文",
+        "publishYear": 2016,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3171/webstorage_links/16790/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3171/webstorage_links/16788/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3171/webstorage_links/16789/to_link"
+            }
+        ]
     }
 ]
