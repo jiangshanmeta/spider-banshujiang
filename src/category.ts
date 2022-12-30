@@ -26,7 +26,6 @@ async function getCategoryByTag(url: string, tag: string) {
     } = parseCategoryList(await getCategoryListRaw(url, i))
 
     maxPage = total
-
     const someContains = bookIds.some(bookId => bookCategoryData[tag].includes(bookId))
 
     bookCategoryData[tag].push(...bookIds)
