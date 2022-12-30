@@ -24,6 +24,7 @@
   "scripts": {
     "lint": "eslint ./src --fix",
     "spider": "esno ./src/index.ts",
+    "category": "esno ./src/category.ts",
     "type-check": "bash -c tsc --noEmit",
     "prepare": "husky install",
     "test": "jest --bail --passWithNoTests"
