@@ -53540,5 +53540,645 @@
                 "link": "/e_books/3171/webstorage_links/16789/to_link"
             }
         ]
+    },
+    {
+        "id": 3172,
+        "title": "Cloud FinOps",
+        "img": "http://image.banshujiang.cn/3172.jpeg?timestamp=1672467100960",
+        "author": "J.R. Storment and Mike Fuller",
+        "language": "英文",
+        "publishYear": 2019,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3172/webstorage_links/16794/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3172/webstorage_links/16793/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3173,
+        "title": "Cloud Native Data Center Networking",
+        "img": "http://image.banshujiang.cn/3173.jpeg?timestamp=1672467198770",
+        "author": "Dinesh G. Dutt",
+        "language": "英文",
+        "publishYear": 2019,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3173/webstorage_links/16798/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3173/webstorage_links/16797/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3174,
+        "title": "Cloud Native Java",
+        "img": "http://image.banshujiang.cn/3174.jpeg?timestamp=1672467277208",
+        "author": "Josh Long and Kenny Bastani",
+        "language": "英文",
+        "publishYear": 2017,
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3174/webstorage_links/16802/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/3174/webstorage_links/16801/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3175,
+        "title": "Cloud Native Transformation",
+        "img": "http://image.banshujiang.cn/3175.jpeg?timestamp=1672467351259",
+        "author": "Pini Reznik, Jamie Dobson, and Michelle Gienow",
+        "language": "英文",
+        "publishYear": 2019,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3175/webstorage_links/16806/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3175/webstorage_links/16805/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3176,
+        "title": "Concurrency in Go",
+        "img": "http://image.banshujiang.cn/3176.jpeg?timestamp=1672467458275",
+        "author": "Katherine Cox-Buday",
+        "language": "英文",
+        "publishYear": 2017,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3176/webstorage_links/16812/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3176/webstorage_links/16811/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/3176/webstorage_links/16810/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3177,
+        "title": "C# 7.0 Pocket Reference",
+        "img": "http://image.banshujiang.cn/3177.jpeg?timestamp=1672467578458",
+        "author": "Joseph Albahari and Ben Albahari",
+        "language": "英文",
+        "publishYear": 2017,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3177/webstorage_links/16815/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/3177/webstorage_links/16816/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3178,
+        "title": "Data Science with Java",
+        "img": "http://image.banshujiang.cn/3178.jpeg?timestamp=1672467744052",
+        "author": "Michael R. Brzustowicz, PhD",
+        "language": "英文",
+        "publishYear": 2017,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3178/webstorage_links/16822/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3178/webstorage_links/16821/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/3178/webstorage_links/16820/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3179,
+        "title": "Deep Learning: A Practitioner’s Approach",
+        "img": "http://image.banshujiang.cn/3179.jpeg?timestamp=1672467843356",
+        "author": "Josh Patterson and Adam Gibson",
+        "language": "英文",
+        "publishYear": 2017,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3179/webstorage_links/16828/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3179/webstorage_links/16827/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/3179/webstorage_links/16826/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3180,
+        "title": "Designing Bots",
+        "img": "http://image.banshujiang.cn/3180.jpeg?timestamp=1672467907490",
+        "author": "Amir Shevat",
+        "language": "英文",
+        "publishYear": 2017,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3180/webstorage_links/16834/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3180/webstorage_links/16833/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/3180/webstorage_links/16832/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3181,
+        "title": "Designing for Wearables",
+        "img": "http://image.banshujiang.cn/3181.jpeg?timestamp=1672468290820",
+        "author": "Scott Sullivan",
+        "language": "英文",
+        "publishYear": 2017,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3181/webstorage_links/16837/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3181/webstorage_links/16838/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3182,
+        "title": "Designing Interfaces 3rd Edition",
+        "img": "http://image.banshujiang.cn/3182.jpeg?timestamp=1672468373720",
+        "author": "Jenifer Tidwell, Charles Brewer, and Aynne Valencia",
+        "language": "英文",
+        "publishYear": 2022,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3182/webstorage_links/16841/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3182/webstorage_links/16842/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3183,
+        "title": "Elegant SciPy",
+        "img": "http://image.banshujiang.cn/3183.jpeg?timestamp=1672468474281",
+        "author": "Juan Nunez-Iglesias, Stéfan van der Walt, and Harriet Dashnow",
+        "language": "英文",
+        "publishYear": 2017,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3183/webstorage_links/16848/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3183/webstorage_links/16847/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/3183/webstorage_links/16846/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3184,
+        "title": "Flexbox in CSS",
+        "img": "http://image.banshujiang.cn/3184.jpeg?timestamp=1672468542138",
+        "author": "Estelle Weyl",
+        "language": "英文",
+        "publishYear": 2017,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3184/webstorage_links/16852/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3184/webstorage_links/16854/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/3184/webstorage_links/16853/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3185,
+        "title": "Hands-On Smart Contract Development with Solidity and Ethereum",
+        "img": "http://image.banshujiang.cn/3185.jpeg?timestamp=1672468636436",
+        "author": "Kevin Solorio, Randall Kanna, and David H. Hoover",
+        "language": "英文",
+        "publishYear": 2019,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3185/webstorage_links/16858/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3185/webstorage_links/16857/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3186,
+        "title": "Head First Agile",
+        "img": "http://image.banshujiang.cn/3186.jpeg?timestamp=1672468715322",
+        "author": "Andrew Stellman and Jennifer Greene",
+        "language": "英文",
+        "publishYear": 2017,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3186/webstorage_links/16863/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3186/webstorage_links/16864/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/3186/webstorage_links/16862/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3187,
+        "title": "Head First Android Development 2nd Edition",
+        "img": "http://image.banshujiang.cn/3187.jpeg?timestamp=1672468865468",
+        "author": "Dawn Griffiths",
+        "language": "英文",
+        "publishYear": 2017,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3187/webstorage_links/16869/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3187/webstorage_links/16870/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/3187/webstorage_links/16868/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3188,
+        "title": "Identity and Data Security for Web Development",
+        "img": "http://image.banshujiang.cn/3188.jpeg?timestamp=1672468937414",
+        "author": "Jonathan LeBlanc and Tim Messerschmidt",
+        "language": "英文",
+        "publishYear": 2016,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3188/webstorage_links/16874/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/3188/webstorage_links/16873/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3189,
+        "title": "Incident Management for Operations",
+        "img": "http://image.banshujiang.cn/3189.jpeg?timestamp=1672469007215",
+        "author": "Rob Schnepp, Ron Vidal, and Chris Hawley",
+        "language": "英文",
+        "publishYear": 2017,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3189/webstorage_links/16878/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/3189/webstorage_links/16877/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3190,
+        "title": "Introducing Elixir 2nd Edition",
+        "img": "http://image.banshujiang.cn/3190.jpeg?timestamp=1672469103741",
+        "author": "Simon St.Laurent and J. David Eisenberg",
+        "language": "英文",
+        "publishYear": 2016,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3190/webstorage_links/16881/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3190/webstorage_links/16882/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3191,
+        "title": "Introducing Erlang 2nd Edition",
+        "img": "http://image.banshujiang.cn/3191.jpeg?timestamp=1672469414417",
+        "author": "Simon St.Laurent",
+        "language": "英文",
+        "publishYear": 2017,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3191/webstorage_links/16888/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3191/webstorage_links/16887/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/3191/webstorage_links/16886/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3192,
+        "title": "Introducing Python 2nd Edition",
+        "img": "http://image.banshujiang.cn/3192.jpeg?timestamp=1672469489476",
+        "author": "Bill Lubanovic",
+        "language": "英文",
+        "publishYear": 2019,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3192/webstorage_links/16892/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3192/webstorage_links/16891/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3193,
+        "title": "Kotlin Cookbook",
+        "img": "http://image.banshujiang.cn/3193.jpeg?timestamp=1672469762936",
+        "author": "Ken Kousen",
+        "language": "英文",
+        "publishYear": 2019,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3193/webstorage_links/16896/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3193/webstorage_links/16895/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3194,
+        "title": "Kubernetes Best Practices",
+        "img": "http://image.banshujiang.cn/3194.jpeg?timestamp=1672469822869",
+        "author": "Brendan Burns, Eddie Villalba, Dave Strebel, and Lachlan Evenson",
+        "language": "英文",
+        "publishYear": 2019,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3194/webstorage_links/16900/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3194/webstorage_links/16899/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3195,
+        "title": "Learning FPGAs",
+        "img": "http://image.banshujiang.cn/3195.jpeg?timestamp=1672469886327",
+        "author": "Justin Rajewski",
+        "language": "英文",
+        "publishYear": 2017,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3195/webstorage_links/16905/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3195/webstorage_links/16906/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/3195/webstorage_links/16904/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3196,
+        "title": "Learning HTTP/2",
+        "img": "http://image.banshujiang.cn/3196.jpeg?timestamp=1672470059187",
+        "author": "Stephen Ludin and Javier Garza",
+        "language": "英文",
+        "publishYear": 2017,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3196/webstorage_links/16911/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3196/webstorage_links/16912/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/3196/webstorage_links/16910/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3197,
+        "title": "Learning Puppet 4",
+        "img": "http://image.banshujiang.cn/3197.jpeg?timestamp=1672470123769",
+        "author": "Jo Rhett",
+        "language": "英文",
+        "publishYear": 2016,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3197/webstorage_links/16916/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3197/webstorage_links/16918/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3197/webstorage_links/16917/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3198,
+        "title": "Learning TensorFlow",
+        "img": "http://image.banshujiang.cn/3198.jpeg?timestamp=1672470202887",
+        "author": "Tom Hope, Yehezkel S. Resheff, and Itay Lieder",
+        "language": "英文",
+        "publishYear": 2017,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3198/webstorage_links/16921/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3198/webstorage_links/16922/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3199,
+        "title": "Linux Observability with BPF",
+        "img": "http://image.banshujiang.cn/3199.jpeg?timestamp=1672470279387",
+        "author": "David Calavera and Lorenzo Fontana",
+        "language": "英文",
+        "publishYear": 2019,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3199/webstorage_links/16926/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3199/webstorage_links/16925/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3200,
+        "title": "Mastering Spark with R",
+        "img": "http://image.banshujiang.cn/3200.jpeg?timestamp=1672470351468",
+        "author": "Javier Luraschi, Kevin Kuo, and Edgar Ruiz",
+        "language": "英文",
+        "publishYear": 2019,
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3200/webstorage_links/16930/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3200/webstorage_links/16929/to_link"
+            }
+        ]
     }
 ]
