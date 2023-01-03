@@ -14,7 +14,7 @@ jobs:
       - name: Install
         run: npm install
       - name: Spider
-        run: npm run spider && npm run category
+        run: npm run spider && npm run category && npm run recommendation
              
       - uses: EndBug/add-and-commit@v9
         with:
