@@ -1,7 +1,7 @@
 import { parse } from 'node-html-parser'
 import { downloadImage } from './downloadImage'
 
-export function parseDetailPage(content: string, id: number) {
+export function parseDetailPage(content: string, id: number, skipImg = false) {
   const root = parse(content)
   const container = root.querySelector('.row.shadow-panel')!
 
@@ -11,7 +11,8 @@ export function parseDetailPage(content: string, id: number) {
   const author = trs[0].querySelectorAll('td')[1].innerText
   const language = trs[1].querySelectorAll('td')[1].innerText
   const publishYear = +trs[2].querySelectorAll('td')[1].innerText
-  const formats = trs[trs.length - 1].querySelectorAll('li').map((li) => {
+  const programLanguage = trs[3].querySelectorAll('td')[0].innerText === '编程语言：' ? trs[3].querySelectorAll('td')[1].innerText : ''
+  const formats = trs[trs.length - 1].querySelectorAll('li').filter(li => li.querySelector('a')).map((li) => {
     const aTag = li.querySelector('a')!
 
     return {
@@ -28,8 +29,12 @@ export function parseDetailPage(content: string, id: number) {
     author,
     language,
     publishYear,
+    programLanguage,
     formats,
   }
+
+  if (skipImg)
+    return Promise.resolve(result)
 
   return downloadImage(img).then(() => {
     return result
