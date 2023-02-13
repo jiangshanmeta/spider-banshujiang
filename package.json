@@ -28,7 +28,8 @@
     "recommendation": "esno ./src/recommendation.ts",
     "type-check": "bash -c tsc --noEmit",
     "prepare": "husky install",
-    "test": "jest --bail --passWithNoTests"
+    "test": "jest --bail --passWithNoTests",
+    "test:coverage": "jest --coverage"
   },
   "dependencies": {
     "esno": "^0.16.3",
