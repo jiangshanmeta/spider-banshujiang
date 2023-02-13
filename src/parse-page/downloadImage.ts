@@ -5,7 +5,7 @@ import path from 'path'
 
 export function downloadImage(src: string) {
   const protocal = src.startsWith('https') ? https : http
-  return new Promise<string>((resolve) => {
+  return new Promise<string>((resolve, reject) => {
     protocal.get(src, {
       headers: {
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
@@ -31,9 +31,10 @@ export function downloadImage(src: string) {
         fs.writeFileSync(path.join(__dirname, '../../data/images', name), rawData, 'binary')
         resolve(name)
       })
-    }).on('error', (e) => {
-      console.error(`出现错误: ${e.message}`)
-      process.exit(1)
+
+      res.on('error', (e) => {
+        reject(e)
+      })
     })
   })
 }

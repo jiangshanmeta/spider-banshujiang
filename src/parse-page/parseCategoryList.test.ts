@@ -335,4 +335,88 @@ describe('parseCategoryList', () => {
       bookIds: [3171, 3148, 3106, 3094, 3082, 3043, 3038, 3026, 3001, 2969],
     })
   })
+
+  test('should handle page without pagination', () => {
+    const html = `<html lang="zh_CN" xmlns:wb="http://open.weibo.com/wb"><head>
+    <title>数据库:SQLite - 第1页 - 搬书匠</title>
+    <meta charset="UTF-8">
+    <meta name="renderer" content="webkit"> <!-- 为了告诉360浏览器应该使用极速核了 -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1"> <!-- 如果安装了GCF，则使用GCF来渲染页面「”chrome=1″」，如果没有安装GCF，>    则使用最高版本的IE内核进行渲染「”IE=edge”」 -->
+    <meta name="baidu-site-verification" content="AKra6WroiB">
+    <meta property="wb:webmaster" content="919195fbd9f44369">
+    <link rel="shortcut icon" href="http://image.banshujiang.cn/favicon.ico">
+    <link href="https://cdn.bootcdn.net/ajax/libs/twitter-bootstrap/2.2.2/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/asserts/css/e_books.css?release=1676133521802" rel="stylesheet">
+    <script src="https://hm.baidu.com/hm.js?38a41a4c5062c2a88d0e6083f47105ab"></script><script>
+        var _hmt = _hmt || [];
+        (function() {
+            var hm = document.createElement("script");
+            hm.src = "https://hm.baidu.com/hm.js?38a41a4c5062c2a88d0e6083f47105ab";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+<meta name="robots" content="noindex,follow">
+<script charset="UTF-8" src="https://js.t.sinajs.cn/open/api/js/api/bundle.js?version=20220715.01"></script><script charset="UTF-8" src="https://js.t.sinajs.cn/open/api/js/widget/iframeWidget/iframeWidget.js?version=20220715"></script></head>
+<body><iframe id="sina_anywhere_iframe" style="display: none;"></iframe>
+    <div class="navbar navbar-fixed-top">
+        <div class="navbar-inner">
+            <div style="margin-left:auto;margin-right:auto;width:970px;">
+                <a class="brand"><strong>搬书匠</strong></a>
+                <ul class="nav">
+                    <li><a href="/"><i class="icon-home"></i> 首页</a></li>
+                </ul>
+                <ul class="nav pull-right">
+                    <li><div style="margin-top:8px;"><wb:follow-button uid="3198737743" type="gray_2" width="120" height="24"><iframe src="http://widget.weibo.com/relationship/followbutton.php?btn=light&amp;style=2&amp;uid=3198737743&amp;width=120&amp;height=24&amp;language=zh_cn" width="120" height="24" frameborder="0" scrolling="no" marginheight="0"></iframe></wb:follow-button></div></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div style="margin-left:auto;margin-right:auto;width:1000px;margin-top:44px;">
+    <div style="height: 1px;"></div>
+    <ul class="small-list">
+    
+</ul>
+    <div class="pagination center" style="margin-top:25px;">
+    <ul>
+        
+    </ul>
+</div>
+</div>
+
+    <div style="text-align:center;">
+        <div style="font-size:14px;font-weight:bold;">
+            期待您的支持
+        </div>
+        <div>
+            <a href="/donations" rel="nofollow"><img alt="捐助本站" src="http://image.banshujiang.cn/donation.png"></a>
+        </div>
+    </div>
+
+    <div style="height: 25px;"></div>
+
+    <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script src="http://libebook.banshujiang.cn/jquery-migrate-1.2.1.min.js"></script>
+    <script src="http://libebook.banshujiang.cn/bootstrap.min.js" type="text/javascript" charset="utf-8"></script>
+    <script type="text/javascript" src="/asserts/js/search_form.js"></script>
+    <script>
+        $(document).ready(function(){
+            $('.category').click(function(event){
+                event.stopImmediatePropagation();
+            });
+        });
+    </script>
+
+    <div></div>
+    <script src="http://tjs.sjs.sinajs.cn/open/api/js/wb.js" type="text/javascript" charset="utf-8"></script>
+
+
+</body></html>`
+
+    expect(parseCategoryList(html)).toEqual({
+      total: 0,
+      bookIds: [],
+    })
+  })
 })

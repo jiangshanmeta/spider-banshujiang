@@ -1,7 +1,7 @@
 import http from 'http'
 
 export function getRawHTML(url: string) {
-  return new Promise<string>((resolve) => {
+  return new Promise<string>((resolve, reject) => {
     http.get(url, (res) => {
       res.setEncoding('utf8')
       let rawData = ''
@@ -12,8 +12,7 @@ export function getRawHTML(url: string) {
         resolve(rawData)
       })
     }).on('error', (e) => {
-      console.error(`出现错误: ${e.message}`)
-      process.exit(1)
+      reject(e)
     })
   })
 }
