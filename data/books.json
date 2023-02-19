@@ -60061,5 +60061,755 @@
                 "link": "/e_books/3320/webstorage_links/17473/to_link"
             }
         ]
+    },
+    {
+        "id": 3321,
+        "title": "数据元和交换格式信息交换日期和时间表示法 GBT 7408-2005",
+        "img": "http://image.banshujiang.cn/3321.jpeg?timestamp=1676204292764",
+        "author": "",
+        "language": "中文",
+        "publishYear": 2005,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3321/webstorage_links/17475/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3322,
+        "title": "Julia for Data Analysis",
+        "img": "http://image.banshujiang.cn/3322.jpeg?timestamp=1676692284192",
+        "author": "Bogumił Kaminski",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3322/webstorage_links/17480/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3323,
+        "title": "Microservice APIs",
+        "img": "http://image.banshujiang.cn/3323.jpeg?timestamp=1676692358334",
+        "author": "José Haro Peralta",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3323/webstorage_links/17481/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3324,
+        "title": "Podman in Action",
+        "img": "http://image.banshujiang.cn/3324.jpeg?timestamp=1676692434015",
+        "author": "Daniel Walsh",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3324/webstorage_links/17482/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3325,
+        "title": "Publishing Python Packages",
+        "img": "http://image.banshujiang.cn/3325.jpeg?timestamp=1676692547539",
+        "author": "Dane Hillard",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3325/webstorage_links/17483/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3326,
+        "title": "Rust Web Development",
+        "img": "http://image.banshujiang.cn/3326.jpeg?timestamp=1676692618056",
+        "author": "Bastian Gruber",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "Rust",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3326/webstorage_links/17485/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3327,
+        "title": "The Well-Grounded Java Developer 2nd Edition",
+        "img": "http://image.banshujiang.cn/3327.jpeg?timestamp=1676692975506",
+        "author": "Benjamin J. Evans, Jason Clark, and Martijn Verburg",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3327/webstorage_links/17487/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3328,
+        "title": "Data Quality Fundamentals",
+        "img": "http://image.banshujiang.cn/3328.jpeg?timestamp=1676693043854",
+        "author": "Barr Moses, Lior Gavish, and Molly Vorwerck",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3328/webstorage_links/17490/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3328/webstorage_links/17491/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3329,
+        "title": "Efficient Go",
+        "img": "http://image.banshujiang.cn/3329.jpeg?timestamp=1676693121171",
+        "author": "Bartłomiej Płotka",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "Go",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3329/webstorage_links/17494/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3329/webstorage_links/17495/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3330,
+        "title": "Essential Math for AI",
+        "img": "http://image.banshujiang.cn/3330.jpeg?timestamp=1676693205453",
+        "author": "Hala Nelson",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3330/webstorage_links/17497/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3331,
+        "title": "Fluent C",
+        "img": "http://image.banshujiang.cn/3331.jpeg?timestamp=1676694339019",
+        "author": "Christopher Preschern",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "C",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3331/webstorage_links/17500/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3331/webstorage_links/17501/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3332,
+        "title": "Flutter and Dart Cookbook",
+        "img": "http://image.banshujiang.cn/3332.jpeg?timestamp=1676694430500",
+        "author": "Richard Rose",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "Dart",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3332/webstorage_links/17504/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3332/webstorage_links/17505/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3333,
+        "title": "Genomics in the Azure Cloud",
+        "img": "http://image.banshujiang.cn/3333.jpeg?timestamp=1676694526266",
+        "author": "Colby T. Ford",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3333/webstorage_links/17509/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3333/webstorage_links/17508/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3334,
+        "title": "GitOps Cookbook",
+        "img": "http://image.banshujiang.cn/3334.jpeg?timestamp=1676694865420",
+        "author": "Natale Vinto and Alex Soto Bueno",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3334/webstorage_links/17511/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3335,
+        "title": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow 3nd Edition",
+        "img": "http://image.banshujiang.cn/3335.jpeg?timestamp=1676694994138",
+        "author": "Aurélien Géron",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3335/webstorage_links/17515/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3335/webstorage_links/17514/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3336,
+        "title": "Learning Google Analytics",
+        "img": "http://image.banshujiang.cn/3336.jpeg?timestamp=1676695089811",
+        "author": "Mark Edmondson",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3336/webstorage_links/17518/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3336/webstorage_links/17519/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3337,
+        "title": "Mastering API Architecture",
+        "img": "http://image.banshujiang.cn/3337.jpeg?timestamp=1676695156072",
+        "author": "James Gough, Daniel Bryant, and Matthew Auburn",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3337/webstorage_links/17522/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3337/webstorage_links/17523/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3338,
+        "title": "Mastering Financial Pattern Recognition",
+        "img": "http://image.banshujiang.cn/3338.jpeg?timestamp=1676695212683",
+        "author": "Sofien Kaabar",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3338/webstorage_links/17526/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3338/webstorage_links/17527/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3339,
+        "title": "Modern System Administration",
+        "img": "http://image.banshujiang.cn/3339.jpeg?timestamp=1676695277613",
+        "author": "Jennifer Davis",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3339/webstorage_links/17530/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3339/webstorage_links/17531/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3340,
+        "title": "Operating OpenShift",
+        "img": "http://image.banshujiang.cn/3340.jpeg?timestamp=1676695359956",
+        "author": "Rick Rackow and Manuel Dewald",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3340/webstorage_links/17535/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3340/webstorage_links/17534/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3341,
+        "title": "Overcoming IT Complexity",
+        "img": "http://image.banshujiang.cn/3341.jpeg?timestamp=1676701959068",
+        "author": "Lee Atchison",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3341/webstorage_links/17537/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3342,
+        "title": "Practicing Trustworthy Machine Learning",
+        "img": "http://image.banshujiang.cn/3342.jpeg?timestamp=1676702051961",
+        "author": "Yada Pruksachatkun, Matthew McAteer, and Subhabrata Majumdar",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3342/webstorage_links/17539/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3343,
+        "title": "Python Data Science Handbook 2nd Edition",
+        "img": "http://image.banshujiang.cn/3343.jpeg?timestamp=1676702173757",
+        "author": "Jake VanderPlas",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3343/webstorage_links/17541/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3344,
+        "title": "Python for Geospatial Data Analysis",
+        "img": "http://image.banshujiang.cn/3344.jpeg?timestamp=1676702259599",
+        "author": "Bonny P. McClain",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3344/webstorage_links/17545/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3344/webstorage_links/17544/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3345,
+        "title": "Python in a Nutshell 4th Edition",
+        "img": "http://image.banshujiang.cn/3345.jpeg?timestamp=1676702392434",
+        "author": "Alex Martelli, Anna Martelli Ravenscroft, Steve Holden, and Paul McGuire",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3345/webstorage_links/17547/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3346,
+        "title": "Raspberry Pi Cookbook 4th Edition",
+        "img": "http://image.banshujiang.cn/3346.jpeg?timestamp=1676702495479",
+        "author": "Dr. Simon Monk",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3346/webstorage_links/17549/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3347,
+        "title": "RESTful Web API Patterns and Practices Cookbook",
+        "img": "http://image.banshujiang.cn/3347.jpeg?timestamp=1676702591196",
+        "author": "Mike Amundsen",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3347/webstorage_links/17553/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3347/webstorage_links/17552/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3348,
+        "title": "Rust Atomics and Locks",
+        "img": "http://image.banshujiang.cn/3348.jpeg?timestamp=1676702686245",
+        "author": "Mara Bos",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Rust",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3348/webstorage_links/17557/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3348/webstorage_links/17556/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3349,
+        "title": "Scaling Python with Ray",
+        "img": "http://image.banshujiang.cn/3349.jpeg?timestamp=1676702786591",
+        "author": "Holden Karau and Boris Lublinsky",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3349/webstorage_links/17561/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3349/webstorage_links/17560/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3350,
+        "title": "Security as Code",
+        "img": "http://image.banshujiang.cn/3350.jpeg?timestamp=1676703485287",
+        "author": "BK Sarthak Das and Virginia Chu",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3350/webstorage_links/17563/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3351,
+        "title": "The Cloud Data Lake",
+        "img": "http://image.banshujiang.cn/3351.jpeg?timestamp=1676704197137",
+        "author": "Rukmani Gopalan",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3351/webstorage_links/17565/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3352,
+        "title": "The Staff Engineer’s Path",
+        "img": "http://image.banshujiang.cn/3352.jpeg?timestamp=1676704277806",
+        "author": "Tanya Reilly",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3352/webstorage_links/17569/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3352/webstorage_links/17568/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3353,
+        "title": "Version Control with Git 3rd Edition",
+        "img": "http://image.banshujiang.cn/3353.jpeg?timestamp=1676704372830",
+        "author": "Prem Kumar Ponuthorai and Jon Loeliger",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3353/webstorage_links/17573/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3353/webstorage_links/17572/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3354,
+        "title": "Python for Everyone 3rd Edition",
+        "img": "http://image.banshujiang.cn/3354.jpeg?timestamp=1676704543518",
+        "author": "Cay Horstmann and Rance Necaise",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3354/webstorage_links/17575/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3355,
+        "title": "Python for Kids 2nd Edition",
+        "img": "http://image.banshujiang.cn/3355.jpeg?timestamp=1676704622324",
+        "author": "Jason R. Briggs",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3355/webstorage_links/17577/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3356,
+        "title": "Python Tools for Scientists",
+        "img": "http://image.banshujiang.cn/3356.jpeg?timestamp=1676704822177",
+        "author": "Lee Vaughan",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3356/webstorage_links/17581/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3356/webstorage_links/17580/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3357,
+        "title": "Quick Start Kubernetes 2022 Edition",
+        "img": "http://image.banshujiang.cn/3357.jpeg?timestamp=1676704925149",
+        "author": "Nigel Poulton",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3357/webstorage_links/17584/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3357/webstorage_links/17585/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3358,
+        "title": "SurviveJS - Webpack 5",
+        "img": "http://image.banshujiang.cn/3358.jpeg?timestamp=1676704993449",
+        "author": "Juho Vepsäläinen, Tobias Koppers and Jesús Rodríguez Rodríguez",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3358/webstorage_links/17591/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3358/webstorage_links/17589/to_link"
+            },
+            {
+                "fmt": "CODE",
+                "title": "城通网盘",
+                "link": "/e_books/3358/webstorage_links/17590/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3359,
+        "title": "The Art of Functional Programming",
+        "img": "http://image.banshujiang.cn/3359.jpeg?timestamp=1676705129438",
+        "author": "Minh Quang Tran",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3359/webstorage_links/17593/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3360,
+        "title": "The Kubernetes Book 2022 Edition",
+        "img": "http://image.banshujiang.cn/3360.jpeg?timestamp=1676705194143",
+        "author": "Nigel Poulton",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3360/webstorage_links/17597/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3360/webstorage_links/17596/to_link"
+            }
+        ]
     }
 ]
