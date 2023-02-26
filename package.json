@@ -23,17 +23,17 @@
   },
   "scripts": {
     "lint": "eslint ./src --fix",
-    "spider": "esno ./src/index.ts",
-    "category": "esno ./src/category.ts",
-    "recommendation": "esno ./src/recommendation.ts",
+    "spider": "tsx ./src/index.ts",
+    "category": "tsx ./src/category.ts",
+    "recommendation": "tsx ./src/recommendation.ts",
     "type-check": "bash -c tsc --noEmit",
     "prepare": "husky install",
     "test": "jest --bail --passWithNoTests",
     "test:coverage": "jest --coverage"
   },
   "dependencies": {
-    "esno": "^0.16.3",
-    "node-html-parser": "^6.1.1"
+    "node-html-parser": "^6.1.1",
+    "tsx": "^3.12.3"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^0.27.0",
