@@ -233,6 +233,10 @@
         "label": "年份",
         "tags": [
             {
+                "label": "2023",
+                "url": "/category/publish_year/2023"
+            },
+            {
                 "label": "2022",
                 "url": "/category/publish_year/2022"
             },
