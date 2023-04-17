@@ -61772,5 +61772,299 @@
                 "link": "/e_books/3406/webstorage_links/17799/to_link"
             }
         ]
+    },
+    {
+        "id": 3407,
+        "title": "Mastering CloudForms Automation",
+        "img": "http://image.banshujiang.cn/3407.jpeg?timestamp=1681541718917",
+        "author": "Peter McGowan",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3407/webstorage_links/17804/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3407/webstorage_links/17803/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3407/webstorage_links/17805/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3408,
+        "title": "Network Security Assessment 3rd Edition",
+        "img": "http://image.banshujiang.cn/3408.jpeg?timestamp=1681542370923",
+        "author": "Chris McNab",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3408/webstorage_links/17809/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3408/webstorage_links/17810/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3408/webstorage_links/17811/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3409,
+        "title": "Node.js for Embedded Systems",
+        "img": "http://image.banshujiang.cn/3409.jpeg?timestamp=1681542798788",
+        "author": "Patrick Mulder and Kelsey Breseman",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3409/webstorage_links/17817/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3409/webstorage_links/17815/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3409/webstorage_links/17816/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3410,
+        "title": "OpenShift for Developers",
+        "img": "http://image.banshujiang.cn/3410.jpeg?timestamp=1681542893583",
+        "author": "Grant Shipley and Graham Dumpleton",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3410/webstorage_links/17823/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3410/webstorage_links/17821/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3410/webstorage_links/17822/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3411,
+        "title": "Org Design for Design Orgs",
+        "img": "http://image.banshujiang.cn/3411.jpeg?timestamp=1681543413007",
+        "author": "Peter Merholz and Kristin Skinner",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3411/webstorage_links/17827/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3411/webstorage_links/17826/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3412,
+        "title": "Practical Machine Learning with H2O",
+        "img": "http://image.banshujiang.cn/3412.jpeg?timestamp=1681543530930",
+        "author": "Darren Cook",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3412/webstorage_links/17829/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3413,
+        "title": "Production-Ready Microservices",
+        "img": "http://image.banshujiang.cn/3413.jpeg?timestamp=1681543616204",
+        "author": "Susan J. Fowler",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3413/webstorage_links/17833/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3413/webstorage_links/17832/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3414,
+        "title": "Programmer’s Guide to Drupal 2nd Edition",
+        "img": "http://image.banshujiang.cn/3414.jpeg?timestamp=1681543686713",
+        "author": "Jennifer Hodgdon",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3414/webstorage_links/17835/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3415,
+        "title": "Programming Beyond Practices",
+        "img": "http://image.banshujiang.cn/3415.jpeg?timestamp=1681543739764",
+        "author": "Gregory T. Brown",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3415/webstorage_links/17839/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3415/webstorage_links/17838/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3416,
+        "title": "Programming iOS 10 7th Edition",
+        "img": "http://image.banshujiang.cn/3416.jpeg?timestamp=1681544166216",
+        "author": "Matt Neuburg",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3416/webstorage_links/17842/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3416/webstorage_links/17843/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3417,
+        "title": "Python Data Science Handbook",
+        "img": "http://image.banshujiang.cn/3417.jpeg?timestamp=1681544336051",
+        "author": "Jake VanderPlas",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3417/webstorage_links/17845/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3418,
+        "title": "Python in a Nutshell 3th Edition",
+        "img": "http://image.banshujiang.cn/3418.jpeg?timestamp=1681544794595",
+        "author": "Alex Martelli, Anna Ravenscroft, and Steve Holden",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3418/webstorage_links/17850/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3418/webstorage_links/17849/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/3418/webstorage_links/17851/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3419,
+        "title": "R for Data Science",
+        "img": "http://image.banshujiang.cn/3419.jpeg?timestamp=1681545686424",
+        "author": "Hadley Wickham and Garrett Grolemund",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3419/webstorage_links/17853/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3420,
+        "title": "React: Up &amp; Running",
+        "img": "http://image.banshujiang.cn/3420.jpeg?timestamp=1681546006679",
+        "author": "Stoyan Stefanov",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3420/webstorage_links/17855/to_link"
+            }
+        ]
     }
 ]
