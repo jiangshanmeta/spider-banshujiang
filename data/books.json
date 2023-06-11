@@ -62066,5 +62066,235 @@
                 "link": "/e_books/3420/webstorage_links/17855/to_link"
             }
         ]
+    },
+    {
+        "id": 3421,
+        "title": "Reactive Programming with RxJava",
+        "img": "http://image.banshujiang.cn/3421.jpeg?timestamp=1686456869410",
+        "author": "Tomasz Nurkiewicz and Ben Christensen",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3421/webstorage_links/17860/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3421/webstorage_links/17859/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3421/webstorage_links/17861/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3422,
+        "title": "Slack Hacks Early Release",
+        "img": "http://image.banshujiang.cn/3422.jpeg?timestamp=1686456943961",
+        "author": "John Adams, Guillaume Binet, Benoit Corne, Mike Street, and Aviv Laufer",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3422/webstorage_links/17866/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3422/webstorage_links/17865/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3422/webstorage_links/17867/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3423,
+        "title": "SVG Essentials 2nd Edition",
+        "img": "http://image.banshujiang.cn/3423.jpeg?timestamp=1686457010974",
+        "author": "J. David Eisenberg and Amelia Bellamy-Royds",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3423/webstorage_links/17869/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3424,
+        "title": "Swift Development for the Apple Watch",
+        "img": "http://image.banshujiang.cn/3424.jpeg?timestamp=1686457171825",
+        "author": "Jon Manning and Paris Buttfield-Addison",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3424/webstorage_links/17873/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3424/webstorage_links/17872/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3425,
+        "title": "Terraform: Up and Running Early Release",
+        "img": "http://image.banshujiang.cn/3425.jpeg?timestamp=1686457245496",
+        "author": "Yevgeniy Brikman",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3425/webstorage_links/17877/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3425/webstorage_links/17878/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3425/webstorage_links/17879/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3426,
+        "title": "The Hitchhiker’s Guide to Python",
+        "img": "http://image.banshujiang.cn/3426.jpeg?timestamp=1686457295258",
+        "author": "Kenneth Reitz and Tanya Schlusser",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3426/webstorage_links/17884/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3426/webstorage_links/17883/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3426/webstorage_links/17885/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3427,
+        "title": "Type Inheritance and Relational Theory",
+        "img": "http://image.banshujiang.cn/3427.jpeg?timestamp=1686457353324",
+        "author": "C. J. Date",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3427/webstorage_links/17887/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3428,
+        "title": "Web Content Management",
+        "img": "http://image.banshujiang.cn/3428.jpeg?timestamp=1686457408787",
+        "author": "Deane Barker",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3428/webstorage_links/17891/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3428/webstorage_links/17890/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3429,
+        "title": "Apache Spark for Data Science Cookbook",
+        "img": "http://image.banshujiang.cn/3429.jpeg?timestamp=1686458025091",
+        "author": "Padma Priya Chitturi",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3429/webstorage_links/17896/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3429/webstorage_links/17895/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3429/webstorage_links/17897/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3430,
+        "title": "Building Recommendation Engines",
+        "img": "http://image.banshujiang.cn/3430.jpeg?timestamp=1686458085107",
+        "author": "Suresh Kumar Gorakala",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3430/webstorage_links/17901/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3430/webstorage_links/17902/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3430/webstorage_links/17903/to_link"
+            }
+        ]
     }
 ]
