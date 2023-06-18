@@ -1,0 +1,16 @@
+{
+    "id": 12,
+    "title": "Rails 3 in Action",
+    "img": "https://imagebsj.netlify.app/12.jpeg",
+    "author": "Ryan Bigg,Yehuda Katz",
+    "language": "英文",
+    "publishYear": 2011,
+    "programLanguage": "Ruby",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/12/webstorage_links/13541/to_link"
+        }
+    ]
+}

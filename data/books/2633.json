@@ -1,0 +1,21 @@
+{
+    "id": 2633,
+    "title": "Programming Rust 2nd Edition",
+    "img": "https://imagebsj.netlify.app/2633.jpeg",
+    "author": "Jim Blandy, Jason Orendorff, and Leonora F.S. Tindall",
+    "language": "英文",
+    "publishYear": 2021,
+    "programLanguage": "Rust",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/2633/webstorage_links/9214/to_link"
+        },
+        {
+            "fmt": "EPUB",
+            "title": "城通网盘",
+            "link": "/e_books/2633/webstorage_links/9215/to_link"
+        }
+    ]
+}

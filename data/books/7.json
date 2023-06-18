@@ -1,0 +1,16 @@
+{
+    "id": 7,
+    "title": "Learning Rails 3",
+    "img": "https://imagebsj.netlify.app/7.jpeg",
+    "author": "Simon St.Laurent, Edd Dumbill, and Eric J. Gruber",
+    "language": "英文",
+    "publishYear": 2012,
+    "programLanguage": "Ruby",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/7/webstorage_links/13531/to_link"
+        }
+    ]
+}

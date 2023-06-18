@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1694,
+        "title": "Understanding DB2 2nd Edition",
+        "img": "https://imagebsj.netlify.app/1694.jpeg",
+        "author": "Raul F. Chong, Xiaomei Wang, Michael Dang and Dwaine R. Snow",
+        "language": "英文",
+        "publishYear": 2008,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1694/webstorage_links/12094/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1609,
+        "title": "Beginning DB2: From Novice to Professional",
+        "img": "https://imagebsj.netlify.app/1609.jpeg",
+        "author": "Grant Allen",
+        "language": "英文",
+        "publishYear": 2008,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1609/webstorage_links/11922/to_link"
+            }
+        ]
+    }
+]

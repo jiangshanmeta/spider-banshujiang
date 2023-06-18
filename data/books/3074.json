@@ -1,0 +1,26 @@
+{
+    "id": 3074,
+    "title": "Hello World! 3rd Edition",
+    "img": "https://imagebsj.netlify.app/3074.jpeg",
+    "author": "Warren Sande and Carter Sande",
+    "language": "英文",
+    "publishYear": 2019,
+    "programLanguage": "",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/3074/webstorage_links/16334/to_link"
+        },
+        {
+            "fmt": "EPUB",
+            "title": "城通网盘",
+            "link": "/e_books/3074/webstorage_links/16332/to_link"
+        },
+        {
+            "fmt": "MOBI",
+            "title": "城通网盘",
+            "link": "/e_books/3074/webstorage_links/16333/to_link"
+        }
+    ]
+}

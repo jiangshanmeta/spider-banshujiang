@@ -1,0 +1,16 @@
+{
+    "id": 100,
+    "title": "The Python Standard Library by Example",
+    "img": "https://imagebsj.netlify.app/100.jpeg",
+    "author": "Doug Hellmann",
+    "language": "英文",
+    "publishYear": 2011,
+    "programLanguage": "Python",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/100/webstorage_links/13717/to_link"
+        }
+    ]
+}

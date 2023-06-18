@@ -1,0 +1,26 @@
+{
+    "id": 2529,
+    "title": "Learn Python Visually",
+    "img": "https://imagebsj.netlify.app/2529.jpeg",
+    "author": "Tristan Bunn",
+    "language": "英文",
+    "publishYear": 2021,
+    "programLanguage": "Python",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/2529/webstorage_links/8779/to_link"
+        },
+        {
+            "fmt": "EPUB",
+            "title": "城通网盘",
+            "link": "/e_books/2529/webstorage_links/8781/to_link"
+        },
+        {
+            "fmt": "MOBI",
+            "title": "城通网盘",
+            "link": "/e_books/2529/webstorage_links/8780/to_link"
+        }
+    ]
+}

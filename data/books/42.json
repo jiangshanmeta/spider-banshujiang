@@ -1,0 +1,16 @@
+{
+    "id": 42,
+    "title": "Beginning Object-Oriented Programming with C#",
+    "img": "https://imagebsj.netlify.app/42.jpeg",
+    "author": "Jack Purdum",
+    "language": "英文",
+    "publishYear": 2012,
+    "programLanguage": "C#",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/42/webstorage_links/13601/to_link"
+        }
+    ]
+}

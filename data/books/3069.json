@@ -1,0 +1,26 @@
+{
+    "id": 3069,
+    "title": "Deep Learning with JavaScript",
+    "img": "https://imagebsj.netlify.app/3069.jpeg",
+    "author": "Shanqing Cai",
+    "language": "英文",
+    "publishYear": 2020,
+    "programLanguage": "JavaScript",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/3069/webstorage_links/16301/to_link"
+        },
+        {
+            "fmt": "EPUB",
+            "title": "城通网盘",
+            "link": "/e_books/3069/webstorage_links/16300/to_link"
+        },
+        {
+            "fmt": "MOBI",
+            "title": "城通网盘",
+            "link": "/e_books/3069/webstorage_links/16302/to_link"
+        }
+    ]
+}

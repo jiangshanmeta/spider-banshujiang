@@ -1,0 +1,21 @@
+{
+    "id": 3009,
+    "title": "Let’s Go 2nd Edition",
+    "img": "https://imagebsj.netlify.app/3009.jpeg",
+    "author": "Alex Edwards",
+    "language": "英文",
+    "publishYear": 2022,
+    "programLanguage": "Go",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/3009/webstorage_links/16072/to_link"
+        },
+        {
+            "fmt": "EPUB",
+            "title": "城通网盘",
+            "link": "/e_books/3009/webstorage_links/16073/to_link"
+        }
+    ]
+}

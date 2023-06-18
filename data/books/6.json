@@ -1,0 +1,16 @@
+{
+    "id": 6,
+    "title": "jQuery in Action",
+    "img": "https://imagebsj.netlify.app/6.jpeg",
+    "author": "Bear Bibeault and Yehuda Katz",
+    "language": "英文",
+    "publishYear": 2008,
+    "programLanguage": "JavaScript",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/6/webstorage_links/13529/to_link"
+        }
+    ]
+}

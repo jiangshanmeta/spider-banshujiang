@@ -1,0 +1,21 @@
+{
+    "id": 2202,
+    "title": "Fullstack Vue",
+    "img": "https://imagebsj.netlify.app/2202.jpeg",
+    "author": "Hassan Djirdeh, Nate Murray, and Ari Lerner",
+    "language": "英文",
+    "publishYear": 2018,
+    "programLanguage": "JavaScript",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/2202/webstorage_links/15540/to_link"
+        },
+        {
+            "fmt": "EPUB",
+            "title": "城通网盘",
+            "link": "/e_books/2202/webstorage_links/15539/to_link"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "id": 3080,
+    "title": "Seriously Good Software",
+    "img": "https://imagebsj.netlify.app/3080.jpeg",
+    "author": "Marco Faella",
+    "language": "英文",
+    "publishYear": 2020,
+    "programLanguage": "",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/3080/webstorage_links/16372/to_link"
+        },
+        {
+            "fmt": "EPUB",
+            "title": "城通网盘",
+            "link": "/e_books/3080/webstorage_links/16370/to_link"
+        },
+        {
+            "fmt": "MOBI",
+            "title": "城通网盘",
+            "link": "/e_books/3080/webstorage_links/16371/to_link"
+        }
+    ]
+}

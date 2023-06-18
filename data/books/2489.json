@@ -1,0 +1,26 @@
+{
+    "id": 2489,
+    "title": "Tango With Django 2",
+    "img": "https://imagebsj.netlify.app/2489.jpeg",
+    "author": "Leif Azzopardi and David Maxwell",
+    "language": "英文",
+    "publishYear": 2020,
+    "programLanguage": "Python",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/2489/webstorage_links/16026/to_link"
+        },
+        {
+            "fmt": "EPUB",
+            "title": "城通网盘",
+            "link": "/e_books/2489/webstorage_links/16024/to_link"
+        },
+        {
+            "fmt": "MOBI",
+            "title": "城通网盘",
+            "link": "/e_books/2489/webstorage_links/16025/to_link"
+        }
+    ]
+}

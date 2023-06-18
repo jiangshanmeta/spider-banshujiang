@@ -1,0 +1,26 @@
+{
+    "id": 2998,
+    "title": "The PowerShell Scripting and Toolmaking Book",
+    "img": "https://imagebsj.netlify.app/2998.jpeg",
+    "author": "Don Jones and Jeff Hicks",
+    "language": "英文",
+    "publishYear": 2022,
+    "programLanguage": "PowerShell",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/2998/webstorage_links/11075/to_link"
+        },
+        {
+            "fmt": "EPUB",
+            "title": "城通网盘",
+            "link": "/e_books/2998/webstorage_links/11073/to_link"
+        },
+        {
+            "fmt": "MOBI",
+            "title": "城通网盘",
+            "link": "/e_books/2998/webstorage_links/11074/to_link"
+        }
+    ]
+}

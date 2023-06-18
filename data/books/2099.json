@@ -1,0 +1,21 @@
+{
+    "id": 2099,
+    "title": "Building RESTful Web Services with Go",
+    "img": "https://imagebsj.netlify.app/2099.jpeg",
+    "author": "Naren Yellavula",
+    "language": "英文",
+    "publishYear": 2017,
+    "programLanguage": "Go",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/2099/webstorage_links/11410/to_link"
+        },
+        {
+            "fmt": "EPUB",
+            "title": "城通网盘",
+            "link": "/e_books/2099/webstorage_links/11409/to_link"
+        }
+    ]
+}

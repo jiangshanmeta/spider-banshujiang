@@ -1,0 +1,26 @@
+{
+    "id": 2519,
+    "title": "Hello Web Design",
+    "img": "https://imagebsj.netlify.app/2519.jpeg",
+    "author": "Tracy Osborn",
+    "language": "英文",
+    "publishYear": 2021,
+    "programLanguage": "",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/2519/webstorage_links/8788/to_link"
+        },
+        {
+            "fmt": "EPUB",
+            "title": "城通网盘",
+            "link": "/e_books/2519/webstorage_links/8790/to_link"
+        },
+        {
+            "fmt": "MOBI",
+            "title": "城通网盘",
+            "link": "/e_books/2519/webstorage_links/8789/to_link"
+        }
+    ]
+}

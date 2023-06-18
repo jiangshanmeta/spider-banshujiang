@@ -1,0 +1,21 @@
+{
+    "id": 2311,
+    "title": "Serious Python",
+    "img": "https://imagebsj.netlify.app/2311.jpeg",
+    "author": "Julien Danjou",
+    "language": "英文",
+    "publishYear": 2018,
+    "programLanguage": "Python",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/2311/webstorage_links/15716/to_link"
+        },
+        {
+            "fmt": "EPUB",
+            "title": "城通网盘",
+            "link": "/e_books/2311/webstorage_links/15715/to_link"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "id": 2338,
+    "title": "Learning React 2nd Edition",
+    "img": "https://imagebsj.netlify.app/2338.jpeg",
+    "author": "Kirupa Chinnathambi",
+    "language": "英文",
+    "publishYear": 2018,
+    "programLanguage": "JavaScript",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/2338/webstorage_links/15763/to_link"
+        },
+        {
+            "fmt": "EPUB",
+            "title": "城通网盘",
+            "link": "/e_books/2338/webstorage_links/15764/to_link"
+        },
+        {
+            "fmt": "AZW3",
+            "title": "城通网盘",
+            "link": "/e_books/2338/webstorage_links/15762/to_link"
+        }
+    ]
+}

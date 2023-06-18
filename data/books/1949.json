@@ -1,0 +1,26 @@
+{
+    "id": 1949,
+    "title": "Web Development with Node and Express",
+    "img": "https://imagebsj.netlify.app/1949.jpeg",
+    "author": "Ethan Brown",
+    "language": "英文",
+    "publishYear": 2014,
+    "programLanguage": "JavaScript",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/1949/webstorage_links/11552/to_link"
+        },
+        {
+            "fmt": "EPUB",
+            "title": "城通网盘",
+            "link": "/e_books/1949/webstorage_links/11550/to_link"
+        },
+        {
+            "fmt": "MOBI",
+            "title": "城通网盘",
+            "link": "/e_books/1949/webstorage_links/11551/to_link"
+        }
+    ]
+}

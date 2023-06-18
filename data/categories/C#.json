@@ -1,0 +1,1659 @@
+[
+    {
+        "id": 3435,
+        "title": "Functional C#",
+        "img": "http://image.banshujiang.cn/3435.jpeg?timestamp=1686967838255",
+        "author": "Wisnu Anggoro",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3435/webstorage_links/17930/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3435/webstorage_links/17931/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3222,
+        "title": "Unity Games by Tutorials",
+        "img": "http://image.banshujiang.cn/3222.jpeg?timestamp=1674647568778",
+        "author": "Mike Berg, Sean Duffy, Brian Moakley, Eric Van de Kerckhove, and Anthony Uccello",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3222/webstorage_links/17021/to_link"
+            },
+            {
+                "fmt": "CODE",
+                "title": "城通网盘",
+                "link": "/e_books/3222/webstorage_links/17022/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3213,
+        "title": "Programming C# 8.0",
+        "img": "http://image.banshujiang.cn/3213.jpeg?timestamp=1674645933631",
+        "author": "Ian Griffiths",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3213/webstorage_links/16986/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3213/webstorage_links/16985/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3177,
+        "title": "C# 7.0 Pocket Reference",
+        "img": "http://image.banshujiang.cn/3177.jpeg?timestamp=1672467578458",
+        "author": "Joseph Albahari and Ben Albahari",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3177/webstorage_links/16815/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/3177/webstorage_links/16816/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3113,
+        "title": "Developing on AWS with C#",
+        "img": "https://imagebsj.netlify.app/3113.jpeg",
+        "author": "Noah Gift and James Charlesworth",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3113/webstorage_links/16515/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3113/webstorage_links/16516/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3033,
+        "title": "C# 8.0 in a Nutshell",
+        "img": "https://imagebsj.netlify.app/3033.jpeg",
+        "author": "Joseph Albahari and Eric Johannsen",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3033/webstorage_links/16161/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3033/webstorage_links/16160/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2980,
+        "title": "Programming C# 10",
+        "img": "https://imagebsj.netlify.app/2980.jpeg",
+        "author": "Ian Griffiths",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2980/webstorage_links/10996/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/2980/webstorage_links/10997/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2849,
+        "title": "C# 10 Pocket Reference",
+        "img": "https://imagebsj.netlify.app/2849.jpeg",
+        "author": "Joseph Albahari and Ben Albahari",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2849/webstorage_links/10441/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2848,
+        "title": "C# 10 in a Nutshell",
+        "img": "https://imagebsj.netlify.app/2848.jpeg",
+        "author": "Joseph Albahari",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2848/webstorage_links/10439/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2848/webstorage_links/10438/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2839,
+        "title": "Unity in Action 3rd Edition",
+        "img": "https://imagebsj.netlify.app/2839.jpeg",
+        "author": "Joseph Hocking",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2839/webstorage_links/10397/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2839/webstorage_links/10399/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/2839/webstorage_links/10398/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2789,
+        "title": "Professional C# and .NET",
+        "img": "https://imagebsj.netlify.app/2789.jpeg",
+        "author": "Christian Nagel",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2789/webstorage_links/10147/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2789/webstorage_links/10146/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2752,
+        "title": "C# Cookbook",
+        "img": "https://imagebsj.netlify.app/2752.jpeg",
+        "author": "Joe Mayo",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2752/webstorage_links/9995/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2752/webstorage_links/9994/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2751,
+        "title": "C# 9.0 Pocket Reference",
+        "img": "https://imagebsj.netlify.app/2751.jpeg",
+        "author": "Joseph Albahari and Ben Albahari",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2751/webstorage_links/9991/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2751/webstorage_links/9990/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2733,
+        "title": "Microservices in .NET 2nd Edition",
+        "img": "https://imagebsj.netlify.app/2733.jpeg",
+        "author": "Christian Horsdal Gammelgaard",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2733/webstorage_links/9909/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2733/webstorage_links/9910/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/2733/webstorage_links/9911/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2656,
+        "title": "Code Like a Pro in C#",
+        "img": "https://imagebsj.netlify.app/2656.jpeg",
+        "author": "Jort Rodenburg",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2656/webstorage_links/9441/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2656/webstorage_links/9442/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2565,
+        "title": "C# 9.0 in a Nutshell",
+        "img": "https://imagebsj.netlify.app/2565.jpeg",
+        "author": "Joseph Albahari",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2565/webstorage_links/8942/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2515,
+        "title": "Essential C# 8.0",
+        "img": "https://imagebsj.netlify.app/2515.jpeg",
+        "author": "Mark Michaelis",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2515/webstorage_links/8725/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2515/webstorage_links/8727/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/2515/webstorage_links/8726/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2451,
+        "title": "Head First C# 4th Edition",
+        "img": "https://imagebsj.netlify.app/2451.jpeg",
+        "author": "Andrew Stellman and Jennifer Greene",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2451/webstorage_links/15966/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2417,
+        "title": "Gray Hat C#",
+        "img": "https://imagebsj.netlify.app/2417.jpeg",
+        "author": "Brandon Perry",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2417/webstorage_links/15900/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2417/webstorage_links/15899/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/2417/webstorage_links/15898/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2398,
+        "title": "C# 8.0 Pocket Reference",
+        "img": "https://imagebsj.netlify.app/2398.jpeg",
+        "author": "Joseph Albahari and Ben Albahari",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2398/webstorage_links/15860/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2240,
+        "title": "C# in Depth 4th Edition",
+        "img": "https://imagebsj.netlify.app/2240.jpeg",
+        "author": "Jon Skeet",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2240/webstorage_links/15605/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2167,
+        "title": "Professional C# 7 and .net Core 2.0",
+        "img": "https://imagebsj.netlify.app/2167.jpeg",
+        "author": "Christian Nagel",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2167/webstorage_links/7614/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2167/webstorage_links/9370/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2145,
+        "title": "Functional Programming in CSharp",
+        "img": "https://imagebsj.netlify.app/2145.jpeg",
+        "author": "Enrico Buonanno",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2145/webstorage_links/9389/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2142,
+        "title": "Concurrency in .NET",
+        "img": "https://imagebsj.netlify.app/2142.jpeg",
+        "author": "Riccardo Terrell",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2142/webstorage_links/9392/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2141,
+        "title": "ASP.NET Core in Action",
+        "img": "https://imagebsj.netlify.app/2141.jpeg",
+        "author": "Andrew Lock",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2141/webstorage_links/9393/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2097,
+        "title": "Rx.NET in Action",
+        "img": "https://imagebsj.netlify.app/2097.jpeg",
+        "author": "Tamir Dresher",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2097/webstorage_links/11404/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2049,
+        "title": "Software Testing using Visual Studio 2012",
+        "img": "https://imagebsj.netlify.app/2049.jpeg",
+        "author": "Satheesh Kumar N and Subashni S",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2049/webstorage_links/11232/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1999,
+        "title": "TCP/IP Sockets in C#",
+        "img": "https://imagebsj.netlify.app/1999.jpeg",
+        "author": "David B. Makofske, Michael J. Donahoo and Kenneth L. Calvert",
+        "language": "英文",
+        "publishYear": 2004,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1999/webstorage_links/11652/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1964,
+        "title": "Under the Hood of .NET Memory Management",
+        "img": "https://imagebsj.netlify.app/1964.jpeg",
+        "author": "Chris Farrell and Nick Harrison",
+        "language": "英文",
+        "publishYear": 2011,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1964/webstorage_links/11582/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1953,
+        "title": "Visual Studio 2013 Cookbook",
+        "img": "https://imagebsj.netlify.app/1953.jpeg",
+        "author": "Jeff Martin and Richard Banks",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1953/webstorage_links/11560/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1936,
+        "title": "SamsTeachYourself Visual C Sharp 2008 Complete Starter Kit in 24 Hours",
+        "img": "https://imagebsj.netlify.app/1936.jpeg",
+        "author": "James Foxall",
+        "language": "英文",
+        "publishYear": 2008,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1936/webstorage_links/11510/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1850,
+        "title": "Pro Silverlight 2 in C# 2008",
+        "img": "https://imagebsj.netlify.app/1850.jpeg",
+        "author": "Matthew MacDonald",
+        "language": "英文",
+        "publishYear": 2008,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1850/webstorage_links/11786/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1844,
+        "title": "Pro LINQ Object Relational Mapping with C# 2008",
+        "img": "https://imagebsj.netlify.app/1844.jpeg",
+        "author": "Vijay P. Mehta",
+        "language": "英文",
+        "publishYear": 2008,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1844/webstorage_links/11774/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1843,
+        "title": "Pro LINQ: Language Integrated Query in C# 2008",
+        "img": "https://imagebsj.netlify.app/1843.jpeg",
+        "author": "Joseph C. Rattz, Jr.",
+        "language": "英文",
+        "publishYear": 2007,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1843/webstorage_links/11772/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1840,
+        "title": "Pro ASP.NET MVC 5 Platform",
+        "img": "https://imagebsj.netlify.app/1840.jpeg",
+        "author": "Adam Freeman",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1840/webstorage_links/11766/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1836,
+        "title": "Pro ASP.NET 3.5 in C# 2008 2nd Edition",
+        "img": "https://imagebsj.netlify.app/1836.jpeg",
+        "author": "Matthew MacDonald and Mario Szpuszta",
+        "language": "英文",
+        "publishYear": 2007,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1836/webstorage_links/11754/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1824,
+        "title": "Practical C# Charts and Graphics",
+        "img": "https://imagebsj.netlify.app/1824.jpeg",
+        "author": "Jack Xu, Ph.D",
+        "language": "英文",
+        "publishYear": 2007,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1824/webstorage_links/11722/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1787,
+        "title": "Multithreading in C# 5.0 Cookbook",
+        "img": "https://imagebsj.netlify.app/1787.jpeg",
+        "author": "Eugene Agafonov",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1787/webstorage_links/12286/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1782,
+        "title": "Mobile ASP.NET MVC 5",
+        "img": "https://imagebsj.netlify.app/1782.jpeg",
+        "author": "Eric Sowell",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1782/webstorage_links/12276/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1753,
+        "title": "LINQ for Dummies",
+        "img": "https://imagebsj.netlify.app/1753.jpeg",
+        "author": "John Paul Mueller",
+        "language": "英文",
+        "publishYear": 2008,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1753/webstorage_links/12214/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1751,
+        "title": "Learning ASP.NET 2.0 with AJAX",
+        "img": "https://imagebsj.netlify.app/1751.jpeg",
+        "author": "Jesse Liberty, Dan Hurwitz and BrianMacDonald",
+        "language": "英文",
+        "publishYear": 2007,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1751/webstorage_links/12210/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1720,
+        "title": "Professional Visual Studio 2013",
+        "img": "https://imagebsj.netlify.app/1720.jpeg",
+        "author": "Bruce Johnson",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1720/webstorage_links/12146/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1713,
+        "title": "C# 3.0: A Beginner&#39;s Guide",
+        "img": "https://imagebsj.netlify.app/1713.jpeg",
+        "author": "Herbert Schildt",
+        "language": "英文",
+        "publishYear": 2008,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1713/webstorage_links/12132/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1710,
+        "title": "ASP.NET AJAX in Action",
+        "img": "https://imagebsj.netlify.app/1710.jpeg",
+        "author": "Alessandro Gallo, David Barkol and Rama Krishna Vavilala",
+        "language": "英文",
+        "publishYear": 2007,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1710/webstorage_links/12126/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1709,
+        "title": "ASP.NET 3.5 A Beginner’s Guide",
+        "img": "https://imagebsj.netlify.app/1709.jpeg",
+        "author": "William B. Sanders",
+        "language": "英文",
+        "publishYear": 2008,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1709/webstorage_links/12124/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1685,
+        "title": "LINQ in Action",
+        "img": "https://imagebsj.netlify.app/1685.jpeg",
+        "author": "Fabrice Marguerie, Steve Eichert and Jim Wooley",
+        "language": "英文",
+        "publishYear": 2008,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1685/webstorage_links/12076/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1676,
+        "title": "Learn C#: Includes the C# 3.0 Features",
+        "img": "https://imagebsj.netlify.app/1676.jpeg",
+        "author": "Sam A. Abolrous",
+        "language": "英文",
+        "publishYear": 2007,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1676/webstorage_links/12058/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1656,
+        "title": "The C# Programming Language 4th Edition",
+        "img": "https://imagebsj.netlify.app/1656.jpeg",
+        "author": "Anders Hejlsberg, Mads Torgersen, Scott Wiltamuth and Peter Golde",
+        "language": "英文",
+        "publishYear": 2011,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1656/webstorage_links/12016/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1630,
+        "title": "C# in Depth",
+        "img": "https://imagebsj.netlify.app/1630.jpeg",
+        "author": "Jon Skeet",
+        "language": "英文",
+        "publishYear": 2008,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1630/webstorage_links/11964/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1629,
+        "title": "C# 3.0 With the .NET Framework 3.5 UNLEASHED 2nd Edition",
+        "img": "https://imagebsj.netlify.app/1629.jpeg",
+        "author": "Joe Mayo",
+        "language": "英文",
+        "publishYear": 2008,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1629/webstorage_links/11962/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1625,
+        "title": "Building a Web 2.0 Portal with ASP.NET 3.5",
+        "img": "https://imagebsj.netlify.app/1625.jpeg",
+        "author": "Omar AL Zabir",
+        "language": "英文",
+        "publishYear": 2008,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1625/webstorage_links/11954/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1616,
+        "title": "Beginning Web Development, Silverlight, and ASP.NET AJAX",
+        "img": "https://imagebsj.netlify.app/1616.jpeg",
+        "author": "Laurence Moroney",
+        "language": "英文",
+        "publishYear": 2008,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1616/webstorage_links/11936/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1608,
+        "title": "Beginning C# 2008 Objects From Concept to Code",
+        "img": "https://imagebsj.netlify.app/1608.jpeg",
+        "author": "Grant Palmer and Jacquie Barker",
+        "language": "英文",
+        "publishYear": 2008,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1608/webstorage_links/11920/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1607,
+        "title": "Beginning ASP.NET 4.5.1 in C# and VB",
+        "img": "https://imagebsj.netlify.app/1607.jpeg",
+        "author": "Imar Spaanjaars",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1607/webstorage_links/11918/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1606,
+        "title": "Beginning ASP.NET 4 in C# 2010",
+        "img": "https://imagebsj.netlify.app/1606.jpeg",
+        "author": "Matthew MacDonald",
+        "language": "英文",
+        "publishYear": 2010,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1606/webstorage_links/11916/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1603,
+        "title": "领域驱动设计: C# 2008实现",
+        "img": "https://imagebsj.netlify.app/1603.jpeg",
+        "author": "Tim McCarthy 著 UMLChina 译",
+        "language": "中文",
+        "publishYear": 2010,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1603/webstorage_links/11910/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1597,
+        "title": "Illustrated C# 2008",
+        "img": "https://imagebsj.netlify.app/1597.jpeg",
+        "author": "Daniel Solis",
+        "language": "英文",
+        "publishYear": 2008,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1597/webstorage_links/12510/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1564,
+        "title": "Essential C# 3.0: For .NET Framework 3.5",
+        "img": "https://imagebsj.netlify.app/1564.jpeg",
+        "author": "Mark Michaelis",
+        "language": "英文",
+        "publishYear": 2008,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1564/webstorage_links/12444/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1551,
+        "title": "Designing Evolvable Web APIs with ASP.NET",
+        "img": "https://imagebsj.netlify.app/1551.jpeg",
+        "author": "Glenn Block, Pablo Cibraro, Pedro Felix, Howard Dierking and Darrel Miller",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1551/webstorage_links/12418/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1540,
+        "title": "Concurrency in C# Cookbook",
+        "img": "https://imagebsj.netlify.app/1540.jpeg",
+        "author": "Stephen Cleary",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1540/webstorage_links/12396/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1533,
+        "title": "ASP.NET Web API 2 2nd Edition",
+        "img": "https://imagebsj.netlify.app/1533.jpeg",
+        "author": "Jamie Kurtz and Brian Wortman",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1533/webstorage_links/12382/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1532,
+        "title": "Pro ASP.NET MVC5 5th Edition",
+        "img": "https://imagebsj.netlify.app/1532.jpeg",
+        "author": "Adam Freeman",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1532/webstorage_links/12380/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1456,
+        "title": "ASP.NET Web API 2 Recipes",
+        "img": "https://imagebsj.netlify.app/1456.jpeg",
+        "author": "Filip Wojcieszyn",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1456/webstorage_links/13416/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1355,
+        "title": "LINQ Unleashed for C#",
+        "img": "https://imagebsj.netlify.app/1355.jpeg",
+        "author": "Paul Kimmel",
+        "language": "英文",
+        "publishYear": 2008,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1355/webstorage_links/13218/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1278,
+        "title": "C# .NET Web Developer’s Guide",
+        "img": "https://imagebsj.netlify.app/1278.jpeg",
+        "author": "Adrian Turtschi",
+        "language": "英文",
+        "publishYear": 2002,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1278/webstorage_links/13066/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1277,
+        "title": "C# Windows 编程",
+        "img": "https://imagebsj.netlify.app/1277.jpeg",
+        "author": "Chris H. Pappas and William H. Murray 著 李海龙 英宇 译",
+        "language": "中文",
+        "publishYear": 2002,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1277/webstorage_links/13064/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1149,
+        "title": "Pro WF 4.5 in C# 4th Edition",
+        "img": "https://imagebsj.netlify.app/1149.jpeg",
+        "author": "Matthew MacDonald",
+        "language": "英文",
+        "publishYear": 2012,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1149/webstorage_links/12812/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1124,
+        "title": "Microsoft Visual C# 2012 Step by Step",
+        "img": "https://imagebsj.netlify.app/1124.jpeg",
+        "author": "John Sharp",
+        "language": "英文",
+        "publishYear": 2012,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1124/webstorage_links/12762/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1117,
+        "title": "Illstrated C# 2012 4th Edition",
+        "img": "https://imagebsj.netlify.app/1117.jpeg",
+        "author": "Daniel Solis",
+        "language": "英文",
+        "publishYear": 2012,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1117/webstorage_links/12748/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1115,
+        "title": "ASP.NET 基础教程 C# 案例版",
+        "img": "https://imagebsj.netlify.app/1115.jpeg",
+        "author": "Fritz Onion 著 施诺 译",
+        "language": "中文",
+        "publishYear": 2003,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1115/webstorage_links/12744/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1109,
+        "title": "Pro C# 5.0 and the .NET 4.5 Framework 6th Edition",
+        "img": "https://imagebsj.netlify.app/1109.jpeg",
+        "author": "Andrew Troelsen",
+        "language": "英文",
+        "publishYear": 2012,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1109/webstorage_links/12732/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1098,
+        "title": "Expert C# 5.0: with the .NET 4.5 Framework",
+        "img": "https://imagebsj.netlify.app/1098.jpeg",
+        "author": "Mohammad Rahman",
+        "language": "英文",
+        "publishYear": 2012,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1098/webstorage_links/12710/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1094,
+        "title": "C# 4.0图解教程",
+        "img": "https://imagebsj.netlify.app/1094.jpeg",
+        "author": "Daniel M. Solis",
+        "language": "中文",
+        "publishYear": 2011,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1094/webstorage_links/12702/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1089,
+        "title": "Pro ASP.NET MVC 4 4th Edition",
+        "img": "https://imagebsj.netlify.app/1089.jpeg",
+        "author": "Adam Freeman",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1089/webstorage_links/13506/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1040,
+        "title": "Professional Windows 8 Programming: Application Development with C# and XAML",
+        "img": "https://imagebsj.netlify.app/1040.jpeg",
+        "author": "Nick Lecrenski, Doug Holland, Allen Sanders and Kevin Ashley",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1040/webstorage_links/12596/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1010,
+        "title": "Beginning Visual C# 2012 Programming",
+        "img": "https://imagebsj.netlify.app/1010.jpeg",
+        "author": "Karli Watson, Jacob Vibe Hammer, John D. Reid, Morgan Skinner, Daniel Kemper and Christian Nagel",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1010/webstorage_links/12536/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1004,
+        "title": "Professional C# 2012 and .NET 4.5",
+        "img": "https://imagebsj.netlify.app/1004.jpeg",
+        "author": "Christian Nagel, Bill Evjen, Jay Glynn, Karli Watson and Morgan Skinner",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1004/webstorage_links/12524/to_link"
+            }
+        ]
+    },
+    {
+        "id": 992,
+        "title": "ASP.NET 3.5 Enterprise Application Development with Visual Studio2008",
+        "img": "https://imagebsj.netlify.app/992.jpeg",
+        "author": "Vince Varallo",
+        "language": "英文",
+        "publishYear": 2008,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/992/webstorage_links/15498/to_link"
+            }
+        ]
+    },
+    {
+        "id": 975,
+        "title": "Visual C# 2010: How to Program 4th Edition",
+        "img": "https://imagebsj.netlify.app/975.jpeg",
+        "author": "Paul Deitel and Harvey Deitel",
+        "language": "英文",
+        "publishYear": 2010,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/975/webstorage_links/15464/to_link"
+            }
+        ]
+    },
+    {
+        "id": 974,
+        "title": "Illustrated C# 2012",
+        "img": "https://imagebsj.netlify.app/974.jpeg",
+        "author": "Daniel Solis",
+        "language": "英文",
+        "publishYear": 2012,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/974/webstorage_links/15462/to_link"
+            }
+        ]
+    },
+    {
+        "id": 899,
+        "title": "Unity 3.x Game Development Essentials",
+        "img": "https://imagebsj.netlify.app/899.jpeg",
+        "author": "Will Goldstone",
+        "language": "英文",
+        "publishYear": 2011,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/899/webstorage_links/15312/to_link"
+            }
+        ]
+    },
+    {
+        "id": 831,
+        "title": "iOS Development Using MonoTouch Cookbook",
+        "img": "https://imagebsj.netlify.app/831.jpeg",
+        "author": "Dimitris Tavlikos",
+        "language": "英文",
+        "publishYear": 2011,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/831/webstorage_links/15176/to_link"
+            }
+        ]
+    },
+    {
+        "id": 750,
+        "title": "Programming Windows 6th Edition",
+        "img": "https://imagebsj.netlify.app/750.jpeg",
+        "author": "Charles Petzold",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/750/webstorage_links/15010/to_link"
+            }
+        ]
+    },
+    {
+        "id": 608,
+        "title": "C# 4.0 Pocket Reference 3rd Edition",
+        "img": "https://imagebsj.netlify.app/608.jpeg",
+        "author": "Joseph Albahari and Ben Albahari",
+        "language": "英文",
+        "publishYear": 2010,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/608/webstorage_links/14732/to_link"
+            }
+        ]
+    },
+    {
+        "id": 607,
+        "title": "Programming C# 4.0 6th Edition",
+        "img": "https://imagebsj.netlify.app/607.jpeg",
+        "author": "Ian Griffiths, Matthew Adams, and Jesse Liberty",
+        "language": "英文",
+        "publishYear": 2010,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/607/webstorage_links/14730/to_link"
+            }
+        ]
+    },
+    {
+        "id": 606,
+        "title": "C# 3.0 Design Patterns",
+        "img": "https://imagebsj.netlify.app/606.jpeg",
+        "author": "Judith Bishop",
+        "language": "英文",
+        "publishYear": 2007,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/606/webstorage_links/14728/to_link"
+            }
+        ]
+    },
+    {
+        "id": 489,
+        "title": "Head First C# 2nd Edition",
+        "img": "https://imagebsj.netlify.app/489.jpeg",
+        "author": "Andrew Stellman and Jennifer Greene",
+        "language": "英文",
+        "publishYear": 2010,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/489/webstorage_links/14494/to_link"
+            }
+        ]
+    },
+    {
+        "id": 458,
+        "title": "C# Database Basics",
+        "img": "https://imagebsj.netlify.app/458.jpeg",
+        "author": "Michael Schmalz",
+        "language": "英文",
+        "publishYear": 2012,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/458/webstorage_links/14432/to_link"
+            }
+        ]
+    },
+    {
+        "id": 457,
+        "title": "C# 4.0 in a Nutshell 4th Edition",
+        "img": "https://imagebsj.netlify.app/457.jpeg",
+        "author": "Joseph Albahari and Ben Albahari",
+        "language": "英文",
+        "publishYear": 2010,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/457/webstorage_links/14430/to_link"
+            }
+        ]
+    },
+    {
+        "id": 417,
+        "title": "Mobile Development with C#",
+        "img": "https://imagebsj.netlify.app/417.jpeg",
+        "author": "Greg Shackles",
+        "language": "英文",
+        "publishYear": 2012,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/417/webstorage_links/14350/to_link"
+            }
+        ]
+    },
+    {
+        "id": 318,
+        "title": "C# 5.0 Pocket Reference",
+        "img": "https://imagebsj.netlify.app/318.jpeg",
+        "author": "Joseph Albahari and Ben Albahari",
+        "language": "英文",
+        "publishYear": 2012,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/318/webstorage_links/14153/to_link"
+            }
+        ]
+    },
+    {
+        "id": 105,
+        "title": "Programming C# 5.0",
+        "img": "https://imagebsj.netlify.app/105.jpeg",
+        "author": "Ian Griffiths",
+        "language": "英文",
+        "publishYear": 2012,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/105/webstorage_links/13727/to_link"
+            }
+        ]
+    },
+    {
+        "id": 95,
+        "title": "Async in C# 5.0",
+        "img": "https://imagebsj.netlify.app/95.jpeg",
+        "author": "Alex Davies",
+        "language": "英文",
+        "publishYear": 2012,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/95/webstorage_links/13707/to_link"
+            }
+        ]
+    },
+    {
+        "id": 93,
+        "title": "C# 5.0 in a Nutshell 5th Edition",
+        "img": "https://imagebsj.netlify.app/93.jpeg",
+        "author": "Joseph Albahari and Ben Albahari",
+        "language": "英文",
+        "publishYear": 2012,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/93/webstorage_links/13703/to_link"
+            }
+        ]
+    },
+    {
+        "id": 84,
+        "title": "C# in Depth 2nd Edition",
+        "img": "https://imagebsj.netlify.app/84.jpeg",
+        "author": "Jon Skeet",
+        "language": "英文",
+        "publishYear": 2010,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/84/webstorage_links/13685/to_link"
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "title": "C#入门经典(第5版)",
+        "img": "https://imagebsj.netlify.app/44.jpeg",
+        "author": "Karli Watson and Christian Nagel",
+        "language": "中文",
+        "publishYear": 2010,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/44/webstorage_links/13605/to_link"
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "title": "Beginning Object-Oriented Programming with C#",
+        "img": "https://imagebsj.netlify.app/42.jpeg",
+        "author": "Jack Purdum",
+        "language": "英文",
+        "publishYear": 2012,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/42/webstorage_links/13601/to_link"
+            }
+        ]
+    }
+]

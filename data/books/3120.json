@@ -1,0 +1,26 @@
+{
+    "id": 3120,
+    "title": "iOS Apprentice 8th Edition",
+    "img": "https://imagebsj.netlify.app/3120.jpeg",
+    "author": "Joey deVilla, Eli Ganim &amp; Matthijs Hollemans",
+    "language": "英文",
+    "publishYear": 2019,
+    "programLanguage": "Swift",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/3120/webstorage_links/16546/to_link"
+        },
+        {
+            "fmt": "EPUB",
+            "title": "城通网盘",
+            "link": "/e_books/3120/webstorage_links/16547/to_link"
+        },
+        {
+            "fmt": "CODE",
+            "title": "城通网盘",
+            "link": "/e_books/3120/webstorage_links/16548/to_link"
+        }
+    ]
+}

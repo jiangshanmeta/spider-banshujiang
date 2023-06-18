@@ -1,0 +1,3385 @@
+[
+    {
+        "id": 3426,
+        "title": "The Hitchhiker’s Guide to Python",
+        "img": "http://image.banshujiang.cn/3426.jpeg?timestamp=1686457295258",
+        "author": "Kenneth Reitz and Tanya Schlusser",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3426/webstorage_links/17884/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3426/webstorage_links/17883/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3426/webstorage_links/17885/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3418,
+        "title": "Python in a Nutshell 3th Edition",
+        "img": "http://image.banshujiang.cn/3418.jpeg?timestamp=1681544794595",
+        "author": "Alex Martelli, Anna Ravenscroft, and Steve Holden",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3418/webstorage_links/17850/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3418/webstorage_links/17849/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/3418/webstorage_links/17851/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3417,
+        "title": "Python Data Science Handbook",
+        "img": "http://image.banshujiang.cn/3417.jpeg?timestamp=1681544336051",
+        "author": "Jake VanderPlas",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3417/webstorage_links/17845/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3393,
+        "title": "Introduction to Machine Learning with Python",
+        "img": "http://image.banshujiang.cn/3393.jpeg?timestamp=1677325923722",
+        "author": "Andreas C. Müller and Sarah Guido",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3393/webstorage_links/17751/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3393/webstorage_links/17749/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3393/webstorage_links/17750/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3389,
+        "title": "Head First Python 2nd Edition",
+        "img": "http://image.banshujiang.cn/3389.jpeg?timestamp=1677313610822",
+        "author": "Paul Barry",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3389/webstorage_links/17738/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3389/webstorage_links/17739/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3386,
+        "title": "Foundations for Analytics with Python",
+        "img": "http://image.banshujiang.cn/3386.jpeg?timestamp=1677313362833",
+        "author": "Clinton W. Brownley",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3386/webstorage_links/17729/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3386/webstorage_links/17728/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3386/webstorage_links/17727/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3361,
+        "title": "Black Hat PytHon",
+        "img": "http://image.banshujiang.cn/3361.jpeg?timestamp=1677075054570",
+        "author": "Justin Seitz",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3361/webstorage_links/17645/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3361/webstorage_links/17643/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3361/webstorage_links/17644/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3356,
+        "title": "Python Tools for Scientists",
+        "img": "http://image.banshujiang.cn/3356.jpeg?timestamp=1676704822177",
+        "author": "Lee Vaughan",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3356/webstorage_links/17581/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3356/webstorage_links/17580/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3355,
+        "title": "Python for Kids 2nd Edition",
+        "img": "http://image.banshujiang.cn/3355.jpeg?timestamp=1676704622324",
+        "author": "Jason R. Briggs",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3355/webstorage_links/17577/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3354,
+        "title": "Python for Everyone 3rd Edition",
+        "img": "http://image.banshujiang.cn/3354.jpeg?timestamp=1676704543518",
+        "author": "Cay Horstmann and Rance Necaise",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3354/webstorage_links/17575/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3349,
+        "title": "Scaling Python with Ray",
+        "img": "http://image.banshujiang.cn/3349.jpeg?timestamp=1676702786591",
+        "author": "Holden Karau and Boris Lublinsky",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3349/webstorage_links/17561/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3349/webstorage_links/17560/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3345,
+        "title": "Python in a Nutshell 4th Edition",
+        "img": "http://image.banshujiang.cn/3345.jpeg?timestamp=1676702392434",
+        "author": "Alex Martelli, Anna Martelli Ravenscroft, Steve Holden, and Paul McGuire",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3345/webstorage_links/17547/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3344,
+        "title": "Python for Geospatial Data Analysis",
+        "img": "http://image.banshujiang.cn/3344.jpeg?timestamp=1676702259599",
+        "author": "Bonny P. McClain",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3344/webstorage_links/17545/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3344/webstorage_links/17544/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3343,
+        "title": "Python Data Science Handbook 2nd Edition",
+        "img": "http://image.banshujiang.cn/3343.jpeg?timestamp=1676702173757",
+        "author": "Jake VanderPlas",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3343/webstorage_links/17541/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3325,
+        "title": "Publishing Python Packages",
+        "img": "http://image.banshujiang.cn/3325.jpeg?timestamp=1676692547539",
+        "author": "Dane Hillard",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3325/webstorage_links/17483/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3320,
+        "title": "Data Visualization with Python and JavaScript 2nd Edition",
+        "img": "http://image.banshujiang.cn/3320.jpeg?timestamp=1676120870298",
+        "author": "Kyran Dale",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3320/webstorage_links/17473/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3295,
+        "title": "Python Data Structures and Algorithms",
+        "img": "http://image.banshujiang.cn/3295.jpeg?timestamp=1676087334185",
+        "author": "Benjamin Baka",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3295/webstorage_links/17381/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3295/webstorage_links/17383/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/3295/webstorage_links/17382/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3284,
+        "title": "Software Architecture with Python",
+        "img": "http://image.banshujiang.cn/3284.jpeg?timestamp=1676086085381",
+        "author": "Anand Balachandran Pillai",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3284/webstorage_links/17325/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3284/webstorage_links/17323/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/3284/webstorage_links/17324/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3282,
+        "title": "Python Web Scraping 2nd Edition",
+        "img": "http://image.banshujiang.cn/3282.jpeg?timestamp=1676085889921",
+        "author": "Katharine Jarmul and Richard Lawson",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3282/webstorage_links/17311/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3282/webstorage_links/17310/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/3282/webstorage_links/17309/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3281,
+        "title": "Python Machine Learning 3rd Edition",
+        "img": "http://image.banshujiang.cn/3281.jpeg?timestamp=1676085455815",
+        "author": "Sebastian Raschka and Vahid Mirjalili",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3281/webstorage_links/17303/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3281/webstorage_links/17304/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3281/webstorage_links/17305/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3280,
+        "title": "Python High Performance 2nd Edition",
+        "img": "http://image.banshujiang.cn/3280.jpeg?timestamp=1675570781555",
+        "author": "Gabriele Lanaro",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3280/webstorage_links/17298/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3280/webstorage_links/17299/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/3280/webstorage_links/17297/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3279,
+        "title": "Python for Finance 2nd Edition",
+        "img": "http://image.banshujiang.cn/3279.jpeg?timestamp=1675570713736",
+        "author": "Yuxing Yan",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3279/webstorage_links/17293/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/3279/webstorage_links/17292/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3262,
+        "title": "Django By Example",
+        "img": "http://image.banshujiang.cn/3262.jpeg?timestamp=1675506471108",
+        "author": "Antonio Melé",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3262/webstorage_links/17211/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3262/webstorage_links/17209/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3262/webstorage_links/17210/to_link"
+            },
+            {
+                "fmt": "CODE",
+                "title": "城通网盘",
+                "link": "/e_books/3262/webstorage_links/17208/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3260,
+        "title": "Building RESTful Python Web Services",
+        "img": "http://image.banshujiang.cn/3260.jpeg?timestamp=1675263106013",
+        "author": "Gastón C. Hillar",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3260/webstorage_links/17197/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3260/webstorage_links/17195/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3260/webstorage_links/17196/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/3260/webstorage_links/17194/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3253,
+        "title": "Real World Instrumentation with Python",
+        "img": "http://image.banshujiang.cn/3253.jpeg?timestamp=1675262550218",
+        "author": "J. M. Hughes",
+        "language": "英文",
+        "publishYear": 2010,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3253/webstorage_links/17158/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3253/webstorage_links/17159/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3229,
+        "title": "Thoughtful Machine Learning with Python",
+        "img": "http://image.banshujiang.cn/3229.jpeg?timestamp=1674648432734",
+        "author": "Matthew Kirk",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3229/webstorage_links/17056/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3229/webstorage_links/17057/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3225,
+        "title": "Test-Driven Development with Python 2nd Edition",
+        "img": "http://image.banshujiang.cn/3225.jpeg?timestamp=1674648170283",
+        "author": "Harry J.W. Percival",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3225/webstorage_links/17035/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3225/webstorage_links/17034/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3217,
+        "title": "Python for DevOps",
+        "img": "http://image.banshujiang.cn/3217.jpeg?timestamp=1674646310236",
+        "author": "Noah Gift, Kennedy Behrman, Alfredo Deza, and Grig Gheorghiu",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3217/webstorage_links/17004/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3216,
+        "title": "Python for Data Analysis 2nd Edition",
+        "img": "http://image.banshujiang.cn/3216.jpeg?timestamp=1674646217159",
+        "author": "Wes McKinney",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3216/webstorage_links/17002/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3216/webstorage_links/17001/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/3216/webstorage_links/17000/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3215,
+        "title": "Programming with MicroPython",
+        "img": "http://image.banshujiang.cn/3215.jpeg?timestamp=1674646123977",
+        "author": "Nicholas H. Tollervey",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3215/webstorage_links/16994/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3215/webstorage_links/16996/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/3215/webstorage_links/16995/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3192,
+        "title": "Introducing Python 2nd Edition",
+        "img": "http://image.banshujiang.cn/3192.jpeg?timestamp=1672469489476",
+        "author": "Bill Lubanovic",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3192/webstorage_links/16892/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3192/webstorage_links/16891/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3183,
+        "title": "Elegant SciPy",
+        "img": "http://image.banshujiang.cn/3183.jpeg?timestamp=1672468474281",
+        "author": "Juan Nunez-Iglesias, Stéfan van der Walt, and Harriet Dashnow",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3183/webstorage_links/16848/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3183/webstorage_links/16847/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/3183/webstorage_links/16846/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3157,
+        "title": "Practices of the Python Pro",
+        "img": "http://image.banshujiang.cn/3157.jpeg?timestamp=1668844014036",
+        "author": "Dane Hillard",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3157/webstorage_links/16728/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3157/webstorage_links/16729/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3157/webstorage_links/16730/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3146,
+        "title": "Data Science with Python and Dask",
+        "img": "https://imagebsj.netlify.app/3146.jpeg",
+        "author": "Jesse C. Daniel",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3146/webstorage_links/16680/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3143,
+        "title": "Learn More Python 3 The Hard Way",
+        "img": "https://imagebsj.netlify.app/3143.jpeg",
+        "author": "Zed A. Shaw",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3143/webstorage_links/16666/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/3143/webstorage_links/16665/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3134,
+        "title": "Automate The Boring Stuff with Python 2nd Edition",
+        "img": "https://imagebsj.netlify.app/3134.jpeg",
+        "author": "Al Sweigart",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3134/webstorage_links/16614/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3134/webstorage_links/16615/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3134/webstorage_links/16616/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3117,
+        "title": "Python Crash Course 3rd Edition",
+        "img": "https://imagebsj.netlify.app/3117.jpeg",
+        "author": "Eric Matthes",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3117/webstorage_links/16534/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3117/webstorage_links/16532/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3117/webstorage_links/16533/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3107,
+        "title": "Dead Simple Python",
+        "img": "https://imagebsj.netlify.app/3107.jpeg",
+        "author": "Jason C. McDonald",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3107/webstorage_links/16477/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3107/webstorage_links/16478/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3101,
+        "title": "Mastering Python Networking 3rd Edition",
+        "img": "https://imagebsj.netlify.app/3101.jpeg",
+        "author": "Eric Chou",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3101/webstorage_links/16451/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3101/webstorage_links/16450/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3101/webstorage_links/16452/to_link"
+            },
+            {
+                "fmt": "CODE",
+                "title": "城通网盘",
+                "link": "/e_books/3101/webstorage_links/16449/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3099,
+        "title": "Data Analysis with Python",
+        "img": "https://imagebsj.netlify.app/3099.jpeg",
+        "author": "David Taieb",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3099/webstorage_links/16442/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3098,
+        "title": "Using Asyncio in Python",
+        "img": "https://imagebsj.netlify.app/3098.jpeg",
+        "author": "Caleb Hattingh",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3098/webstorage_links/16440/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3098/webstorage_links/16439/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3076,
+        "title": "Mastering Large Datasets with Python",
+        "img": "https://imagebsj.netlify.app/3076.jpeg",
+        "author": "J.T. Wolohan",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3076/webstorage_links/16348/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3076/webstorage_links/16345/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3076/webstorage_links/16347/to_link"
+            },
+            {
+                "fmt": "CODE",
+                "title": "城通网盘",
+                "link": "/e_books/3076/webstorage_links/16346/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3071,
+        "title": "Get Programming Learn to code with Python",
+        "img": "https://imagebsj.netlify.app/3071.jpeg",
+        "author": "Ana Bell",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3071/webstorage_links/16316/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3071/webstorage_links/16313/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3071/webstorage_links/16315/to_link"
+            },
+            {
+                "fmt": "CODE",
+                "title": "城通网盘",
+                "link": "/e_books/3071/webstorage_links/16314/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3063,
+        "title": "Python Flash Cards The Guide",
+        "img": "https://imagebsj.netlify.app/3063.jpeg",
+        "author": "Eric Matthes",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3063/webstorage_links/16274/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3062,
+        "title": "Python Flash Cards",
+        "img": "https://imagebsj.netlify.app/3062.jpeg",
+        "author": "Eric Matthes",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3062/webstorage_links/16272/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3042,
+        "title": "Python 编程：从入门到实践",
+        "img": "https://imagebsj.netlify.app/3042.jpeg",
+        "author": "袁国忠 译",
+        "language": "中文",
+        "publishYear": 2016,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "百度网盘",
+                "link": "/e_books/3042/webstorage_links/16190/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3041,
+        "title": "Python爬虫实战入门教程",
+        "img": "https://imagebsj.netlify.app/3041.jpeg",
+        "author": "州的先生",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3041/webstorage_links/16189/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3037,
+        "title": "High Performance Python 2nd Edition",
+        "img": "https://imagebsj.netlify.app/3037.jpeg",
+        "author": "Micha Gorelick and Ian Ozsvald",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3037/webstorage_links/16175/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3037/webstorage_links/16174/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3030,
+        "title": "Natural Language Processing with Python and Spacy",
+        "img": "https://imagebsj.netlify.app/3030.jpeg",
+        "author": "Yuli Vasiliev",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3030/webstorage_links/16149/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3028,
+        "title": "Time Series Forecasting in Python",
+        "img": "https://imagebsj.netlify.app/3028.jpeg",
+        "author": "Marco Peixeiro",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3028/webstorage_links/16141/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3004,
+        "title": "Python技术手册(第二版)",
+        "img": "https://imagebsj.netlify.app/3004.jpeg",
+        "author": "程胜 译",
+        "language": "中文",
+        "publishYear": 2010,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3004/webstorage_links/16057/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2981,
+        "title": "Python for Data Analysis 3rd Edition",
+        "img": "https://imagebsj.netlify.app/2981.jpeg",
+        "author": "Wes McKinney",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2981/webstorage_links/11001/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/2981/webstorage_links/11000/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2972,
+        "title": "Machine Learning for Financial Risk Management with Python",
+        "img": "https://imagebsj.netlify.app/2972.jpeg",
+        "author": "Abdullah Karasan",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2972/webstorage_links/10963/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2972/webstorage_links/10962/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/2972/webstorage_links/10961/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2965,
+        "title": "Python for Data Science",
+        "img": "https://imagebsj.netlify.app/2965.jpeg",
+        "author": "Yuli Vasiliev",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2965/webstorage_links/10933/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2956,
+        "title": "Fluent Python 2nd Edition",
+        "img": "https://imagebsj.netlify.app/2956.jpeg",
+        "author": "Luciano Ramalho",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2956/webstorage_links/10901/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2956/webstorage_links/10900/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2942,
+        "title": "Advanced Analytics with PySpark",
+        "img": "https://imagebsj.netlify.app/2942.jpeg",
+        "author": "Akash Tandon, Sandy Ryza, Uri Laserson, Sean Owen, and Josh Wills",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2942/webstorage_links/10837/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2942/webstorage_links/10836/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2927,
+        "title": "Full Stack Python Security",
+        "img": "https://imagebsj.netlify.app/2927.jpeg",
+        "author": "Dennis Byrne",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2927/webstorage_links/10757/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2927/webstorage_links/10755/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/2927/webstorage_links/10756/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2892,
+        "title": "Python One‑liners",
+        "img": "https://imagebsj.netlify.app/2892.jpeg",
+        "author": "Christian Mayer",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2892/webstorage_links/10596/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2892/webstorage_links/10597/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/2892/webstorage_links/10595/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2880,
+        "title": "Practical Python Data Wrangling and Data Quality",
+        "img": "https://imagebsj.netlify.app/2880.jpeg",
+        "author": "Susan E. McGregor",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2880/webstorage_links/10549/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2880/webstorage_links/10548/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2833,
+        "title": "Python Concurrency with asyncio",
+        "img": "https://imagebsj.netlify.app/2833.jpeg",
+        "author": "Matthew Fowler",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2833/webstorage_links/10363/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2833/webstorage_links/10361/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/2833/webstorage_links/10362/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2822,
+        "title": "Data Analysis with Python and PySpark",
+        "img": "https://imagebsj.netlify.app/2822.jpeg",
+        "author": "Jonathan Rioux",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2822/webstorage_links/10297/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2822/webstorage_links/10295/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/2822/webstorage_links/10296/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2813,
+        "title": "Effective Python 2nd Edition",
+        "img": "https://imagebsj.netlify.app/2813.jpeg",
+        "author": "Brett Slatkin",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2813/webstorage_links/10248/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2813/webstorage_links/10247/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/2813/webstorage_links/10249/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2776,
+        "title": "Robust Python",
+        "img": "https://imagebsj.netlify.app/2776.jpeg",
+        "author": "Patrick Viafore",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2776/webstorage_links/10095/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2776/webstorage_links/10094/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/2776/webstorage_links/10093/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2755,
+        "title": "Financial Theory with Python",
+        "img": "https://imagebsj.netlify.app/2755.jpeg",
+        "author": "Yves Hilpisch",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2755/webstorage_links/10007/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2755/webstorage_links/10006/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2744,
+        "title": "Object-oriented Python",
+        "img": "https://imagebsj.netlify.app/2744.jpeg",
+        "author": "Irv Kalb",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2744/webstorage_links/9963/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2744/webstorage_links/9961/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/2744/webstorage_links/9962/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2725,
+        "title": "Deep Learning with Python 2nd Edition",
+        "img": "https://imagebsj.netlify.app/2725.jpeg",
+        "author": "François Chollet",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2725/webstorage_links/9863/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2725/webstorage_links/9862/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/2725/webstorage_links/9861/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2720,
+        "title": "Make Python Talk",
+        "img": "https://imagebsj.netlify.app/2720.jpeg",
+        "author": "Mark Liu",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2720/webstorage_links/9833/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2720/webstorage_links/9831/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/2720/webstorage_links/9832/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2677,
+        "title": "The Big Book of Small Python Projects",
+        "img": "https://imagebsj.netlify.app/2677.jpeg",
+        "author": "Al Sweigart",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2677/webstorage_links/9527/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2677/webstorage_links/9529/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/2677/webstorage_links/9528/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2666,
+        "title": "Python and R for the Modern Data Scientist",
+        "img": "https://imagebsj.netlify.app/2666.jpeg",
+        "author": "Rick J. Scavetta and Boyan Angelov",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2666/webstorage_links/9485/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2666/webstorage_links/9486/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2658,
+        "title": "Learn Quantum Computing with Python and Q#",
+        "img": "https://imagebsj.netlify.app/2658.jpeg",
+        "author": "Sarah Kaiser and Chris Granade",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2658/webstorage_links/9446/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2658/webstorage_links/9448/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/2658/webstorage_links/9447/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2646,
+        "title": "Real-World Python",
+        "img": "https://imagebsj.netlify.app/2646.jpeg",
+        "author": "Lee Vaughan",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2646/webstorage_links/9300/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2646/webstorage_links/9302/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/2646/webstorage_links/9301/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2635,
+        "title": "PyTorch Pocket Reference",
+        "img": "https://imagebsj.netlify.app/2635.jpeg",
+        "author": "Joe Papa",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2635/webstorage_links/9218/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2635/webstorage_links/9219/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2628,
+        "title": "Mastering Python for Bioinformatics",
+        "img": "https://imagebsj.netlify.app/2628.jpeg",
+        "author": "Ken Youens-Clark",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2628/webstorage_links/9205/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2628/webstorage_links/9206/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2588,
+        "title": "Python for Excel",
+        "img": "https://imagebsj.netlify.app/2588.jpeg",
+        "author": "Felix Zumstein",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2588/webstorage_links/9035/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2557,
+        "title": "Architecture Patterns with Python",
+        "img": "https://imagebsj.netlify.app/2557.jpeg",
+        "author": "Harry Percival and Bob Gregory",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2557/webstorage_links/8915/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2546,
+        "title": "Tiny Python Projects",
+        "img": "https://imagebsj.netlify.app/2546.jpeg",
+        "author": "Ken Youens-clark",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2546/webstorage_links/8885/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2546/webstorage_links/8887/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/2546/webstorage_links/8886/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2542,
+        "title": "Python Workout",
+        "img": "https://imagebsj.netlify.app/2542.jpeg",
+        "author": "Reuven Lerner",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2542/webstorage_links/8877/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2542/webstorage_links/8879/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/2542/webstorage_links/8878/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2541,
+        "title": "Probabilistic Deep Learning",
+        "img": "https://imagebsj.netlify.app/2541.jpeg",
+        "author": "Oliver Dürr, Beate Sick with Elvis Murina",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2541/webstorage_links/8874/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2541/webstorage_links/8876/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/2541/webstorage_links/8875/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2529,
+        "title": "Learn Python Visually",
+        "img": "https://imagebsj.netlify.app/2529.jpeg",
+        "author": "Tristan Bunn",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2529/webstorage_links/8779/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2529/webstorage_links/8781/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/2529/webstorage_links/8780/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2516,
+        "title": "Black Hat Python 2nd Edition",
+        "img": "https://imagebsj.netlify.app/2516.jpeg",
+        "author": "Justin Seitz and Tim Arnold",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2516/webstorage_links/8782/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2516/webstorage_links/8784/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/2516/webstorage_links/8783/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2489,
+        "title": "Tango With Django 2",
+        "img": "https://imagebsj.netlify.app/2489.jpeg",
+        "author": "Leif Azzopardi and David Maxwell",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2489/webstorage_links/16026/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2489/webstorage_links/16024/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/2489/webstorage_links/16025/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2482,
+        "title": "Selenium WebDriver Recipes in Python",
+        "img": "https://imagebsj.netlify.app/2482.jpeg",
+        "author": "Zhimin Zhan",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2482/webstorage_links/16013/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2482/webstorage_links/16011/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/2482/webstorage_links/16012/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2478,
+        "title": "Python 101 2nd Edition",
+        "img": "https://imagebsj.netlify.app/2478.jpeg",
+        "author": "Michael Driscoll",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2478/webstorage_links/16003/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2468,
+        "title": "Python for Algorithmic Trading",
+        "img": "https://imagebsj.netlify.app/2468.jpeg",
+        "author": "Yves Hilpisch",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2468/webstorage_links/15989/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2468/webstorage_links/15988/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2449,
+        "title": "Blueprints for Text Analysis Using Python",
+        "img": "https://imagebsj.netlify.app/2449.jpeg",
+        "author": "Jens Albrecht, Sidharth Ramachandran and Christian Winkler",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2449/webstorage_links/15964/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2404,
+        "title": "Beyond The Basic Stuff with Python",
+        "img": "https://imagebsj.netlify.app/2404.jpeg",
+        "author": "Al Sweigart",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2404/webstorage_links/15876/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2404/webstorage_links/15875/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/2404/webstorage_links/15874/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2371,
+        "title": "Natural Language Processing and Computational Linguistics",
+        "img": "https://imagebsj.netlify.app/2371.jpeg",
+        "author": "Bhargav Srinivasa-Desikan",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2371/webstorage_links/15814/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2370,
+        "title": "Deep Learning from Scratch",
+        "img": "https://imagebsj.netlify.app/2370.jpeg",
+        "author": "Seth Weidman",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2370/webstorage_links/15812/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2370/webstorage_links/15813/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2328,
+        "title": "Effective Python",
+        "img": "https://imagebsj.netlify.app/2328.jpeg",
+        "author": "Brett Slatkin",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2328/webstorage_links/15747/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2328/webstorage_links/15748/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2311,
+        "title": "Serious Python",
+        "img": "https://imagebsj.netlify.app/2311.jpeg",
+        "author": "Julien Danjou",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2311/webstorage_links/15716/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2311/webstorage_links/15715/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2306,
+        "title": "Python Crash Course 2nd Edition",
+        "img": "https://imagebsj.netlify.app/2306.jpeg",
+        "author": "Eric Matthes",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2306/webstorage_links/15706/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2306/webstorage_links/15707/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2276,
+        "title": "Doing Math with Python",
+        "img": "https://imagebsj.netlify.app/2276.jpeg",
+        "author": "Amit Saha",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2276/webstorage_links/15658/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2276/webstorage_links/15659/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2242,
+        "title": "Classic Computer Science Problems in Python",
+        "img": "https://imagebsj.netlify.app/2242.jpeg",
+        "author": "David Kopec",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2242/webstorage_links/15607/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2231,
+        "title": "Automate The Boring Stuff with Python",
+        "img": "https://imagebsj.netlify.app/2231.jpeg",
+        "author": "Al Sweigart",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2231/webstorage_links/15588/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2231/webstorage_links/15587/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2226,
+        "title": "The Quick Python Book 3rd Edition",
+        "img": "https://imagebsj.netlify.app/2226.jpeg",
+        "author": "Naomi Ceder",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2226/webstorage_links/15578/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2214,
+        "title": "High Performance Django",
+        "img": "https://imagebsj.netlify.app/2214.jpeg",
+        "author": "Peter Baumgartner and Yann Malet",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2214/webstorage_links/15564/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2199,
+        "title": "Python Crash Course",
+        "img": "https://imagebsj.netlify.app/2199.jpeg",
+        "author": "Eric Matthes",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2199/webstorage_links/7610/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2199/webstorage_links/9316/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/2199/webstorage_links/9315/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2190,
+        "title": "Deep Learning for Computer Vision with Python Starter Bundle",
+        "img": "https://imagebsj.netlify.app/2190.jpeg",
+        "author": "Dr. Adrian Rosebrock",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2190/webstorage_links/7620/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2189,
+        "title": "Deep Learning for Computer Vision with Python Practitioner Bundle",
+        "img": "https://imagebsj.netlify.app/2189.jpeg",
+        "author": "Dr. Adrian Rosebrock",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2189/webstorage_links/8208/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2186,
+        "title": "Python Social Media Analytics",
+        "img": "https://imagebsj.netlify.app/2186.jpeg",
+        "author": "Siddhartha Chatterjee and Michal Krystyanczuk",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2186/webstorage_links/9331/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2186/webstorage_links/9332/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/2186/webstorage_links/9333/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2180,
+        "title": "Applied Text Analysis with Python",
+        "img": "https://imagebsj.netlify.app/2180.jpeg",
+        "author": "Benjamin Bengfort, Rebecca Bilbro, and Tony Ojeda",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2180/webstorage_links/9342/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2180/webstorage_links/9343/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2174,
+        "title": "The Python 3 Standard Library by Example",
+        "img": "https://imagebsj.netlify.app/2174.jpeg",
+        "author": "Doug Hellmann",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2174/webstorage_links/7715/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2168,
+        "title": "Python Testing with pytest",
+        "img": "https://imagebsj.netlify.app/2168.jpeg",
+        "author": "Brian Okken",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2168/webstorage_links/9368/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2168/webstorage_links/9369/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2111,
+        "title": "Python Machine Learning 2nd Edition",
+        "img": "https://imagebsj.netlify.app/2111.jpeg",
+        "author": "Sebastian Raschka and Vahid Mirjalili",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2111/webstorage_links/9671/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2111/webstorage_links/9672/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/2111/webstorage_links/9674/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/2111/webstorage_links/9673/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2110,
+        "title": "Python Interviews",
+        "img": "https://imagebsj.netlify.app/2110.jpeg",
+        "author": "Mike Driscoll",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2110/webstorage_links/9666/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2109,
+        "title": "Mastering Python for Finance",
+        "img": "https://imagebsj.netlify.app/2109.jpeg",
+        "author": "James Ma Weiming",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2109/webstorage_links/9662/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2109/webstorage_links/9664/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/2109/webstorage_links/9663/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2106,
+        "title": "Learning Python Design Patterns 2nd Edition",
+        "img": "https://imagebsj.netlify.app/2106.jpeg",
+        "author": "Chetan Giridhar",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2106/webstorage_links/9650/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2106/webstorage_links/9651/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2089,
+        "title": "Deep Learning with Python",
+        "img": "https://imagebsj.netlify.app/2089.jpeg",
+        "author": "François Chollet",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2089/webstorage_links/11388/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2089/webstorage_links/11387/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2084,
+        "title": "Learn Python 3 The Hard Way",
+        "img": "https://imagebsj.netlify.app/2084.jpeg",
+        "author": "Zed A. Shaw",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2084/webstorage_links/11374/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/2084/webstorage_links/11373/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2071,
+        "title": "Python Algorithms: Mastering Basic Algorithms in the Python Language, 2nd Edition",
+        "img": "https://imagebsj.netlify.app/2071.jpeg",
+        "author": "Magnus Lie Hetland",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2071/webstorage_links/11326/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2071/webstorage_links/11324/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/2071/webstorage_links/11325/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2070,
+        "title": "Practical Machine Learning with Python",
+        "img": "https://imagebsj.netlify.app/2070.jpeg",
+        "author": "Dipanjan Sarkar, Raghav Bali and Tushar Sharma",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2070/webstorage_links/11320/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2070/webstorage_links/11319/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2057,
+        "title": "Geoprocessing with Python",
+        "img": "https://imagebsj.netlify.app/2057.jpeg",
+        "author": "Chris Garrard",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2057/webstorage_links/11264/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2057/webstorage_links/11262/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/2057/webstorage_links/11263/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1995,
+        "title": "Test-Driven Development with Python",
+        "img": "https://imagebsj.netlify.app/1995.jpeg",
+        "author": "Harry Percival",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1995/webstorage_links/11644/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1992,
+        "title": "Testing Python: Applying Unit Testing, Tdd, Bdd, and Acceptance Testing",
+        "img": "https://imagebsj.netlify.app/1992.jpeg",
+        "author": "David Sale",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1992/webstorage_links/11638/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1891,
+        "title": "Rapid GUI Programming with Python and Qt",
+        "img": "https://imagebsj.netlify.app/1891.jpeg",
+        "author": "Mark Summerfield",
+        "language": "英文",
+        "publishYear": 2007,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1891/webstorage_links/11886/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1887,
+        "title": "Python Scripting for Computational Science 3th Edtion",
+        "img": "https://imagebsj.netlify.app/1887.jpeg",
+        "author": "Hans Petter Langtangen",
+        "language": "英文",
+        "publishYear": 2008,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1887/webstorage_links/11878/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1886,
+        "title": "Python Network Programming Cookbook",
+        "img": "https://imagebsj.netlify.app/1886.jpeg",
+        "author": "Dr. M. O. Faruque Sarker",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1886/webstorage_links/11876/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1885,
+        "title": "Python in Practice: Create Better Programs Using Concurrency, Libraries, and Patterns",
+        "img": "https://imagebsj.netlify.app/1885.jpeg",
+        "author": "Mark Summerfield",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1885/webstorage_links/11874/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1884,
+        "title": "Python High Performance Programming",
+        "img": "https://imagebsj.netlify.app/1884.jpeg",
+        "author": "Gabriele Lanaro",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1884/webstorage_links/11872/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1883,
+        "title": "Python Algorithms 2rd Edition",
+        "img": "https://imagebsj.netlify.app/1883.jpeg",
+        "author": "Magnus Lie Hetland",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1883/webstorage_links/11870/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1882,
+        "title": "PySide GUI Application Development",
+        "img": "https://imagebsj.netlify.app/1882.jpeg",
+        "author": "Venkateshwaran Loganathan",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1882/webstorage_links/11868/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1856,
+        "title": "Mastering Python High Performance",
+        "img": "https://imagebsj.netlify.app/1856.jpeg",
+        "author": "Fernando Doglio",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1856/webstorage_links/11807/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/1856/webstorage_links/11806/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/1856/webstorage_links/11808/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1855,
+        "title": "Mastering Python Data Visualization",
+        "img": "https://imagebsj.netlify.app/1855.jpeg",
+        "author": "Kirthi Raman",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1855/webstorage_links/11802/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/1855/webstorage_links/11801/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1854,
+        "title": "Mastering Python",
+        "img": "https://imagebsj.netlify.app/1854.jpeg",
+        "author": "Rick van Hattem",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1854/webstorage_links/11798/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1826,
+        "title": "Practical Django Projects",
+        "img": "https://imagebsj.netlify.app/1826.jpeg",
+        "author": "James Bennett",
+        "language": "英文",
+        "publishYear": 2008,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1826/webstorage_links/11726/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1683,
+        "title": "Learning Website Development with Django",
+        "img": "https://imagebsj.netlify.app/1683.jpeg",
+        "author": "Ayman Hourieh",
+        "language": "英文",
+        "publishYear": 2008,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1683/webstorage_links/12072/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1681,
+        "title": "Learning Python, 3rd Edition",
+        "img": "https://imagebsj.netlify.app/1681.jpeg",
+        "author": "Mark Lutz",
+        "language": "英文",
+        "publishYear": 2008,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1681/webstorage_links/12068/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1576,
+        "title": "Fundamentals of Python: From First Programs Through Data Structures",
+        "img": "https://imagebsj.netlify.app/1576.jpeg",
+        "author": "Kenneth A. Lambert and Martin Osborne",
+        "language": "英文",
+        "publishYear": 2009,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1576/webstorage_links/12468/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1481,
+        "title": "Parallel Programming with Python",
+        "img": "https://imagebsj.netlify.app/1481.jpeg",
+        "author": "Jan Palach",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1481/webstorage_links/13466/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1445,
+        "title": "High Performance Python",
+        "img": "https://imagebsj.netlify.app/1445.jpeg",
+        "author": "Micha Gorelick and Ian Ozsvald",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1445/webstorage_links/13394/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1439,
+        "title": "Foundations of Python Network Programming 2nd Edition",
+        "img": "https://imagebsj.netlify.app/1439.jpeg",
+        "author": "Brandon Rhodes and John Goerzen",
+        "language": "英文",
+        "publishYear": 2010,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1439/webstorage_links/13382/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1416,
+        "title": "Beginning Python: From Novice to Professional 2nd Edition",
+        "img": "https://imagebsj.netlify.app/1416.jpeg",
+        "author": "Magnus Lie Hetland",
+        "language": "英文",
+        "publishYear": 2008,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1416/webstorage_links/13336/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1412,
+        "title": "Pro Python System Administration",
+        "img": "https://imagebsj.netlify.app/1412.jpeg",
+        "author": "Rytis Sileika",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1412/webstorage_links/13328/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1397,
+        "title": "Violent Python",
+        "img": "https://imagebsj.netlify.app/1397.jpeg",
+        "author": "TJ. O’Connor",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1397/webstorage_links/13298/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1351,
+        "title": "Hacking Secret Ciphers with Python",
+        "img": "https://imagebsj.netlify.app/1351.jpeg",
+        "author": "Al Sweigart",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1351/webstorage_links/13210/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1297,
+        "title": "Python Essential Reference 3rd Edition",
+        "img": "https://imagebsj.netlify.app/1297.jpeg",
+        "author": "David Beazley",
+        "language": "英文",
+        "publishYear": 2006,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1297/webstorage_links/13102/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1197,
+        "title": "Introduction to Computation and Programming Using Python",
+        "img": "https://imagebsj.netlify.app/1197.jpeg",
+        "author": "John V. Guttag",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1197/webstorage_links/12907/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1104,
+        "title": "NumPy Cookbook",
+        "img": "https://imagebsj.netlify.app/1104.jpeg",
+        "author": "Ivan Idris",
+        "language": "英文",
+        "publishYear": 2012,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1104/webstorage_links/12722/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1083,
+        "title": "Django Web开发指南",
+        "img": "https://imagebsj.netlify.app/1083.jpeg",
+        "author": "Jeff Forcier, Paul Bissex and Wesley Chun",
+        "language": "中文",
+        "publishYear": 2009,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1083/webstorage_links/13505/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1043,
+        "title": "Python 技术参考大全",
+        "img": "https://imagebsj.netlify.app/1043.jpeg",
+        "author": "Martin C. Brown",
+        "language": "英文",
+        "publishYear": 2002,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1043/webstorage_links/12602/to_link"
+            }
+        ]
+    },
+    {
+        "id": 904,
+        "title": "Python 科学计算",
+        "img": "https://imagebsj.netlify.app/904.jpeg",
+        "author": "张若愚",
+        "language": "中文",
+        "publishYear": 2012,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/904/webstorage_links/15322/to_link"
+            }
+        ]
+    },
+    {
+        "id": 893,
+        "title": "Pyomo—Optimization Modeling in Python",
+        "img": "https://imagebsj.netlify.app/893.jpeg",
+        "author": "William E. Hart, Carl Laird, Jean-Paul Watson and David L. Woodruff",
+        "language": "英文",
+        "publishYear": 2012,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/893/webstorage_links/15300/to_link"
+            }
+        ]
+    },
+    {
+        "id": 885,
+        "title": "Python 与 Tkinter 编程",
+        "img": "https://imagebsj.netlify.app/885.jpeg",
+        "author": "John E. Grayson",
+        "language": "中文",
+        "publishYear": 2002,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/885/webstorage_links/15284/to_link"
+            }
+        ]
+    },
+    {
+        "id": 884,
+        "title": "Python 网络编程基础",
+        "img": "https://imagebsj.netlify.app/884.jpeg",
+        "author": "John Goerzen",
+        "language": "中文",
+        "publishYear": 2007,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/884/webstorage_links/15282/to_link"
+            }
+        ]
+    },
+    {
+        "id": 780,
+        "title": "The Quick Python Book 2nd Edition",
+        "img": "https://imagebsj.netlify.app/780.jpeg",
+        "author": "Vernon L. Ceder",
+        "language": "英文",
+        "publishYear": 2010,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/780/webstorage_links/15070/to_link"
+            }
+        ]
+    },
+    {
+        "id": 679,
+        "title": "Python Pocket Reference 4rth Edition",
+        "img": "https://imagebsj.netlify.app/679.jpeg",
+        "author": "Mark Lutz",
+        "language": "英文",
+        "publishYear": 2009,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/679/webstorage_links/14870/to_link"
+            }
+        ]
+    },
+    {
+        "id": 630,
+        "title": "Programming Python 4th Edition",
+        "img": "https://imagebsj.netlify.app/630.jpeg",
+        "author": "Mark Lutz",
+        "language": "英文",
+        "publishYear": 2010,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/630/webstorage_links/14772/to_link"
+            }
+        ]
+    },
+    {
+        "id": 575,
+        "title": "Python and AWS Cookbook",
+        "img": "https://imagebsj.netlify.app/575.jpeg",
+        "author": "Mitch Garnaat",
+        "language": "英文",
+        "publishYear": 2011,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/575/webstorage_links/14666/to_link"
+            }
+        ]
+    },
+    {
+        "id": 561,
+        "title": "MongoDB and Python",
+        "img": "https://imagebsj.netlify.app/561.jpeg",
+        "author": "Niall O’Higgins",
+        "language": "英文",
+        "publishYear": 2011,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/561/webstorage_links/14638/to_link"
+            }
+        ]
+    },
+    {
+        "id": 507,
+        "title": "Head First Python",
+        "img": "https://imagebsj.netlify.app/507.jpeg",
+        "author": "Paul Barry",
+        "language": "英文",
+        "publishYear": 2010,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/507/webstorage_links/14530/to_link"
+            }
+        ]
+    },
+    {
+        "id": 506,
+        "title": "Head First Programming",
+        "img": "https://imagebsj.netlify.app/506.jpeg",
+        "author": "Paul Barry and David Griffiths",
+        "language": "英文",
+        "publishYear": 2009,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/506/webstorage_links/14528/to_link"
+            }
+        ]
+    },
+    {
+        "id": 429,
+        "title": "Learning Python 4th Edition",
+        "img": "https://imagebsj.netlify.app/429.jpeg",
+        "author": "Mark Lutz",
+        "language": "英文",
+        "publishYear": 2009,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/429/webstorage_links/14374/to_link"
+            }
+        ]
+    },
+    {
+        "id": 376,
+        "title": "Python核心编程 (第二版)",
+        "img": "https://imagebsj.netlify.app/376.jpeg",
+        "author": "Wesley J. Chun",
+        "language": "中文",
+        "publishYear": 2008,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/376/webstorage_links/14269/to_link"
+            }
+        ]
+    },
+    {
+        "id": 329,
+        "title": "Core Python Applications Programming 3rd Edition",
+        "img": "https://imagebsj.netlify.app/329.jpeg",
+        "author": "Wesley J. Chun",
+        "language": "英文",
+        "publishYear": 2012,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/329/webstorage_links/14175/to_link"
+            }
+        ]
+    },
+    {
+        "id": 328,
+        "title": "Core Python Programming 2nd Edition",
+        "img": "https://imagebsj.netlify.app/328.jpeg",
+        "author": "Wesley J. Chun",
+        "language": "英文",
+        "publishYear": 2006,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/328/webstorage_links/14173/to_link"
+            }
+        ]
+    },
+    {
+        "id": 143,
+        "title": "SciPy and NumPy",
+        "img": "https://imagebsj.netlify.app/143.jpeg",
+        "author": "Eli Bressert",
+        "language": "英文",
+        "publishYear": 2012,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/143/webstorage_links/13803/to_link"
+            }
+        ]
+    },
+    {
+        "id": 134,
+        "title": "Python for Data Analysis",
+        "img": "https://imagebsj.netlify.app/134.jpeg",
+        "author": "Wes McKinney",
+        "language": "英文",
+        "publishYear": 2012,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/134/webstorage_links/13785/to_link"
+            }
+        ]
+    },
+    {
+        "id": 102,
+        "title": "Python高级编程",
+        "img": "https://imagebsj.netlify.app/102.jpeg",
+        "author": "Tarek Ziadé",
+        "language": "中文",
+        "publishYear": 2008,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/102/webstorage_links/13721/to_link"
+            }
+        ]
+    },
+    {
+        "id": 101,
+        "title": "Python Essential Reference",
+        "img": "https://imagebsj.netlify.app/101.jpeg",
+        "author": "David M. Beazley",
+        "language": "英文",
+        "publishYear": 2009,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/101/webstorage_links/13719/to_link"
+            }
+        ]
+    },
+    {
+        "id": 100,
+        "title": "The Python Standard Library by Example",
+        "img": "https://imagebsj.netlify.app/100.jpeg",
+        "author": "Doug Hellmann",
+        "language": "英文",
+        "publishYear": 2011,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/100/webstorage_links/13717/to_link"
+            }
+        ]
+    },
+    {
+        "id": 99,
+        "title": "Programming Computer Vision with Python",
+        "img": "https://imagebsj.netlify.app/99.jpeg",
+        "author": "Jan Erik Solem",
+        "language": "英文",
+        "publishYear": 2012,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/99/webstorage_links/13715/to_link"
+            }
+        ]
+    },
+    {
+        "id": 76,
+        "title": "Hello! Python",
+        "img": "https://imagebsj.netlify.app/76.jpeg",
+        "author": "Anthony Briggs",
+        "language": "英文",
+        "publishYear": 2012,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/76/webstorage_links/13669/to_link"
+            }
+        ]
+    },
+    {
+        "id": 65,
+        "title": "Python自然语言处理",
+        "img": "https://imagebsj.netlify.app/65.jpeg",
+        "author": "Steven Bird, Ewan Klein, and Edward Loper",
+        "language": "中文",
+        "publishYear": 2009,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/65/webstorage_links/13647/to_link"
+            }
+        ]
+    },
+    {
+        "id": 64,
+        "title": "Natural Language Processing with Python",
+        "img": "https://imagebsj.netlify.app/64.jpeg",
+        "author": "Steven Bird, Ewan Klein, and Edward Loper",
+        "language": "英文",
+        "publishYear": 2009,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/64/webstorage_links/13645/to_link"
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "title": "Python Cookbook 2nd Edition",
+        "img": "https://imagebsj.netlify.app/24.jpeg",
+        "author": "Alex Martelli, Anna Martelli Ravenscroft, and David Ascher",
+        "language": "英文",
+        "publishYear": 2005,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/24/webstorage_links/13565/to_link"
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "title": "Python in a Nutshell 2nd Edition",
+        "img": "https://imagebsj.netlify.app/23.jpeg",
+        "author": "Alex Martelli",
+        "language": "英文",
+        "publishYear": 2006,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/23/webstorage_links/13563/to_link"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "title": "Expert Python Programming",
+        "img": "https://imagebsj.netlify.app/17.jpeg",
+        "author": "Tarek Ziadé",
+        "language": "英文",
+        "publishYear": 2008,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/17/webstorage_links/13551/to_link"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "title": "Think Python",
+        "img": "https://imagebsj.netlify.app/16.jpeg",
+        "author": "Allen B. Downey",
+        "language": "英文",
+        "publishYear": 2012,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/16/webstorage_links/13549/to_link"
+            }
+        ]
+    }
+]

@@ -1,0 +1,16 @@
+{
+    "id": 4,
+    "title": "JavaScript The Good Parts",
+    "img": "https://imagebsj.netlify.app/4.jpeg",
+    "author": "Douglas Crockford",
+    "language": "英文",
+    "publishYear": 2008,
+    "programLanguage": "JavaScript",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/4/webstorage_links/13525/to_link"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "id": 123,
+    "title": "CSS3 Visual QuickStart Guide",
+    "img": "https://imagebsj.netlify.app/123.jpeg",
+    "author": "Jason Cranford Teague",
+    "language": "英文",
+    "publishYear": 2010,
+    "programLanguage": "CSS",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/123/webstorage_links/13763/to_link"
+        }
+    ]
+}

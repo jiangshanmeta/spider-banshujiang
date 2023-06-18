@@ -1,0 +1,26 @@
+{
+    "id": 2026,
+    "title": "Go Web Programming",
+    "img": "https://imagebsj.netlify.app/2026.jpeg",
+    "author": "Sau Sheong Chang",
+    "language": "英文",
+    "publishYear": 2016,
+    "programLanguage": "Go",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/2026/webstorage_links/11162/to_link"
+        },
+        {
+            "fmt": "EPUB",
+            "title": "城通网盘",
+            "link": "/e_books/2026/webstorage_links/11161/to_link"
+        },
+        {
+            "fmt": "MOBI",
+            "title": "城通网盘",
+            "link": "/e_books/2026/webstorage_links/11160/to_link"
+        }
+    ]
+}

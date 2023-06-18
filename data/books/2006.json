@@ -1,0 +1,21 @@
+{
+    "id": 2006,
+    "title": "Go Programming Blueprints",
+    "img": "https://imagebsj.netlify.app/2006.jpeg",
+    "author": "Mat Ryer",
+    "language": "英文",
+    "publishYear": 2015,
+    "programLanguage": "Go",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/2006/webstorage_links/11104/to_link"
+        },
+        {
+            "fmt": "EPUB",
+            "title": "城通网盘",
+            "link": "/e_books/2006/webstorage_links/11103/to_link"
+        }
+    ]
+}

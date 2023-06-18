@@ -1,0 +1,26 @@
+{
+    "id": 2045,
+    "title": "Plumbr Handbook: Java Garbage Collection",
+    "img": "https://imagebsj.netlify.app/2045.jpeg",
+    "author": "Nikita Salnokov-Tarnovski and Gleb Smirnov",
+    "language": "英文",
+    "publishYear": 2015,
+    "programLanguage": "Java",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/2045/webstorage_links/11224/to_link"
+        },
+        {
+            "fmt": "EPUB",
+            "title": "城通网盘",
+            "link": "/e_books/2045/webstorage_links/11222/to_link"
+        },
+        {
+            "fmt": "MOBI",
+            "title": "城通网盘",
+            "link": "/e_books/2045/webstorage_links/11223/to_link"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": 2301,
+    "title": "Core Data by Tutorials 5th Edition",
+    "img": "https://imagebsj.netlify.app/2301.jpeg",
+    "author": "Aaron Douglas, Matthew Morey and Pietro Rea",
+    "language": "英文",
+    "publishYear": 2018,
+    "programLanguage": "Swift",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/2301/webstorage_links/15696/to_link"
+        },
+        {
+            "fmt": "EPUB",
+            "title": "城通网盘",
+            "link": "/e_books/2301/webstorage_links/15695/to_link"
+        }
+    ]
+}

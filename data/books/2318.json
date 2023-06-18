@@ -1,0 +1,21 @@
+{
+    "id": 2318,
+    "title": "A Tour of C++ 2nd Edition",
+    "img": "https://imagebsj.netlify.app/2318.jpeg",
+    "author": "Bjarne Stroustrup",
+    "language": "英文",
+    "publishYear": 2019,
+    "programLanguage": "C++",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/2318/webstorage_links/15729/to_link"
+        },
+        {
+            "fmt": "EPUB",
+            "title": "城通网盘",
+            "link": "/e_books/2318/webstorage_links/15730/to_link"
+        }
+    ]
+}

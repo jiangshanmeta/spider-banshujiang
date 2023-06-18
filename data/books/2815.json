@@ -1,0 +1,26 @@
+{
+    "id": 2815,
+    "title": "Fullstack Rust",
+    "img": "https://imagebsj.netlify.app/2815.jpeg",
+    "author": "Andrew Weiss",
+    "language": "英文",
+    "publishYear": 2020,
+    "programLanguage": "Rust",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/2815/webstorage_links/10261/to_link"
+        },
+        {
+            "fmt": "EPUB",
+            "title": "城通网盘",
+            "link": "/e_books/2815/webstorage_links/10259/to_link"
+        },
+        {
+            "fmt": "MOBI",
+            "title": "城通网盘",
+            "link": "/e_books/2815/webstorage_links/10260/to_link"
+        }
+    ]
+}

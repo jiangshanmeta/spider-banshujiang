@@ -1,0 +1,21 @@
+{
+    "id": 3045,
+    "title": "Learning SQL 3rd Edition",
+    "img": "https://imagebsj.netlify.app/3045.jpeg",
+    "author": "Alan Beaulieu",
+    "language": "英文",
+    "publishYear": 2020,
+    "programLanguage": "SQL",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/3045/webstorage_links/16202/to_link"
+        },
+        {
+            "fmt": "EPUB",
+            "title": "城通网盘",
+            "link": "/e_books/3045/webstorage_links/16203/to_link"
+        }
+    ]
+}

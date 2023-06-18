@@ -1,0 +1,31 @@
+{
+    "id": 3101,
+    "title": "Mastering Python Networking 3rd Edition",
+    "img": "https://imagebsj.netlify.app/3101.jpeg",
+    "author": "Eric Chou",
+    "language": "英文",
+    "publishYear": 2020,
+    "programLanguage": "Python",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/3101/webstorage_links/16451/to_link"
+        },
+        {
+            "fmt": "EPUB",
+            "title": "城通网盘",
+            "link": "/e_books/3101/webstorage_links/16450/to_link"
+        },
+        {
+            "fmt": "MOBI",
+            "title": "城通网盘",
+            "link": "/e_books/3101/webstorage_links/16452/to_link"
+        },
+        {
+            "fmt": "CODE",
+            "title": "城通网盘",
+            "link": "/e_books/3101/webstorage_links/16449/to_link"
+        }
+    ]
+}

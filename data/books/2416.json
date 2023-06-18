@@ -1,0 +1,26 @@
+{
+    "id": 2416,
+    "title": "Fullstack React with TypeScript",
+    "img": "https://imagebsj.netlify.app/2416.jpeg",
+    "author": "Maksim Ivanov and Alex Bespoyasov",
+    "language": "英文",
+    "publishYear": 2020,
+    "programLanguage": "TypeScript",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/2416/webstorage_links/15895/to_link"
+        },
+        {
+            "fmt": "EPUB",
+            "title": "城通网盘",
+            "link": "/e_books/2416/webstorage_links/15897/to_link"
+        },
+        {
+            "fmt": "MOBI",
+            "title": "城通网盘",
+            "link": "/e_books/2416/webstorage_links/15896/to_link"
+        }
+    ]
+}

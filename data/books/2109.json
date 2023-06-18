@@ -1,0 +1,26 @@
+{
+    "id": 2109,
+    "title": "Mastering Python for Finance",
+    "img": "https://imagebsj.netlify.app/2109.jpeg",
+    "author": "James Ma Weiming",
+    "language": "英文",
+    "publishYear": 2015,
+    "programLanguage": "Python",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/2109/webstorage_links/9662/to_link"
+        },
+        {
+            "fmt": "EPUB",
+            "title": "城通网盘",
+            "link": "/e_books/2109/webstorage_links/9664/to_link"
+        },
+        {
+            "fmt": "MOBI",
+            "title": "城通网盘",
+            "link": "/e_books/2109/webstorage_links/9663/to_link"
+        }
+    ]
+}

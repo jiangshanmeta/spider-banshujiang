@@ -1,9 +1,13 @@
 import fs from 'fs'
 import path from 'path'
 
-import books from '../data/books.json'
+import books from '../data/books/index.json'
 import bookCategory from '../data/bookCategory.json'
 
+const bookMap = books.reduce<Record<number, (typeof books)[number]> >((acc, item) => {
+  acc[item.id] = item
+  return acc
+}, {})
 const typedBookCategory: Record<string, number[]> = bookCategory
 
 const bookCategoryByBookId = Object.entries(typedBookCategory).reduce<Record<number, string[]>> ((acc, [tag, bookIds]) => {
@@ -50,3 +54,12 @@ const bookRecommendations = books.map((book) => {
 })
 
 fs.writeFileSync(path.join(__dirname, '../data/recommendation.json'), JSON.stringify(bookRecommendations, null, 4), 'utf8')
+
+bookRecommendations.forEach(({ id, recommendations }) => {
+  const folderPath = path.join(__dirname, `../data/books/${id}`)
+  if (!fs.existsSync(folderPath))
+    fs.mkdirSync(folderPath)
+
+  const data = recommendations.map(bookId => bookMap[bookId])
+  fs.writeFileSync(`${folderPath}/recommendation.json`, JSON.stringify(data, null, 4), 'utf8')
+})

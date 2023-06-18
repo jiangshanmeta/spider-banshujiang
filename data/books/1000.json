@@ -1,0 +1,16 @@
+{
+    "id": 1000,
+    "title": "Java 编程思想(第四版)",
+    "img": "https://imagebsj.netlify.app/1000.jpeg",
+    "author": "Bruce Eckel",
+    "language": "中文",
+    "publishYear": 2007,
+    "programLanguage": "Java",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/1000/webstorage_links/15514/to_link"
+        }
+    ]
+}

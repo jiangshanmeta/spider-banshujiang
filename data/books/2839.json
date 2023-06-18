@@ -1,0 +1,26 @@
+{
+    "id": 2839,
+    "title": "Unity in Action 3rd Edition",
+    "img": "https://imagebsj.netlify.app/2839.jpeg",
+    "author": "Joseph Hocking",
+    "language": "英文",
+    "publishYear": 2022,
+    "programLanguage": "C#",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/2839/webstorage_links/10397/to_link"
+        },
+        {
+            "fmt": "EPUB",
+            "title": "城通网盘",
+            "link": "/e_books/2839/webstorage_links/10399/to_link"
+        },
+        {
+            "fmt": "MOBI",
+            "title": "城通网盘",
+            "link": "/e_books/2839/webstorage_links/10398/to_link"
+        }
+    ]
+}

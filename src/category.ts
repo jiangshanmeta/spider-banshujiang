@@ -1,5 +1,6 @@
 import fs from 'fs'
 import path from 'path'
+import books from '../data/books/index.json'
 import bookCategory from '../data/bookCategory.json'
 import { getCategoriesRaw, getCategoryListRaw } from './get-page'
 import type { CategoryItem } from './parse-page'
@@ -7,9 +8,14 @@ import { parseCategories, parseCategoryList } from './parse-page'
 
 const bookCategoryData: Record<string, number[]> = bookCategory
 
+const bookGroupById = books.reduce<Record<number, (typeof books)[number]>>((acc, item) => {
+  acc[item.id] = item
+  return acc
+}, {})
+
 async function getAllCategories() {
   const categories = parseCategories(await getCategoriesRaw())
-  fs.writeFileSync(path.join(__dirname, '../data/categories.json'), JSON.stringify(categories, null, 4), 'utf8')
+  fs.writeFileSync(path.join(__dirname, '../data/categories/index.json'), JSON.stringify(categories, null, 4), 'utf8')
   return categories
 }
 
@@ -37,6 +43,13 @@ async function getCategoryByTag(url: string, tag: string) {
   bookCategoryData[tag] = [...new Set(bookCategoryData[tag])].sort((a, b) => b - a)
 
   fs.writeFileSync(path.join(__dirname, '../data/bookCategory.json'), JSON.stringify(bookCategory, null, 4), 'utf8')
+
+  Object.entries(bookCategoryData).forEach(([tag, ids]) => {
+    const filePath = path.join(__dirname, `../data/categories/${tag}.json`)
+    const datas = ids.map(id => bookGroupById[id])
+
+    fs.writeFileSync(filePath, JSON.stringify(datas, null, 4), 'utf8')
+  })
 }
 
 getAllCategories().then(async (categoryItemItems) => {

@@ -1,0 +1,26 @@
+{
+    "id": 2021,
+    "title": "Mastering Concurrency in Go",
+    "img": "https://imagebsj.netlify.app/2021.jpeg",
+    "author": "Nathan Kozyra",
+    "language": "英文",
+    "publishYear": 2014,
+    "programLanguage": "Go",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/2021/webstorage_links/11148/to_link"
+        },
+        {
+            "fmt": "EPUB",
+            "title": "城通网盘",
+            "link": "/e_books/2021/webstorage_links/11146/to_link"
+        },
+        {
+            "fmt": "MOBI",
+            "title": "城通网盘",
+            "link": "/e_books/2021/webstorage_links/11147/to_link"
+        }
+    ]
+}

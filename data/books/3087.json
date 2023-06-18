@@ -1,0 +1,26 @@
+{
+    "id": 3087,
+    "title": "Metal by Tutorials 2nd Edition",
+    "img": "https://imagebsj.netlify.app/3087.jpeg",
+    "author": "Caroline Begbie &amp; Marius Horga",
+    "language": "英文",
+    "publishYear": 2019,
+    "programLanguage": "Swift",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/3087/webstorage_links/16400/to_link"
+        },
+        {
+            "fmt": "EPUB",
+            "title": "城通网盘",
+            "link": "/e_books/3087/webstorage_links/16401/to_link"
+        },
+        {
+            "fmt": "CODE",
+            "title": "城通网盘",
+            "link": "/e_books/3087/webstorage_links/16402/to_link"
+        }
+    ]
+}
