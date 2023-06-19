@@ -1,0 +1,26 @@
+{
+    "id": 3027,
+    "title": "Testing Vue.js Applications",
+    "img": "https://imagebsj.netlify.app/3027.jpeg",
+    "author": "Edd Yerburgh",
+    "language": "英文",
+    "publishYear": 2019,
+    "programLanguage": "JavaScript",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/3027/webstorage_links/16139/to_link"
+        },
+        {
+            "fmt": "EPUB",
+            "title": "城通网盘",
+            "link": "/e_books/3027/webstorage_links/16137/to_link"
+        },
+        {
+            "fmt": "MOBI",
+            "title": "城通网盘",
+            "link": "/e_books/3027/webstorage_links/16138/to_link"
+        }
+    ]
+}

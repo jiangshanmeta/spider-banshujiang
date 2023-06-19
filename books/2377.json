@@ -1,0 +1,26 @@
+{
+    "id": 2377,
+    "title": "Practical Modern JavaScript",
+    "img": "https://imagebsj.netlify.app/2377.jpeg",
+    "author": "Nicolás Bevacqua",
+    "language": "英文",
+    "publishYear": 2017,
+    "programLanguage": "JavaScript",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/2377/webstorage_links/15822/to_link"
+        },
+        {
+            "fmt": "EPUB",
+            "title": "城通网盘",
+            "link": "/e_books/2377/webstorage_links/15823/to_link"
+        },
+        {
+            "fmt": "AZW3",
+            "title": "城通网盘",
+            "link": "/e_books/2377/webstorage_links/15824/to_link"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "id": 2833,
+    "title": "Python Concurrency with asyncio",
+    "img": "https://imagebsj.netlify.app/2833.jpeg",
+    "author": "Matthew Fowler",
+    "language": "英文",
+    "publishYear": 2022,
+    "programLanguage": "Python",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/2833/webstorage_links/10363/to_link"
+        },
+        {
+            "fmt": "EPUB",
+            "title": "城通网盘",
+            "link": "/e_books/2833/webstorage_links/10361/to_link"
+        },
+        {
+            "fmt": "MOBI",
+            "title": "城通网盘",
+            "link": "/e_books/2833/webstorage_links/10362/to_link"
+        }
+    ]
+}

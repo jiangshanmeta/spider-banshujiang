@@ -1,0 +1,16 @@
+{
+    "id": 17,
+    "title": "Expert Python Programming",
+    "img": "https://imagebsj.netlify.app/17.jpeg",
+    "author": "Tarek Ziadé",
+    "language": "英文",
+    "publishYear": 2008,
+    "programLanguage": "Python",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/17/webstorage_links/13551/to_link"
+        }
+    ]
+}

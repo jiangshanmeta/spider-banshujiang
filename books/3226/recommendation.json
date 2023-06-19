@@ -1,0 +1,318 @@
+[
+    {
+        "id": 3419,
+        "title": "R for Data Science",
+        "img": "http://image.banshujiang.cn/3419.jpeg?timestamp=1681545686424",
+        "author": "Hadley Wickham and Garrett Grolemund",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3419/webstorage_links/17853/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3283,
+        "title": "R Data Structures and Algorithms",
+        "img": "http://image.banshujiang.cn/3283.jpeg?timestamp=1676086016970",
+        "author": "Dr. PKS Prakash and Achyutuni Sri Krishna Rao",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3283/webstorage_links/17319/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3283/webstorage_links/17317/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3283/webstorage_links/17318/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/3283/webstorage_links/17316/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3200,
+        "title": "Mastering Spark with R",
+        "img": "http://image.banshujiang.cn/3200.jpeg?timestamp=1672470351468",
+        "author": "Javier Luraschi, Kevin Kuo, and Edgar Ruiz",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3200/webstorage_links/16930/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3200/webstorage_links/16929/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3156,
+        "title": "Practical Data Science with R 2nd Edition",
+        "img": "http://image.banshujiang.cn/3156.jpeg?timestamp=1668843910137",
+        "author": "Nina Zumel and John Mount",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3156/webstorage_links/16724/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3022,
+        "title": "Machine Learning with R, the tidyverse, and mlr",
+        "img": "https://imagebsj.netlify.app/3022.jpeg",
+        "author": "Hefin I. Rhys",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3022/webstorage_links/16117/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3022/webstorage_links/16115/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3022/webstorage_links/16116/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3010,
+        "title": "The R Book 3rd Edition",
+        "img": "https://imagebsj.netlify.app/3010.jpeg",
+        "author": "Elinor Jones, Simon Harden and Michael J. Crawley",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3010/webstorage_links/16076/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3010/webstorage_links/16077/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2990,
+        "title": "Tidy Modeling with R",
+        "img": "https://imagebsj.netlify.app/2990.jpeg",
+        "author": "Max Kuhn and Julia Silge",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2990/webstorage_links/11043/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2990/webstorage_links/11041/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/2990/webstorage_links/11042/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2923,
+        "title": "Deep Learning with R 2nd Edition",
+        "img": "https://imagebsj.netlify.app/2923.jpeg",
+        "author": "François Chollet with Tomasz Kalinowski and J.J. Allaire",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2923/webstorage_links/10733/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2662,
+        "title": "Behavioral Data Analysis with R and Python",
+        "img": "https://imagebsj.netlify.app/2662.jpeg",
+        "author": "Florent Buisson",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2662/webstorage_links/9477/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2662/webstorage_links/9478/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2260,
+        "title": "Efficient R Programming",
+        "img": "https://imagebsj.netlify.app/2260.jpeg",
+        "author": "Colin Gillespie and Robin Lovelace",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2260/webstorage_links/15633/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2112,
+        "title": "R Deep Learning Cookbook",
+        "img": "https://imagebsj.netlify.app/2112.jpeg",
+        "author": "Dr. PKS Prakash and Achyutuni Sri Krishna Rao",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2112/webstorage_links/9678/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2112/webstorage_links/9680/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/2112/webstorage_links/9679/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2036,
+        "title": "Software for Data Analysis Programming with R",
+        "img": "https://imagebsj.netlify.app/2036.jpeg",
+        "author": "John M. Chambers",
+        "language": "英文",
+        "publishYear": 2008,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2036/webstorage_links/11202/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1825,
+        "title": "Practical Data Science with R",
+        "img": "https://imagebsj.netlify.app/1825.jpeg",
+        "author": "Nina Zumel and John Mount",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1825/webstorage_links/11724/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1411,
+        "title": "Analyzing Compositional Data with R",
+        "img": "https://imagebsj.netlify.app/1411.jpeg",
+        "author": "K. Gerald van den Boogaart and Raimon Tolosana-Delgado",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1411/webstorage_links/13326/to_link"
+            }
+        ]
+    },
+    {
+        "id": 631,
+        "title": "R Cookbook",
+        "img": "https://imagebsj.netlify.app/631.jpeg",
+        "author": "Paul Teetor",
+        "language": "英文",
+        "publishYear": 2011,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/631/webstorage_links/14774/to_link"
+            }
+        ]
+    },
+    {
+        "id": 562,
+        "title": "Parallel R",
+        "img": "https://imagebsj.netlify.app/562.jpeg",
+        "author": "Q. Ethan McCallum and Stephen Weston",
+        "language": "英文",
+        "publishYear": 2011,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/562/webstorage_links/14640/to_link"
+            }
+        ]
+    }
+]

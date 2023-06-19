@@ -1,0 +1,21 @@
+{
+    "id": 2612,
+    "title": "Let&#39;s Go!",
+    "img": "https://imagebsj.netlify.app/2612.jpeg",
+    "author": "Alex Edwards",
+    "language": "英文",
+    "publishYear": 2021,
+    "programLanguage": "Go",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/2612/webstorage_links/9111/to_link"
+        },
+        {
+            "fmt": "EPUB",
+            "title": "城通网盘",
+            "link": "/e_books/2612/webstorage_links/9112/to_link"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "id": 102,
+    "title": "Python高级编程",
+    "img": "https://imagebsj.netlify.app/102.jpeg",
+    "author": "Tarek Ziadé",
+    "language": "中文",
+    "publishYear": 2008,
+    "programLanguage": "Python",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/102/webstorage_links/13721/to_link"
+        }
+    ]
+}

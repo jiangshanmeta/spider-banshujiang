@@ -1,0 +1,114 @@
+[
+    {
+        "id": 3365,
+        "title": "GNU Emacs Lisp Reference Manual For Emacs Version 24.5",
+        "img": "http://image.banshujiang.cn/3365.jpeg?timestamp=1677075525516",
+        "author": "Bil Lewis, Dan LaLiberte, Richard Stallman",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3365/webstorage_links/17659/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1874,
+        "title": "Programming Elastic MapReduce",
+        "img": "https://imagebsj.netlify.app/1874.jpeg",
+        "author": "Kevin Schmidt and Christopher Phillips",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1874/webstorage_links/11848/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1402,
+        "title": "精通Hibernate:Java对象持久化技术详解",
+        "img": "https://imagebsj.netlify.app/1402.jpeg",
+        "author": "孙卫琴",
+        "language": "中文",
+        "publishYear": 2005,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1402/webstorage_links/13308/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1131,
+        "title": "版本控制之道-使用Git",
+        "img": "https://imagebsj.netlify.app/1131.jpeg",
+        "author": "Travis Swicegood 著 董越 付昭伟 等译",
+        "language": "中文",
+        "publishYear": 2010,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1131/webstorage_links/12776/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1082,
+        "title": "Git: Version Control for Everyone",
+        "img": "https://imagebsj.netlify.app/1082.jpeg",
+        "author": "Ravishankar Somasundaram",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1082/webstorage_links/12680/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1035,
+        "title": "GCC 编程简介",
+        "img": "https://imagebsj.netlify.app/1035.jpeg",
+        "author": "Brian Gough",
+        "language": "中文",
+        "publishYear": 2004,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1035/webstorage_links/12586/to_link"
+            }
+        ]
+    },
+    {
+        "id": 911,
+        "title": "Beginning GIMP 2nd Edition",
+        "img": "https://imagebsj.netlify.app/911.jpeg",
+        "author": "Akkana Peck",
+        "language": "英文",
+        "publishYear": 2008,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/911/webstorage_links/15336/to_link"
+            }
+        ]
+    }
+]

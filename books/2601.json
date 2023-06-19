@@ -1,0 +1,21 @@
+{
+    "id": 2601,
+    "title": "Android Apprentice 4th Edition",
+    "img": "https://imagebsj.netlify.app/2601.jpeg",
+    "author": "Namrata Bandekar, Tom Blankenship, Darryl Bayliss, Fuad Kamal and Kevin Moore",
+    "language": "英文",
+    "publishYear": 2021,
+    "programLanguage": "Kotlin",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/2601/webstorage_links/9086/to_link"
+        },
+        {
+            "fmt": "EPUB",
+            "title": "城通网盘",
+            "link": "/e_books/2601/webstorage_links/9087/to_link"
+        }
+    ]
+}

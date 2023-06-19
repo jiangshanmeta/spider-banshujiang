@@ -1,0 +1,31 @@
+{
+    "id": 2111,
+    "title": "Python Machine Learning 2nd Edition",
+    "img": "https://imagebsj.netlify.app/2111.jpeg",
+    "author": "Sebastian Raschka and Vahid Mirjalili",
+    "language": "英文",
+    "publishYear": 2017,
+    "programLanguage": "Python",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/2111/webstorage_links/9671/to_link"
+        },
+        {
+            "fmt": "EPUB",
+            "title": "城通网盘",
+            "link": "/e_books/2111/webstorage_links/9672/to_link"
+        },
+        {
+            "fmt": "MOBI",
+            "title": "城通网盘",
+            "link": "/e_books/2111/webstorage_links/9674/to_link"
+        },
+        {
+            "fmt": "AZW3",
+            "title": "城通网盘",
+            "link": "/e_books/2111/webstorage_links/9673/to_link"
+        }
+    ]
+}

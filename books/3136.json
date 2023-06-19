@@ -1,0 +1,26 @@
+{
+    "id": 3136,
+    "title": "Concurrency by Tutorials 2nd Edition",
+    "img": "https://imagebsj.netlify.app/3136.jpeg",
+    "author": "Scott Grosch",
+    "language": "英文",
+    "publishYear": 2019,
+    "programLanguage": "Swift",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/3136/webstorage_links/16625/to_link"
+        },
+        {
+            "fmt": "EPUB",
+            "title": "城通网盘",
+            "link": "/e_books/3136/webstorage_links/16624/to_link"
+        },
+        {
+            "fmt": "CODE",
+            "title": "城通网盘",
+            "link": "/e_books/3136/webstorage_links/16626/to_link"
+        }
+    ]
+}

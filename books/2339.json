@@ -1,0 +1,21 @@
+{
+    "id": 2339,
+    "title": "Machine Learning by Tutorials",
+    "img": "https://imagebsj.netlify.app/2339.jpeg",
+    "author": "Matthijs Hollemans, Chris LaPollo and Audrey Tam",
+    "language": "英文",
+    "publishYear": 2019,
+    "programLanguage": "Swift",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/2339/webstorage_links/15765/to_link"
+        },
+        {
+            "fmt": "EPUB",
+            "title": "城通网盘",
+            "link": "/e_books/2339/webstorage_links/15766/to_link"
+        }
+    ]
+}

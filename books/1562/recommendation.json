@@ -1,0 +1,145 @@
+[
+    {
+        "id": 3191,
+        "title": "Introducing Erlang 2nd Edition",
+        "img": "http://image.banshujiang.cn/3191.jpeg?timestamp=1672469414417",
+        "author": "Simon St.Laurent",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "Erlang",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3191/webstorage_links/16888/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3191/webstorage_links/16887/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/3191/webstorage_links/16886/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2305,
+        "title": "Property-Based Testing with PropEr, Erlang, and Elixir",
+        "img": "https://imagebsj.netlify.app/2305.jpeg",
+        "author": "Fred Hebert",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "Erlang",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2305/webstorage_links/15704/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2305/webstorage_links/15705/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1120,
+        "title": "Learn You Some Erlang for Great Good!",
+        "img": "https://imagebsj.netlify.app/1120.jpeg",
+        "author": "Fred Hébert",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Erlang",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1120/webstorage_links/12754/to_link"
+            }
+        ]
+    },
+    {
+        "id": 954,
+        "title": "Programming Erlang: Software for a Concurrent World",
+        "img": "https://imagebsj.netlify.app/954.jpeg",
+        "author": "Joe Armstrong",
+        "language": "英文",
+        "publishYear": 2007,
+        "programLanguage": "Erlang",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/954/webstorage_links/15422/to_link"
+            }
+        ]
+    },
+    {
+        "id": 665,
+        "title": "Erlang Programming",
+        "img": "https://imagebsj.netlify.app/665.jpeg",
+        "author": "Francesco Cesarini and Simon Thompson",
+        "language": "英文",
+        "publishYear": 2009,
+        "programLanguage": "Erlang",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/665/webstorage_links/14842/to_link"
+            }
+        ]
+    },
+    {
+        "id": 306,
+        "title": "Erlang and OTP in Action",
+        "img": "https://imagebsj.netlify.app/306.jpeg",
+        "author": "Martin Logan, Eric Merritt and Richard Carlsson",
+        "language": "英文",
+        "publishYear": 2010,
+        "programLanguage": "Erlang",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/306/webstorage_links/14129/to_link"
+            }
+        ]
+    },
+    {
+        "id": 284,
+        "title": "Building Web Applications with Erlang",
+        "img": "https://imagebsj.netlify.app/284.jpeg",
+        "author": "Zachary Kessin",
+        "language": "英文",
+        "publishYear": 2012,
+        "programLanguage": "Erlang",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/284/webstorage_links/14085/to_link"
+            }
+        ]
+    },
+    {
+        "id": 254,
+        "title": "Introducing Erlang",
+        "img": "https://imagebsj.netlify.app/254.jpeg",
+        "author": "Simon St. Laurent",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Erlang",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/254/webstorage_links/14025/to_link"
+            }
+        ]
+    }
+]

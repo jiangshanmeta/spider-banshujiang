@@ -1,0 +1,26 @@
+{
+    "id": 3111,
+    "title": "100 Go Mistakes and How to Avoid Them",
+    "img": "https://imagebsj.netlify.app/3111.jpeg",
+    "author": "Teiva Harsanyi",
+    "language": "英文",
+    "publishYear": 2022,
+    "programLanguage": "Go",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/3111/webstorage_links/16498/to_link"
+        },
+        {
+            "fmt": "EPUB",
+            "title": "城通网盘",
+            "link": "/e_books/3111/webstorage_links/16500/to_link"
+        },
+        {
+            "fmt": "MOBI",
+            "title": "城通网盘",
+            "link": "/e_books/3111/webstorage_links/16499/to_link"
+        }
+    ]
+}

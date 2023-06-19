@@ -1,0 +1,257 @@
+[
+    {
+        "id": 3404,
+        "title": "Learning Perl 7th Edition",
+        "img": "http://image.banshujiang.cn/3404.jpeg?timestamp=1681021476228",
+        "author": "Randal L. Schwartz, brian d foy, and Tom Phoenix",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Perl",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3404/webstorage_links/17793/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3404/webstorage_links/17792/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3254,
+        "title": "Think Perl 6",
+        "img": "http://image.banshujiang.cn/3254.jpeg?timestamp=1675262611641",
+        "author": "Laurent Rosenfeld, with Allen B. Downey",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "Perl",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3254/webstorage_links/17163/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3254/webstorage_links/17162/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2767,
+        "title": "Learning Perl 8th Edition",
+        "img": "https://imagebsj.netlify.app/2767.jpeg",
+        "author": "Randal L. Schwartz, brian d foy, and Tom Phoenix",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Perl",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2767/webstorage_links/10057/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2767/webstorage_links/10056/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2265,
+        "title": "Learning Perl 6",
+        "img": "https://imagebsj.netlify.app/2265.jpeg",
+        "author": "brian d foy",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "Perl",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2265/webstorage_links/15640/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1835,
+        "title": "Practical Text Mining With Perl",
+        "img": "https://imagebsj.netlify.app/1835.jpeg",
+        "author": "Roger Bilisoly",
+        "language": "英文",
+        "publishYear": 2008,
+        "programLanguage": "Perl",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1835/webstorage_links/11752/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1816,
+        "title": "Perl Programming for Biologists",
+        "img": "https://imagebsj.netlify.app/1816.jpeg",
+        "author": "D. Curtis Jamison",
+        "language": "英文",
+        "publishYear": 2003,
+        "programLanguage": "Perl",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1816/webstorage_links/11698/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1088,
+        "title": "Perl Cookbook 2nd Edition",
+        "img": "https://imagebsj.netlify.app/1088.jpeg",
+        "author": "Tom Christiansen and Nathan Torkington",
+        "language": "英文",
+        "publishYear": 2003,
+        "programLanguage": "Perl",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1088/webstorage_links/12692/to_link"
+            }
+        ]
+    },
+    {
+        "id": 835,
+        "title": "Mastering Algorithms with Perl",
+        "img": "https://imagebsj.netlify.app/835.jpeg",
+        "author": "Jon Orwant, Jarkko Hietaniemi, and John Macdonald",
+        "language": "英文",
+        "publishYear": 1999,
+        "programLanguage": "Perl",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/835/webstorage_links/15184/to_link"
+            }
+        ]
+    },
+    {
+        "id": 472,
+        "title": "Student Workbook for Learning Perl 2nd Edition",
+        "img": "https://imagebsj.netlify.app/472.jpeg",
+        "author": "Brian D Foy",
+        "language": "英文",
+        "publishYear": 2012,
+        "programLanguage": "Perl",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/472/webstorage_links/14460/to_link"
+            }
+        ]
+    },
+    {
+        "id": 449,
+        "title": "Advanced Perl Programming 2nd Edition",
+        "img": "https://imagebsj.netlify.app/449.jpeg",
+        "author": "Simon Cozens",
+        "language": "英文",
+        "publishYear": 2005,
+        "programLanguage": "Perl",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/449/webstorage_links/14414/to_link"
+            }
+        ]
+    },
+    {
+        "id": 367,
+        "title": "Perl Pocket Reference 5th Edition",
+        "img": "https://imagebsj.netlify.app/367.jpeg",
+        "author": "Johan Vromans",
+        "language": "英文",
+        "publishYear": 2011,
+        "programLanguage": "Perl",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/367/webstorage_links/14251/to_link"
+            }
+        ]
+    },
+    {
+        "id": 360,
+        "title": "Perl for Oracle DBAs",
+        "img": "https://imagebsj.netlify.app/360.jpeg",
+        "author": "Andy Duncan and Jared Still",
+        "language": "英文",
+        "publishYear": 2002,
+        "programLanguage": "Perl",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/360/webstorage_links/14237/to_link"
+            }
+        ]
+    },
+    {
+        "id": 149,
+        "title": "Intermediate Perl 2nd Edition",
+        "img": "https://imagebsj.netlify.app/149.jpeg",
+        "author": "Randal L. Schwartz, brian d foy, and Tom Phoenix",
+        "language": "英文",
+        "publishYear": 2012,
+        "programLanguage": "Perl",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/149/webstorage_links/13815/to_link"
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "title": "Beginning Perl",
+        "img": "https://imagebsj.netlify.app/49.jpeg",
+        "author": "Curtis “Ovid” Poe",
+        "language": "英文",
+        "publishYear": 2012,
+        "programLanguage": "Perl",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/49/webstorage_links/13615/to_link"
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "title": "Learning Perl 6th Edition",
+        "img": "https://imagebsj.netlify.app/28.jpeg",
+        "author": "Randal L. Schwartz, brian d foy, and Tom Phoenix",
+        "language": "英文",
+        "publishYear": 2011,
+        "programLanguage": "Perl",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/28/webstorage_links/13573/to_link"
+            }
+        ]
+    }
+]

@@ -1,0 +1,21 @@
+{
+    "id": 3006,
+    "title": "A Tour of C++ 3rd Edition",
+    "img": "https://imagebsj.netlify.app/3006.jpeg",
+    "author": "Bjarne Stroustrup",
+    "language": "英文",
+    "publishYear": 2022,
+    "programLanguage": "C++",
+    "formats": [
+        {
+            "fmt": "EPUB",
+            "title": "城通网盘",
+            "link": "/e_books/3006/webstorage_links/16065/to_link"
+        },
+        {
+            "fmt": "MOBI",
+            "title": "城通网盘",
+            "link": "/e_books/3006/webstorage_links/16066/to_link"
+        }
+    ]
+}

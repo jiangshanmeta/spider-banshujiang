@@ -1,0 +1,16 @@
+{
+    "id": 1024,
+    "title": "The Go Programming Language",
+    "img": "https://imagebsj.netlify.app/1024.jpeg",
+    "author": "David Chisnall",
+    "language": "英文",
+    "publishYear": 2012,
+    "programLanguage": "Go",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/1024/webstorage_links/12564/to_link"
+        }
+    ]
+}

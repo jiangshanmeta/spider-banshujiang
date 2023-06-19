@@ -1,0 +1,26 @@
+{
+    "id": 3176,
+    "title": "Concurrency in Go",
+    "img": "http://image.banshujiang.cn/3176.jpeg?timestamp=1672467458275",
+    "author": "Katherine Cox-Buday",
+    "language": "英文",
+    "publishYear": 2017,
+    "programLanguage": "Go",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/3176/webstorage_links/16812/to_link"
+        },
+        {
+            "fmt": "EPUB",
+            "title": "城通网盘",
+            "link": "/e_books/3176/webstorage_links/16811/to_link"
+        },
+        {
+            "fmt": "AZW3",
+            "title": "城通网盘",
+            "link": "/e_books/3176/webstorage_links/16810/to_link"
+        }
+    ]
+}

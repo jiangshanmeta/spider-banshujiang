@@ -1,0 +1,154 @@
+[
+    {
+        "id": 3369,
+        "title": "The Rust Programming Language 2nd Edition",
+        "img": "http://image.banshujiang.cn/3369.jpeg?timestamp=1677297426654",
+        "author": "Steve Klabnik and Carol Nichols",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Rust",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3369/webstorage_links/17634/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3369/webstorage_links/17635/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3348,
+        "title": "Rust Atomics and Locks",
+        "img": "http://image.banshujiang.cn/3348.jpeg?timestamp=1676702686245",
+        "author": "Mara Bos",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Rust",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3348/webstorage_links/17557/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3348/webstorage_links/17556/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3326,
+        "title": "Rust Web Development",
+        "img": "http://image.banshujiang.cn/3326.jpeg?timestamp=1676692618056",
+        "author": "Bastian Gruber",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "Rust",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3326/webstorage_links/17485/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2852,
+        "title": "Command-Line Rust",
+        "img": "https://imagebsj.netlify.app/2852.jpeg",
+        "author": "Ken Youens-Clark",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "Rust",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2852/webstorage_links/10453/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2852/webstorage_links/10452/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2815,
+        "title": "Fullstack Rust",
+        "img": "https://imagebsj.netlify.app/2815.jpeg",
+        "author": "Andrew Weiss",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "Rust",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2815/webstorage_links/10261/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2815/webstorage_links/10259/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/2815/webstorage_links/10260/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2692,
+        "title": "Rust in Action",
+        "img": "https://imagebsj.netlify.app/2692.jpeg",
+        "author": "Tim Mcnamara",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Rust",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2692/webstorage_links/9601/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2692/webstorage_links/9603/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/2692/webstorage_links/9602/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2633,
+        "title": "Programming Rust 2nd Edition",
+        "img": "https://imagebsj.netlify.app/2633.jpeg",
+        "author": "Jim Blandy, Jason Orendorff, and Leonora F.S. Tindall",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Rust",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2633/webstorage_links/9214/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2633/webstorage_links/9215/to_link"
+            }
+        ]
+    }
+]

@@ -1,0 +1,21 @@
+{
+    "id": 2321,
+    "title": "Android Apprentice",
+    "img": "https://imagebsj.netlify.app/2321.jpeg",
+    "author": "Darryl Bayliss and Tom Blankenship",
+    "language": "英文",
+    "publishYear": 2018,
+    "programLanguage": "Kotlin",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/2321/webstorage_links/15734/to_link"
+        },
+        {
+            "fmt": "EPUB",
+            "title": "城通网盘",
+            "link": "/e_books/2321/webstorage_links/15735/to_link"
+        }
+    ]
+}

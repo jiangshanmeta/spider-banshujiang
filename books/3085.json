@@ -1,0 +1,26 @@
+{
+    "id": 3085,
+    "title": "Vue.js in Action",
+    "img": "https://imagebsj.netlify.app/3085.jpeg",
+    "author": "Erik Hanchett",
+    "language": "英文",
+    "publishYear": 2018,
+    "programLanguage": "JavaScript",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/3085/webstorage_links/16390/to_link"
+        },
+        {
+            "fmt": "EPUB",
+            "title": "城通网盘",
+            "link": "/e_books/3085/webstorage_links/16388/to_link"
+        },
+        {
+            "fmt": "MOBI",
+            "title": "城通网盘",
+            "link": "/e_books/3085/webstorage_links/16389/to_link"
+        }
+    ]
+}

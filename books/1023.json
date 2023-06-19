@@ -1,0 +1,16 @@
+{
+    "id": 1023,
+    "title": "An Introduction to Programming in Go",
+    "img": "https://imagebsj.netlify.app/1023.jpeg",
+    "author": "Caleb Doxsey",
+    "language": "英文",
+    "publishYear": 2012,
+    "programLanguage": "Go",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/1023/webstorage_links/12562/to_link"
+        }
+    ]
+}

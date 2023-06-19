@@ -1,0 +1,26 @@
+{
+    "id": 1821,
+    "title": "The Node Craftsman Book: An advanced Node.js tutorial",
+    "img": "https://imagebsj.netlify.app/1821.jpeg",
+    "author": "Manuel Kiessling",
+    "language": "英文",
+    "publishYear": 2015,
+    "programLanguage": "JavaScript",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/1821/webstorage_links/11712/to_link"
+        },
+        {
+            "fmt": "EPUB",
+            "title": "城通网盘",
+            "link": "/e_books/1821/webstorage_links/11710/to_link"
+        },
+        {
+            "fmt": "MOBI",
+            "title": "城通网盘",
+            "link": "/e_books/1821/webstorage_links/11711/to_link"
+        }
+    ]
+}

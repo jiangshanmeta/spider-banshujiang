@@ -1,0 +1,26 @@
+{
+    "id": 2401,
+    "title": "Advent of Go Microservices",
+    "img": "https://imagebsj.netlify.app/2401.jpeg",
+    "author": "Tit Petric",
+    "language": "英文",
+    "publishYear": 2020,
+    "programLanguage": "Go",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/2401/webstorage_links/15867/to_link"
+        },
+        {
+            "fmt": "EPUB",
+            "title": "城通网盘",
+            "link": "/e_books/2401/webstorage_links/15865/to_link"
+        },
+        {
+            "fmt": "MOBI",
+            "title": "城通网盘",
+            "link": "/e_books/2401/webstorage_links/15866/to_link"
+        }
+    ]
+}

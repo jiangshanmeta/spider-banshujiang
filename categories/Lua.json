@@ -1,0 +1,92 @@
+[
+    {
+        "id": 3293,
+        "title": "Programming in Lua 4th Edition",
+        "img": "http://image.banshujiang.cn/3293.jpeg?timestamp=1676087169133",
+        "author": "Roberto Ierusalimschy",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Lua",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3293/webstorage_links/17373/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3293/webstorage_links/17371/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3293/webstorage_links/17372/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1875,
+        "title": "Programming in Lua 3rd Edition",
+        "img": "https://imagebsj.netlify.app/1875.jpeg",
+        "author": "Roberto Ierusalimschy",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Lua",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1875/webstorage_links/11850/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1690,
+        "title": "Lua 源码欣赏",
+        "img": "https://imagebsj.netlify.app/1690.jpeg",
+        "author": "云风",
+        "language": "中文",
+        "publishYear": 2013,
+        "programLanguage": "Lua",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1690/webstorage_links/12086/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1267,
+        "title": "Beginning Lua Programming",
+        "img": "https://imagebsj.netlify.app/1267.jpeg",
+        "author": "Kurt Jung and Aaron Brown",
+        "language": "英文",
+        "publishYear": 2007,
+        "programLanguage": "Lua",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1267/webstorage_links/13044/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1100,
+        "title": "Learn Lua for iOS Game Development",
+        "img": "https://imagebsj.netlify.app/1100.jpeg",
+        "author": "Jayant Varma",
+        "language": "英文",
+        "publishYear": 2012,
+        "programLanguage": "Lua",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1100/webstorage_links/12714/to_link"
+            }
+        ]
+    }
+]

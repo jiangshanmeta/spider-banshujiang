@@ -1,0 +1,16 @@
+{
+    "id": 2,
+    "title": "JavaScript Patterns",
+    "img": "https://imagebsj.netlify.app/2.jpeg",
+    "author": "Stoyan Stefanov",
+    "language": "英文",
+    "publishYear": 2010,
+    "programLanguage": "JavaScript",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/2/webstorage_links/13521/to_link"
+        }
+    ]
+}

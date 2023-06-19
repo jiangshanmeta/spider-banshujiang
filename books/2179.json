@@ -1,0 +1,21 @@
+{
+    "id": 2179,
+    "title": "ng-book: The Complete Guide to Angular",
+    "img": "https://imagebsj.netlify.app/2179.jpeg",
+    "author": "Nate Murray, Felipe Coury, Ari Lerner, and Carlos Taborda",
+    "language": "英文",
+    "publishYear": 2018,
+    "programLanguage": "JavaScript",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/2179/webstorage_links/9344/to_link"
+        },
+        {
+            "fmt": "EPUB",
+            "title": "城通网盘",
+            "link": "/e_books/2179/webstorage_links/9345/to_link"
+        }
+    ]
+}

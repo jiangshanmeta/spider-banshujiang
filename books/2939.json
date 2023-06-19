@@ -1,0 +1,26 @@
+{
+    "id": 2939,
+    "title": "Testing JavaScript Applications",
+    "img": "https://imagebsj.netlify.app/2939.jpeg",
+    "author": "Lucas Da Costa",
+    "language": "英文",
+    "publishYear": 2021,
+    "programLanguage": "JavaScript",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/2939/webstorage_links/10825/to_link"
+        },
+        {
+            "fmt": "EPUB",
+            "title": "城通网盘",
+            "link": "/e_books/2939/webstorage_links/10823/to_link"
+        },
+        {
+            "fmt": "MOBI",
+            "title": "城通网盘",
+            "link": "/e_books/2939/webstorage_links/10824/to_link"
+        }
+    ]
+}

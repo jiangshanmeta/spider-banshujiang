@@ -1,0 +1,31 @@
+{
+    "id": 3262,
+    "title": "Django By Example",
+    "img": "http://image.banshujiang.cn/3262.jpeg?timestamp=1675506471108",
+    "author": "Antonio Melé",
+    "language": "英文",
+    "publishYear": 2015,
+    "programLanguage": "Python",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/3262/webstorage_links/17211/to_link"
+        },
+        {
+            "fmt": "EPUB",
+            "title": "城通网盘",
+            "link": "/e_books/3262/webstorage_links/17209/to_link"
+        },
+        {
+            "fmt": "MOBI",
+            "title": "城通网盘",
+            "link": "/e_books/3262/webstorage_links/17210/to_link"
+        },
+        {
+            "fmt": "CODE",
+            "title": "城通网盘",
+            "link": "/e_books/3262/webstorage_links/17208/to_link"
+        }
+    ]
+}

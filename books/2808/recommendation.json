@@ -1,0 +1,343 @@
+[
+    {
+        "id": 3388,
+        "title": "Gradle Recipes for Android",
+        "img": "http://image.banshujiang.cn/3388.jpeg?timestamp=1677313529596",
+        "author": "Ken Kousen",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Kotlin",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3388/webstorage_links/17735/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3388/webstorage_links/17734/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3296,
+        "title": "Reactive Programming with Kotlin",
+        "img": "http://image.banshujiang.cn/3296.jpeg?timestamp=1676087594377",
+        "author": "Alex Sullivan",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "Kotlin",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3296/webstorage_links/17389/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3296/webstorage_links/17387/to_link"
+            },
+            {
+                "fmt": "CODE",
+                "title": "城通网盘",
+                "link": "/e_books/3296/webstorage_links/17388/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3131,
+        "title": "Advanced Android App Architecture",
+        "img": "https://imagebsj.netlify.app/3131.jpeg",
+        "author": "Yun Cheng and Aldo Olivares Domínguez",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "Kotlin",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3131/webstorage_links/16597/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3131/webstorage_links/16596/to_link"
+            },
+            {
+                "fmt": "CODE",
+                "title": "城通网盘",
+                "link": "/e_books/3131/webstorage_links/16598/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3129,
+        "title": "Kotlin Coroutines by Tutorials 2nd Edition",
+        "img": "https://imagebsj.netlify.app/3129.jpeg",
+        "author": "Filip Babić and Nishant Srivastava",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "Kotlin",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3129/webstorage_links/16590/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3129/webstorage_links/16589/to_link"
+            },
+            {
+                "fmt": "CODE",
+                "title": "城通网盘",
+                "link": "/e_books/3129/webstorage_links/16588/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3126,
+        "title": "Data Structures &amp; Algorithms in Kotlin",
+        "img": "https://imagebsj.netlify.app/3126.jpeg",
+        "author": "Irina Galata &amp; Matei Suica",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "Kotlin",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3126/webstorage_links/16577/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3126/webstorage_links/16576/to_link"
+            },
+            {
+                "fmt": "CODE",
+                "title": "城通网盘",
+                "link": "/e_books/3126/webstorage_links/16578/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3122,
+        "title": "Android Test-Driven Development by Tutorials",
+        "img": "https://imagebsj.netlify.app/3122.jpeg",
+        "author": "Lance Gleason, Victoria Gonda and Fernando Sproviero",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "Kotlin",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3122/webstorage_links/16556/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3122/webstorage_links/16555/to_link"
+            },
+            {
+                "fmt": "CODE",
+                "title": "城通网盘",
+                "link": "/e_books/3122/webstorage_links/16554/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3064,
+        "title": "Real-World Android by Tutorials 2nd Edition",
+        "img": "https://imagebsj.netlify.app/3064.jpeg",
+        "author": "Ricardo Costeira, Subhrajyoti Sen, Kolin Stürt &amp; Antonio Roa-Valverde",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "Kotlin",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3064/webstorage_links/16278/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3064/webstorage_links/16277/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3007,
+        "title": "Android Programming 4th Edition",
+        "img": "https://imagebsj.netlify.app/3007.jpeg",
+        "author": "Kristin Marsicano, Brian Gardner, Bill Phillips and Chris Stewart",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "Kotlin",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3007/webstorage_links/16067/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2917,
+        "title": "Kotlin Multiplatform by Tutorials",
+        "img": "https://imagebsj.netlify.app/2917.jpeg",
+        "author": "Kevin D. Moore",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "Kotlin",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2917/webstorage_links/10703/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2904,
+        "title": "Android Debugging by Tutorials",
+        "img": "https://imagebsj.netlify.app/2904.jpeg",
+        "author": "Vincenzo Guzzi, Zac Lippard and Zahidur Rahman Faisal",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "Kotlin",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2904/webstorage_links/10647/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2903,
+        "title": "Android App Distribution",
+        "img": "https://imagebsj.netlify.app/2903.jpeg",
+        "author": "Fuad Kamal and Evana Margain Puig",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "Kotlin",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2903/webstorage_links/10645/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2882,
+        "title": "Programming Android with Kotlin",
+        "img": "https://imagebsj.netlify.app/2882.jpeg",
+        "author": "Pierre-Olivier Laurence and Amanda Hinchman-Dominguez, with G. Blake Meike and Mike Dunn",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Kotlin",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2882/webstorage_links/10557/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2882/webstorage_links/10556/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2795,
+        "title": "Saving Data on Android 2nd Edition",
+        "img": "https://imagebsj.netlify.app/2795.jpeg",
+        "author": "Jennifer Bailey, Dean Djermanović, Aldo Olivares Dominguez, Fuad Kamal, Subhrajyoti Sen &amp; Harun Wangereka",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Kotlin",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2795/webstorage_links/10173/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2795/webstorage_links/10172/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2709,
+        "title": "Dagger by Tutorials",
+        "img": "https://imagebsj.netlify.app/2709.jpeg",
+        "author": "Massimo Carli",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Kotlin",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2709/webstorage_links/9787/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2709/webstorage_links/9786/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2601,
+        "title": "Android Apprentice 4th Edition",
+        "img": "https://imagebsj.netlify.app/2601.jpeg",
+        "author": "Namrata Bandekar, Tom Blankenship, Darryl Bayliss, Fuad Kamal and Kevin Moore",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Kotlin",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2601/webstorage_links/9086/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2601/webstorage_links/9087/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2521,
+        "title": "Android Apprentice 3rd Edition",
+        "img": "https://imagebsj.netlify.app/2521.jpeg",
+        "author": "Darryl Bayliss, Tom Blankenship, Fuad Kamal and Namrata Bandekar",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "Kotlin",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2521/webstorage_links/8794/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2521/webstorage_links/8795/to_link"
+            }
+        ]
+    }
+]

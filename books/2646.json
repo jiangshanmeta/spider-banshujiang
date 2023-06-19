@@ -1,0 +1,26 @@
+{
+    "id": 2646,
+    "title": "Real-World Python",
+    "img": "https://imagebsj.netlify.app/2646.jpeg",
+    "author": "Lee Vaughan",
+    "language": "英文",
+    "publishYear": 2020,
+    "programLanguage": "Python",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/2646/webstorage_links/9300/to_link"
+        },
+        {
+            "fmt": "EPUB",
+            "title": "城通网盘",
+            "link": "/e_books/2646/webstorage_links/9302/to_link"
+        },
+        {
+            "fmt": "MOBI",
+            "title": "城通网盘",
+            "link": "/e_books/2646/webstorage_links/9301/to_link"
+        }
+    ]
+}

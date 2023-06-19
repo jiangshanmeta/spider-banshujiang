@@ -1,0 +1,26 @@
+{
+    "id": 2713,
+    "title": "Fullstack React",
+    "img": "https://imagebsj.netlify.app/2713.jpeg",
+    "author": "Anthony Accomazzo, Nate Murray, Ari Lerner, Clay Allsopp, David Guttman, and Tyler McGinnis",
+    "language": "英文",
+    "publishYear": 2021,
+    "programLanguage": "JavaScript",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/2713/webstorage_links/9806/to_link"
+        },
+        {
+            "fmt": "EPUB",
+            "title": "城通网盘",
+            "link": "/e_books/2713/webstorage_links/9805/to_link"
+        },
+        {
+            "fmt": "MOBI",
+            "title": "城通网盘",
+            "link": "/e_books/2713/webstorage_links/9807/to_link"
+        }
+    ]
+}

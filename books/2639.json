@@ -1,0 +1,26 @@
+{
+    "id": 2639,
+    "title": "Node.js Design Patterns 3rd Edition",
+    "img": "https://imagebsj.netlify.app/2639.jpeg",
+    "author": "Mario Casciaro and Luciano Mammino",
+    "language": "英文",
+    "publishYear": 2020,
+    "programLanguage": "JavaScript",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/2639/webstorage_links/9225/to_link"
+        },
+        {
+            "fmt": "EPUB",
+            "title": "城通网盘",
+            "link": "/e_books/2639/webstorage_links/9227/to_link"
+        },
+        {
+            "fmt": "MOBI",
+            "title": "城通网盘",
+            "link": "/e_books/2639/webstorage_links/9226/to_link"
+        }
+    ]
+}

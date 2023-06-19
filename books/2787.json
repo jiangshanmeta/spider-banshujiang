@@ -1,0 +1,21 @@
+{
+    "id": 2787,
+    "title": "Web Development with Node and Express 2nd Edition",
+    "img": "https://imagebsj.netlify.app/2787.jpeg",
+    "author": "Ethan Brown",
+    "language": "英文",
+    "publishYear": 2020,
+    "programLanguage": "JavaScript",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/2787/webstorage_links/10137/to_link"
+        },
+        {
+            "fmt": "EPUB",
+            "title": "城通网盘",
+            "link": "/e_books/2787/webstorage_links/10136/to_link"
+        }
+    ]
+}

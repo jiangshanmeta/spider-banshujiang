@@ -1,0 +1,26 @@
+{
+    "id": 2500,
+    "title": "Effective C",
+    "img": "https://imagebsj.netlify.app/2500.jpeg",
+    "author": "Robert C. Seacord",
+    "language": "英文",
+    "publishYear": 2020,
+    "programLanguage": "C",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/2500/webstorage_links/16053/to_link"
+        },
+        {
+            "fmt": "EPUB",
+            "title": "城通网盘",
+            "link": "/e_books/2500/webstorage_links/16052/to_link"
+        },
+        {
+            "fmt": "MOBI",
+            "title": "城通网盘",
+            "link": "/e_books/2500/webstorage_links/16051/to_link"
+        }
+    ]
+}

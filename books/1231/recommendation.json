@@ -1,0 +1,245 @@
+[
+    {
+        "id": 3236,
+        "title": "Learn Windows PowerShell in a Month of Lunches 3rd Edtion",
+        "img": "http://image.banshujiang.cn/3236.jpeg?timestamp=1674791757107",
+        "author": "Don Jones and Jeffery Hicks",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "PowerShell",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3236/webstorage_links/17079/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3102,
+        "title": "Powershell for Sysadmins",
+        "img": "https://imagebsj.netlify.app/3102.jpeg",
+        "author": "Adam Bertram",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "PowerShell",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3102/webstorage_links/16457/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3102/webstorage_links/16456/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3102/webstorage_links/16458/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2998,
+        "title": "The PowerShell Scripting and Toolmaking Book",
+        "img": "https://imagebsj.netlify.app/2998.jpeg",
+        "author": "Don Jones and Jeff Hicks",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "PowerShell",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2998/webstorage_links/11075/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2998/webstorage_links/11073/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/2998/webstorage_links/11074/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2829,
+        "title": "Learn PowerShell in a Month of Lunches 4th Edition",
+        "img": "https://imagebsj.netlify.app/2829.jpeg",
+        "author": "James Petty, Travis Plunk, Tyler Leonhardt, Don Jones, Jeffery Hicks",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "PowerShell",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2829/webstorage_links/10339/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2829/webstorage_links/10337/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/2829/webstorage_links/10338/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2664,
+        "title": "PowerShell Cookbook 4th Edition",
+        "img": "https://imagebsj.netlify.app/2664.jpeg",
+        "author": "Lee Holmes",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "PowerShell",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2664/webstorage_links/9481/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2664/webstorage_links/9482/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2631,
+        "title": "PowerShell Pocket Reference 3rd Edition",
+        "img": "https://imagebsj.netlify.app/2631.jpeg",
+        "author": "Lee Holmes",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "PowerShell",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2631/webstorage_links/9211/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1565,
+        "title": "Essential PowerShell",
+        "img": "https://imagebsj.netlify.app/1565.jpeg",
+        "author": "Holger Schwichtenberg",
+        "language": "英文",
+        "publishYear": 2008,
+        "programLanguage": "PowerShell",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1565/webstorage_links/12446/to_link"
+            }
+        ]
+    },
+    {
+        "id": 644,
+        "title": "Windows PowerShell Cookbook 2nd Edition",
+        "img": "https://imagebsj.netlify.app/644.jpeg",
+        "author": "Lee Holmes",
+        "language": "英文",
+        "publishYear": 2010,
+        "programLanguage": "PowerShell",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/644/webstorage_links/14800/to_link"
+            }
+        ]
+    },
+    {
+        "id": 445,
+        "title": "Windows Powershell for Developers",
+        "img": "https://imagebsj.netlify.app/445.jpeg",
+        "author": "Douglas Finke",
+        "language": "英文",
+        "publishYear": 2012,
+        "programLanguage": "PowerShell",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/445/webstorage_links/14406/to_link"
+            }
+        ]
+    },
+    {
+        "id": 201,
+        "title": "Windows PowerShell Pocket Reference 2nd Edition",
+        "img": "https://imagebsj.netlify.app/201.jpeg",
+        "author": "Lee Holmes",
+        "language": "英文",
+        "publishYear": 2012,
+        "programLanguage": "PowerShell",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/201/webstorage_links/13919/to_link"
+            }
+        ]
+    },
+    {
+        "id": 158,
+        "title": "PowerShell and WMI",
+        "img": "https://imagebsj.netlify.app/158.jpeg",
+        "author": "Richard Siddaway",
+        "language": "英文",
+        "publishYear": 2012,
+        "programLanguage": "PowerShell",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/158/webstorage_links/13833/to_link"
+            }
+        ]
+    },
+    {
+        "id": 156,
+        "title": "Windows PowerShell Cookbook 3rd Edition",
+        "img": "https://imagebsj.netlify.app/156.jpeg",
+        "author": "Lee Holmes",
+        "language": "英文",
+        "publishYear": 2012,
+        "programLanguage": "PowerShell",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/156/webstorage_links/13829/to_link"
+            }
+        ]
+    },
+    {
+        "id": 155,
+        "title": "Windows PowerShell in Action 2nd Edition",
+        "img": "https://imagebsj.netlify.app/155.jpeg",
+        "author": "Bruce Payette",
+        "language": "英文",
+        "publishYear": 2011,
+        "programLanguage": "PowerShell",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/155/webstorage_links/13827/to_link"
+            }
+        ]
+    }
+]

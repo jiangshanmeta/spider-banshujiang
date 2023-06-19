@@ -1,0 +1,328 @@
+[
+    {
+        "id": 3436,
+        "title": "Go Programming Blueprints 2nd Edition",
+        "img": "http://image.banshujiang.cn/3436.jpeg?timestamp=1686968587398",
+        "author": "Mat Ryer",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Go",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3436/webstorage_links/17936/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3436/webstorage_links/17935/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3436/webstorage_links/17937/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3362,
+        "title": "Cloud Native Go: Building Web Applications and Microservices for the Cloud with Go and React",
+        "img": "http://image.banshujiang.cn/3362.jpeg?timestamp=1677075182464",
+        "author": "Kevin Hoffman and Dan Nemeth",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "Go",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3362/webstorage_links/17648/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3362/webstorage_links/17649/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3329,
+        "title": "Efficient Go",
+        "img": "http://image.banshujiang.cn/3329.jpeg?timestamp=1676693121171",
+        "author": "Bartłomiej Płotka",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "Go",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3329/webstorage_links/17494/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3329/webstorage_links/17495/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3176,
+        "title": "Concurrency in Go",
+        "img": "http://image.banshujiang.cn/3176.jpeg?timestamp=1672467458275",
+        "author": "Katherine Cox-Buday",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "Go",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3176/webstorage_links/16812/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3176/webstorage_links/16811/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/3176/webstorage_links/16810/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3111,
+        "title": "100 Go Mistakes and How to Avoid Them",
+        "img": "https://imagebsj.netlify.app/3111.jpeg",
+        "author": "Teiva Harsanyi",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "Go",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3111/webstorage_links/16498/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3111/webstorage_links/16500/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3111/webstorage_links/16499/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3009,
+        "title": "Let’s Go 2nd Edition",
+        "img": "https://imagebsj.netlify.app/3009.jpeg",
+        "author": "Alex Edwards",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "Go",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3009/webstorage_links/16072/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3009/webstorage_links/16073/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3003,
+        "title": "Go语言实战",
+        "img": "https://imagebsj.netlify.app/3003.jpeg",
+        "author": "李兆海 译",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "Go",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3003/webstorage_links/16055/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3002,
+        "title": "Go程序设计语言",
+        "img": "https://imagebsj.netlify.app/3002.jpeg",
+        "author": "李道兵 译",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "Go",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3002/webstorage_links/15518/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2739,
+        "title": "Mastering Go 3rd Edition",
+        "img": "https://imagebsj.netlify.app/2739.jpeg",
+        "author": "Mihalis Tsoukalos",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Go",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2739/webstorage_links/9945/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2739/webstorage_links/9944/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2622,
+        "title": "Mastering Go 2nd Edition",
+        "img": "https://imagebsj.netlify.app/2622.jpeg",
+        "author": "Mihalis Tsoukalos",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "Go",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2622/webstorage_links/9136/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2621,
+        "title": "Go Systems Programming",
+        "img": "https://imagebsj.netlify.app/2621.jpeg",
+        "author": "Mihalis Tsoukalos",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "Go",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2621/webstorage_links/9133/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2613,
+        "title": "Let&#39;s Go Further!",
+        "img": "https://imagebsj.netlify.app/2613.jpeg",
+        "author": "Alex Edwards",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Go",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2613/webstorage_links/9113/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2613/webstorage_links/9114/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2612,
+        "title": "Let&#39;s Go!",
+        "img": "https://imagebsj.netlify.app/2612.jpeg",
+        "author": "Alex Edwards",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Go",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2612/webstorage_links/9111/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2612/webstorage_links/9112/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2576,
+        "title": "Learning Go",
+        "img": "https://imagebsj.netlify.app/2576.jpeg",
+        "author": "Jon Bodner",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Go",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2576/webstorage_links/8974/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2562,
+        "title": "Cloud Native Go",
+        "img": "https://imagebsj.netlify.app/2562.jpeg",
+        "author": "Matthew A. Titmus",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Go",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2562/webstorage_links/8938/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2562/webstorage_links/8939/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2518,
+        "title": "Distributed Services with Go",
+        "img": "https://imagebsj.netlify.app/2518.jpeg",
+        "author": "Travis Jeffery",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Go",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2518/webstorage_links/8786/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2518/webstorage_links/8787/to_link"
+            }
+        ]
+    }
+]

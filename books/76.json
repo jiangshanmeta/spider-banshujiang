@@ -1,0 +1,16 @@
+{
+    "id": 76,
+    "title": "Hello! Python",
+    "img": "https://imagebsj.netlify.app/76.jpeg",
+    "author": "Anthony Briggs",
+    "language": "英文",
+    "publishYear": 2012,
+    "programLanguage": "Python",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/76/webstorage_links/13669/to_link"
+        }
+    ]
+}

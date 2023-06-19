@@ -1,0 +1,26 @@
+{
+    "id": 2016,
+    "title": "Go: Building Web Applications",
+    "img": "https://imagebsj.netlify.app/2016.jpeg",
+    "author": "Nathan Kozyra and Mat Ryer",
+    "language": "英文",
+    "publishYear": 2016,
+    "programLanguage": "Go",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/2016/webstorage_links/11134/to_link"
+        },
+        {
+            "fmt": "EPUB",
+            "title": "城通网盘",
+            "link": "/e_books/2016/webstorage_links/11133/to_link"
+        },
+        {
+            "fmt": "MOBI",
+            "title": "城通网盘",
+            "link": "/e_books/2016/webstorage_links/11132/to_link"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "id": 2001,
+    "title": "Spring Boot in Action",
+    "img": "https://imagebsj.netlify.app/2001.jpeg",
+    "author": "Craig Walls",
+    "language": "英文",
+    "publishYear": 2016,
+    "programLanguage": "Java",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/2001/webstorage_links/11092/to_link"
+        },
+        {
+            "fmt": "EPUB",
+            "title": "城通网盘",
+            "link": "/e_books/2001/webstorage_links/11090/to_link"
+        },
+        {
+            "fmt": "MOBI",
+            "title": "城通网盘",
+            "link": "/e_books/2001/webstorage_links/11091/to_link"
+        }
+    ]
+}

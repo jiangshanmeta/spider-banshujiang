@@ -1,0 +1,16 @@
+{
+    "id": 121,
+    "title": "Learning Node",
+    "img": "https://imagebsj.netlify.app/121.jpeg",
+    "author": "Shelley Powers",
+    "language": "英文",
+    "publishYear": 2012,
+    "programLanguage": "JavaScript",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/121/webstorage_links/13759/to_link"
+        }
+    ]
+}

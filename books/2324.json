@@ -1,0 +1,21 @@
+{
+    "id": 2324,
+    "title": "Concurrency by Tutorials",
+    "img": "https://imagebsj.netlify.app/2324.jpeg",
+    "author": "Scott Grosch",
+    "language": "英文",
+    "publishYear": 2019,
+    "programLanguage": "Swift",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/2324/webstorage_links/15740/to_link"
+        },
+        {
+            "fmt": "EPUB",
+            "title": "城通网盘",
+            "link": "/e_books/2324/webstorage_links/15741/to_link"
+        }
+    ]
+}

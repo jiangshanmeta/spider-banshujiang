@@ -1,0 +1,26 @@
+{
+    "id": 2733,
+    "title": "Microservices in .NET 2nd Edition",
+    "img": "https://imagebsj.netlify.app/2733.jpeg",
+    "author": "Christian Horsdal Gammelgaard",
+    "language": "英文",
+    "publishYear": 2021,
+    "programLanguage": "C#",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/2733/webstorage_links/9909/to_link"
+        },
+        {
+            "fmt": "EPUB",
+            "title": "城通网盘",
+            "link": "/e_books/2733/webstorage_links/9910/to_link"
+        },
+        {
+            "fmt": "MOBI",
+            "title": "城通网盘",
+            "link": "/e_books/2733/webstorage_links/9911/to_link"
+        }
+    ]
+}

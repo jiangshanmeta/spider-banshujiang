@@ -1,0 +1,21 @@
+{
+    "id": 3010,
+    "title": "The R Book 3rd Edition",
+    "img": "https://imagebsj.netlify.app/3010.jpeg",
+    "author": "Elinor Jones, Simon Harden and Michael J. Crawley",
+    "language": "英文",
+    "publishYear": 2022,
+    "programLanguage": "R",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/3010/webstorage_links/16076/to_link"
+        },
+        {
+            "fmt": "EPUB",
+            "title": "城通网盘",
+            "link": "/e_books/3010/webstorage_links/16077/to_link"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "id": 2837,
+    "title": "Spring Start Here",
+    "img": "https://imagebsj.netlify.app/2837.jpeg",
+    "author": "Laurenţiu Spilcă",
+    "language": "英文",
+    "publishYear": 2021,
+    "programLanguage": "Java",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/2837/webstorage_links/10387/to_link"
+        },
+        {
+            "fmt": "EPUB",
+            "title": "城通网盘",
+            "link": "/e_books/2837/webstorage_links/10385/to_link"
+        },
+        {
+            "fmt": "MOBI",
+            "title": "城通网盘",
+            "link": "/e_books/2837/webstorage_links/10386/to_link"
+        }
+    ]
+}

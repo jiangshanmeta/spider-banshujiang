@@ -1,0 +1,26 @@
+{
+    "id": 2548,
+    "title": "Network Programming with Go",
+    "img": "https://imagebsj.netlify.app/2548.jpeg",
+    "author": "Adam Woodbeck",
+    "language": "英文",
+    "publishYear": 2021,
+    "programLanguage": "Go",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/2548/webstorage_links/8890/to_link"
+        },
+        {
+            "fmt": "EPUB",
+            "title": "城通网盘",
+            "link": "/e_books/2548/webstorage_links/8892/to_link"
+        },
+        {
+            "fmt": "MOBI",
+            "title": "城通网盘",
+            "link": "/e_books/2548/webstorage_links/8891/to_link"
+        }
+    ]
+}
