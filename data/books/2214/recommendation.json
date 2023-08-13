@@ -16,6 +16,48 @@
         ]
     },
     {
+        "id": 3445,
+        "title": "Mastering Python Data Analysis",
+        "img": "http://image.banshujiang.cn/3445.jpeg?timestamp=1691891702400",
+        "author": "Magnus Vilhelm Persson and Luiz Felipe Martins",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3445/webstorage_links/17987/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3444,
+        "title": "Mastering Django: Core",
+        "img": "http://image.banshujiang.cn/3444.jpeg?timestamp=1691891559353",
+        "author": "Nigel George",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3444/webstorage_links/17983/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3444/webstorage_links/17984/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3444/webstorage_links/17985/to_link"
+            }
+        ]
+    },
+    {
         "id": 3426,
         "title": "The Hitchhiker’s Guide to Python",
         "img": "http://image.banshujiang.cn/3426.jpeg?timestamp=1686457295258",
@@ -290,38 +332,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/3344/webstorage_links/17544/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3343,
-        "title": "Python Data Science Handbook 2nd Edition",
-        "img": "http://image.banshujiang.cn/3343.jpeg?timestamp=1676702173757",
-        "author": "Jake VanderPlas",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3343/webstorage_links/17541/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3325,
-        "title": "Publishing Python Packages",
-        "img": "http://image.banshujiang.cn/3325.jpeg?timestamp=1676692547539",
-        "author": "Dane Hillard",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3325/webstorage_links/17483/to_link"
             }
         ]
     }

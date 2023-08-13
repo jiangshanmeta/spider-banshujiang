@@ -1,5 +1,31 @@
 [
     {
+        "id": 3450,
+        "title": "Mastering Text Mining with R",
+        "img": "http://image.banshujiang.cn/3450.jpeg?timestamp=1691892118461",
+        "author": "Ashish Kumar and Avinash Paul",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3450/webstorage_links/18016/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3450/webstorage_links/18015/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3450/webstorage_links/18017/to_link"
+            }
+        ]
+    },
+    {
         "id": 3419,
         "title": "R for Data Science",
         "img": "http://image.banshujiang.cn/3419.jpeg?timestamp=1681545686424",
@@ -306,22 +332,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/1411/webstorage_links/13326/to_link"
-            }
-        ]
-    },
-    {
-        "id": 562,
-        "title": "Parallel R",
-        "img": "https://imagebsj.netlify.app/562.jpeg",
-        "author": "Q. Ethan McCallum and Stephen Weston",
-        "language": "英文",
-        "publishYear": 2011,
-        "programLanguage": "R",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/562/webstorage_links/14640/to_link"
             }
         ]
     }

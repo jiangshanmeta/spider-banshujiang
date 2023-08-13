@@ -1,5 +1,31 @@
 [
     {
+        "id": 3449,
+        "title": "Mastering Swift 3 - Linux",
+        "img": "http://image.banshujiang.cn/3449.jpeg?timestamp=1691892039701",
+        "author": "Jon Hoffman",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3449/webstorage_links/18010/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3449/webstorage_links/18009/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3449/webstorage_links/18011/to_link"
+            }
+        ]
+    },
+    {
         "id": 3372,
         "title": "Learn Linux in a Month of Lunches",
         "img": "http://image.banshujiang.cn/3372.jpeg?timestamp=1677311125522",
@@ -326,22 +352,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/2315/webstorage_links/15723/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2220,
-        "title": "Linux in Action",
-        "img": "https://imagebsj.netlify.app/2220.jpeg",
-        "author": "David Clinton",
-        "language": "英文",
-        "publishYear": 2018,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2220/webstorage_links/15572/to_link"
             }
         ]
     }

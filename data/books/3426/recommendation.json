@@ -1,5 +1,47 @@
 [
     {
+        "id": 3445,
+        "title": "Mastering Python Data Analysis",
+        "img": "http://image.banshujiang.cn/3445.jpeg?timestamp=1691891702400",
+        "author": "Magnus Vilhelm Persson and Luiz Felipe Martins",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3445/webstorage_links/17987/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3444,
+        "title": "Mastering Django: Core",
+        "img": "http://image.banshujiang.cn/3444.jpeg?timestamp=1691891559353",
+        "author": "Nigel George",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3444/webstorage_links/17983/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3444/webstorage_links/17984/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3444/webstorage_links/17985/to_link"
+            }
+        ]
+    },
+    {
         "id": 3418,
         "title": "Python in a Nutshell 3th Edition",
         "img": "http://image.banshujiang.cn/3418.jpeg?timestamp=1681544794595",
@@ -280,48 +322,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/3325/webstorage_links/17483/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3320,
-        "title": "Data Visualization with Python and JavaScript 2nd Edition",
-        "img": "http://image.banshujiang.cn/3320.jpeg?timestamp=1676120870298",
-        "author": "Kyran Dale",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3320/webstorage_links/17473/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3295,
-        "title": "Python Data Structures and Algorithms",
-        "img": "http://image.banshujiang.cn/3295.jpeg?timestamp=1676087334185",
-        "author": "Benjamin Baka",
-        "language": "英文",
-        "publishYear": 2017,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3295/webstorage_links/17381/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3295/webstorage_links/17383/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/3295/webstorage_links/17382/to_link"
             }
         ]
     }
