@@ -62801,5 +62801,255 @@
                 "link": "/e_books/3450/webstorage_links/18017/to_link"
             }
         ]
+    },
+    {
+        "id": 3451,
+        "title": "Microsoft Dynamics NAV 2016 Financial Management 2nd Edition",
+        "img": "http://image.banshujiang.cn/3451.jpeg?timestamp=1693639618404",
+        "author": "Anju Bala, Cristina Nicolàs Lorente and Laura Nicolàs Lorente",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3451/webstorage_links/18022/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3451/webstorage_links/18021/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3451/webstorage_links/18023/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3452,
+        "title": "Microsoft System Center Endpoint Protection Cookbook 2nd Edition",
+        "img": "http://image.banshujiang.cn/3452.jpeg?timestamp=1693643087094",
+        "author": "Nicolai Henriksen",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3452/webstorage_links/18028/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3452/webstorage_links/18027/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3452/webstorage_links/18029/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3453,
+        "title": "Native Docker Clustering with Swarm",
+        "img": "http://image.banshujiang.cn/3453.jpeg?timestamp=1693645094253",
+        "author": "Fabrizio Soppelsa and Chanwit Kaewkasi",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3453/webstorage_links/18034/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3453/webstorage_links/18033/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3453/webstorage_links/18035/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3454,
+        "title": "NGINX High Performance",
+        "img": "http://image.banshujiang.cn/3454.jpeg?timestamp=1693645167706",
+        "author": "Rahul Sharma",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3454/webstorage_links/18040/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3454/webstorage_links/18039/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3454/webstorage_links/18041/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3455,
+        "title": "OpenStack Administration with Ansible 2 2nd Edition",
+        "img": "http://image.banshujiang.cn/3455.jpeg?timestamp=1693645534065",
+        "author": "Walter Bentley",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3455/webstorage_links/18045/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3455/webstorage_links/18046/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3455/webstorage_links/18047/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3456,
+        "title": "PHP 7 Programming Blueprints",
+        "img": "http://image.banshujiang.cn/3456.jpeg?timestamp=1693645613718",
+        "author": "Jose Palala and Martin Helmich",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "PHP",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3456/webstorage_links/18053/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3456/webstorage_links/18051/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3456/webstorage_links/18052/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3457,
+        "title": "PHP 7 Programming Cookbook",
+        "img": "http://image.banshujiang.cn/3457.jpeg?timestamp=1693645696056",
+        "author": "Doug Bierer",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "PHP",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3457/webstorage_links/18056/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3457/webstorage_links/18057/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3458,
+        "title": "PHP 7: Real World Application Development",
+        "img": "http://image.banshujiang.cn/3458.jpeg?timestamp=1693645940123",
+        "author": "Doug Bierer",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "PHP",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3458/webstorage_links/18062/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3458/webstorage_links/18061/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3458/webstorage_links/18063/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3459,
+        "title": "PostgreSQL High Performance Cookbook",
+        "img": "http://image.banshujiang.cn/3459.jpeg?timestamp=1693646005292",
+        "author": "Chitij Chauhan and Dinesh Kumar",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3459/webstorage_links/18067/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3459/webstorage_links/18066/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3460,
+        "title": "Practical Business Intelligence",
+        "img": "http://image.banshujiang.cn/3460.jpeg?timestamp=1693646076083",
+        "author": "Ahmed Sherif",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3460/webstorage_links/18071/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3460/webstorage_links/18072/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3460/webstorage_links/18073/to_link"
+            }
+        ]
     }
 ]

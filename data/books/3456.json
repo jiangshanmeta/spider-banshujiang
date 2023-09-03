@@ -1,0 +1,26 @@
+{
+    "id": 3456,
+    "title": "PHP 7 Programming Blueprints",
+    "img": "http://image.banshujiang.cn/3456.jpeg?timestamp=1693645613718",
+    "author": "Jose Palala and Martin Helmich",
+    "language": "英文",
+    "publishYear": 2016,
+    "programLanguage": "PHP",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/3456/webstorage_links/18053/to_link"
+        },
+        {
+            "fmt": "EPUB",
+            "title": "城通网盘",
+            "link": "/e_books/3456/webstorage_links/18051/to_link"
+        },
+        {
+            "fmt": "MOBI",
+            "title": "城通网盘",
+            "link": "/e_books/3456/webstorage_links/18052/to_link"
+        }
+    ]
+}
