@@ -1,5 +1,52 @@
 [
     {
+        "id": 3479,
+        "title": "Wicked Cool Shell Scripts 2nd Edition",
+        "img": "http://image.banshujiang.cn/3479.jpeg?timestamp=1696506790117",
+        "author": "Dave Taylor and Brandon Perry",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Shell Script",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3479/webstorage_links/18172/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3479/webstorage_links/18173/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3466,
+        "title": "SELinux System Administration 2nd Edition",
+        "img": "http://image.banshujiang.cn/3466.jpeg?timestamp=1696339121429",
+        "author": "Sven Vermeulen",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3466/webstorage_links/18107/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3466/webstorage_links/18109/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3466/webstorage_links/18108/to_link"
+            }
+        ]
+    },
+    {
         "id": 3449,
         "title": "Mastering Swift 3 - Linux",
         "img": "http://image.banshujiang.cn/3449.jpeg?timestamp=1691892039701",
@@ -320,38 +367,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/2520/webstorage_links/8792/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2409,
-        "title": "Bite Size Linux",
-        "img": "https://imagebsj.netlify.app/2409.jpeg",
-        "author": "Julia Evans",
-        "language": "英文",
-        "publishYear": 2021,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2409/webstorage_links/15881/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2368,
-        "title": "The Linux Programming Interface",
-        "img": "https://imagebsj.netlify.app/2368.jpeg",
-        "author": "Michael Kerrisk",
-        "language": "英文",
-        "publishYear": 2010,
-        "programLanguage": "C",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2368/webstorage_links/15809/to_link"
             }
         ]
     }

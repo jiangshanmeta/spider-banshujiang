@@ -1,5 +1,26 @@
 [
     {
+        "id": 3485,
+        "title": "Blockchain Tethered AI",
+        "img": "http://image.banshujiang.cn/3485.jpeg?timestamp=1696511206256",
+        "author": "Karen Kilroy, Lynn Riley, and Deepak Bhatta",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3485/webstorage_links/18199/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3485/webstorage_links/18198/to_link"
+            }
+        ]
+    },
+    {
         "id": 2463,
         "title": "Mastering Blockchain",
         "img": "https://imagebsj.netlify.app/2463.jpeg",

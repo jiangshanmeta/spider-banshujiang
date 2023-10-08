@@ -112,6 +112,32 @@
         ]
     },
     {
+        "id": 3508,
+        "title": "Practical Automation with PowerShell",
+        "img": "http://image.banshujiang.cn/3508.jpeg?timestamp=1696688367329",
+        "author": "Matthew Dowst",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "PowerShell",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3508/webstorage_links/18301/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3508/webstorage_links/18299/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3508/webstorage_links/18300/to_link"
+            }
+        ]
+    },
+    {
         "id": 3102,
         "title": "Powershell for Sysadmins",
         "img": "https://imagebsj.netlify.app/3102.jpeg",
@@ -291,22 +317,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/2007/webstorage_links/11106/to_link"
-            }
-        ]
-    },
-    {
-        "id": 1987,
-        "title": "Best Damn Windows Server 2008 Book Period 2nd Edition",
-        "img": "https://imagebsj.netlify.app/1987.jpeg",
-        "author": "Tony Piltzecker and Brien Posey",
-        "language": "英文",
-        "publishYear": 2008,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/1987/webstorage_links/11628/to_link"
             }
         ]
     }

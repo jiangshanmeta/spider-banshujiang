@@ -1,5 +1,31 @@
 [
     {
+        "id": 3508,
+        "title": "Practical Automation with PowerShell",
+        "img": "http://image.banshujiang.cn/3508.jpeg?timestamp=1696688367329",
+        "author": "Matthew Dowst",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "PowerShell",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3508/webstorage_links/18301/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3508/webstorage_links/18299/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3508/webstorage_links/18300/to_link"
+            }
+        ]
+    },
+    {
         "id": 3236,
         "title": "Learn Windows PowerShell in a Month of Lunches 3rd Edtion",
         "img": "http://image.banshujiang.cn/3236.jpeg?timestamp=1674791757107",

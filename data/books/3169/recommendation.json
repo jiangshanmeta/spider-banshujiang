@@ -1,5 +1,26 @@
 [
     {
+        "id": 3479,
+        "title": "Wicked Cool Shell Scripts 2nd Edition",
+        "img": "http://image.banshujiang.cn/3479.jpeg?timestamp=1696506790117",
+        "author": "Dave Taylor and Brandon Perry",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Shell Script",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3479/webstorage_links/18172/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3479/webstorage_links/18173/to_link"
+            }
+        ]
+    },
+    {
         "id": 2034,
         "title": "Shell Programming in Unix, Linux and OS X 4th Edition",
         "img": "https://imagebsj.netlify.app/2034.jpeg",

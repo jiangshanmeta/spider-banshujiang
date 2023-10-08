@@ -1,5 +1,26 @@
 [
     {
+        "id": 3477,
+        "title": "The Book of R",
+        "img": "http://image.banshujiang.cn/3477.jpeg?timestamp=1696506646279",
+        "author": "Tilman M. Davies",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3477/webstorage_links/18162/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3477/webstorage_links/18163/to_link"
+            }
+        ]
+    },
+    {
         "id": 3450,
         "title": "Mastering Text Mining with R",
         "img": "http://image.banshujiang.cn/3450.jpeg?timestamp=1691892118461",
@@ -306,22 +327,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/1411/webstorage_links/13326/to_link"
-            }
-        ]
-    },
-    {
-        "id": 631,
-        "title": "R Cookbook",
-        "img": "https://imagebsj.netlify.app/631.jpeg",
-        "author": "Paul Teetor",
-        "language": "英文",
-        "publishYear": 2011,
-        "programLanguage": "R",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/631/webstorage_links/14774/to_link"
             }
         ]
     }

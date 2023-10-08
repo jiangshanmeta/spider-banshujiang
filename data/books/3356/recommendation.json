@@ -1,5 +1,68 @@
 [
     {
+        "id": 3510,
+        "title": "Modeling and Simulation in Python",
+        "img": "http://image.banshujiang.cn/3510.jpeg?timestamp=1696688545321",
+        "author": "Allen B. Downey",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3510/webstorage_links/18309/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3499,
+        "title": "Mastering Python Networking 4th Edition",
+        "img": "http://image.banshujiang.cn/3499.jpeg?timestamp=1696560588742",
+        "author": "Eric Chou",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3499/webstorage_links/18258/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3499/webstorage_links/18259/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3465,
+        "title": "Scientific Computing with Python 3",
+        "img": "http://image.banshujiang.cn/3465.jpeg?timestamp=1696338985450",
+        "author": "Claus Führer, Jan Erik Solem and Olivier Verdier",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3465/webstorage_links/18103/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3465/webstorage_links/18101/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3465/webstorage_links/18102/to_link"
+            }
+        ]
+    },
+    {
         "id": 3445,
         "title": "Mastering Python Data Analysis",
         "img": "http://image.banshujiang.cn/3445.jpeg?timestamp=1691891702400",
@@ -274,59 +337,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3345/webstorage_links/17547/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3344,
-        "title": "Python for Geospatial Data Analysis",
-        "img": "http://image.banshujiang.cn/3344.jpeg?timestamp=1676702259599",
-        "author": "Bonny P. McClain",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3344/webstorage_links/17545/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/3344/webstorage_links/17544/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3343,
-        "title": "Python Data Science Handbook 2nd Edition",
-        "img": "http://image.banshujiang.cn/3343.jpeg?timestamp=1676702173757",
-        "author": "Jake VanderPlas",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3343/webstorage_links/17541/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3325,
-        "title": "Publishing Python Packages",
-        "img": "http://image.banshujiang.cn/3325.jpeg?timestamp=1676692547539",
-        "author": "Dane Hillard",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3325/webstorage_links/17483/to_link"
             }
         ]
     }

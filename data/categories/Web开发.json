@@ -1,5 +1,21 @@
 [
     {
+        "id": 3467,
+        "title": "Spring MVC Beginner&#39;s Guide 2nd Edition",
+        "img": "http://image.banshujiang.cn/3467.jpeg?timestamp=1696339196193",
+        "author": "Amuthan Ganeshan",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3467/webstorage_links/18111/to_link"
+            }
+        ]
+    },
+    {
         "id": 2807,
         "title": "Agile Web Development with Rails 6",
         "img": "https://imagebsj.netlify.app/2807.jpeg",

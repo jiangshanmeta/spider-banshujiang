@@ -1,5 +1,21 @@
 [
     {
+        "id": 3467,
+        "title": "Spring MVC Beginner&#39;s Guide 2nd Edition",
+        "img": "http://image.banshujiang.cn/3467.jpeg?timestamp=1696339196193",
+        "author": "Amuthan Ganeshan",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3467/webstorage_links/18111/to_link"
+            }
+        ]
+    },
+    {
         "id": 1901,
         "title": "Mastering Spring MVC 4",
         "img": "https://imagebsj.netlify.app/1901.jpeg",
@@ -44,6 +60,58 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/1106/webstorage_links/12726/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3494,
+        "title": "Troubleshooting Java",
+        "img": "http://image.banshujiang.cn/3494.jpeg?timestamp=1696560251248",
+        "author": "Laurenţiu Spilcă",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3494/webstorage_links/18239/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3494/webstorage_links/18238/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3494/webstorage_links/18237/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3480,
+        "title": "Java Persistence with Spring Data and Hibernate",
+        "img": "http://image.banshujiang.cn/3480.jpeg?timestamp=1696506921756",
+        "author": "Cătălin Tudose",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3480/webstorage_links/18179/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3480/webstorage_links/18178/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3480/webstorage_links/18177/to_link"
             }
         ]
     },
@@ -264,79 +332,6 @@
                 "fmt": "AZW3",
                 "title": "城通网盘",
                 "link": "/e_books/3187/webstorage_links/16868/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3178,
-        "title": "Data Science with Java",
-        "img": "http://image.banshujiang.cn/3178.jpeg?timestamp=1672467744052",
-        "author": "Michael R. Brzustowicz, PhD",
-        "language": "英文",
-        "publishYear": 2017,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3178/webstorage_links/16822/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3178/webstorage_links/16821/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/3178/webstorage_links/16820/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3174,
-        "title": "Cloud Native Java",
-        "img": "http://image.banshujiang.cn/3174.jpeg?timestamp=1672467277208",
-        "author": "Josh Long and Kenny Bastani",
-        "language": "英文",
-        "publishYear": 2017,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3174/webstorage_links/16802/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/3174/webstorage_links/16801/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3171,
-        "title": "Cassandra: The Definitive Guide 2nd Edition",
-        "img": "http://image.banshujiang.cn/3171.jpeg?timestamp=1671815273154",
-        "author": "Jeff Carpenter and Eben Hewitt",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3171/webstorage_links/16790/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3171/webstorage_links/16788/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/3171/webstorage_links/16789/to_link"
             }
         ]
     }
