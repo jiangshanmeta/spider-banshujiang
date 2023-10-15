@@ -1,5 +1,26 @@
 [
     {
+        "id": 3528,
+        "title": "Jetpack Compose by Tutorials 2nd Edition",
+        "img": "http://image.banshujiang.cn/3528.jpeg?timestamp=1696771044784",
+        "author": "Denis Buketa &amp; Prateek Prasad",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Kotlin",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3528/webstorage_links/18365/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3528/webstorage_links/18364/to_link"
+            }
+        ]
+    },
+    {
         "id": 3388,
         "title": "Gradle Recipes for Android",
         "img": "http://image.banshujiang.cn/3388.jpeg?timestamp=1677313529596",
@@ -321,27 +342,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/2601/webstorage_links/9087/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2521,
-        "title": "Android Apprentice 3rd Edition",
-        "img": "https://imagebsj.netlify.app/2521.jpeg",
-        "author": "Darryl Bayliss, Tom Blankenship, Fuad Kamal and Namrata Bandekar",
-        "language": "英文",
-        "publishYear": 2020,
-        "programLanguage": "Kotlin",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2521/webstorage_links/8794/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2521/webstorage_links/8795/to_link"
             }
         ]
     }

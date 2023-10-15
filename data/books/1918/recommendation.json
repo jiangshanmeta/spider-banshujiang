@@ -85,6 +85,48 @@
         ]
     },
     {
+        "id": 3560,
+        "title": "Modern Front-End Development for Rails 2nd Edition",
+        "img": "http://image.banshujiang.cn/3560.jpeg?timestamp=1697274521342",
+        "author": "Noel Rappin",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "Ruby",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3560/webstorage_links/18501/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3560/webstorage_links/18500/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3521,
+        "title": "Agile Web Development with Rails 7",
+        "img": "http://image.banshujiang.cn/3521.jpeg?timestamp=1696770038701",
+        "author": "Sam Ruby",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Ruby",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3521/webstorage_links/18343/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3521/webstorage_links/18342/to_link"
+            }
+        ]
+    },
+    {
         "id": 3467,
         "title": "Spring MVC Beginner&#39;s Guide 2nd Edition",
         "img": "http://image.banshujiang.cn/3467.jpeg?timestamp=1696339196193",
@@ -265,38 +307,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/2169/webstorage_links/9367/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2069,
-        "title": "Agile Web Development with Rails 5.1",
-        "img": "https://imagebsj.netlify.app/2069.jpeg",
-        "author": "Sam Ruby, David Bryant Copeland with Dave Thomas",
-        "language": "英文",
-        "publishYear": 2017,
-        "programLanguage": "Ruby",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2069/webstorage_links/11316/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2020,
-        "title": "Simply Rails 2, 2nd Edition",
-        "img": "https://imagebsj.netlify.app/2020.jpeg",
-        "author": "Patrick Lenz",
-        "language": "英文",
-        "publishYear": 2008,
-        "programLanguage": "Ruby",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2020/webstorage_links/11142/to_link"
             }
         ]
     }

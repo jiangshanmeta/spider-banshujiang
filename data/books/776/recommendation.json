@@ -69,6 +69,48 @@
         ]
     },
     {
+        "id": 3559,
+        "title": "Modern Concurrency in Swift 2nd Edition",
+        "img": "http://image.banshujiang.cn/3559.jpeg?timestamp=1697274441182",
+        "author": "Marin Todorov",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3559/webstorage_links/18497/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3559/webstorage_links/18496/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3541,
+        "title": "Advanced Apple Debugging &amp; Reverse Engineering",
+        "img": "http://image.banshujiang.cn/3541.jpeg?timestamp=1697273649437",
+        "author": "Walter Tyree",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3541/webstorage_links/18434/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3541/webstorage_links/18435/to_link"
+            }
+        ]
+    },
+    {
         "id": 2907,
         "title": "Catalyst by Tutorials 3rd Edition",
         "img": "https://imagebsj.netlify.app/2907.jpeg",
@@ -225,38 +267,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/1654/webstorage_links/12012/to_link"
-            }
-        ]
-    },
-    {
-        "id": 1653,
-        "title": "iOS and OS X Network Programming Cookbook",
-        "img": "https://imagebsj.netlify.app/1653.jpeg",
-        "author": "Jon Hoffman",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Objective-C",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/1653/webstorage_links/12010/to_link"
-            }
-        ]
-    },
-    {
-        "id": 1652,
-        "title": "iOS 7 in Action",
-        "img": "https://imagebsj.netlify.app/1652.jpeg",
-        "author": "Brendan G. Lim and Martin Conte Mac Donell",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Objective-C",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/1652/webstorage_links/12008/to_link"
             }
         ]
     }

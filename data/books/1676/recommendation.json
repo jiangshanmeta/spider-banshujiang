@@ -1,5 +1,26 @@
 [
     {
+        "id": 3558,
+        "title": "Microsoft Visual C# Step by Step 10th Edition",
+        "img": "http://image.banshujiang.cn/3558.jpeg?timestamp=1697274353067",
+        "author": "John Sharp",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3558/webstorage_links/18493/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3558/webstorage_links/18492/to_link"
+            }
+        ]
+    },
+    {
         "id": 3435,
         "title": "Functional C#",
         "img": "http://image.banshujiang.cn/3435.jpeg?timestamp=1686967838255",
@@ -316,22 +337,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/2656/webstorage_links/9442/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2565,
-        "title": "C# 9.0 in a Nutshell",
-        "img": "https://imagebsj.netlify.app/2565.jpeg",
-        "author": "Joseph Albahari",
-        "language": "英文",
-        "publishYear": 2021,
-        "programLanguage": "C#",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2565/webstorage_links/8942/to_link"
             }
         ]
     }

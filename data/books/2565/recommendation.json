@@ -1,5 +1,26 @@
 [
     {
+        "id": 3558,
+        "title": "Microsoft Visual C# Step by Step 10th Edition",
+        "img": "http://image.banshujiang.cn/3558.jpeg?timestamp=1697274353067",
+        "author": "John Sharp",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3558/webstorage_links/18493/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3558/webstorage_links/18492/to_link"
+            }
+        ]
+    },
+    {
         "id": 3435,
         "title": "Functional C#",
         "img": "http://image.banshujiang.cn/3435.jpeg?timestamp=1686967838255",
@@ -316,32 +337,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/2656/webstorage_links/9442/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2515,
-        "title": "Essential C# 8.0",
-        "img": "https://imagebsj.netlify.app/2515.jpeg",
-        "author": "Mark Michaelis",
-        "language": "英文",
-        "publishYear": 2020,
-        "programLanguage": "C#",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2515/webstorage_links/8725/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2515/webstorage_links/8727/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/2515/webstorage_links/8726/to_link"
             }
         ]
     }

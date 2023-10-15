@@ -16,6 +16,90 @@
         ]
     },
     {
+        "id": 3560,
+        "title": "Modern Front-End Development for Rails 2nd Edition",
+        "img": "http://image.banshujiang.cn/3560.jpeg?timestamp=1697274521342",
+        "author": "Noel Rappin",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "Ruby",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3560/webstorage_links/18501/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3560/webstorage_links/18500/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3559,
+        "title": "Modern Concurrency in Swift 2nd Edition",
+        "img": "http://image.banshujiang.cn/3559.jpeg?timestamp=1697274441182",
+        "author": "Marin Todorov",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3559/webstorage_links/18497/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3559/webstorage_links/18496/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3541,
+        "title": "Advanced Apple Debugging &amp; Reverse Engineering",
+        "img": "http://image.banshujiang.cn/3541.jpeg?timestamp=1697273649437",
+        "author": "Walter Tyree",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3541/webstorage_links/18434/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3541/webstorage_links/18435/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3521,
+        "title": "Agile Web Development with Rails 7",
+        "img": "http://image.banshujiang.cn/3521.jpeg?timestamp=1696770038701",
+        "author": "Sam Ruby",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Ruby",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3521/webstorage_links/18343/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3521/webstorage_links/18342/to_link"
+            }
+        ]
+    },
+    {
         "id": 3406,
         "title": "macOS Sierra: the missing manual",
         "img": "http://image.banshujiang.cn/3406.jpeg?timestamp=1681021674606",
@@ -238,75 +322,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/2169/webstorage_links/9367/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2069,
-        "title": "Agile Web Development with Rails 5.1",
-        "img": "https://imagebsj.netlify.app/2069.jpeg",
-        "author": "Sam Ruby, David Bryant Copeland with Dave Thomas",
-        "language": "英文",
-        "publishYear": 2017,
-        "programLanguage": "Ruby",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2069/webstorage_links/11316/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2068,
-        "title": "Advanced Apple Debugging &amp; Reverse Engineering, 2nd Edition",
-        "img": "https://imagebsj.netlify.app/2068.jpeg",
-        "author": "Derek Selander",
-        "language": "英文",
-        "publishYear": 2017,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2068/webstorage_links/11313/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2068/webstorage_links/11314/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2020,
-        "title": "Simply Rails 2, 2nd Edition",
-        "img": "https://imagebsj.netlify.app/2020.jpeg",
-        "author": "Patrick Lenz",
-        "language": "英文",
-        "publishYear": 2008,
-        "programLanguage": "Ruby",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2020/webstorage_links/11142/to_link"
-            }
-        ]
-    },
-    {
-        "id": 1918,
-        "title": "Ruby on Rails Enterprise Application Development, Plan, Program, Extend",
-        "img": "https://imagebsj.netlify.app/1918.jpeg",
-        "author": "Elliot Smith and Rob Nichols",
-        "language": "英文",
-        "publishYear": 2007,
-        "programLanguage": "Ruby",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/1918/webstorage_links/11458/to_link"
             }
         ]
     }

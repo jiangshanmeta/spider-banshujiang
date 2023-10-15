@@ -1,5 +1,21 @@
 [
     {
+        "id": 3553,
+        "title": "React Quickly 2nd Edition",
+        "img": "http://image.banshujiang.cn/3553.jpeg?timestamp=1697274003988",
+        "author": "Morten Barklund and Azat Mardan",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3553/webstorage_links/18473/to_link"
+            }
+        ]
+    },
+    {
         "id": 3473,
         "title": "Reactive Programming with RxJS",
         "img": "http://image.banshujiang.cn/3473.jpeg?timestamp=1696506103860",
@@ -341,27 +357,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/3100/webstorage_links/16444/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3095,
-        "title": "JavaScript Everywhere",
-        "img": "https://imagebsj.netlify.app/3095.jpeg",
-        "author": "Adam D. Scott",
-        "language": "英文",
-        "publishYear": 2020,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3095/webstorage_links/16429/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3095/webstorage_links/16430/to_link"
             }
         ]
     }

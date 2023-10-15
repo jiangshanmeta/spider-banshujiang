@@ -1,5 +1,26 @@
 [
     {
+        "id": 3552,
+        "title": "R in Action 3rd Edition",
+        "img": "http://image.banshujiang.cn/3552.jpeg?timestamp=1697273899623",
+        "author": "Robert I. Kabacoff",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3552/webstorage_links/18471/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3552/webstorage_links/18470/to_link"
+            }
+        ]
+    },
+    {
         "id": 3477,
         "title": "The Book of R",
         "img": "http://image.banshujiang.cn/3477.jpeg?timestamp=1696506646279",
@@ -311,22 +332,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/1825/webstorage_links/11724/to_link"
-            }
-        ]
-    },
-    {
-        "id": 1411,
-        "title": "Analyzing Compositional Data with R",
-        "img": "https://imagebsj.netlify.app/1411.jpeg",
-        "author": "K. Gerald van den Boogaart and Raimon Tolosana-Delgado",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "R",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/1411/webstorage_links/13326/to_link"
             }
         ]
     }

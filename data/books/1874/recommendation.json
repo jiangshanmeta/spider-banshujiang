@@ -16,6 +16,48 @@
         ]
     },
     {
+        "id": 3530,
+        "title": "Cloud Native Spring in Action",
+        "img": "http://image.banshujiang.cn/3530.jpeg?timestamp=1696771213577",
+        "author": "Thomas Vitale",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3530/webstorage_links/18377/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3530/webstorage_links/18375/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3530/webstorage_links/18376/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3523,
+        "title": "Core Java  Volume I: Fundamentals 12th Edition",
+        "img": "http://image.banshujiang.cn/3523.jpeg?timestamp=1696770251425",
+        "author": "Cay S. Horstmann",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3523/webstorage_links/18349/to_link"
+            }
+        ]
+    },
+    {
         "id": 3494,
         "title": "Troubleshooting Java",
         "img": "http://image.banshujiang.cn/3494.jpeg?timestamp=1696560251248",
@@ -290,58 +332,6 @@
                 "fmt": "AZW3",
                 "title": "城通网盘",
                 "link": "/e_books/3203/webstorage_links/16945/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3187,
-        "title": "Head First Android Development 2nd Edition",
-        "img": "http://image.banshujiang.cn/3187.jpeg?timestamp=1672468865468",
-        "author": "Dawn Griffiths",
-        "language": "英文",
-        "publishYear": 2017,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3187/webstorage_links/16869/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3187/webstorage_links/16870/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/3187/webstorage_links/16868/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3178,
-        "title": "Data Science with Java",
-        "img": "http://image.banshujiang.cn/3178.jpeg?timestamp=1672467744052",
-        "author": "Michael R. Brzustowicz, PhD",
-        "language": "英文",
-        "publishYear": 2017,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3178/webstorage_links/16822/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3178/webstorage_links/16821/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/3178/webstorage_links/16820/to_link"
             }
         ]
     }

@@ -1,5 +1,26 @@
 [
     {
+        "id": 3528,
+        "title": "Jetpack Compose by Tutorials 2nd Edition",
+        "img": "http://image.banshujiang.cn/3528.jpeg?timestamp=1696771044784",
+        "author": "Denis Buketa &amp; Prateek Prasad",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Kotlin",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3528/webstorage_links/18365/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3528/webstorage_links/18364/to_link"
+            }
+        ]
+    },
+    {
         "id": 3388,
         "title": "Gradle Recipes for Android",
         "img": "http://image.banshujiang.cn/3388.jpeg?timestamp=1677313529596",
@@ -316,27 +337,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/2882/webstorage_links/10556/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2808,
-        "title": "Android Animations by Tutorials",
-        "img": "https://imagebsj.netlify.app/2808.jpeg",
-        "author": "Filip Babić, Prateek Prasad &amp; Alex Sullivan",
-        "language": "英文",
-        "publishYear": 2021,
-        "programLanguage": "Kotlin",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2808/webstorage_links/10221/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2808/webstorage_links/10220/to_link"
             }
         ]
     }

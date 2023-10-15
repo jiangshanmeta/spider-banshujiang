@@ -16,6 +16,48 @@
         ]
     },
     {
+        "id": 3559,
+        "title": "Modern Concurrency in Swift 2nd Edition",
+        "img": "http://image.banshujiang.cn/3559.jpeg?timestamp=1697274441182",
+        "author": "Marin Todorov",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3559/webstorage_links/18497/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3559/webstorage_links/18496/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3541,
+        "title": "Advanced Apple Debugging &amp; Reverse Engineering",
+        "img": "http://image.banshujiang.cn/3541.jpeg?timestamp=1697273649437",
+        "author": "Walter Tyree",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3541/webstorage_links/18434/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3541/webstorage_links/18435/to_link"
+            }
+        ]
+    },
+    {
         "id": 3500,
         "title": "SwiftUI Essentials iOS 16 Edition",
         "img": "http://image.banshujiang.cn/3500.jpeg?timestamp=1696560670634",
@@ -295,58 +337,6 @@
                 "fmt": "CODE",
                 "title": "城通网盘",
                 "link": "/e_books/3367/webstorage_links/17627/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3300,
-        "title": "SwiftUI by Tutorials",
-        "img": "http://image.banshujiang.cn/3300.jpeg?timestamp=1676087998370",
-        "author": "Antonio Bello, Phil Łaszkowicz, Bill Morefield &amp; Audrey Tam",
-        "language": "英文",
-        "publishYear": 2019,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "CODE",
-                "title": "城通网盘",
-                "link": "/e_books/3300/webstorage_links/17411/to_link"
-            },
-            {
-                "fmt": "PDF",
-                "title": "百度网盘",
-                "link": "/e_books/3300/webstorage_links/17410/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "百度网盘",
-                "link": "/e_books/3300/webstorage_links/17409/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3298,
-        "title": "Swift Apprentice 5th Edition",
-        "img": "http://image.banshujiang.cn/3298.jpeg?timestamp=1676087814849",
-        "author": "Ehab Amer, Alexis Gallagher, Matt Galloway, Eli Ganim, Ben Morrow and Cosmin Pupăză",
-        "language": "英文",
-        "publishYear": 2019,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3298/webstorage_links/17399/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3298/webstorage_links/17398/to_link"
-            },
-            {
-                "fmt": "CODE",
-                "title": "城通网盘",
-                "link": "/e_books/3298/webstorage_links/17397/to_link"
             }
         ]
     }

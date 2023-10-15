@@ -16,6 +16,100 @@
         ]
     },
     {
+        "id": 3555,
+        "title": "The Well-Grounded Python Developer",
+        "img": "http://image.banshujiang.cn/3555.jpeg?timestamp=1697274139365",
+        "author": "Doug Farrell",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3555/webstorage_links/18480/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3555/webstorage_links/18481/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3555/webstorage_links/18479/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3541,
+        "title": "Advanced Apple Debugging &amp; Reverse Engineering",
+        "img": "http://image.banshujiang.cn/3541.jpeg?timestamp=1697273649437",
+        "author": "Walter Tyree",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3541/webstorage_links/18434/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3541/webstorage_links/18435/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3539,
+        "title": "Python How-To",
+        "img": "http://image.banshujiang.cn/3539.jpeg?timestamp=1697032857270",
+        "author": "Yong Cui",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3539/webstorage_links/18425/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3539/webstorage_links/18423/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3539/webstorage_links/18424/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3535,
+        "title": "Fast Python",
+        "img": "http://image.banshujiang.cn/3535.jpeg?timestamp=1697032572417",
+        "author": "Tiago Rodrigues Antão",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3535/webstorage_links/18403/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3535/webstorage_links/18402/to_link"
+            }
+        ]
+    },
+    {
         "id": 3510,
         "title": "Modeling and Simulation in Python",
         "img": "http://image.banshujiang.cn/3510.jpeg?timestamp=1696688545321",
@@ -248,95 +342,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3389/webstorage_links/17739/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3386,
-        "title": "Foundations for Analytics with Python",
-        "img": "http://image.banshujiang.cn/3386.jpeg?timestamp=1677313362833",
-        "author": "Clinton W. Brownley",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3386/webstorage_links/17729/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3386/webstorage_links/17728/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/3386/webstorage_links/17727/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3361,
-        "title": "Black Hat PytHon",
-        "img": "http://image.banshujiang.cn/3361.jpeg?timestamp=1677075054570",
-        "author": "Justin Seitz",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3361/webstorage_links/17645/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3361/webstorage_links/17643/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/3361/webstorage_links/17644/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3356,
-        "title": "Python Tools for Scientists",
-        "img": "http://image.banshujiang.cn/3356.jpeg?timestamp=1676704822177",
-        "author": "Lee Vaughan",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3356/webstorage_links/17581/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/3356/webstorage_links/17580/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3355,
-        "title": "Python for Kids 2nd Edition",
-        "img": "http://image.banshujiang.cn/3355.jpeg?timestamp=1676704622324",
-        "author": "Jason R. Briggs",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3355/webstorage_links/17577/to_link"
             }
         ]
     }
