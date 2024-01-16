@@ -1,5 +1,42 @@
 [
     {
+        "id": 3570,
+        "title": "Causal Inference in Python",
+        "img": "http://image.banshujiang.cn/3570.jpeg?timestamp=1705121770946",
+        "author": "Matheus Facure",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3570/webstorage_links/18527/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3570/webstorage_links/18526/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3567,
+        "title": "Football Analytics with Python &amp; R",
+        "img": "http://image.banshujiang.cn/3567.jpeg?timestamp=1705121571132",
+        "author": "Eric A. Eager and Richard A. Erickson",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3567/webstorage_links/18515/to_link"
+            }
+        ]
+    },
+    {
         "id": 3555,
         "title": "The Well-Grounded Python Developer",
         "img": "http://image.banshujiang.cn/3555.jpeg?timestamp=1697274139365",
@@ -320,53 +357,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/3386/webstorage_links/17727/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3361,
-        "title": "Black Hat PytHon",
-        "img": "http://image.banshujiang.cn/3361.jpeg?timestamp=1677075054570",
-        "author": "Justin Seitz",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3361/webstorage_links/17645/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3361/webstorage_links/17643/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/3361/webstorage_links/17644/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3356,
-        "title": "Python Tools for Scientists",
-        "img": "http://image.banshujiang.cn/3356.jpeg?timestamp=1676704822177",
-        "author": "Lee Vaughan",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3356/webstorage_links/17581/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/3356/webstorage_links/17580/to_link"
             }
         ]
     }

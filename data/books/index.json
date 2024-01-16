@@ -65221,5 +65221,201 @@
                 "link": "/e_books/3560/webstorage_links/18500/to_link"
             }
         ]
+    },
+    {
+        "id": 3561,
+        "title": "A Functional Approach to Java",
+        "img": "http://image.banshujiang.cn/3561.jpeg?timestamp=1705120340469",
+        "author": "Ben Weidig",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3561/webstorage_links/18503/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3562,
+        "title": "Building Knowledge Graphs",
+        "img": "http://image.banshujiang.cn/3562.jpeg?timestamp=1705120519147",
+        "author": "Jesús Barrasa and Jim Webber",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3562/webstorage_links/18505/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3563,
+        "title": "Certified Kubernetes Security Specialist (CKS) Study Guide",
+        "img": "http://image.banshujiang.cn/3563.jpeg?timestamp=1705121233004",
+        "author": "Benjamin Muschko",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3563/webstorage_links/18507/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3564,
+        "title": "Data Curious",
+        "img": "http://image.banshujiang.cn/3564.jpeg?timestamp=1705121302388",
+        "author": "Carl Allchin and Sarah Nabelsi",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3564/webstorage_links/18509/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3565,
+        "title": "Embedded Analytics",
+        "img": "http://image.banshujiang.cn/3565.jpeg?timestamp=1705121410951",
+        "author": "Donald Farmer and Jim Horbury",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3565/webstorage_links/18511/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3566,
+        "title": "Functional Programming with C#",
+        "img": "http://image.banshujiang.cn/3566.jpeg?timestamp=1705121499865",
+        "author": "Simon J. Painter",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3566/webstorage_links/18513/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3567,
+        "title": "Football Analytics with Python &amp; R",
+        "img": "http://image.banshujiang.cn/3567.jpeg?timestamp=1705121571132",
+        "author": "Eric A. Eager and Richard A. Erickson",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3567/webstorage_links/18515/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3568,
+        "title": "Azure Cookbook",
+        "img": "http://image.banshujiang.cn/3568.jpeg?timestamp=1705121647267",
+        "author": "Reza Salehi",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3568/webstorage_links/18518/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3568/webstorage_links/18519/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3569,
+        "title": "Building Real-Time Analytics Systems",
+        "img": "http://image.banshujiang.cn/3569.jpeg?timestamp=1705121712707",
+        "author": "Mark Needham",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3569/webstorage_links/18523/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3569/webstorage_links/18522/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3570,
+        "title": "Causal Inference in Python",
+        "img": "http://image.banshujiang.cn/3570.jpeg?timestamp=1705121770946",
+        "author": "Matheus Facure",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3570/webstorage_links/18527/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3570/webstorage_links/18526/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3571,
+        "title": "Clean Code Cookbook",
+        "img": "http://image.banshujiang.cn/3571.jpeg?timestamp=1705129978545",
+        "author": "Maximiliano Contieri",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3571/webstorage_links/18531/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3571/webstorage_links/18530/to_link"
+            }
+        ]
     }
 ]

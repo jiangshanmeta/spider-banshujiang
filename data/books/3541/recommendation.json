@@ -138,6 +138,43 @@
         ]
     },
     {
+        "id": 3570,
+        "title": "Causal Inference in Python",
+        "img": "http://image.banshujiang.cn/3570.jpeg?timestamp=1705121770946",
+        "author": "Matheus Facure",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3570/webstorage_links/18527/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3570/webstorage_links/18526/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3567,
+        "title": "Football Analytics with Python &amp; R",
+        "img": "http://image.banshujiang.cn/3567.jpeg?timestamp=1705121571132",
+        "author": "Eric A. Eager and Richard A. Erickson",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3567/webstorage_links/18515/to_link"
+            }
+        ]
+    },
+    {
         "id": 3555,
         "title": "The Well-Grounded Python Developer",
         "img": "http://image.banshujiang.cn/3555.jpeg?timestamp=1697274139365",
@@ -265,43 +302,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3499/webstorage_links/18259/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3482,
-        "title": "iOS 16 App Development Essentials UIKit Edition",
-        "img": "http://image.banshujiang.cn/3482.jpeg?timestamp=1696510994983",
-        "author": "",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3482/webstorage_links/18186/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3482/webstorage_links/18187/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3476,
-        "title": "Swift Apprentice",
-        "img": "http://image.banshujiang.cn/3476.jpeg?timestamp=1696506533400",
-        "author": "Janie Clayton",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3476/webstorage_links/18159/to_link"
             }
         ]
     }

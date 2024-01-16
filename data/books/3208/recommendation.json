@@ -1,5 +1,21 @@
 [
     {
+        "id": 3561,
+        "title": "A Functional Approach to Java",
+        "img": "http://image.banshujiang.cn/3561.jpeg?timestamp=1705120340469",
+        "author": "Ben Weidig",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3561/webstorage_links/18503/to_link"
+            }
+        ]
+    },
+    {
         "id": 3530,
         "title": "Cloud Native Spring in Action",
         "img": "http://image.banshujiang.cn/3530.jpeg?timestamp=1696771213577",
@@ -326,27 +342,6 @@
                 "fmt": "AZW3",
                 "title": "城通网盘",
                 "link": "/e_books/3178/webstorage_links/16820/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3174,
-        "title": "Cloud Native Java",
-        "img": "http://image.banshujiang.cn/3174.jpeg?timestamp=1672467277208",
-        "author": "Josh Long and Kenny Bastani",
-        "language": "英文",
-        "publishYear": 2017,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3174/webstorage_links/16802/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/3174/webstorage_links/16801/to_link"
             }
         ]
     }

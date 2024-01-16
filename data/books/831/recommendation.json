@@ -1,5 +1,21 @@
 [
     {
+        "id": 3566,
+        "title": "Functional Programming with C#",
+        "img": "http://image.banshujiang.cn/3566.jpeg?timestamp=1705121499865",
+        "author": "Simon J. Painter",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3566/webstorage_links/18513/to_link"
+            }
+        ]
+    },
+    {
         "id": 3559,
         "title": "Modern Concurrency in Swift 2nd Edition",
         "img": "http://image.banshujiang.cn/3559.jpeg?timestamp=1697274441182",
@@ -311,27 +327,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3371/webstorage_links/17663/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3367,
-        "title": "iOS 10 by Tutorials",
-        "img": "http://image.banshujiang.cn/3367.jpeg?timestamp=1677297178073",
-        "author": "Sam Davies, Jeff Rames, &amp; Rich Turton",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3367/webstorage_links/17626/to_link"
-            },
-            {
-                "fmt": "CODE",
-                "title": "城通网盘",
-                "link": "/e_books/3367/webstorage_links/17627/to_link"
             }
         ]
     }
