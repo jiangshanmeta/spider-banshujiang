@@ -1,5 +1,26 @@
 [
     {
+        "id": 3574,
+        "title": "CSS: The Definitive Guide 5th Edition",
+        "img": "http://image.banshujiang.cn/3574.jpeg?timestamp=1706324123064",
+        "author": "Eric A. Meyer and Estelle Weyl",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "CSS",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3574/webstorage_links/18543/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3574/webstorage_links/18542/to_link"
+            }
+        ]
+    },
+    {
         "id": 3556,
         "title": "Tiny CSS Projects",
         "img": "http://image.banshujiang.cn/3556.jpeg?timestamp=1697274212436",
@@ -286,22 +307,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/663/webstorage_links/14838/to_link"
-            }
-        ]
-    },
-    {
-        "id": 322,
-        "title": "CSS Pocket Reference 4th Edition",
-        "img": "https://imagebsj.netlify.app/322.jpeg",
-        "author": "Eric A. Meyer",
-        "language": "英文",
-        "publishYear": 2011,
-        "programLanguage": "CSS",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/322/webstorage_links/14161/to_link"
             }
         ]
     }

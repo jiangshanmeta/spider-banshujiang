@@ -65417,5 +65417,184 @@
                 "link": "/e_books/3571/webstorage_links/18530/to_link"
             }
         ]
+    },
+    {
+        "id": 3572,
+        "title": "ColorWise: A Data Storyteller’s Guide to the Intentional Use of Color",
+        "img": "http://image.banshujiang.cn/3572.jpeg?timestamp=1706323951781",
+        "author": "Kate Strachnyi",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3572/webstorage_links/18535/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3572/webstorage_links/18534/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3573,
+        "title": "Cost-Effective Data Pipelines",
+        "img": "http://image.banshujiang.cn/3573.jpeg?timestamp=1706324052724",
+        "author": "Sev Leonard",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3573/webstorage_links/18539/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3573/webstorage_links/18538/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3574,
+        "title": "CSS: The Definitive Guide 5th Edition",
+        "img": "http://image.banshujiang.cn/3574.jpeg?timestamp=1706324123064",
+        "author": "Eric A. Meyer and Estelle Weyl",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "CSS",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3574/webstorage_links/18543/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3574/webstorage_links/18542/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3575,
+        "title": "Developing Apps with GPT-4 and ChatGPT",
+        "img": "http://image.banshujiang.cn/3575.jpeg?timestamp=1706324206635",
+        "author": "Olivier Caelen and Marie-Alice Blete",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3575/webstorage_links/18546/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3575/webstorage_links/18547/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3576,
+        "title": "Fundamentals of Data Observability",
+        "img": "http://image.banshujiang.cn/3576.jpeg?timestamp=1706324841366",
+        "author": "Andy Petrella",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3576/webstorage_links/18550/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3576/webstorage_links/18551/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3577,
+        "title": "Generative Deep Learning 2nd Edition",
+        "img": "http://image.banshujiang.cn/3577.jpeg?timestamp=1706324935187",
+        "author": "David Foster",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3577/webstorage_links/18555/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3577/webstorage_links/18554/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3578,
+        "title": "Graph-Powered Analytics and Machine Learning with TigerGraph",
+        "img": "http://image.banshujiang.cn/3578.jpeg?timestamp=1706325011582",
+        "author": "Victor Lee, Phuc Kien Nguyen, and Alexander Thomas",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3578/webstorage_links/18559/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3578/webstorage_links/18558/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3579,
+        "title": "Go Cookbook",
+        "img": "http://image.banshujiang.cn/3579.jpeg?timestamp=1706325116566",
+        "author": "Sau Sheong Chang",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Go",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3579/webstorage_links/18561/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3580,
+        "title": "How to Make Things Faster",
+        "img": "http://image.banshujiang.cn/3580.jpeg?timestamp=1706325185276",
+        "author": "Cary Millsap",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3580/webstorage_links/18563/to_link"
+            }
+        ]
     }
 ]

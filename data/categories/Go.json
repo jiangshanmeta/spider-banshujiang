@@ -1,5 +1,21 @@
 [
     {
+        "id": 3579,
+        "title": "Go Cookbook",
+        "img": "http://image.banshujiang.cn/3579.jpeg?timestamp=1706325116566",
+        "author": "Sau Sheong Chang",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Go",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3579/webstorage_links/18561/to_link"
+            }
+        ]
+    },
+    {
         "id": 3436,
         "title": "Go Programming Blueprints 2nd Edition",
         "img": "http://image.banshujiang.cn/3436.jpeg?timestamp=1686968587398",

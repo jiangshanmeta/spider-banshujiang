@@ -1,5 +1,26 @@
 [
     {
+        "id": 3574,
+        "title": "CSS: The Definitive Guide 5th Edition",
+        "img": "http://image.banshujiang.cn/3574.jpeg?timestamp=1706324123064",
+        "author": "Eric A. Meyer and Estelle Weyl",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "CSS",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3574/webstorage_links/18543/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3574/webstorage_links/18542/to_link"
+            }
+        ]
+    },
+    {
         "id": 3556,
         "title": "Tiny CSS Projects",
         "img": "http://image.banshujiang.cn/3556.jpeg?timestamp=1697274212436",
@@ -281,22 +302,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/1580/webstorage_links/12476/to_link"
-            }
-        ]
-    },
-    {
-        "id": 1573,
-        "title": "Full Stack Web Development with Backbone.js",
-        "img": "https://imagebsj.netlify.app/1573.jpeg",
-        "author": "Patrick Mulder",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/1573/webstorage_links/12462/to_link"
             }
         ]
     }
