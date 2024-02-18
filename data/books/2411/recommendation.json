@@ -1,5 +1,47 @@
 [
     {
+        "id": 3591,
+        "title": "Learning Java 6th Edition",
+        "img": "http://image.banshujiang.cn/3591.jpeg?timestamp=1707805706353",
+        "author": "Marc Loy, Patrick Niemeyer, and Daniel Leuck",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3591/webstorage_links/18599/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3591/webstorage_links/18598/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3584,
+        "title": "Java in a Nutshell 8th Edition",
+        "img": "http://image.banshujiang.cn/3584.jpeg?timestamp=1707731981939",
+        "author": "Benjamin J. Evans, Jason Clark, and David Flanagan",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3584/webstorage_links/18575/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3584/webstorage_links/18574/to_link"
+            }
+        ]
+    },
+    {
         "id": 3561,
         "title": "A Functional Approach to Java",
         "img": "http://image.banshujiang.cn/3561.jpeg?timestamp=1705120340469",
@@ -295,53 +337,6 @@
                 "fmt": "AZW3",
                 "title": "城通网盘",
                 "link": "/e_books/3208/webstorage_links/16967/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3203,
-        "title": "Modern Java Recipes",
-        "img": "http://image.banshujiang.cn/3203.jpeg?timestamp=1673782684238",
-        "author": "Ken Kousen",
-        "language": "英文",
-        "publishYear": 2017,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3203/webstorage_links/16946/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/3203/webstorage_links/16945/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3187,
-        "title": "Head First Android Development 2nd Edition",
-        "img": "http://image.banshujiang.cn/3187.jpeg?timestamp=1672468865468",
-        "author": "Dawn Griffiths",
-        "language": "英文",
-        "publishYear": 2017,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3187/webstorage_links/16869/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3187/webstorage_links/16870/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/3187/webstorage_links/16868/to_link"
             }
         ]
     }

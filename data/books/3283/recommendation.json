@@ -1,5 +1,42 @@
 [
     {
+        "id": 3603,
+        "title": "R Packages 2nd Edition",
+        "img": "http://image.banshujiang.cn/3603.jpeg?timestamp=1708052346407",
+        "author": "Hadley Wickham and Jennifer Bryan",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3603/webstorage_links/18633/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3602,
+        "title": "R for Data Science 2nd Edition",
+        "img": "http://image.banshujiang.cn/3602.jpeg?timestamp=1708052265040",
+        "author": "Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3602/webstorage_links/18631/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3602/webstorage_links/18630/to_link"
+            }
+        ]
+    },
+    {
         "id": 3552,
         "title": "R in Action 3rd Edition",
         "img": "http://image.banshujiang.cn/3552.jpeg?timestamp=1697273899623",
@@ -295,38 +332,6 @@
                 "fmt": "AZW3",
                 "title": "城通网盘",
                 "link": "/e_books/2112/webstorage_links/9679/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2036,
-        "title": "Software for Data Analysis Programming with R",
-        "img": "https://imagebsj.netlify.app/2036.jpeg",
-        "author": "John M. Chambers",
-        "language": "英文",
-        "publishYear": 2008,
-        "programLanguage": "R",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2036/webstorage_links/11202/to_link"
-            }
-        ]
-    },
-    {
-        "id": 1825,
-        "title": "Practical Data Science with R",
-        "img": "https://imagebsj.netlify.app/1825.jpeg",
-        "author": "Nina Zumel and John Mount",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "R",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/1825/webstorage_links/11724/to_link"
             }
         ]
     }

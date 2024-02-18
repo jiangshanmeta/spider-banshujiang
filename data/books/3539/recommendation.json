@@ -1,5 +1,68 @@
 [
     {
+        "id": 3619,
+        "title": "Python Playground 2nd Edition",
+        "img": "http://image.banshujiang.cn/3619.jpeg?timestamp=1708054218985",
+        "author": "Mahesh Venkitachalam",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3619/webstorage_links/18690/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3619/webstorage_links/18691/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3605,
+        "title": "Scaling Python with Dask",
+        "img": "http://image.banshujiang.cn/3605.jpeg?timestamp=1708052554122",
+        "author": "Holden Karau and Mika Kimmins",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3605/webstorage_links/18638/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3605/webstorage_links/18639/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3594,
+        "title": "Machine Learning with Python Cookbook 2nd Edition",
+        "img": "http://image.banshujiang.cn/3594.jpeg?timestamp=1707806389650",
+        "author": "Kyle Gallatin and Chris Albon",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3594/webstorage_links/18609/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3594/webstorage_links/18608/to_link"
+            }
+        ]
+    },
+    {
         "id": 3570,
         "title": "Causal Inference in Python",
         "img": "http://image.banshujiang.cn/3570.jpeg?timestamp=1705121770946",
@@ -274,79 +337,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/3417/webstorage_links/17845/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3393,
-        "title": "Introduction to Machine Learning with Python",
-        "img": "http://image.banshujiang.cn/3393.jpeg?timestamp=1677325923722",
-        "author": "Andreas C. Müller and Sarah Guido",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3393/webstorage_links/17751/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3393/webstorage_links/17749/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/3393/webstorage_links/17750/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3389,
-        "title": "Head First Python 2nd Edition",
-        "img": "http://image.banshujiang.cn/3389.jpeg?timestamp=1677313610822",
-        "author": "Paul Barry",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3389/webstorage_links/17738/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3389/webstorage_links/17739/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3386,
-        "title": "Foundations for Analytics with Python",
-        "img": "http://image.banshujiang.cn/3386.jpeg?timestamp=1677313362833",
-        "author": "Clinton W. Brownley",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3386/webstorage_links/17729/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3386/webstorage_links/17728/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/3386/webstorage_links/17727/to_link"
             }
         ]
     }

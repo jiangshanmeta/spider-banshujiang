@@ -16,6 +16,69 @@
         ]
     },
     {
+        "id": 3619,
+        "title": "Python Playground 2nd Edition",
+        "img": "http://image.banshujiang.cn/3619.jpeg?timestamp=1708054218985",
+        "author": "Mahesh Venkitachalam",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3619/webstorage_links/18690/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3619/webstorage_links/18691/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3605,
+        "title": "Scaling Python with Dask",
+        "img": "http://image.banshujiang.cn/3605.jpeg?timestamp=1708052554122",
+        "author": "Holden Karau and Mika Kimmins",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3605/webstorage_links/18638/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3605/webstorage_links/18639/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3594,
+        "title": "Machine Learning with Python Cookbook 2nd Edition",
+        "img": "http://image.banshujiang.cn/3594.jpeg?timestamp=1707806389650",
+        "author": "Kyle Gallatin and Chris Albon",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3594/webstorage_links/18609/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3594/webstorage_links/18608/to_link"
+            }
+        ]
+    },
+    {
         "id": 3570,
         "title": "Causal Inference in Python",
         "img": "http://image.banshujiang.cn/3570.jpeg?timestamp=1705121770946",
@@ -264,74 +327,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/3444/webstorage_links/17985/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3426,
-        "title": "The Hitchhiker’s Guide to Python",
-        "img": "http://image.banshujiang.cn/3426.jpeg?timestamp=1686457295258",
-        "author": "Kenneth Reitz and Tanya Schlusser",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3426/webstorage_links/17884/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3426/webstorage_links/17883/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/3426/webstorage_links/17885/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3418,
-        "title": "Python in a Nutshell 3th Edition",
-        "img": "http://image.banshujiang.cn/3418.jpeg?timestamp=1681544794595",
-        "author": "Alex Martelli, Anna Ravenscroft, and Steve Holden",
-        "language": "英文",
-        "publishYear": 2017,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3418/webstorage_links/17850/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3418/webstorage_links/17849/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/3418/webstorage_links/17851/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3417,
-        "title": "Python Data Science Handbook",
-        "img": "http://image.banshujiang.cn/3417.jpeg?timestamp=1681544336051",
-        "author": "Jake VanderPlas",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3417/webstorage_links/17845/to_link"
             }
         ]
     }

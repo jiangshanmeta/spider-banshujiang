@@ -1,5 +1,42 @@
 [
     {
+        "id": 3617,
+        "title": "Professional Javascript for Web Developers 5th Edition",
+        "img": "http://image.banshujiang.cn/3617.jpeg?timestamp=1708054046155",
+        "author": "Matt Frisbie",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3617/webstorage_links/18683/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3617/webstorage_links/18682/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3592,
+        "title": "Learning JavaScript Design Patterns 2nd Edition",
+        "img": "http://image.banshujiang.cn/3592.jpeg?timestamp=1707805831849",
+        "author": "Addy Osmani",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3592/webstorage_links/18601/to_link"
+            }
+        ]
+    },
+    {
         "id": 3553,
         "title": "React Quickly 2nd Edition",
         "img": "http://image.banshujiang.cn/3553.jpeg?timestamp=1697274003988",
@@ -315,48 +352,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3152/webstorage_links/16713/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3149,
-        "title": "Get Programming with Node.js",
-        "img": "https://imagebsj.netlify.app/3149.jpeg",
-        "author": "Jonathan Wexler",
-        "language": "英文",
-        "publishYear": 2019,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3149/webstorage_links/16698/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3149/webstorage_links/16696/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/3149/webstorage_links/16697/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3100,
-        "title": "Learning JavaScript Data Structures and Algorithms 3rd Edition",
-        "img": "https://imagebsj.netlify.app/3100.jpeg",
-        "author": "Loiane Groner",
-        "language": "英文",
-        "publishYear": 2018,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3100/webstorage_links/16444/to_link"
             }
         ]
     }

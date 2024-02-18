@@ -1,5 +1,21 @@
 [
     {
+        "id": 3604,
+        "title": "Resilient Oracle PL/SQL",
+        "img": "http://image.banshujiang.cn/3604.jpeg?timestamp=1708052420444",
+        "author": "Stephen B. Morris",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3604/webstorage_links/18635/to_link"
+            }
+        ]
+    },
+    {
         "id": 1967,
         "title": "Troubleshooting Oracle Performance",
         "img": "https://imagebsj.netlify.app/1967.jpeg",

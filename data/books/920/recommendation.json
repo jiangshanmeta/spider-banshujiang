@@ -64,6 +64,48 @@
         ]
     },
     {
+        "id": 3591,
+        "title": "Learning Java 6th Edition",
+        "img": "http://image.banshujiang.cn/3591.jpeg?timestamp=1707805706353",
+        "author": "Marc Loy, Patrick Niemeyer, and Daniel Leuck",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3591/webstorage_links/18599/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3591/webstorage_links/18598/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3584,
+        "title": "Java in a Nutshell 8th Edition",
+        "img": "http://image.banshujiang.cn/3584.jpeg?timestamp=1707731981939",
+        "author": "Benjamin J. Evans, Jason Clark, and David Flanagan",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3584/webstorage_links/18575/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3584/webstorage_links/18574/to_link"
+            }
+        ]
+    },
+    {
         "id": 3561,
         "title": "A Functional Approach to Java",
         "img": "http://image.banshujiang.cn/3561.jpeg?timestamp=1705120340469",
@@ -275,48 +317,6 @@
                 "fmt": "AZW3",
                 "title": "城通网盘",
                 "link": "/e_books/3264/webstorage_links/17216/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3228,
-        "title": "Think Java 2nd Edition",
-        "img": "http://image.banshujiang.cn/3228.jpeg?timestamp=1674648363123",
-        "author": "Allen B. Downey and Chris Mayfield",
-        "language": "英文",
-        "publishYear": 2019,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3228/webstorage_links/17053/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3228/webstorage_links/17052/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3219,
-        "title": "Real-World Software Development",
-        "img": "http://image.banshujiang.cn/3219.jpeg?timestamp=1674646681769",
-        "author": "Raoul-Gabriel Urma and Richard Warburton",
-        "language": "英文",
-        "publishYear": 2019,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3219/webstorage_links/17010/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3219/webstorage_links/17009/to_link"
             }
         ]
     }

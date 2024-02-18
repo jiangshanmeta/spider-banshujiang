@@ -1,5 +1,21 @@
 [
     {
+        "id": 3611,
+        "title": "TypeScript Cookbook",
+        "img": "http://image.banshujiang.cn/3611.jpeg?timestamp=1708053307222",
+        "author": "Stefan Baumgartner",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "TypeScript",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3611/webstorage_links/18657/to_link"
+            }
+        ]
+    },
+    {
         "id": 3118,
         "title": "Solid Introduction To Software Design and Architecture with Typescript",
         "img": "https://imagebsj.netlify.app/3118.jpeg",

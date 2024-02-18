@@ -144,6 +144,22 @@
         ]
     },
     {
+        "id": 3598,
+        "title": "PHP Cookbook",
+        "img": "http://image.banshujiang.cn/3598.jpeg?timestamp=1707806670730",
+        "author": "Eric A. Mann",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "PHP",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3598/webstorage_links/18619/to_link"
+            }
+        ]
+    },
+    {
         "id": 3470,
         "title": "PHP for the Web 5th Edition",
         "img": "http://image.banshujiang.cn/3470.jpeg?timestamp=1696339491171",
@@ -271,27 +287,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3315/webstorage_links/17457/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3277,
-        "title": "PHP 7 Data Structures and Algorithms",
-        "img": "http://image.banshujiang.cn/3277.jpeg?timestamp=1675570591329",
-        "author": "Mizanur Rahman",
-        "language": "英文",
-        "publishYear": 2017,
-        "programLanguage": "PHP",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3277/webstorage_links/17287/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/3277/webstorage_links/17286/to_link"
             }
         ]
     }

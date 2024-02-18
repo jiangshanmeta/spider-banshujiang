@@ -1,5 +1,21 @@
 [
     {
+        "id": 3604,
+        "title": "Resilient Oracle PL/SQL",
+        "img": "http://image.banshujiang.cn/3604.jpeg?timestamp=1708052420444",
+        "author": "Stephen B. Morris",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3604/webstorage_links/18635/to_link"
+            }
+        ]
+    },
+    {
         "id": 3404,
         "title": "Learning Perl 7th Edition",
         "img": "http://image.banshujiang.cn/3404.jpeg?timestamp=1681021476228",
@@ -251,22 +267,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/1473/webstorage_links/13450/to_link"
-            }
-        ]
-    },
-    {
-        "id": 1470,
-        "title": "OCA Oracle Database 11g: SQL Fundamentals I Exam Guide (Exam 1Z0-051)",
-        "img": "https://imagebsj.netlify.app/1470.jpeg",
-        "author": "John Watson and Roopesh Ramklass",
-        "language": "英文",
-        "publishYear": 2008,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/1470/webstorage_links/13444/to_link"
             }
         ]
     }

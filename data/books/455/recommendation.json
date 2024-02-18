@@ -16,6 +16,22 @@
         ]
     },
     {
+        "id": 3581,
+        "title": "Head First Android Development 3nd Edition",
+        "img": "http://image.banshujiang.cn/3581.jpeg?timestamp=1707731681015",
+        "author": "Dawn Griffiths and David Griffiths",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Kotlin",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3581/webstorage_links/18565/to_link"
+            }
+        ]
+    },
+    {
         "id": 3528,
         "title": "Jetpack Compose by Tutorials 2nd Edition",
         "img": "http://image.banshujiang.cn/3528.jpeg?timestamp=1696771044784",
@@ -346,22 +362,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/3007/webstorage_links/16067/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2917,
-        "title": "Kotlin Multiplatform by Tutorials",
-        "img": "https://imagebsj.netlify.app/2917.jpeg",
-        "author": "Kevin D. Moore",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "Kotlin",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2917/webstorage_links/10703/to_link"
             }
         ]
     }

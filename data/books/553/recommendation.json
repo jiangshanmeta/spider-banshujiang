@@ -1,5 +1,21 @@
 [
     {
+        "id": 3598,
+        "title": "PHP Cookbook",
+        "img": "http://image.banshujiang.cn/3598.jpeg?timestamp=1707806670730",
+        "author": "Eric A. Mann",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "PHP",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3598/webstorage_links/18619/to_link"
+            }
+        ]
+    },
+    {
         "id": 3470,
         "title": "PHP for the Web 5th Edition",
         "img": "http://image.banshujiang.cn/3470.jpeg?timestamp=1696339491171",
@@ -321,27 +337,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/2041/webstorage_links/11422/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2032,
-        "title": "PHP and MySQL Web Development 5th Edition",
-        "img": "https://imagebsj.netlify.app/2032.jpeg",
-        "author": "Luke Welling and Laura Thomson",
-        "language": "英文",
-        "publishYear": 2017,
-        "programLanguage": "PHP",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2032/webstorage_links/11189/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2032/webstorage_links/11190/to_link"
             }
         ]
     }
