@@ -208,6 +208,27 @@
         ]
     },
     {
+        "id": 3638,
+        "title": "Third-Party JavaScript",
+        "img": "http://image.banshujiang.cn/3638.jpeg?timestamp=1708776371146",
+        "author": "Ben Vinegar and Anton Kovalyov",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3638/webstorage_links/18757/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3638/webstorage_links/18756/to_link"
+            }
+        ]
+    },
+    {
         "id": 3617,
         "title": "Professional Javascript for Web Developers 5th Edition",
         "img": "http://image.banshujiang.cn/3617.jpeg?timestamp=1708054046155",
@@ -241,22 +262,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3592/webstorage_links/18601/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3553,
-        "title": "React Quickly 2nd Edition",
-        "img": "http://image.banshujiang.cn/3553.jpeg?timestamp=1697274003988",
-        "author": "Morten Barklund and Azat Mardan",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3553/webstorage_links/18473/to_link"
             }
         ]
     }

@@ -16,6 +16,27 @@
         ]
     },
     {
+        "id": 3630,
+        "title": "Effective Unit Testing",
+        "img": "http://image.banshujiang.cn/3630.jpeg?timestamp=1708773742904",
+        "author": "Lasse Koskela",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3630/webstorage_links/18729/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3630/webstorage_links/18728/to_link"
+            }
+        ]
+    },
+    {
         "id": 3591,
         "title": "Learning Java 6th Edition",
         "img": "http://image.banshujiang.cn/3591.jpeg?timestamp=1707805706353",
@@ -301,27 +322,6 @@
                 "fmt": "AZW3",
                 "title": "城通网盘",
                 "link": "/e_books/3264/webstorage_links/17216/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3228,
-        "title": "Think Java 2nd Edition",
-        "img": "http://image.banshujiang.cn/3228.jpeg?timestamp=1674648363123",
-        "author": "Allen B. Downey and Chris Mayfield",
-        "language": "英文",
-        "publishYear": 2019,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3228/webstorage_links/17053/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3228/webstorage_links/17052/to_link"
             }
         ]
     }

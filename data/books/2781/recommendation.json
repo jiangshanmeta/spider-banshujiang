@@ -1,5 +1,26 @@
 [
     {
+        "id": 3628,
+        "title": "T-SQL Fundamentals",
+        "img": "http://image.banshujiang.cn/3628.jpeg?timestamp=1708773541020",
+        "author": "Itzik Ben-Gan 4th Edition",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "SQL",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3628/webstorage_links/18721/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3628/webstorage_links/18720/to_link"
+            }
+        ]
+    },
+    {
         "id": 3045,
         "title": "Learning SQL 3rd Edition",
         "img": "https://imagebsj.netlify.app/3045.jpeg",
@@ -311,22 +332,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/2052/webstorage_links/11238/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2051,
-        "title": "SQL A Beginner&#39;s Guide 3rd Edition",
-        "img": "https://imagebsj.netlify.app/2051.jpeg",
-        "author": "Andy Oppel and Robert Sheldon",
-        "language": "英文",
-        "publishYear": 2008,
-        "programLanguage": "SQL",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2051/webstorage_links/11236/to_link"
             }
         ]
     }

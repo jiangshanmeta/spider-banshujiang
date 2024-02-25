@@ -1,5 +1,26 @@
 [
     {
+        "id": 3624,
+        "title": "The Android Malware Handbook",
+        "img": "http://image.banshujiang.cn/3624.jpeg?timestamp=1708773203662",
+        "author": "Qian Han, Salvador Mandujano, Sebastian Porst, V.S. Subrahmanian, Sai Deep Tetali, and Yanhai Xiong",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Kotlin",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3624/webstorage_links/18706/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3624/webstorage_links/18707/to_link"
+            }
+        ]
+    },
+    {
         "id": 3581,
         "title": "Head First Android Development 3nd Edition",
         "img": "http://image.banshujiang.cn/3581.jpeg?timestamp=1707731681015",
@@ -306,27 +327,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/2903/webstorage_links/10645/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2891,
-        "title": "Programming Kotlin: Creating Elegant, Expressive, and Performant JVM and Android Applications",
-        "img": "https://imagebsj.netlify.app/2891.jpeg",
-        "author": "Venkat Subramaniam",
-        "language": "英文",
-        "publishYear": 2019,
-        "programLanguage": "Kotlin",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2891/webstorage_links/10591/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2891/webstorage_links/10590/to_link"
             }
         ]
     }

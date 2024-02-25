@@ -53,6 +53,27 @@
         ]
     },
     {
+        "id": 3630,
+        "title": "Effective Unit Testing",
+        "img": "http://image.banshujiang.cn/3630.jpeg?timestamp=1708773742904",
+        "author": "Lasse Koskela",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3630/webstorage_links/18729/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3630/webstorage_links/18728/to_link"
+            }
+        ]
+    },
+    {
         "id": 3591,
         "title": "Learning Java 6th Edition",
         "img": "http://image.banshujiang.cn/3591.jpeg?timestamp=1707805706353",
@@ -301,27 +322,6 @@
                 "fmt": "AZW3",
                 "title": "城通网盘",
                 "link": "/e_books/3265/webstorage_links/17220/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3264,
-        "title": "Java 9 Concurrency Cookbook 2nd Edition",
-        "img": "http://image.banshujiang.cn/3264.jpeg?timestamp=1675506646515",
-        "author": "Javier Fernández González",
-        "language": "英文",
-        "publishYear": 2017,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3264/webstorage_links/17217/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/3264/webstorage_links/17216/to_link"
             }
         ]
     }

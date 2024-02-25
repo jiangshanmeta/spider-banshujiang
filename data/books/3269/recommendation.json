@@ -1,5 +1,26 @@
 [
     {
+        "id": 3638,
+        "title": "Third-Party JavaScript",
+        "img": "http://image.banshujiang.cn/3638.jpeg?timestamp=1708776371146",
+        "author": "Ben Vinegar and Anton Kovalyov",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3638/webstorage_links/18757/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3638/webstorage_links/18756/to_link"
+            }
+        ]
+    },
+    {
         "id": 3617,
         "title": "Professional Javascript for Web Developers 5th Edition",
         "img": "http://image.banshujiang.cn/3617.jpeg?timestamp=1708054046155",
@@ -331,27 +352,6 @@
                 "fmt": "AZW3",
                 "title": "城通网盘",
                 "link": "/e_books/3250/webstorage_links/17140/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3152,
-        "title": "JavaScript: Optimizing Native JavaScript",
-        "img": "http://image.banshujiang.cn/3152.jpeg?timestamp=1668781414287",
-        "author": "Robert C. Etheredge",
-        "language": "英文",
-        "publishYear": 2017,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3152/webstorage_links/16714/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3152/webstorage_links/16713/to_link"
             }
         ]
     }

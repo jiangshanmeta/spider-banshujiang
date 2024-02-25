@@ -138,6 +138,27 @@
         ]
     },
     {
+        "id": 3623,
+        "title": "SwiftUI Animations by Tutorials",
+        "img": "http://image.banshujiang.cn/3623.jpeg?timestamp=1708772434058",
+        "author": "Irina Galata &amp; Bill Morefield",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3623/webstorage_links/18703/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3623/webstorage_links/18702/to_link"
+            }
+        ]
+    },
+    {
         "id": 3619,
         "title": "Python Playground 2nd Edition",
         "img": "http://image.banshujiang.cn/3619.jpeg?timestamp=1708054218985",
@@ -281,32 +302,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/3555/webstorage_links/18479/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3539,
-        "title": "Python How-To",
-        "img": "http://image.banshujiang.cn/3539.jpeg?timestamp=1697032857270",
-        "author": "Yong Cui",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3539/webstorage_links/18425/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3539/webstorage_links/18423/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/3539/webstorage_links/18424/to_link"
             }
         ]
     }

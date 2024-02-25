@@ -1,5 +1,21 @@
 [
     {
+        "id": 3627,
+        "title": "The Shape of Data",
+        "img": "http://image.banshujiang.cn/3627.jpeg?timestamp=1708773444639",
+        "author": "Colleen M. Farrelly and Yaé Ulrich Gaba",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3627/webstorage_links/18717/to_link"
+            }
+        ]
+    },
+    {
         "id": 3603,
         "title": "R Packages 2nd Edition",
         "img": "http://image.banshujiang.cn/3603.jpeg?timestamp=1708052346407",
@@ -321,32 +337,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/2260/webstorage_links/15633/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2112,
-        "title": "R Deep Learning Cookbook",
-        "img": "https://imagebsj.netlify.app/2112.jpeg",
-        "author": "Dr. PKS Prakash and Achyutuni Sri Krishna Rao",
-        "language": "英文",
-        "publishYear": 2017,
-        "programLanguage": "R",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2112/webstorage_links/9678/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2112/webstorage_links/9680/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/2112/webstorage_links/9679/to_link"
             }
         ]
     }

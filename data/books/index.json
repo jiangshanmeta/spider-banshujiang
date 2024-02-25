@@ -66361,5 +66361,405 @@
                 "link": "/e_books/3620/webstorage_links/18693/to_link"
             }
         ]
+    },
+    {
+        "id": 3621,
+        "title": "Strategic Monoliths and Microservices",
+        "img": "http://image.banshujiang.cn/3621.jpeg?timestamp=1708763818596",
+        "author": "Vaughn Vernon and Tomasz Jaskuła",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3621/webstorage_links/18694/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3621/webstorage_links/18695/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3622,
+        "title": "Sockets and Pipes",
+        "img": "http://image.banshujiang.cn/3622.jpeg?timestamp=1708769746937",
+        "author": " Chris Martin and Julie Moronuki",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3622/webstorage_links/18699/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3623,
+        "title": "SwiftUI Animations by Tutorials",
+        "img": "http://image.banshujiang.cn/3623.jpeg?timestamp=1708772434058",
+        "author": "Irina Galata &amp; Bill Morefield",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3623/webstorage_links/18703/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3623/webstorage_links/18702/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3624,
+        "title": "The Android Malware Handbook",
+        "img": "http://image.banshujiang.cn/3624.jpeg?timestamp=1708773203662",
+        "author": "Qian Han, Salvador Mandujano, Sebastian Porst, V.S. Subrahmanian, Sai Deep Tetali, and Yanhai Xiong",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Kotlin",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3624/webstorage_links/18706/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3624/webstorage_links/18707/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3625,
+        "title": "The AWK Programming Language 2nd Edition",
+        "img": "http://image.banshujiang.cn/3625.jpeg?timestamp=1708773275409",
+        "author": "Alfred V. Aho",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3625/webstorage_links/18711/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3625/webstorage_links/18710/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3626,
+        "title": "The C# Type System",
+        "img": "http://image.banshujiang.cn/3626.jpeg?timestamp=1708773359023",
+        "author": "Steve Love",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3626/webstorage_links/18714/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3626/webstorage_links/18715/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3627,
+        "title": "The Shape of Data",
+        "img": "http://image.banshujiang.cn/3627.jpeg?timestamp=1708773444639",
+        "author": "Colleen M. Farrelly and Yaé Ulrich Gaba",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3627/webstorage_links/18717/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3628,
+        "title": "T-SQL Fundamentals",
+        "img": "http://image.banshujiang.cn/3628.jpeg?timestamp=1708773541020",
+        "author": "Itzik Ben-Gan 4th Edition",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "SQL",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3628/webstorage_links/18721/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3628/webstorage_links/18720/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3629,
+        "title": "x64 Assembly Language Step- by- Step 4th Edition",
+        "img": "http://image.banshujiang.cn/3629.jpeg?timestamp=1708773630471",
+        "author": "Jeff Duntemann",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3629/webstorage_links/18725/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3629/webstorage_links/18724/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3630,
+        "title": "Effective Unit Testing",
+        "img": "http://image.banshujiang.cn/3630.jpeg?timestamp=1708773742904",
+        "author": "Lasse Koskela",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3630/webstorage_links/18729/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3630/webstorage_links/18728/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3631,
+        "title": "Enterprise OSGi in Action",
+        "img": "http://image.banshujiang.cn/3631.jpeg?timestamp=1708775678397",
+        "author": "Holly Cummins and Timothy Ward",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3631/webstorage_links/18731/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3632,
+        "title": "GWT in Action 2nd Edition",
+        "img": "http://image.banshujiang.cn/3632.jpeg?timestamp=1708775756491",
+        "author": "Adam Tacy",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3632/webstorage_links/18735/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3632/webstorage_links/18734/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3633,
+        "title": "Lean Analytics",
+        "img": "http://image.banshujiang.cn/3633.jpeg?timestamp=1708775820240",
+        "author": "Alistair Croll and Benjamin Yoskovitz",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3633/webstorage_links/18765/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3633/webstorage_links/18764/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3634,
+        "title": "MongoDB Applied Design Patterns",
+        "img": "http://image.banshujiang.cn/3634.jpeg?timestamp=1708775956577",
+        "author": "Rick Copeland",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3634/webstorage_links/18741/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3634/webstorage_links/18740/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3635,
+        "title": "PowerShell in Depth",
+        "img": "http://image.banshujiang.cn/3635.jpeg?timestamp=1708776017693",
+        "author": "Don Jones",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "PowerShell",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3635/webstorage_links/18745/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3635/webstorage_links/18744/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3636,
+        "title": "The Lean Startup",
+        "img": "http://image.banshujiang.cn/3636.jpeg?timestamp=1708776127268",
+        "author": "Eric Ries",
+        "language": "英文",
+        "publishYear": 2011,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3636/webstorage_links/18748/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3636/webstorage_links/18749/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3637,
+        "title": "The New Kingmakers",
+        "img": "http://image.banshujiang.cn/3637.jpeg?timestamp=1708776296337",
+        "author": "Stephen O’Grady",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3637/webstorage_links/18753/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3637/webstorage_links/18752/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3638,
+        "title": "Third-Party JavaScript",
+        "img": "http://image.banshujiang.cn/3638.jpeg?timestamp=1708776371146",
+        "author": "Ben Vinegar and Anton Kovalyov",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3638/webstorage_links/18757/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3638/webstorage_links/18756/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3639,
+        "title": "Thoughts on Interaction Design",
+        "img": "http://image.banshujiang.cn/3639.jpeg?timestamp=1708776480605",
+        "author": "Jon Kolko",
+        "language": "英文",
+        "publishYear": 2007,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3639/webstorage_links/18759/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3640,
+        "title": "Twisted Network Programming Essentials 2nd Edition",
+        "img": "http://image.banshujiang.cn/3640.jpeg?timestamp=1708776540827",
+        "author": "Jessica McKellar and Abe Fettig",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3640/webstorage_links/18763/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3640/webstorage_links/18762/to_link"
+            }
+        ]
     }
 ]

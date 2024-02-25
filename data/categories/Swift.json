@@ -1,5 +1,26 @@
 [
     {
+        "id": 3623,
+        "title": "SwiftUI Animations by Tutorials",
+        "img": "http://image.banshujiang.cn/3623.jpeg?timestamp=1708772434058",
+        "author": "Irina Galata &amp; Bill Morefield",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3623/webstorage_links/18703/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3623/webstorage_links/18702/to_link"
+            }
+        ]
+    },
+    {
         "id": 3618,
         "title": "Push Notifications by Tutorials 4th Edition",
         "img": "http://image.banshujiang.cn/3618.jpeg?timestamp=1708054143788",

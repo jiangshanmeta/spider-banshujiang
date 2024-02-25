@@ -16,6 +16,27 @@
         ]
     },
     {
+        "id": 3624,
+        "title": "The Android Malware Handbook",
+        "img": "http://image.banshujiang.cn/3624.jpeg?timestamp=1708773203662",
+        "author": "Qian Han, Salvador Mandujano, Sebastian Porst, V.S. Subrahmanian, Sai Deep Tetali, and Yanhai Xiong",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Kotlin",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3624/webstorage_links/18706/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3624/webstorage_links/18707/to_link"
+            }
+        ]
+    },
+    {
         "id": 3581,
         "title": "Head First Android Development 3nd Edition",
         "img": "http://image.banshujiang.cn/3581.jpeg?timestamp=1707731681015",
@@ -346,22 +367,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/3059/webstorage_links/16258/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3007,
-        "title": "Android Programming 4th Edition",
-        "img": "https://imagebsj.netlify.app/3007.jpeg",
-        "author": "Kristin Marsicano, Brian Gardner, Bill Phillips and Chris Stewart",
-        "language": "英文",
-        "publishYear": 2019,
-        "programLanguage": "Kotlin",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3007/webstorage_links/16067/to_link"
             }
         ]
     }

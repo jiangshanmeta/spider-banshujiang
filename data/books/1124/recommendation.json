@@ -64,6 +64,27 @@
         ]
     },
     {
+        "id": 3626,
+        "title": "The C# Type System",
+        "img": "http://image.banshujiang.cn/3626.jpeg?timestamp=1708773359023",
+        "author": "Steve Love",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3626/webstorage_links/18714/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3626/webstorage_links/18715/to_link"
+            }
+        ]
+    },
+    {
         "id": 3566,
         "title": "Functional Programming with C#",
         "img": "http://image.banshujiang.cn/3566.jpeg?timestamp=1705121499865",
@@ -286,22 +307,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/2900/webstorage_links/10635/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2849,
-        "title": "C# 10 Pocket Reference",
-        "img": "https://imagebsj.netlify.app/2849.jpeg",
-        "author": "Joseph Albahari and Ben Albahari",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "C#",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2849/webstorage_links/10441/to_link"
             }
         ]
     }

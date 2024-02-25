@@ -1,5 +1,26 @@
 [
     {
+        "id": 3635,
+        "title": "PowerShell in Depth",
+        "img": "http://image.banshujiang.cn/3635.jpeg?timestamp=1708776017693",
+        "author": "Don Jones",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "PowerShell",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3635/webstorage_links/18745/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3635/webstorage_links/18744/to_link"
+            }
+        ]
+    },
+    {
         "id": 3236,
         "title": "Learn Windows PowerShell in a Month of Lunches 3rd Edtion",
         "img": "http://image.banshujiang.cn/3236.jpeg?timestamp=1674791757107",

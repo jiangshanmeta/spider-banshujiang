@@ -1,5 +1,26 @@
 [
     {
+        "id": 3626,
+        "title": "The C# Type System",
+        "img": "http://image.banshujiang.cn/3626.jpeg?timestamp=1708773359023",
+        "author": "Steve Love",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3626/webstorage_links/18714/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3626/webstorage_links/18715/to_link"
+            }
+        ]
+    },
+    {
         "id": 3566,
         "title": "Functional Programming with C#",
         "img": "http://image.banshujiang.cn/3566.jpeg?timestamp=1705121499865",
@@ -306,32 +327,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/2751/webstorage_links/9990/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2733,
-        "title": "Microservices in .NET 2nd Edition",
-        "img": "https://imagebsj.netlify.app/2733.jpeg",
-        "author": "Christian Horsdal Gammelgaard",
-        "language": "英文",
-        "publishYear": 2021,
-        "programLanguage": "C#",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2733/webstorage_links/9909/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2733/webstorage_links/9910/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/2733/webstorage_links/9911/to_link"
             }
         ]
     }

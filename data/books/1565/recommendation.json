@@ -112,6 +112,27 @@
         ]
     },
     {
+        "id": 3635,
+        "title": "PowerShell in Depth",
+        "img": "http://image.banshujiang.cn/3635.jpeg?timestamp=1708776017693",
+        "author": "Don Jones",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "PowerShell",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3635/webstorage_links/18745/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3635/webstorage_links/18744/to_link"
+            }
+        ]
+    },
+    {
         "id": 3508,
         "title": "Practical Automation with PowerShell",
         "img": "http://image.banshujiang.cn/3508.jpeg?timestamp=1696688367329",
@@ -301,22 +322,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/2134/webstorage_links/9404/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2007,
-        "title": "Securing Windows Server 2008",
-        "img": "https://imagebsj.netlify.app/2007.jpeg",
-        "author": "Dale Liu and Remco Wisselink",
-        "language": "英文",
-        "publishYear": 2008,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2007/webstorage_links/11106/to_link"
             }
         ]
     }
