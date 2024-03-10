@@ -1,5 +1,26 @@
 [
     {
+        "id": 3674,
+        "title": "MongoDB: The Definitive Guide 2nd Edition",
+        "img": "http://image.banshujiang.cn/3674.jpeg?timestamp=1709976164165",
+        "author": "Kristina Chodorow",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3674/webstorage_links/18883/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3674/webstorage_links/18882/to_link"
+            }
+        ]
+    },
+    {
         "id": 3634,
         "title": "MongoDB Applied Design Patterns",
         "img": "http://image.banshujiang.cn/3634.jpeg?timestamp=1708775956577",
@@ -316,32 +337,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/3444/webstorage_links/17985/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3426,
-        "title": "The Hitchhiker’s Guide to Python",
-        "img": "http://image.banshujiang.cn/3426.jpeg?timestamp=1686457295258",
-        "author": "Kenneth Reitz and Tanya Schlusser",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3426/webstorage_links/17884/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3426/webstorage_links/17883/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/3426/webstorage_links/17885/to_link"
             }
         ]
     }

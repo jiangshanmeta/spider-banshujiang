@@ -208,65 +208,60 @@
         ]
     },
     {
-        "id": 3638,
-        "title": "Third-Party JavaScript",
-        "img": "http://image.banshujiang.cn/3638.jpeg?timestamp=1708776371146",
-        "author": "Ben Vinegar and Anton Kovalyov",
+        "id": 3674,
+        "title": "MongoDB: The Definitive Guide 2nd Edition",
+        "img": "http://image.banshujiang.cn/3674.jpeg?timestamp=1709976164165",
+        "author": "Kristina Chodorow",
         "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3638/webstorage_links/18757/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3638/webstorage_links/18756/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3634,
-        "title": "MongoDB Applied Design Patterns",
-        "img": "http://image.banshujiang.cn/3634.jpeg?timestamp=1708775956577",
-        "author": "Rick Copeland",
-        "language": "英文",
-        "publishYear": 2013,
+        "publishYear": 2024,
         "programLanguage": "",
         "formats": [
             {
                 "fmt": "PDF",
                 "title": "城通网盘",
-                "link": "/e_books/3634/webstorage_links/18741/to_link"
+                "link": "/e_books/3674/webstorage_links/18883/to_link"
             },
             {
                 "fmt": "EPUB",
                 "title": "城通网盘",
-                "link": "/e_books/3634/webstorage_links/18740/to_link"
+                "link": "/e_books/3674/webstorage_links/18882/to_link"
             }
         ]
     },
     {
-        "id": 3617,
-        "title": "Professional Javascript for Web Developers 5th Edition",
-        "img": "http://image.banshujiang.cn/3617.jpeg?timestamp=1708054046155",
-        "author": "Matt Frisbie",
+        "id": 3670,
+        "title": "Learning JavaScript 2nd Edition",
+        "img": "http://image.banshujiang.cn/3670.jpeg?timestamp=1709956486420",
+        "author": "Shelley Powers",
         "language": "英文",
-        "publishYear": 2023,
+        "publishYear": 2008,
         "programLanguage": "JavaScript",
         "formats": [
             {
                 "fmt": "PDF",
                 "title": "城通网盘",
-                "link": "/e_books/3617/webstorage_links/18683/to_link"
+                "link": "/e_books/3670/webstorage_links/18867/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3669,
+        "title": "Learning Ext JS 4",
+        "img": "http://image.banshujiang.cn/3669.jpeg?timestamp=1709956417942",
+        "author": "Crysfel Villa and Armando Gonzalez",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3669/webstorage_links/18865/to_link"
             },
             {
                 "fmt": "EPUB",
                 "title": "城通网盘",
-                "link": "/e_books/3617/webstorage_links/18682/to_link"
+                "link": "/e_books/3669/webstorage_links/18864/to_link"
             }
         ]
     }

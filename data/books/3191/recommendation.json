@@ -1,5 +1,26 @@
 [
     {
+        "id": 3655,
+        "title": "Études for Erlang",
+        "img": "http://image.banshujiang.cn/3655.jpeg?timestamp=1709954663475",
+        "author": "J. David Eisenberg",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Erlang",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3655/webstorage_links/18821/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3655/webstorage_links/18820/to_link"
+            }
+        ]
+    },
+    {
         "id": 2305,
         "title": "Property-Based Testing with PropEr, Erlang, and Elixir",
         "img": "https://imagebsj.netlify.app/2305.jpeg",

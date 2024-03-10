@@ -1,5 +1,26 @@
 [
     {
+        "id": 3674,
+        "title": "MongoDB: The Definitive Guide 2nd Edition",
+        "img": "http://image.banshujiang.cn/3674.jpeg?timestamp=1709976164165",
+        "author": "Kristina Chodorow",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3674/webstorage_links/18883/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3674/webstorage_links/18882/to_link"
+            }
+        ]
+    },
+    {
         "id": 3204,
         "title": "MongoDB: The Definitive Guide 3rd Edition",
         "img": "http://image.banshujiang.cn/3204.jpeg?timestamp=1673782784729",

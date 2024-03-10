@@ -208,10 +208,26 @@
         ]
     },
     {
-        "id": 3638,
-        "title": "Third-Party JavaScript",
-        "img": "http://image.banshujiang.cn/3638.jpeg?timestamp=1708776371146",
-        "author": "Ben Vinegar and Anton Kovalyov",
+        "id": 3670,
+        "title": "Learning JavaScript 2nd Edition",
+        "img": "http://image.banshujiang.cn/3670.jpeg?timestamp=1709956486420",
+        "author": "Shelley Powers",
+        "language": "英文",
+        "publishYear": 2008,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3670/webstorage_links/18867/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3669,
+        "title": "Learning Ext JS 4",
+        "img": "http://image.banshujiang.cn/3669.jpeg?timestamp=1709956417942",
+        "author": "Crysfel Villa and Armando Gonzalez",
         "language": "英文",
         "publishYear": 2013,
         "programLanguage": "JavaScript",
@@ -219,49 +235,28 @@
             {
                 "fmt": "PDF",
                 "title": "城通网盘",
-                "link": "/e_books/3638/webstorage_links/18757/to_link"
+                "link": "/e_books/3669/webstorage_links/18865/to_link"
             },
             {
                 "fmt": "EPUB",
                 "title": "城通网盘",
-                "link": "/e_books/3638/webstorage_links/18756/to_link"
+                "link": "/e_books/3669/webstorage_links/18864/to_link"
             }
         ]
     },
     {
-        "id": 3617,
-        "title": "Professional Javascript for Web Developers 5th Edition",
-        "img": "http://image.banshujiang.cn/3617.jpeg?timestamp=1708054046155",
-        "author": "Matt Frisbie",
+        "id": 3668,
+        "title": "Learning Ext JS 3.2",
+        "img": "http://image.banshujiang.cn/3668.jpeg?timestamp=1709956346662",
+        "author": "Shea Frederick, Colin Ramsay, Steve &#39;Cutter&#39; Blades and Nigel White",
         "language": "英文",
-        "publishYear": 2023,
+        "publishYear": 2010,
         "programLanguage": "JavaScript",
         "formats": [
             {
                 "fmt": "PDF",
                 "title": "城通网盘",
-                "link": "/e_books/3617/webstorage_links/18683/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3617/webstorage_links/18682/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3592,
-        "title": "Learning JavaScript Design Patterns 2nd Edition",
-        "img": "http://image.banshujiang.cn/3592.jpeg?timestamp=1707805831849",
-        "author": "Addy Osmani",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3592/webstorage_links/18601/to_link"
+                "link": "/e_books/3668/webstorage_links/18861/to_link"
             }
         ]
     }

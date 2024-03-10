@@ -1,5 +1,47 @@
 [
     {
+        "id": 3653,
+        "title": "Embedded Android",
+        "img": "http://image.banshujiang.cn/3653.jpeg?timestamp=1709954126691",
+        "author": "Karim Yaghmour",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3653/webstorage_links/18813/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3653/webstorage_links/18812/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3641,
+        "title": "50 Android Hacks",
+        "img": "http://image.banshujiang.cn/3641.jpeg?timestamp=1709951083166",
+        "author": "Carlos Sessa",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3641/webstorage_links/18769/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3641/webstorage_links/18768/to_link"
+            }
+        ]
+    },
+    {
         "id": 3624,
         "title": "The Android Malware Handbook",
         "img": "http://image.banshujiang.cn/3624.jpeg?timestamp=1708773203662",

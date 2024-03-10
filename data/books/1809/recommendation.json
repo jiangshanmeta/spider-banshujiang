@@ -48,6 +48,117 @@
         ]
     },
     {
+        "id": 3676,
+        "title": "OCA Java SE 7 Programmer I Certification Guide",
+        "img": "http://image.banshujiang.cn/3676.jpeg?timestamp=1709976435873",
+        "author": "Mala Gupta",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3676/webstorage_links/18891/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3676/webstorage_links/18890/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3663,
+        "title": "Java Persistence with Hibernate",
+        "img": "http://image.banshujiang.cn/3663.jpeg?timestamp=1709955988401",
+        "author": "Christian Bauer and Gavin King",
+        "language": "英文",
+        "publishYear": 2006,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3663/webstorage_links/18845/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3660,
+        "title": "Hibernate Search in Action",
+        "img": "http://image.banshujiang.cn/3660.jpeg?timestamp=1709955611897",
+        "author": "Emmanuel Bernard and John Griffin",
+        "language": "英文",
+        "publishYear": 2008,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3660/webstorage_links/18835/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3659,
+        "title": "Hibernate in Action",
+        "img": "http://image.banshujiang.cn/3659.jpeg?timestamp=1709955544223",
+        "author": "Christian Bauer and Gavin King",
+        "language": "英文",
+        "publishYear": 2004,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3659/webstorage_links/18833/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3653,
+        "title": "Embedded Android",
+        "img": "http://image.banshujiang.cn/3653.jpeg?timestamp=1709954126691",
+        "author": "Karim Yaghmour",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3653/webstorage_links/18813/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3653/webstorage_links/18812/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3641,
+        "title": "50 Android Hacks",
+        "img": "http://image.banshujiang.cn/3641.jpeg?timestamp=1709951083166",
+        "author": "Carlos Sessa",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3641/webstorage_links/18769/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3641/webstorage_links/18768/to_link"
+            }
+        ]
+    },
+    {
         "id": 3630,
         "title": "Effective Unit Testing",
         "img": "http://image.banshujiang.cn/3630.jpeg?timestamp=1708773742904",
@@ -191,132 +302,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/3494/webstorage_links/18237/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3480,
-        "title": "Java Persistence with Spring Data and Hibernate",
-        "img": "http://image.banshujiang.cn/3480.jpeg?timestamp=1696506921756",
-        "author": "Cătălin Tudose",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3480/webstorage_links/18179/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3480/webstorage_links/18178/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/3480/webstorage_links/18177/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3467,
-        "title": "Spring MVC Beginner&#39;s Guide 2nd Edition",
-        "img": "http://image.banshujiang.cn/3467.jpeg?timestamp=1696339196193",
-        "author": "Amuthan Ganeshan",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3467/webstorage_links/18111/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3421,
-        "title": "Reactive Programming with RxJava",
-        "img": "http://image.banshujiang.cn/3421.jpeg?timestamp=1686456869410",
-        "author": "Tomasz Nurkiewicz and Ben Christensen",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3421/webstorage_links/17860/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3421/webstorage_links/17859/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/3421/webstorage_links/17861/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3327,
-        "title": "The Well-Grounded Java Developer 2nd Edition",
-        "img": "http://image.banshujiang.cn/3327.jpeg?timestamp=1676692975506",
-        "author": "Benjamin J. Evans, Jason Clark, and Martijn Verburg",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3327/webstorage_links/17487/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3285,
-        "title": "Spring Microservices",
-        "img": "http://image.banshujiang.cn/3285.jpeg?timestamp=1676086145807",
-        "author": "Rajesh RV",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3285/webstorage_links/17329/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3285/webstorage_links/17328/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3265,
-        "title": "Java 9 Regular Expressions",
-        "img": "http://image.banshujiang.cn/3265.jpeg?timestamp=1675506715073",
-        "author": "Anubhava Srivastava",
-        "language": "英文",
-        "publishYear": 2017,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3265/webstorage_links/17221/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/3265/webstorage_links/17220/to_link"
             }
         ]
     }

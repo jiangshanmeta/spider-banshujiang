@@ -16,6 +16,69 @@
         ]
     },
     {
+        "id": 3661,
+        "title": "HTML5 Canvas 2nd Edition",
+        "img": "http://image.banshujiang.cn/3661.jpeg?timestamp=1709955832994",
+        "author": "Steve Fulton and Jeff Fulton",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "HTML5",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3661/webstorage_links/18839/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3661/webstorage_links/18838/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3653,
+        "title": "Embedded Android",
+        "img": "http://image.banshujiang.cn/3653.jpeg?timestamp=1709954126691",
+        "author": "Karim Yaghmour",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3653/webstorage_links/18813/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3653/webstorage_links/18812/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3641,
+        "title": "50 Android Hacks",
+        "img": "http://image.banshujiang.cn/3641.jpeg?timestamp=1709951083166",
+        "author": "Carlos Sessa",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3641/webstorage_links/18769/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3641/webstorage_links/18768/to_link"
+            }
+        ]
+    },
+    {
         "id": 3624,
         "title": "The Android Malware Handbook",
         "img": "http://image.banshujiang.cn/3624.jpeg?timestamp=1708773203662",
@@ -299,74 +362,6 @@
                 "fmt": "CODE",
                 "title": "城通网盘",
                 "link": "/e_books/3122/webstorage_links/16554/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3064,
-        "title": "Real-World Android by Tutorials 2nd Edition",
-        "img": "https://imagebsj.netlify.app/3064.jpeg",
-        "author": "Ricardo Costeira, Subhrajyoti Sen, Kolin Stürt &amp; Antonio Roa-Valverde",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "Kotlin",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3064/webstorage_links/16278/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3064/webstorage_links/16277/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3061,
-        "title": "Responsive Web Design with HTML5 and CSS 4th Edition",
-        "img": "https://imagebsj.netlify.app/3061.jpeg",
-        "author": "Ben Frain",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "HTML5",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3061/webstorage_links/16269/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3061/webstorage_links/16270/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3059,
-        "title": "Responsive Web Design with HTML5 and CSS 3rd Edition",
-        "img": "https://imagebsj.netlify.app/3059.jpeg",
-        "author": "Ben Frain",
-        "language": "英文",
-        "publishYear": 2020,
-        "programLanguage": "HTML5",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3059/webstorage_links/16256/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3059/webstorage_links/16257/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/3059/webstorage_links/16258/to_link"
             }
         ]
     }

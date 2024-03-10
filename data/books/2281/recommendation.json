@@ -1,5 +1,47 @@
 [
     {
+        "id": 3653,
+        "title": "Embedded Android",
+        "img": "http://image.banshujiang.cn/3653.jpeg?timestamp=1709954126691",
+        "author": "Karim Yaghmour",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3653/webstorage_links/18813/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3653/webstorage_links/18812/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3641,
+        "title": "50 Android Hacks",
+        "img": "http://image.banshujiang.cn/3641.jpeg?timestamp=1709951083166",
+        "author": "Carlos Sessa",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3641/webstorage_links/18769/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3641/webstorage_links/18768/to_link"
+            }
+        ]
+    },
+    {
         "id": 3187,
         "title": "Head First Android Development 2nd Edition",
         "img": "http://image.banshujiang.cn/3187.jpeg?timestamp=1672468865468",
@@ -275,38 +317,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/1247/webstorage_links/13006/to_link"
-            }
-        ]
-    },
-    {
-        "id": 1135,
-        "title": "Android Recipes: A Problem-Solution Approach 2nd Edition",
-        "img": "https://imagebsj.netlify.app/1135.jpeg",
-        "author": "Dave Smith and Jeff Friesen",
-        "language": "英文",
-        "publishYear": 2012,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/1135/webstorage_links/12784/to_link"
-            }
-        ]
-    },
-    {
-        "id": 968,
-        "title": "Android 4: New features for Application Development",
-        "img": "https://imagebsj.netlify.app/968.jpeg",
-        "author": "Murat Aydin",
-        "language": "英文",
-        "publishYear": 2012,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/968/webstorage_links/15450/to_link"
             }
         ]
     }
