@@ -1,5 +1,47 @@
 [
     {
+        "id": 3702,
+        "title": "Android Developer Tools Essentials",
+        "img": "http://image.banshujiang.cn/3702.jpeg?timestamp=1711717319489",
+        "author": "Mike Wolfson",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3702/webstorage_links/18993/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3702/webstorage_links/18992/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3694,
+        "title": "Building Hybrid Android Apps with Java and JavaScript",
+        "img": "http://image.banshujiang.cn/3694.jpeg?timestamp=1711704809212",
+        "author": "Nizamettin Gok and Nitin Khanna",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3694/webstorage_links/18961/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3694/webstorage_links/18960/to_link"
+            }
+        ]
+    },
+    {
         "id": 3653,
         "title": "Embedded Android",
         "img": "http://image.banshujiang.cn/3653.jpeg?timestamp=1709954126691",
@@ -285,38 +327,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/1339/webstorage_links/13186/to_link"
-            }
-        ]
-    },
-    {
-        "id": 1338,
-        "title": "Android Essentials",
-        "img": "https://imagebsj.netlify.app/1338.jpeg",
-        "author": "Chris Haseman",
-        "language": "英文",
-        "publishYear": 2008,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/1338/webstorage_links/13184/to_link"
-            }
-        ]
-    },
-    {
-        "id": 1247,
-        "title": "Instant Spring for Android Starter",
-        "img": "https://imagebsj.netlify.app/1247.jpeg",
-        "author": "Anthony Dahanne",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/1247/webstorage_links/13006/to_link"
             }
         ]
     }

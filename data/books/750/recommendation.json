@@ -1,5 +1,26 @@
 [
     {
+        "id": 3698,
+        "title": "Windows Store App Development",
+        "img": "http://image.banshujiang.cn/3698.jpeg?timestamp=1711705068633",
+        "author": "Pete Brown",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3698/webstorage_links/18977/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3698/webstorage_links/18976/to_link"
+            }
+        ]
+    },
+    {
         "id": 1608,
         "title": "Beginning C# 2008 Objects From Concept to Code",
         "img": "https://imagebsj.netlify.app/1608.jpeg",
@@ -60,6 +81,64 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/1040/webstorage_links/12596/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3726,
+        "title": "Head First C# 3rd Edition",
+        "img": "http://image.banshujiang.cn/3726.jpeg?timestamp=1711719997389",
+        "author": "Andrew Stellman and Jennifer Greene",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3726/webstorage_links/19089/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3726/webstorage_links/19088/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3697,
+        "title": "Windows 8: the missing manual",
+        "img": "http://image.banshujiang.cn/3697.jpeg?timestamp=1711705000225",
+        "author": "David Pogue",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3697/webstorage_links/18973/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3697/webstorage_links/18972/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3686,
+        "title": "The Art of Unit Testing with Examples in .NET",
+        "img": "http://image.banshujiang.cn/3686.jpeg?timestamp=1711699204408",
+        "author": "Roy Osherove",
+        "language": "英文",
+        "publishYear": 2009,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3686/webstorage_links/18929/to_link"
             }
         ]
     },
@@ -218,95 +297,6 @@
                 "fmt": "AZW3",
                 "title": "城通网盘",
                 "link": "/e_books/3177/webstorage_links/16816/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3113,
-        "title": "Developing on AWS with C#",
-        "img": "https://imagebsj.netlify.app/3113.jpeg",
-        "author": "Noah Gift and James Charlesworth",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "C#",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3113/webstorage_links/16515/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/3113/webstorage_links/16516/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3033,
-        "title": "C# 8.0 in a Nutshell",
-        "img": "https://imagebsj.netlify.app/3033.jpeg",
-        "author": "Joseph Albahari and Eric Johannsen",
-        "language": "英文",
-        "publishYear": 2020,
-        "programLanguage": "C#",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3033/webstorage_links/16161/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3033/webstorage_links/16160/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2980,
-        "title": "Programming C# 10",
-        "img": "https://imagebsj.netlify.app/2980.jpeg",
-        "author": "Ian Griffiths",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "C#",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2980/webstorage_links/10996/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/2980/webstorage_links/10997/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2900,
-        "title": "Windows Kernel Programming 2nd Edition",
-        "img": "https://imagebsj.netlify.app/2900.jpeg",
-        "author": "Pavel Yosifovich",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2900/webstorage_links/10634/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2900/webstorage_links/10633/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/2900/webstorage_links/10635/to_link"
             }
         ]
     }

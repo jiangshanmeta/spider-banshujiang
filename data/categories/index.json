@@ -237,6 +237,10 @@
         "label": "年份",
         "tags": [
             {
+                "label": "2024",
+                "url": "/category/publish_year/2024"
+            },
+            {
                 "label": "2023",
                 "url": "/category/publish_year/2023"
             },

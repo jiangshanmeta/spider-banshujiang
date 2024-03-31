@@ -16,6 +16,69 @@
         ]
     },
     {
+        "id": 3730,
+        "title": "HTML5: Pocket Reference 5th Edition",
+        "img": "http://image.banshujiang.cn/3730.jpeg?timestamp=1711720283832",
+        "author": "Jennifer Niederst Robbins",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "HTML5",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3730/webstorage_links/19105/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3730/webstorage_links/19104/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3702,
+        "title": "Android Developer Tools Essentials",
+        "img": "http://image.banshujiang.cn/3702.jpeg?timestamp=1711717319489",
+        "author": "Mike Wolfson",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3702/webstorage_links/18993/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3702/webstorage_links/18992/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3694,
+        "title": "Building Hybrid Android Apps with Java and JavaScript",
+        "img": "http://image.banshujiang.cn/3694.jpeg?timestamp=1711704809212",
+        "author": "Nizamettin Gok and Nitin Khanna",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3694/webstorage_links/18961/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3694/webstorage_links/18960/to_link"
+            }
+        ]
+    },
+    {
         "id": 3661,
         "title": "HTML5 Canvas 2nd Edition",
         "img": "http://image.banshujiang.cn/3661.jpeg?timestamp=1709955832994",
@@ -284,84 +347,6 @@
                 "fmt": "CODE",
                 "title": "城通网盘",
                 "link": "/e_books/3131/webstorage_links/16598/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3129,
-        "title": "Kotlin Coroutines by Tutorials 2nd Edition",
-        "img": "https://imagebsj.netlify.app/3129.jpeg",
-        "author": "Filip Babić and Nishant Srivastava",
-        "language": "英文",
-        "publishYear": 2019,
-        "programLanguage": "Kotlin",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3129/webstorage_links/16590/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3129/webstorage_links/16589/to_link"
-            },
-            {
-                "fmt": "CODE",
-                "title": "城通网盘",
-                "link": "/e_books/3129/webstorage_links/16588/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3126,
-        "title": "Data Structures &amp; Algorithms in Kotlin",
-        "img": "https://imagebsj.netlify.app/3126.jpeg",
-        "author": "Irina Galata &amp; Matei Suica",
-        "language": "英文",
-        "publishYear": 2019,
-        "programLanguage": "Kotlin",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3126/webstorage_links/16577/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3126/webstorage_links/16576/to_link"
-            },
-            {
-                "fmt": "CODE",
-                "title": "城通网盘",
-                "link": "/e_books/3126/webstorage_links/16578/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3122,
-        "title": "Android Test-Driven Development by Tutorials",
-        "img": "https://imagebsj.netlify.app/3122.jpeg",
-        "author": "Lance Gleason, Victoria Gonda and Fernando Sproviero",
-        "language": "英文",
-        "publishYear": 2019,
-        "programLanguage": "Kotlin",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3122/webstorage_links/16556/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3122/webstorage_links/16555/to_link"
-            },
-            {
-                "fmt": "CODE",
-                "title": "城通网盘",
-                "link": "/e_books/3122/webstorage_links/16554/to_link"
             }
         ]
     }

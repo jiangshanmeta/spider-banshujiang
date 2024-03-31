@@ -1,5 +1,26 @@
 [
     {
+        "id": 3704,
+        "title": "CentOS 6 Linux Server Cookbook",
+        "img": "http://image.banshujiang.cn/3704.jpeg?timestamp=1711717531983",
+        "author": "Jonathan Hobson",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3704/webstorage_links/19001/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3704/webstorage_links/19000/to_link"
+            }
+        ]
+    },
+    {
         "id": 3516,
         "title": "Practical Linux System Administration",
         "img": "http://image.banshujiang.cn/3516.jpeg?timestamp=1696768973354",
@@ -341,22 +362,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/2520/webstorage_links/8792/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2409,
-        "title": "Bite Size Linux",
-        "img": "https://imagebsj.netlify.app/2409.jpeg",
-        "author": "Julia Evans",
-        "language": "英文",
-        "publishYear": 2021,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2409/webstorage_links/15881/to_link"
             }
         ]
     }

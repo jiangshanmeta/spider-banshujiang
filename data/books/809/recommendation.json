@@ -16,6 +16,27 @@
         ]
     },
     {
+        "id": 3730,
+        "title": "HTML5: Pocket Reference 5th Edition",
+        "img": "http://image.banshujiang.cn/3730.jpeg?timestamp=1711720283832",
+        "author": "Jennifer Niederst Robbins",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "HTML5",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3730/webstorage_links/19105/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3730/webstorage_links/19104/to_link"
+            }
+        ]
+    },
+    {
         "id": 3661,
         "title": "HTML5 Canvas 2nd Edition",
         "img": "http://image.banshujiang.cn/3661.jpeg?timestamp=1709955832994",
@@ -321,22 +342,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/3396/webstorage_links/17762/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3395,
-        "title": "iOS 10 Swift Programming Cookbook",
-        "img": "http://image.banshujiang.cn/3395.jpeg?timestamp=1677326118624",
-        "author": "Vandad Nahavandipoor",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3395/webstorage_links/17757/to_link"
             }
         ]
     }

@@ -1,5 +1,63 @@
 [
     {
+        "id": 3726,
+        "title": "Head First C# 3rd Edition",
+        "img": "http://image.banshujiang.cn/3726.jpeg?timestamp=1711719997389",
+        "author": "Andrew Stellman and Jennifer Greene",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3726/webstorage_links/19089/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3726/webstorage_links/19088/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3698,
+        "title": "Windows Store App Development",
+        "img": "http://image.banshujiang.cn/3698.jpeg?timestamp=1711705068633",
+        "author": "Pete Brown",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3698/webstorage_links/18977/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3698/webstorage_links/18976/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3686,
+        "title": "The Art of Unit Testing with Examples in .NET",
+        "img": "http://image.banshujiang.cn/3686.jpeg?timestamp=1711699204408",
+        "author": "Roy Osherove",
+        "language": "英文",
+        "publishYear": 2009,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3686/webstorage_links/18929/to_link"
+            }
+        ]
+    },
+    {
         "id": 3626,
         "title": "The C# Type System",
         "img": "http://image.banshujiang.cn/3626.jpeg?timestamp=1708773359023",
@@ -264,74 +322,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/2789/webstorage_links/10146/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2752,
-        "title": "C# Cookbook",
-        "img": "https://imagebsj.netlify.app/2752.jpeg",
-        "author": "Joe Mayo",
-        "language": "英文",
-        "publishYear": 2021,
-        "programLanguage": "C#",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2752/webstorage_links/9995/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2752/webstorage_links/9994/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2751,
-        "title": "C# 9.0 Pocket Reference",
-        "img": "https://imagebsj.netlify.app/2751.jpeg",
-        "author": "Joseph Albahari and Ben Albahari",
-        "language": "英文",
-        "publishYear": 2021,
-        "programLanguage": "C#",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2751/webstorage_links/9991/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2751/webstorage_links/9990/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2733,
-        "title": "Microservices in .NET 2nd Edition",
-        "img": "https://imagebsj.netlify.app/2733.jpeg",
-        "author": "Christian Horsdal Gammelgaard",
-        "language": "英文",
-        "publishYear": 2021,
-        "programLanguage": "C#",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2733/webstorage_links/9909/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2733/webstorage_links/9910/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/2733/webstorage_links/9911/to_link"
             }
         ]
     }

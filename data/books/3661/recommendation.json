@@ -1,5 +1,26 @@
 [
     {
+        "id": 3730,
+        "title": "HTML5: Pocket Reference 5th Edition",
+        "img": "http://image.banshujiang.cn/3730.jpeg?timestamp=1711720283832",
+        "author": "Jennifer Niederst Robbins",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "HTML5",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3730/webstorage_links/19105/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3730/webstorage_links/19104/to_link"
+            }
+        ]
+    },
+    {
         "id": 3463,
         "title": "Responsive Web Design with HTML5 and CSS3 2nd Edition",
         "img": "http://image.banshujiang.cn/3463.jpeg?timestamp=1696338349197",
@@ -276,22 +297,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/1048/webstorage_links/12612/to_link"
-            }
-        ]
-    },
-    {
-        "id": 948,
-        "title": "PhoneGap Mobile Application Development Cookbook",
-        "img": "https://imagebsj.netlify.app/948.jpeg",
-        "author": "Matt Gifford",
-        "language": "英文",
-        "publishYear": 2012,
-        "programLanguage": "HTML5",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/948/webstorage_links/15410/to_link"
             }
         ]
     }

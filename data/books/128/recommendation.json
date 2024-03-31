@@ -208,47 +208,10 @@
         ]
     },
     {
-        "id": 3674,
-        "title": "MongoDB: The Definitive Guide 2nd Edition",
-        "img": "http://image.banshujiang.cn/3674.jpeg?timestamp=1709976164165",
-        "author": "Kristina Chodorow",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3674/webstorage_links/18883/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3674/webstorage_links/18882/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3670,
-        "title": "Learning JavaScript 2nd Edition",
-        "img": "http://image.banshujiang.cn/3670.jpeg?timestamp=1709956486420",
-        "author": "Shelley Powers",
-        "language": "英文",
-        "publishYear": 2008,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3670/webstorage_links/18867/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3669,
-        "title": "Learning Ext JS 4",
-        "img": "http://image.banshujiang.cn/3669.jpeg?timestamp=1709956417942",
-        "author": "Crysfel Villa and Armando Gonzalez",
+        "id": 3740,
+        "title": "Learning JavaScriptMVC",
+        "img": "http://image.banshujiang.cn/3740.jpeg?timestamp=1711720972551",
+        "author": "Wojciech Bednarski",
         "language": "英文",
         "publishYear": 2013,
         "programLanguage": "JavaScript",
@@ -256,12 +219,54 @@
             {
                 "fmt": "PDF",
                 "title": "城通网盘",
-                "link": "/e_books/3669/webstorage_links/18865/to_link"
+                "link": "/e_books/3740/webstorage_links/19145/to_link"
             },
             {
                 "fmt": "EPUB",
                 "title": "城通网盘",
-                "link": "/e_books/3669/webstorage_links/18864/to_link"
+                "link": "/e_books/3740/webstorage_links/19144/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3737,
+        "title": "jQuery Hotshot",
+        "img": "http://image.banshujiang.cn/3737.jpeg?timestamp=1711720813272",
+        "author": "Dan Wellman",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3737/webstorage_links/19133/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3737/webstorage_links/19132/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3717,
+        "title": "Functional JavaScript",
+        "img": "http://image.banshujiang.cn/3717.jpeg?timestamp=1711719327560",
+        "author": "Michael Fogus",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3717/webstorage_links/19053/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3717/webstorage_links/19052/to_link"
             }
         ]
     }

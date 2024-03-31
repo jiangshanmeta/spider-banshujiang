@@ -112,6 +112,48 @@
         ]
     },
     {
+        "id": 3698,
+        "title": "Windows Store App Development",
+        "img": "http://image.banshujiang.cn/3698.jpeg?timestamp=1711705068633",
+        "author": "Pete Brown",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3698/webstorage_links/18977/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3698/webstorage_links/18976/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3697,
+        "title": "Windows 8: the missing manual",
+        "img": "http://image.banshujiang.cn/3697.jpeg?timestamp=1711705000225",
+        "author": "David Pogue",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3697/webstorage_links/18973/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3697/webstorage_links/18972/to_link"
+            }
+        ]
+    },
+    {
         "id": 3635,
         "title": "PowerShell in Depth",
         "img": "http://image.banshujiang.cn/3635.jpeg?timestamp=1708776017693",
@@ -280,48 +322,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/2664/webstorage_links/9482/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2631,
-        "title": "PowerShell Pocket Reference 3rd Edition",
-        "img": "https://imagebsj.netlify.app/2631.jpeg",
-        "author": "Lee Holmes",
-        "language": "英文",
-        "publishYear": 2021,
-        "programLanguage": "PowerShell",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2631/webstorage_links/9211/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2134,
-        "title": "Windows Internals 7th Edition Part 1",
-        "img": "https://imagebsj.netlify.app/2134.jpeg",
-        "author": "Pavel Yosifovich, Alex Ionescu, Mark E. Russinovich, and David A. Solomon",
-        "language": "英文",
-        "publishYear": 2017,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2134/webstorage_links/6499/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2134/webstorage_links/9405/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/2134/webstorage_links/9404/to_link"
             }
         ]
     }

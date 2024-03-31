@@ -1,5 +1,26 @@
 [
     {
+        "id": 3682,
+        "title": "Python Cookbook 3rd Edition",
+        "img": "http://image.banshujiang.cn/3682.jpeg?timestamp=1711698416057",
+        "author": "David Beazley and Brian K. Jones",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3682/webstorage_links/18915/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3682/webstorage_links/18914/to_link"
+            }
+        ]
+    },
+    {
         "id": 3619,
         "title": "Python Playground 2nd Edition",
         "img": "http://image.banshujiang.cn/3619.jpeg?timestamp=1708054218985",
@@ -321,22 +342,6 @@
                 "fmt": "AZW3",
                 "title": "城通网盘",
                 "link": "/e_books/3418/webstorage_links/17851/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3417,
-        "title": "Python Data Science Handbook",
-        "img": "http://image.banshujiang.cn/3417.jpeg?timestamp=1681544336051",
-        "author": "Jake VanderPlas",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3417/webstorage_links/17845/to_link"
             }
         ]
     }

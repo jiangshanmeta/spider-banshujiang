@@ -1,5 +1,110 @@
 [
     {
+        "id": 3740,
+        "title": "Learning JavaScriptMVC",
+        "img": "http://image.banshujiang.cn/3740.jpeg?timestamp=1711720972551",
+        "author": "Wojciech Bednarski",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3740/webstorage_links/19145/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3740/webstorage_links/19144/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3737,
+        "title": "jQuery Hotshot",
+        "img": "http://image.banshujiang.cn/3737.jpeg?timestamp=1711720813272",
+        "author": "Dan Wellman",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3737/webstorage_links/19133/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3737/webstorage_links/19132/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3717,
+        "title": "Functional JavaScript",
+        "img": "http://image.banshujiang.cn/3717.jpeg?timestamp=1711719327560",
+        "author": "Michael Fogus",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3717/webstorage_links/19053/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3717/webstorage_links/19052/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3707,
+        "title": "Creating Mobile Apps with jQuery Mobile",
+        "img": "http://image.banshujiang.cn/3707.jpeg?timestamp=1711717726059",
+        "author": "Shane Gliser",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3707/webstorage_links/19013/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3707/webstorage_links/19012/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3700,
+        "title": "Developing Backbone.js Applications",
+        "img": "http://image.banshujiang.cn/3700.jpeg?timestamp=1711705170353",
+        "author": "Addy Osmani",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3700/webstorage_links/18985/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3700/webstorage_links/18984/to_link"
+            }
+        ]
+    },
+    {
         "id": 3670,
         "title": "Learning JavaScript 2nd Edition",
         "img": "http://image.banshujiang.cn/3670.jpeg?timestamp=1709956486420",
@@ -207,101 +312,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3618/webstorage_links/18686/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3617,
-        "title": "Professional Javascript for Web Developers 5th Edition",
-        "img": "http://image.banshujiang.cn/3617.jpeg?timestamp=1708054046155",
-        "author": "Matt Frisbie",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3617/webstorage_links/18683/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3617/webstorage_links/18682/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3592,
-        "title": "Learning JavaScript Design Patterns 2nd Edition",
-        "img": "http://image.banshujiang.cn/3592.jpeg?timestamp=1707805831849",
-        "author": "Addy Osmani",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3592/webstorage_links/18601/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3559,
-        "title": "Modern Concurrency in Swift 2nd Edition",
-        "img": "http://image.banshujiang.cn/3559.jpeg?timestamp=1697274441182",
-        "author": "Marin Todorov",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3559/webstorage_links/18497/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3559/webstorage_links/18496/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3553,
-        "title": "React Quickly 2nd Edition",
-        "img": "http://image.banshujiang.cn/3553.jpeg?timestamp=1697274003988",
-        "author": "Morten Barklund and Azat Mardan",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3553/webstorage_links/18473/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3541,
-        "title": "Advanced Apple Debugging &amp; Reverse Engineering",
-        "img": "http://image.banshujiang.cn/3541.jpeg?timestamp=1697273649437",
-        "author": "Walter Tyree",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3541/webstorage_links/18434/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3541/webstorage_links/18435/to_link"
             }
         ]
     }

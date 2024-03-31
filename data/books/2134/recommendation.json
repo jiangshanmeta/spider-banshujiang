@@ -1,5 +1,47 @@
 [
     {
+        "id": 3698,
+        "title": "Windows Store App Development",
+        "img": "http://image.banshujiang.cn/3698.jpeg?timestamp=1711705068633",
+        "author": "Pete Brown",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3698/webstorage_links/18977/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3698/webstorage_links/18976/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3697,
+        "title": "Windows 8: the missing manual",
+        "img": "http://image.banshujiang.cn/3697.jpeg?timestamp=1711705000225",
+        "author": "David Pogue",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3697/webstorage_links/18973/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3697/webstorage_links/18972/to_link"
+            }
+        ]
+    },
+    {
         "id": 3236,
         "title": "Learn Windows PowerShell in a Month of Lunches 3rd Edtion",
         "img": "http://image.banshujiang.cn/3236.jpeg?timestamp=1674791757107",
@@ -230,38 +272,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/1765/webstorage_links/12242/to_link"
-            }
-        ]
-    },
-    {
-        "id": 1764,
-        "title": "MCITP Windows Server 2008 Server Administrator Study Guide",
-        "img": "https://imagebsj.netlify.app/1764.jpeg",
-        "author": "Darril Gibson",
-        "language": "英文",
-        "publishYear": 2008,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/1764/webstorage_links/12240/to_link"
-            }
-        ]
-    },
-    {
-        "id": 1608,
-        "title": "Beginning C# 2008 Objects From Concept to Code",
-        "img": "https://imagebsj.netlify.app/1608.jpeg",
-        "author": "Grant Palmer and Jacquie Barker",
-        "language": "英文",
-        "publishYear": 2008,
-        "programLanguage": "C#",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/1608/webstorage_links/11920/to_link"
             }
         ]
     }
