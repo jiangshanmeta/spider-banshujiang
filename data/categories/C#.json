@@ -1,5 +1,26 @@
 [
     {
+        "id": 3752,
+        "title": "C# in Depth 3rd Edition",
+        "img": "http://image.banshujiang.cn/3752.jpeg?timestamp=1712398407780",
+        "author": "Jon Skeet",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3752/webstorage_links/19191/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3752/webstorage_links/19190/to_link"
+            }
+        ]
+    },
+    {
         "id": 3726,
         "title": "Head First C# 3rd Edition",
         "img": "http://image.banshujiang.cn/3726.jpeg?timestamp=1711719997389",

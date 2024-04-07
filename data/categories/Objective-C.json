@@ -1,5 +1,26 @@
 [
     {
+        "id": 3759,
+        "title": "Hello! IOS Development",
+        "img": "http://image.banshujiang.cn/3759.jpeg?timestamp=1712399988596",
+        "author": "Lou Franco and Eitan Mendelowitz",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Objective-C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3759/webstorage_links/19219/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3759/webstorage_links/19218/to_link"
+            }
+        ]
+    },
+    {
         "id": 2239,
         "title": "iOS Animations by Tutorials 4th Edition",
         "img": "https://imagebsj.netlify.app/2239.jpeg",

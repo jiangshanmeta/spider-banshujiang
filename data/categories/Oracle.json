@@ -1,5 +1,26 @@
 [
     {
+        "id": 3753,
+        "title": "Expert Oracle RAC 12c",
+        "img": "http://image.banshujiang.cn/3753.jpeg?timestamp=1712398588551",
+        "author": "Syed Jaffar Hussain",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3753/webstorage_links/19195/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3753/webstorage_links/19194/to_link"
+            }
+        ]
+    },
+    {
         "id": 3604,
         "title": "Resilient Oracle PL/SQL",
         "img": "http://image.banshujiang.cn/3604.jpeg?timestamp=1708052420444",

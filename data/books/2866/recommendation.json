@@ -42,6 +42,27 @@
         ]
     },
     {
+        "id": 3754,
+        "title": "Expert PHP and MySQL",
+        "img": "http://image.banshujiang.cn/3754.jpeg?timestamp=1712399645821",
+        "author": "Marc Rochkind",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "PHP",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3754/webstorage_links/19199/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3754/webstorage_links/19198/to_link"
+            }
+        ]
+    },
+    {
         "id": 3628,
         "title": "T-SQL Fundamentals",
         "img": "http://image.banshujiang.cn/3628.jpeg?timestamp=1708773541020",
@@ -301,27 +322,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/2313/webstorage_links/15719/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2312,
-        "title": "SQL Queries for Mere Mortals  3rd Edition",
-        "img": "https://imagebsj.netlify.app/2312.jpeg",
-        "author": "John L.Viescas and Michael J. Hernandez",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "SQL",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2312/webstorage_links/15718/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2312/webstorage_links/15717/to_link"
             }
         ]
     }

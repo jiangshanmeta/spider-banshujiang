@@ -53,6 +53,27 @@
         ]
     },
     {
+        "id": 3741,
+        "title": "Android Native Development Kit Cookbook",
+        "img": "http://image.banshujiang.cn/3741.jpeg?timestamp=1712268168171",
+        "author": "Feipeng Liu",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3741/webstorage_links/19149/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3741/webstorage_links/19148/to_link"
+            }
+        ]
+    },
+    {
         "id": 3739,
         "title": "Learning Java 4th Edition",
         "img": "http://image.banshujiang.cn/3739.jpeg?timestamp=1711720917962",
@@ -286,27 +307,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/3659/webstorage_links/18833/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3653,
-        "title": "Embedded Android",
-        "img": "http://image.banshujiang.cn/3653.jpeg?timestamp=1709954126691",
-        "author": "Karim Yaghmour",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3653/webstorage_links/18813/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3653/webstorage_links/18812/to_link"
             }
         ]
     }

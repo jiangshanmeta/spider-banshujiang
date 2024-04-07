@@ -208,6 +208,48 @@
         ]
     },
     {
+        "id": 3756,
+        "title": "Extending jQuery",
+        "img": "http://image.banshujiang.cn/3756.jpeg?timestamp=1712399770927",
+        "author": "Keith Wood",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3756/webstorage_links/19207/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3756/webstorage_links/19206/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3747,
+        "title": "Building Impressive Presentations with impress.js",
+        "img": "http://image.banshujiang.cn/3747.jpeg?timestamp=1712324380179",
+        "author": "Rakhitha Nimesh Ratnayake",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3747/webstorage_links/19173/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3747/webstorage_links/19172/to_link"
+            }
+        ]
+    },
+    {
         "id": 3740,
         "title": "Learning JavaScriptMVC",
         "img": "http://image.banshujiang.cn/3740.jpeg?timestamp=1711720972551",
@@ -225,48 +267,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3740/webstorage_links/19144/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3737,
-        "title": "jQuery Hotshot",
-        "img": "http://image.banshujiang.cn/3737.jpeg?timestamp=1711720813272",
-        "author": "Dan Wellman",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3737/webstorage_links/19133/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3737/webstorage_links/19132/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3717,
-        "title": "Functional JavaScript",
-        "img": "http://image.banshujiang.cn/3717.jpeg?timestamp=1711719327560",
-        "author": "Michael Fogus",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3717/webstorage_links/19053/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3717/webstorage_links/19052/to_link"
             }
         ]
     }

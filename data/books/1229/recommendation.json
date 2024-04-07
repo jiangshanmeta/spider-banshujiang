@@ -1,5 +1,26 @@
 [
     {
+        "id": 3760,
+        "title": "HTML5 Web Application Development By Example Beginner&#39;s guide",
+        "img": "http://image.banshujiang.cn/3760.jpeg?timestamp=1712400094484",
+        "author": "J.M. Gustafson",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "HTML5",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3760/webstorage_links/19223/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3760/webstorage_links/19222/to_link"
+            }
+        ]
+    },
+    {
         "id": 3730,
         "title": "HTML5: Pocket Reference 5th Edition",
         "img": "http://image.banshujiang.cn/3730.jpeg?timestamp=1711720283832",
@@ -321,27 +342,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/1888/webstorage_links/11880/to_link"
-            }
-        ]
-    },
-    {
-        "id": 1809,
-        "title": "Learning Apache Kafka 2nd Edition",
-        "img": "https://imagebsj.netlify.app/1809.jpeg",
-        "author": "Nishant Garg",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/1809/webstorage_links/11679/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/1809/webstorage_links/11680/to_link"
             }
         ]
     }

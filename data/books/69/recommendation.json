@@ -64,6 +64,22 @@
         ]
     },
     {
+        "id": 3751,
+        "title": "Cryptography in C and C++ 2nd Edition",
+        "img": "http://image.banshujiang.cn/3751.jpeg?timestamp=1712398104814",
+        "author": "Michael Welschenbach",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3751/webstorage_links/19187/to_link"
+            }
+        ]
+    },
+    {
         "id": 3703,
         "title": "C Programming for Arduino",
         "img": "http://image.banshujiang.cn/3703.jpeg?timestamp=1711717441548",
@@ -276,22 +292,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/1642/webstorage_links/11988/to_link"
-            }
-        ]
-    },
-    {
-        "id": 1530,
-        "title": "Applied Cryptography: Protocols, Algorthms and Source Code in C 2nd Edition",
-        "img": "https://imagebsj.netlify.app/1530.jpeg",
-        "author": "Bruce Schneier",
-        "language": "英文",
-        "publishYear": 1996,
-        "programLanguage": "C",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/1530/webstorage_links/12376/to_link"
             }
         ]
     }

@@ -1,5 +1,26 @@
 [
     {
+        "id": 3744,
+        "title": "BeginningRails 4 3rd Edition",
+        "img": "http://image.banshujiang.cn/3744.jpeg?timestamp=1712323977169",
+        "author": "Adam Gamble, Clovers Carneiro Jr. and Rida Al Barazi",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Ruby",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3744/webstorage_links/19161/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3744/webstorage_links/19160/to_link"
+            }
+        ]
+    },
+    {
         "id": 3674,
         "title": "MongoDB: The Definitive Guide 2nd Edition",
         "img": "http://image.banshujiang.cn/3674.jpeg?timestamp=1709976164165",
@@ -306,32 +327,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/2020/webstorage_links/11142/to_link"
-            }
-        ]
-    },
-    {
-        "id": 1933,
-        "title": "MongoDB in Action, 2nd Edition",
-        "img": "https://imagebsj.netlify.app/1933.jpeg",
-        "author": "Kyle Banker",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/1933/webstorage_links/11504/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/1933/webstorage_links/11502/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/1933/webstorage_links/11503/to_link"
             }
         ]
     }

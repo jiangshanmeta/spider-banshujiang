@@ -1,5 +1,26 @@
 [
     {
+        "id": 3754,
+        "title": "Expert PHP and MySQL",
+        "img": "http://image.banshujiang.cn/3754.jpeg?timestamp=1712399645821",
+        "author": "Marc Rochkind",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "PHP",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3754/webstorage_links/19199/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3754/webstorage_links/19198/to_link"
+            }
+        ]
+    },
+    {
         "id": 3315,
         "title": "Mysql Crash Course",
         "img": "http://image.banshujiang.cn/3315.jpeg?timestamp=1676120421506",
@@ -261,22 +282,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/1153/webstorage_links/12820/to_link"
-            }
-        ]
-    },
-    {
-        "id": 517,
-        "title": "Web Database Applications with PHP and MySQL 2nd Edition",
-        "img": "https://imagebsj.netlify.app/517.jpeg",
-        "author": "Hugh E. Williams and David Lane",
-        "language": "英文",
-        "publishYear": 2004,
-        "programLanguage": "PHP",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/517/webstorage_links/14550/to_link"
             }
         ]
     }

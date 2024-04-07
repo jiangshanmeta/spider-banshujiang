@@ -1,5 +1,26 @@
 [
     {
+        "id": 3754,
+        "title": "Expert PHP and MySQL",
+        "img": "http://image.banshujiang.cn/3754.jpeg?timestamp=1712399645821",
+        "author": "Marc Rochkind",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "PHP",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3754/webstorage_links/19199/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3754/webstorage_links/19198/to_link"
+            }
+        ]
+    },
+    {
         "id": 3678,
         "title": "PHP Web Services",
         "img": "http://image.banshujiang.cn/3678.jpeg?timestamp=1709976558044",

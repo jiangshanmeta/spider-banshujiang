@@ -16,6 +16,69 @@
         ]
     },
     {
+        "id": 3760,
+        "title": "HTML5 Web Application Development By Example Beginner&#39;s guide",
+        "img": "http://image.banshujiang.cn/3760.jpeg?timestamp=1712400094484",
+        "author": "J.M. Gustafson",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "HTML5",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3760/webstorage_links/19223/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3760/webstorage_links/19222/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3759,
+        "title": "Hello! IOS Development",
+        "img": "http://image.banshujiang.cn/3759.jpeg?timestamp=1712399988596",
+        "author": "Lou Franco and Eitan Mendelowitz",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Objective-C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3759/webstorage_links/19219/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3759/webstorage_links/19218/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3745,
+        "title": "Building iPhone and iPad Electronic Projects",
+        "img": "http://image.banshujiang.cn/3745.jpeg?timestamp=1712324585244",
+        "author": "Mike Westerfield",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3745/webstorage_links/19169/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3745/webstorage_links/19168/to_link"
+            }
+        ]
+    },
+    {
         "id": 3730,
         "title": "HTML5: Pocket Reference 5th Edition",
         "img": "http://image.banshujiang.cn/3730.jpeg?timestamp=1711720283832",
@@ -274,74 +337,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3424/webstorage_links/17872/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3416,
-        "title": "Programming iOS 10 7th Edition",
-        "img": "http://image.banshujiang.cn/3416.jpeg?timestamp=1681544166216",
-        "author": "Matt Neuburg",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3416/webstorage_links/17842/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3416/webstorage_links/17843/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3405,
-        "title": "Learning Swift 2nd Edition",
-        "img": "http://image.banshujiang.cn/3405.jpeg?timestamp=1681021583194",
-        "author": "Jon Manning, Paris Buttfield-Addison, and Tim Nugent",
-        "language": "英文",
-        "publishYear": 2017,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3405/webstorage_links/17796/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3405/webstorage_links/17797/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3396,
-        "title": "iPhone The Missing Manual 10th Edition",
-        "img": "http://image.banshujiang.cn/3396.jpeg?timestamp=1677326194769",
-        "author": "David Pogue",
-        "language": "英文",
-        "publishYear": 2017,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3396/webstorage_links/17761/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3396/webstorage_links/17763/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/3396/webstorage_links/17762/to_link"
             }
         ]
     }

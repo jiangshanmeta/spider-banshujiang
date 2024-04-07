@@ -69,6 +69,27 @@
         ]
     },
     {
+        "id": 3759,
+        "title": "Hello! IOS Development",
+        "img": "http://image.banshujiang.cn/3759.jpeg?timestamp=1712399988596",
+        "author": "Lou Franco and Eitan Mendelowitz",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Objective-C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3759/webstorage_links/19219/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3759/webstorage_links/19218/to_link"
+            }
+        ]
+    },
+    {
         "id": 3559,
         "title": "Modern Concurrency in Swift 2nd Edition",
         "img": "http://image.banshujiang.cn/3559.jpeg?timestamp=1697274441182",
@@ -251,22 +272,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/1655/webstorage_links/12014/to_link"
-            }
-        ]
-    },
-    {
-        "id": 1654,
-        "title": "iOS UICollectionView: The Complete Guide 2nd Edition",
-        "img": "https://imagebsj.netlify.app/1654.jpeg",
-        "author": "Ash Furrow",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Objective-C",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/1654/webstorage_links/12012/to_link"
             }
         ]
     }

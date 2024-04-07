@@ -16,6 +16,27 @@
         ]
     },
     {
+        "id": 3744,
+        "title": "BeginningRails 4 3rd Edition",
+        "img": "http://image.banshujiang.cn/3744.jpeg?timestamp=1712323977169",
+        "author": "Adam Gamble, Clovers Carneiro Jr. and Rida Al Barazi",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Ruby",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3744/webstorage_links/19161/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3744/webstorage_links/19160/to_link"
+            }
+        ]
+    },
+    {
         "id": 3560,
         "title": "Modern Front-End Development for Rails 2nd Edition",
         "img": "http://image.banshujiang.cn/3560.jpeg?timestamp=1697274521342",
@@ -301,27 +322,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/2215/webstorage_links/15566/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2169,
-        "title": "Rails 5 Test Prescriptions",
-        "img": "https://imagebsj.netlify.app/2169.jpeg",
-        "author": "Noel Rappin",
-        "language": "英文",
-        "publishYear": 2018,
-        "programLanguage": "Ruby",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2169/webstorage_links/9366/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2169/webstorage_links/9367/to_link"
             }
         ]
     }

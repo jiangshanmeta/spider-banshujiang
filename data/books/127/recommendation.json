@@ -32,6 +32,27 @@
         ]
     },
     {
+        "id": 3754,
+        "title": "Expert PHP and MySQL",
+        "img": "http://image.banshujiang.cn/3754.jpeg?timestamp=1712399645821",
+        "author": "Marc Rochkind",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "PHP",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3754/webstorage_links/19199/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3754/webstorage_links/19198/to_link"
+            }
+        ]
+    },
+    {
         "id": 3678,
         "title": "PHP Web Services",
         "img": "http://image.banshujiang.cn/3678.jpeg?timestamp=1709976558044",
@@ -296,22 +317,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/2414/webstorage_links/15891/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2214,
-        "title": "High Performance Django",
-        "img": "https://imagebsj.netlify.app/2214.jpeg",
-        "author": "Peter Baumgartner and Yann Malet",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2214/webstorage_links/15564/to_link"
             }
         ]
     }

@@ -68811,5 +68811,420 @@
                 "link": "/e_books/3740/webstorage_links/19144/to_link"
             }
         ]
+    },
+    {
+        "id": 3741,
+        "title": "Android Native Development Kit Cookbook",
+        "img": "http://image.banshujiang.cn/3741.jpeg?timestamp=1712268168171",
+        "author": "Feipeng Liu",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3741/webstorage_links/19149/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3741/webstorage_links/19148/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3742,
+        "title": "BackTrack – Testing Wireless Network Security",
+        "img": "http://image.banshujiang.cn/3742.jpeg?timestamp=1712283752730",
+        "author": "Kevin Cardwell",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3742/webstorage_links/19153/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3742/webstorage_links/19152/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3743,
+        "title": "Beginning Android C++ Game Development",
+        "img": "http://image.banshujiang.cn/3743.jpeg?timestamp=1712322658824",
+        "author": "Bruce Sutherland",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3743/webstorage_links/19157/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3743/webstorage_links/19156/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3744,
+        "title": "BeginningRails 4 3rd Edition",
+        "img": "http://image.banshujiang.cn/3744.jpeg?timestamp=1712323977169",
+        "author": "Adam Gamble, Clovers Carneiro Jr. and Rida Al Barazi",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Ruby",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3744/webstorage_links/19161/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3744/webstorage_links/19160/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3745,
+        "title": "Building iPhone and iPad Electronic Projects",
+        "img": "http://image.banshujiang.cn/3745.jpeg?timestamp=1712324585244",
+        "author": "Mike Westerfield",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3745/webstorage_links/19169/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3745/webstorage_links/19168/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3746,
+        "title": "Boost.Asio C++ Network Programming",
+        "img": "http://image.banshujiang.cn/3746.jpeg?timestamp=1712324200589",
+        "author": "John Torjo",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3746/webstorage_links/19165/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3746/webstorage_links/19164/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3747,
+        "title": "Building Impressive Presentations with impress.js",
+        "img": "http://image.banshujiang.cn/3747.jpeg?timestamp=1712324380179",
+        "author": "Rakhitha Nimesh Ratnayake",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3747/webstorage_links/19173/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3747/webstorage_links/19172/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3748,
+        "title": "Building Modular Cloud Apps with OSGi",
+        "img": "http://image.banshujiang.cn/3748.jpeg?timestamp=1712325431564",
+        "author": "Paul Bakker and Bert Ertman",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3748/webstorage_links/19177/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3748/webstorage_links/19176/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3749,
+        "title": "CMIS and Apache Chemistry in Action",
+        "img": "http://image.banshujiang.cn/3749.jpeg?timestamp=1712397411205",
+        "author": "Florian Müller, Jay Brown and Jeff Potts",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3749/webstorage_links/19181/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3749/webstorage_links/19180/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3750,
+        "title": "C++ Quick Syntax Reference",
+        "img": "http://image.banshujiang.cn/3750.jpeg?timestamp=1712397532430",
+        "author": "Mikael Olsson",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3750/webstorage_links/19185/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3750/webstorage_links/19184/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3751,
+        "title": "Cryptography in C and C++ 2nd Edition",
+        "img": "http://image.banshujiang.cn/3751.jpeg?timestamp=1712398104814",
+        "author": "Michael Welschenbach",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3751/webstorage_links/19187/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3752,
+        "title": "C# in Depth 3rd Edition",
+        "img": "http://image.banshujiang.cn/3752.jpeg?timestamp=1712398407780",
+        "author": "Jon Skeet",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3752/webstorage_links/19191/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3752/webstorage_links/19190/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3753,
+        "title": "Expert Oracle RAC 12c",
+        "img": "http://image.banshujiang.cn/3753.jpeg?timestamp=1712398588551",
+        "author": "Syed Jaffar Hussain",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3753/webstorage_links/19195/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3753/webstorage_links/19194/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3754,
+        "title": "Expert PHP and MySQL",
+        "img": "http://image.banshujiang.cn/3754.jpeg?timestamp=1712399645821",
+        "author": "Marc Rochkind",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "PHP",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3754/webstorage_links/19199/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3754/webstorage_links/19198/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3755,
+        "title": "Express Web Application Development",
+        "img": "http://image.banshujiang.cn/3755.jpeg?timestamp=1712399714529",
+        "author": "Hage Yaapa",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3755/webstorage_links/19203/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3755/webstorage_links/19202/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3756,
+        "title": "Extending jQuery",
+        "img": "http://image.banshujiang.cn/3756.jpeg?timestamp=1712399770927",
+        "author": "Keith Wood",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3756/webstorage_links/19207/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3756/webstorage_links/19206/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3757,
+        "title": "Fast ASP.NET Websites",
+        "img": "http://image.banshujiang.cn/3757.jpeg?timestamp=1712399839720",
+        "author": "Dean Alan Hume",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "ASP.net",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3757/webstorage_links/19211/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3757/webstorage_links/19210/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3758,
+        "title": "Feedback Control for Computer Systems",
+        "img": "http://image.banshujiang.cn/3758.jpeg?timestamp=1712399907324",
+        "author": "Philipp K. Janert",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3758/webstorage_links/19215/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3758/webstorage_links/19214/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3759,
+        "title": "Hello! IOS Development",
+        "img": "http://image.banshujiang.cn/3759.jpeg?timestamp=1712399988596",
+        "author": "Lou Franco and Eitan Mendelowitz",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Objective-C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3759/webstorage_links/19219/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3759/webstorage_links/19218/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3760,
+        "title": "HTML5 Web Application Development By Example Beginner&#39;s guide",
+        "img": "http://image.banshujiang.cn/3760.jpeg?timestamp=1712400094484",
+        "author": "J.M. Gustafson",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "HTML5",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3760/webstorage_links/19223/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3760/webstorage_links/19222/to_link"
+            }
+        ]
     }
 ]
