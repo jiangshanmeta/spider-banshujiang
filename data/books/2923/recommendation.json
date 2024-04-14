@@ -1,5 +1,26 @@
 [
     {
+        "id": 3768,
+        "title": "Learning R",
+        "img": "https://imagebsj.netlify.app/3768.jpeg",
+        "author": "Richard Cotton",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3768/webstorage_links/19255/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3768/webstorage_links/19254/to_link"
+            }
+        ]
+    },
+    {
         "id": 3627,
         "title": "The Shape of Data",
         "img": "http://image.banshujiang.cn/3627.jpeg?timestamp=1708773444639",
@@ -321,22 +342,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/2662/webstorage_links/9478/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2260,
-        "title": "Efficient R Programming",
-        "img": "https://imagebsj.netlify.app/2260.jpeg",
-        "author": "Colin Gillespie and Robin Lovelace",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "R",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2260/webstorage_links/15633/to_link"
             }
         ]
     }

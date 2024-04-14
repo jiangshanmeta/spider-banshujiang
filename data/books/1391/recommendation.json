@@ -1,5 +1,26 @@
 [
     {
+        "id": 3782,
+        "title": "Oracle Essentials 5th Edition",
+        "img": "https://imagebsj.netlify.app/3782.jpeg",
+        "author": "Rick Greenwald, Robert Stackowiak, and Jonathan Stern",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3782/webstorage_links/19311/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3782/webstorage_links/19310/to_link"
+            }
+        ]
+    },
+    {
         "id": 3753,
         "title": "Expert Oracle RAC 12c",
         "img": "http://image.banshujiang.cn/3753.jpeg?timestamp=1712398588551",
@@ -241,22 +262,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/1390/webstorage_links/13284/to_link"
-            }
-        ]
-    },
-    {
-        "id": 1389,
-        "title": "Oracle Essentials: Oracle Database 11g 4th Edition",
-        "img": "https://imagebsj.netlify.app/1389.jpeg",
-        "author": "Rick Greenwald, Robert Stackowiak and Jonathan Stern",
-        "language": "英文",
-        "publishYear": 2007,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/1389/webstorage_links/13516/to_link"
             }
         ]
     }

@@ -80,6 +80,22 @@
         ]
     },
     {
+        "id": 3801,
+        "title": ".NET 4.5 Parallel Extensions Cookbook",
+        "img": "http://image.banshujiang.cn/3801.jpeg?timestamp=1712975169894",
+        "author": "Bryan Freeman",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3801/webstorage_links/19384/to_link"
+            }
+        ]
+    },
+    {
         "id": 3752,
         "title": "C# in Depth 3rd Edition",
         "img": "http://image.banshujiang.cn/3752.jpeg?timestamp=1712398407780",
@@ -271,27 +287,6 @@
                 "fmt": "CODE",
                 "title": "城通网盘",
                 "link": "/e_books/3222/webstorage_links/17022/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3213,
-        "title": "Programming C# 8.0",
-        "img": "http://image.banshujiang.cn/3213.jpeg?timestamp=1674645933631",
-        "author": "Ian Griffiths",
-        "language": "英文",
-        "publishYear": 2019,
-        "programLanguage": "C#",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3213/webstorage_links/16986/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3213/webstorage_links/16985/to_link"
             }
         ]
     }

@@ -32,6 +32,48 @@
         ]
     },
     {
+        "id": 3787,
+        "title": "PHP Quick Scripting Reference",
+        "img": "https://imagebsj.netlify.app/3787.jpeg",
+        "author": "Mikael Olsson",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "PHP",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3787/webstorage_links/19331/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3787/webstorage_links/19330/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3773,
+        "title": "Magento PHP Developer&#39;s Guide",
+        "img": "https://imagebsj.netlify.app/3773.jpeg",
+        "author": "Allan MacGregor",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "PHP",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3773/webstorage_links/19303/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3773/webstorage_links/19302/to_link"
+            }
+        ]
+    },
+    {
         "id": 3754,
         "title": "Expert PHP and MySQL",
         "img": "http://image.banshujiang.cn/3754.jpeg?timestamp=1712399645821",
@@ -280,43 +322,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/2807/webstorage_links/10216/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2697,
-        "title": "Learning PHP, MySQL &amp; JavaScript 6th Edition",
-        "img": "https://imagebsj.netlify.app/2697.jpeg",
-        "author": "Robin Nixon",
-        "language": "英文",
-        "publishYear": 2021,
-        "programLanguage": "PHP",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2697/webstorage_links/9613/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2697/webstorage_links/9614/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2414,
-        "title": "Front Line PHP: Building modern applications with PHP 8",
-        "img": "https://imagebsj.netlify.app/2414.jpeg",
-        "author": "Brent Roose",
-        "language": "英文",
-        "publishYear": 2020,
-        "programLanguage": "PHP",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2414/webstorage_links/15891/to_link"
             }
         ]
     }

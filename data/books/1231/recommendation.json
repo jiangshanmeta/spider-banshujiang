@@ -1,5 +1,26 @@
 [
     {
+        "id": 3790,
+        "title": "PowerShell Deep Dives",
+        "img": "https://imagebsj.netlify.app/3790.jpeg",
+        "author": "Jeffery Hicks, Richard Siddaway, Oisín Grehan and Aleksandar Nikolic",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "PowerShell",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3790/webstorage_links/19343/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3790/webstorage_links/19342/to_link"
+            }
+        ]
+    },
+    {
         "id": 3635,
         "title": "PowerShell in Depth",
         "img": "http://image.banshujiang.cn/3635.jpeg?timestamp=1708776017693",

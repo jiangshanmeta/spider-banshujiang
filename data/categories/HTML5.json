@@ -1,5 +1,47 @@
 [
     {
+        "id": 3814,
+        "title": "HTML5 and CSS3 2nd Edition",
+        "img": "http://image.banshujiang.cn/3814.jpeg?timestamp=1712976771976",
+        "author": "Brian P. Hogan",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "HTML5",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3814/webstorage_links/19436/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3814/webstorage_links/19435/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3764,
+        "title": "Learn HTML5 by Creating Fun Games",
+        "img": "https://imagebsj.netlify.app/3764.jpeg",
+        "author": "Rodrigo Silveira",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "HTML5",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3764/webstorage_links/19239/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3764/webstorage_links/19238/to_link"
+            }
+        ]
+    },
+    {
         "id": 3760,
         "title": "HTML5 Web Application Development By Example Beginner&#39;s guide",
         "img": "http://image.banshujiang.cn/3760.jpeg?timestamp=1712400094484",

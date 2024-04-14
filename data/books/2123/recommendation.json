@@ -1,1 +1,44 @@
-[]
+[
+    {
+        "id": 3799,
+        "title": "Programming Groovy 2",
+        "img": "https://imagebsj.netlify.app/3799.jpeg",
+        "author": "Venkat Subramaniam",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Groovy",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3799/webstorage_links/19378/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3799/webstorage_links/19377/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3774,
+        "title": "Making Java Groovy",
+        "img": "https://imagebsj.netlify.app/3774.jpeg",
+        "author": "Kenneth A. Kousen",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Groovy",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3774/webstorage_links/19275/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3774/webstorage_links/19274/to_link"
+            }
+        ]
+    }
+]

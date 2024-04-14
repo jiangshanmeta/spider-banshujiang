@@ -1,5 +1,89 @@
 [
     {
+        "id": 3816,
+        "title": "Java Network Programming 4th Edition",
+        "img": "http://image.banshujiang.cn/3816.jpeg?timestamp=1712977239335",
+        "author": "Elliotte Rusty Harold",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3816/webstorage_links/19444/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3816/webstorage_links/19443/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3804,
+        "title": "Android Development Tools for Eclipse",
+        "img": "http://image.banshujiang.cn/3804.jpeg?timestamp=1712975881397",
+        "author": "Sanjay Shah and Khirulnizam Abd Rahman",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3804/webstorage_links/19396/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3804/webstorage_links/19395/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3766,
+        "title": "Learning Play! Framework 2",
+        "img": "https://imagebsj.netlify.app/3766.jpeg",
+        "author": "Andy Petrella",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3766/webstorage_links/19247/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3766/webstorage_links/19246/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3762,
+        "title": "Java Quick Syntax Reference",
+        "img": "https://imagebsj.netlify.app/3762.jpeg",
+        "author": "Mikael Olsson",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3762/webstorage_links/19231/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3762/webstorage_links/19230/to_link"
+            }
+        ]
+    },
+    {
         "id": 3741,
         "title": "Android Native Development Kit Cookbook",
         "img": "http://image.banshujiang.cn/3741.jpeg?timestamp=1712268168171",

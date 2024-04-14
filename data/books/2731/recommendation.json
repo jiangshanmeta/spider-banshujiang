@@ -1,5 +1,26 @@
 [
     {
+        "id": 3784,
+        "title": "Parallel and Concurrent Programming in Haskell",
+        "img": "https://imagebsj.netlify.app/3784.jpeg",
+        "author": "Simon Marlow",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Haskell",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3784/webstorage_links/19319/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3784/webstorage_links/19318/to_link"
+            }
+        ]
+    },
+    {
         "id": 3545,
         "title": "Effective Haskell",
         "img": "http://image.banshujiang.cn/3545.jpeg?timestamp=1697258537810",

@@ -1,5 +1,21 @@
 [
     {
+        "id": 3801,
+        "title": ".NET 4.5 Parallel Extensions Cookbook",
+        "img": "http://image.banshujiang.cn/3801.jpeg?timestamp=1712975169894",
+        "author": "Bryan Freeman",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3801/webstorage_links/19384/to_link"
+            }
+        ]
+    },
+    {
         "id": 3752,
         "title": "C# in Depth 3rd Edition",
         "img": "http://image.banshujiang.cn/3752.jpeg?timestamp=1712398407780",
@@ -301,32 +317,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/2848/webstorage_links/10438/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2839,
-        "title": "Unity in Action 3rd Edition",
-        "img": "https://imagebsj.netlify.app/2839.jpeg",
-        "author": "Joseph Hocking",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "C#",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2839/webstorage_links/10397/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2839/webstorage_links/10399/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/2839/webstorage_links/10398/to_link"
             }
         ]
     }

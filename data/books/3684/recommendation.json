@@ -1,5 +1,68 @@
 [
     {
+        "id": 3810,
+        "title": "Functional Programming Patterns in Scala and Clojure",
+        "img": "http://image.banshujiang.cn/3810.jpeg?timestamp=1712976485073",
+        "author": "Michael Bevilacqua-Linn",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Scala",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3810/webstorage_links/19420/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3810/webstorage_links/19419/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3788,
+        "title": "Play for Scala",
+        "img": "https://imagebsj.netlify.app/3788.jpeg",
+        "author": "Peter Hilton, Erik Bakker and Francisco Canedo",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Scala",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3788/webstorage_links/19335/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3788/webstorage_links/19334/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3771,
+        "title": "Lift Cookbook",
+        "img": "https://imagebsj.netlify.app/3771.jpeg",
+        "author": "Richard Dallaway",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Scala",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3771/webstorage_links/19267/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3771/webstorage_links/19266/to_link"
+            }
+        ]
+    },
+    {
         "id": 2890,
         "title": "Programming in Scala 5th Edition",
         "img": "https://imagebsj.netlify.app/2890.jpeg",

@@ -112,6 +112,27 @@
         ]
     },
     {
+        "id": 3790,
+        "title": "PowerShell Deep Dives",
+        "img": "https://imagebsj.netlify.app/3790.jpeg",
+        "author": "Jeffery Hicks, Richard Siddaway, Oisín Grehan and Aleksandar Nikolic",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "PowerShell",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3790/webstorage_links/19343/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3790/webstorage_links/19342/to_link"
+            }
+        ]
+    },
+    {
         "id": 3698,
         "title": "Windows Store App Development",
         "img": "http://image.banshujiang.cn/3698.jpeg?timestamp=1711705068633",
@@ -301,27 +322,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/2829/webstorage_links/10338/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2664,
-        "title": "PowerShell Cookbook 4th Edition",
-        "img": "https://imagebsj.netlify.app/2664.jpeg",
-        "author": "Lee Holmes",
-        "language": "英文",
-        "publishYear": 2021,
-        "programLanguage": "PowerShell",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2664/webstorage_links/9481/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2664/webstorage_links/9482/to_link"
             }
         ]
     }

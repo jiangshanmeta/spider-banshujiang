@@ -1,5 +1,47 @@
 [
     {
+        "id": 3787,
+        "title": "PHP Quick Scripting Reference",
+        "img": "https://imagebsj.netlify.app/3787.jpeg",
+        "author": "Mikael Olsson",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "PHP",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3787/webstorage_links/19331/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3787/webstorage_links/19330/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3773,
+        "title": "Magento PHP Developer&#39;s Guide",
+        "img": "https://imagebsj.netlify.app/3773.jpeg",
+        "author": "Allan MacGregor",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "PHP",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3773/webstorage_links/19303/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3773/webstorage_links/19302/to_link"
+            }
+        ]
+    },
+    {
         "id": 3754,
         "title": "Expert PHP and MySQL",
         "img": "http://image.banshujiang.cn/3754.jpeg?timestamp=1712399645821",
@@ -310,43 +352,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/2081/webstorage_links/11361/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2032,
-        "title": "PHP and MySQL Web Development 5th Edition",
-        "img": "https://imagebsj.netlify.app/2032.jpeg",
-        "author": "Luke Welling and Laura Thomson",
-        "language": "英文",
-        "publishYear": 2017,
-        "programLanguage": "PHP",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2032/webstorage_links/11189/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2032/webstorage_links/11190/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2003,
-        "title": "Secure PHP Development: Building 50 Practical Applications",
-        "img": "https://imagebsj.netlify.app/2003.jpeg",
-        "author": "Mohammed J. Kabir",
-        "language": "英文",
-        "publishYear": 2003,
-        "programLanguage": "PHP",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2003/webstorage_links/11096/to_link"
             }
         ]
     }

@@ -1,0 +1,202 @@
+[
+    {
+        "id": 3810,
+        "title": "Functional Programming Patterns in Scala and Clojure",
+        "img": "http://image.banshujiang.cn/3810.jpeg?timestamp=1712976485073",
+        "author": "Michael Bevilacqua-Linn",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Scala",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3810/webstorage_links/19420/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3810/webstorage_links/19419/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3771,
+        "title": "Lift Cookbook",
+        "img": "https://imagebsj.netlify.app/3771.jpeg",
+        "author": "Richard Dallaway",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Scala",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3771/webstorage_links/19267/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3771/webstorage_links/19266/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3684,
+        "title": "Scala in Action",
+        "img": "http://image.banshujiang.cn/3684.jpeg?timestamp=1711698811038",
+        "author": "Nilanjan Raychaudhuri",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Scala",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3684/webstorage_links/18923/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3684/webstorage_links/18922/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2890,
+        "title": "Programming in Scala 5th Edition",
+        "img": "https://imagebsj.netlify.app/2890.jpeg",
+        "author": "Martin Odersky, Lex Spoon, Bill Venners, and Frank Sommers",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Scala",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2890/webstorage_links/10587/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2777,
+        "title": "Scala Cookbook 2nd Edition",
+        "img": "https://imagebsj.netlify.app/2777.jpeg",
+        "author": "Alvin Alexander",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Scala",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2777/webstorage_links/10099/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2777/webstorage_links/10098/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2728,
+        "title": "Get Programming with Scala",
+        "img": "https://imagebsj.netlify.app/2728.jpeg",
+        "author": "Daniela Sfregola",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Scala",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2728/webstorage_links/9881/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2728/webstorage_links/9879/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/2728/webstorage_links/9880/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2634,
+        "title": "Programming Scala 3rd Edition",
+        "img": "https://imagebsj.netlify.app/2634.jpeg",
+        "author": "Dean Wampler",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Scala",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2634/webstorage_links/9216/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2634/webstorage_links/9217/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2555,
+        "title": "Data Management at Scale",
+        "img": "https://imagebsj.netlify.app/2555.jpeg",
+        "author": "Piethein Strengholt",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "Scala",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2555/webstorage_links/8912/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2356,
+        "title": "Scala for the Impatient 2nd Edition",
+        "img": "https://imagebsj.netlify.app/2356.jpeg",
+        "author": "Cay S. Horstmann",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Scala",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2356/webstorage_links/15795/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/2356/webstorage_links/15794/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1941,
+        "title": "Scala for Java Developers",
+        "img": "https://imagebsj.netlify.app/1941.jpeg",
+        "author": "Thomas Alexandre",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Scala",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1941/webstorage_links/11532/to_link"
+            }
+        ]
+    }
+]

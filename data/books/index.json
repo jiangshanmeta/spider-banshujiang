@@ -69226,5 +69226,1260 @@
                 "link": "/e_books/3760/webstorage_links/19222/to_link"
             }
         ]
+    },
+    {
+        "id": 3761,
+        "title": "iPhone The Missing Manual 7th Edition",
+        "img": "https://imagebsj.netlify.app/3761.jpeg",
+        "author": "David Pogue",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3761/webstorage_links/19227/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3761/webstorage_links/19226/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3762,
+        "title": "Java Quick Syntax Reference",
+        "img": "https://imagebsj.netlify.app/3762.jpeg",
+        "author": "Mikael Olsson",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3762/webstorage_links/19231/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3762/webstorage_links/19230/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3763,
+        "title": "jMonkeyEngine 3.0 Beginner&#39;s Guide",
+        "img": "https://imagebsj.netlify.app/3763.jpeg",
+        "author": "Ruth Kusterer",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3763/webstorage_links/19235/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3763/webstorage_links/19234/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3764,
+        "title": "Learn HTML5 by Creating Fun Games",
+        "img": "https://imagebsj.netlify.app/3764.jpeg",
+        "author": "Rodrigo Silveira",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "HTML5",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3764/webstorage_links/19239/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3764/webstorage_links/19238/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3765,
+        "title": "Learn OpenGL ES",
+        "img": "https://imagebsj.netlify.app/3765.jpeg",
+        "author": "Prateek Mehta",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3765/webstorage_links/19243/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3765/webstorage_links/19242/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3766,
+        "title": "Learning Play! Framework 2",
+        "img": "https://imagebsj.netlify.app/3766.jpeg",
+        "author": "Andy Petrella",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3766/webstorage_links/19247/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3766/webstorage_links/19246/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3767,
+        "title": "Learning Python 5th Edition",
+        "img": "https://imagebsj.netlify.app/3767.jpeg",
+        "author": "Mark Lutz",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3767/webstorage_links/19251/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3767/webstorage_links/19250/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3768,
+        "title": "Learning R",
+        "img": "https://imagebsj.netlify.app/3768.jpeg",
+        "author": "Richard Cotton",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3768/webstorage_links/19255/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3768/webstorage_links/19254/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3769,
+        "title": "Learning SPARQL 2nd Edition",
+        "img": "https://imagebsj.netlify.app/3769.jpeg",
+        "author": "Bob DuCharme",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3769/webstorage_links/19259/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3769/webstorage_links/19258/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3770,
+        "title": "Liferay Portal Performance Best Practices",
+        "img": "https://imagebsj.netlify.app/3770.jpeg",
+        "author": "Samir Bhatt",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3770/webstorage_links/19263/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3770/webstorage_links/19262/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3771,
+        "title": "Lift Cookbook",
+        "img": "https://imagebsj.netlify.app/3771.jpeg",
+        "author": "Richard Dallaway",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Scala",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3771/webstorage_links/19267/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3771/webstorage_links/19266/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3772,
+        "title": "Magento Beginner&#39;s Guide 2nd Edition",
+        "img": "https://imagebsj.netlify.app/3772.jpeg",
+        "author": "Robbert Ravensbergen and Sander Schoneville",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3772/webstorage_links/19271/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3772/webstorage_links/19270/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3773,
+        "title": "Magento PHP Developer&#39;s Guide",
+        "img": "https://imagebsj.netlify.app/3773.jpeg",
+        "author": "Allan MacGregor",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "PHP",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3773/webstorage_links/19303/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3773/webstorage_links/19302/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3774,
+        "title": "Making Java Groovy",
+        "img": "https://imagebsj.netlify.app/3774.jpeg",
+        "author": "Kenneth A. Kousen",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Groovy",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3774/webstorage_links/19275/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3774/webstorage_links/19274/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3775,
+        "title": "Making Sense of NoSQL",
+        "img": "https://imagebsj.netlify.app/3775.jpeg",
+        "author": "Dan Mccreary and Ann Kelly",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3775/webstorage_links/19279/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3775/webstorage_links/19278/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3776,
+        "title": "Mastering NGINX",
+        "img": "https://imagebsj.netlify.app/3776.jpeg",
+        "author": "Dimitri Aivaliotis",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3776/webstorage_links/19283/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3776/webstorage_links/19282/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3777,
+        "title": "Mondrian in Action",
+        "img": "https://imagebsj.netlify.app/3777.jpeg",
+        "author": "William D. Back, Nicholas Goodman and Julian Hyde",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3777/webstorage_links/19287/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3777/webstorage_links/19286/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3778,
+        "title": "Moving from C to C++",
+        "img": "https://imagebsj.netlify.app/3778.jpeg",
+        "author": "Arunesh Goyal",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3778/webstorage_links/19291/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3778/webstorage_links/19290/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3779,
+        "title": "NumPy Beginner&#39;s Guide 2nd Edition",
+        "img": "https://imagebsj.netlify.app/3779.jpeg",
+        "author": "Ivan Idris",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3779/webstorage_links/19295/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3779/webstorage_links/19294/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3780,
+        "title": "OpenGL Development Cookbook",
+        "img": "https://imagebsj.netlify.app/3780.jpeg",
+        "author": "Muhammad Mobeen Movania",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3780/webstorage_links/19299/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3780/webstorage_links/19298/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3781,
+        "title": "OpenGL ES 2 for Android",
+        "img": "https://imagebsj.netlify.app/3781.jpeg",
+        "author": "Kevin Brothaler",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3781/webstorage_links/19307/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3781/webstorage_links/19306/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3782,
+        "title": "Oracle Essentials 5th Edition",
+        "img": "https://imagebsj.netlify.app/3782.jpeg",
+        "author": "Rick Greenwald, Robert Stackowiak, and Jonathan Stern",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3782/webstorage_links/19311/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3782/webstorage_links/19310/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3783,
+        "title": "Oracle WebLogic Server 12 c Advanced Administration Cookbook",
+        "img": "https://imagebsj.netlify.app/3783.jpeg",
+        "author": "Dalton Iwazaki",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3783/webstorage_links/19315/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3783/webstorage_links/19314/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3784,
+        "title": "Parallel and Concurrent Programming in Haskell",
+        "img": "https://imagebsj.netlify.app/3784.jpeg",
+        "author": "Simon Marlow",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Haskell",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3784/webstorage_links/19319/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3784/webstorage_links/19318/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3785,
+        "title": "Photoshop CC the missing manual",
+        "img": "https://imagebsj.netlify.app/3785.jpeg",
+        "author": "Lesa Snider",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3785/webstorage_links/19323/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3785/webstorage_links/19322/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3786,
+        "title": "Photoshop Elements 12 the missing manual",
+        "img": "https://imagebsj.netlify.app/3786.jpeg",
+        "author": "Barbara Brundage",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3786/webstorage_links/19327/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3786/webstorage_links/19326/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3787,
+        "title": "PHP Quick Scripting Reference",
+        "img": "https://imagebsj.netlify.app/3787.jpeg",
+        "author": "Mikael Olsson",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "PHP",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3787/webstorage_links/19331/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3787/webstorage_links/19330/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3788,
+        "title": "Play for Scala",
+        "img": "https://imagebsj.netlify.app/3788.jpeg",
+        "author": "Peter Hilton, Erik Bakker and Francisco Canedo",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Scala",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3788/webstorage_links/19335/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3788/webstorage_links/19334/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3789,
+        "title": "PlayStation Mobile Development Cookbook",
+        "img": "https://imagebsj.netlify.app/3789.jpeg",
+        "author": "Michael Fleischauer",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3789/webstorage_links/19339/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3789/webstorage_links/19338/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3790,
+        "title": "PowerShell Deep Dives",
+        "img": "https://imagebsj.netlify.app/3790.jpeg",
+        "author": "Jeffery Hicks, Richard Siddaway, Oisín Grehan and Aleksandar Nikolic",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "PowerShell",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3790/webstorage_links/19343/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3790/webstorage_links/19342/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3791,
+        "title": "Practical ASP.NET Web API",
+        "img": "https://imagebsj.netlify.app/3791.jpeg",
+        "author": "Badrinarayanan Lakshmiraghavan",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "ASP.net",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3791/webstorage_links/19347/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3791/webstorage_links/19346/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3792,
+        "title": "Practical Ext JS 4",
+        "img": "https://imagebsj.netlify.app/3792.jpeg",
+        "author": "Prabhu Sunderaraman",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3792/webstorage_links/19351/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3792/webstorage_links/19350/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3793,
+        "title": "Pro ASP.NET 4.5 in VB",
+        "img": "https://imagebsj.netlify.app/3793.jpeg",
+        "author": "Dan Mabbutt, Adam Freeman and Matthew MacDonald",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "ASP.net",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3793/webstorage_links/19355/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3793/webstorage_links/19354/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3794,
+        "title": "Pro ASP.NET Web API",
+        "img": "https://imagebsj.netlify.app/3794.jpeg",
+        "author": "Tugberk Ugurlu",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "ASP.net",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3794/webstorage_links/19359/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3794/webstorage_links/19358/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3795,
+        "title": "Pro Objective-C",
+        "img": "https://imagebsj.netlify.app/3795.jpeg",
+        "author": "Keith Lee",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Objective-C",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3795/webstorage_links/19362/to_link"
+            },
+            {
+                "fmt": "PDF",
+                "title": "百度网盘",
+                "link": "/e_books/3795/webstorage_links/19361/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3796,
+        "title": "Professional Hadoop Solutions",
+        "img": "https://imagebsj.netlify.app/3796.jpeg",
+        "author": "Boris Lublinsky, Kevin T. Smith and Alexey Yakubovich",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3796/webstorage_links/19366/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3796/webstorage_links/19365/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3797,
+        "title": "Programming ArcGIS 10.1 with Python Cookbook",
+        "img": "https://imagebsj.netlify.app/3797.jpeg",
+        "author": "Eric Pimpler",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3797/webstorage_links/19370/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3797/webstorage_links/19369/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3798,
+        "title": "Programming for PaaS",
+        "img": "https://imagebsj.netlify.app/3798.jpeg",
+        "author": "Lucas Carlson",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3798/webstorage_links/19374/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3798/webstorage_links/19373/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3799,
+        "title": "Programming Groovy 2",
+        "img": "https://imagebsj.netlify.app/3799.jpeg",
+        "author": "Venkat Subramaniam",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Groovy",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3799/webstorage_links/19378/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3799/webstorage_links/19377/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3800,
+        "title": "Puppet 3 Beginner&#39;s Guide",
+        "img": "http://image.banshujiang.cn/3800.jpeg?timestamp=1712934958358",
+        "author": "John Arundel",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3800/webstorage_links/19382/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3800/webstorage_links/19381/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3801,
+        "title": ".NET 4.5 Parallel Extensions Cookbook",
+        "img": "http://image.banshujiang.cn/3801.jpeg?timestamp=1712975169894",
+        "author": "Bryan Freeman",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3801/webstorage_links/19384/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3802,
+        "title": "3D Game Programming for Kids",
+        "img": "http://image.banshujiang.cn/3802.jpeg?timestamp=1712975434090",
+        "author": "Chris Strom",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3802/webstorage_links/19388/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3802/webstorage_links/19387/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3803,
+        "title": "Agile Data Science",
+        "img": "http://image.banshujiang.cn/3803.jpeg?timestamp=1712975698445",
+        "author": "Russell Jurney",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3803/webstorage_links/19392/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3803/webstorage_links/19391/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3804,
+        "title": "Android Development Tools for Eclipse",
+        "img": "http://image.banshujiang.cn/3804.jpeg?timestamp=1712975881397",
+        "author": "Sanjay Shah and Khirulnizam Abd Rahman",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3804/webstorage_links/19396/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3804/webstorage_links/19395/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3805,
+        "title": "ASP.NET MVC 4 Mobile App Development",
+        "img": "http://image.banshujiang.cn/3805.jpeg?timestamp=1712976018559",
+        "author": "Andy Meadows",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "ASP.net",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3805/webstorage_links/19400/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3805/webstorage_links/19399/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3806,
+        "title": "BioCoder FALL 2013",
+        "img": "http://image.banshujiang.cn/3806.jpeg?timestamp=1712976111347",
+        "author": "Michael Scroggins",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3806/webstorage_links/19404/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3806/webstorage_links/19403/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3807,
+        "title": "Building Machine Learning Systems with Python",
+        "img": "http://image.banshujiang.cn/3807.jpeg?timestamp=1712976198310",
+        "author": "Willi Richert and Luis Pedro Coelho",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3807/webstorage_links/19408/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3807/webstorage_links/19407/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3808,
+        "title": "Developing with PDF",
+        "img": "http://image.banshujiang.cn/3808.jpeg?timestamp=1712976269483",
+        "author": "Leonard Rosenthol",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3808/webstorage_links/19412/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3808/webstorage_links/19411/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3809,
+        "title": "Doing Data Science",
+        "img": "http://image.banshujiang.cn/3809.jpeg?timestamp=1712976386671",
+        "author": "Rachel Schutt and Cathy O’Neil",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3809/webstorage_links/19416/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3809/webstorage_links/19415/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3810,
+        "title": "Functional Programming Patterns in Scala and Clojure",
+        "img": "http://image.banshujiang.cn/3810.jpeg?timestamp=1712976485073",
+        "author": "Michael Bevilacqua-Linn",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Scala",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3810/webstorage_links/19420/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3810/webstorage_links/19419/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3811,
+        "title": "Getting Started with Eclipse Juno",
+        "img": "http://image.banshujiang.cn/3811.jpeg?timestamp=1712976563255",
+        "author": "Rodrigo Fraxino, Araujo Vinicius and H. S. Durelli",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3811/webstorage_links/19424/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3811/webstorage_links/19423/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3812,
+        "title": "Hadoop Operations and Cluster Management Cookbook",
+        "img": "http://image.banshujiang.cn/3812.jpeg?timestamp=1712976619656",
+        "author": "Shumin Guo",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3812/webstorage_links/19428/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3812/webstorage_links/19427/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3813,
+        "title": "High Performance Drupal",
+        "img": "http://image.banshujiang.cn/3813.jpeg?timestamp=1712976680394",
+        "author": "Jeff Sheltren, Narayan Newton and Nathaniel Catchpole",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3813/webstorage_links/19432/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3813/webstorage_links/19431/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3814,
+        "title": "HTML5 and CSS3 2nd Edition",
+        "img": "http://image.banshujiang.cn/3814.jpeg?timestamp=1712976771976",
+        "author": "Brian P. Hogan",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "HTML5",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3814/webstorage_links/19436/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3814/webstorage_links/19435/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3815,
+        "title": "iOS 7 Programming Fundamentals",
+        "img": "http://image.banshujiang.cn/3815.jpeg?timestamp=1712977153520",
+        "author": "Matt Neuburg",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Objective-C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3815/webstorage_links/19440/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3815/webstorage_links/19439/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3816,
+        "title": "Java Network Programming 4th Edition",
+        "img": "http://image.banshujiang.cn/3816.jpeg?timestamp=1712977239335",
+        "author": "Elliotte Rusty Harold",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3816/webstorage_links/19444/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3816/webstorage_links/19443/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3817,
+        "title": "jQuery UI Cookbook",
+        "img": "http://image.banshujiang.cn/3817.jpeg?timestamp=1712977304094",
+        "author": "Adam Boduch",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3817/webstorage_links/19448/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3817/webstorage_links/19447/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3818,
+        "title": "Learning Metasploit Exploitation and Development",
+        "img": "http://image.banshujiang.cn/3818.jpeg?timestamp=1712977353651",
+        "author": "Aditya Balapure",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3818/webstorage_links/19452/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3818/webstorage_links/19451/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3819,
+        "title": "Mastering Ext JS",
+        "img": "http://image.banshujiang.cn/3819.jpeg?timestamp=1712977422253",
+        "author": "Loiane Groner",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3819/webstorage_links/19456/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3819/webstorage_links/19455/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3820,
+        "title": "Mining the Social Web 2nd Edition",
+        "img": "http://image.banshujiang.cn/3820.jpeg?timestamp=1712977528033",
+        "author": "Matthew A. Russell",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3820/webstorage_links/19460/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3820/webstorage_links/19459/to_link"
+            }
+        ]
     }
 ]

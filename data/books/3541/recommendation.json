@@ -138,6 +138,153 @@
         ]
     },
     {
+        "id": 3815,
+        "title": "iOS 7 Programming Fundamentals",
+        "img": "http://image.banshujiang.cn/3815.jpeg?timestamp=1712977153520",
+        "author": "Matt Neuburg",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Objective-C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3815/webstorage_links/19440/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3815/webstorage_links/19439/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3807,
+        "title": "Building Machine Learning Systems with Python",
+        "img": "http://image.banshujiang.cn/3807.jpeg?timestamp=1712976198310",
+        "author": "Willi Richert and Luis Pedro Coelho",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3807/webstorage_links/19408/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3807/webstorage_links/19407/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3797,
+        "title": "Programming ArcGIS 10.1 with Python Cookbook",
+        "img": "https://imagebsj.netlify.app/3797.jpeg",
+        "author": "Eric Pimpler",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3797/webstorage_links/19370/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3797/webstorage_links/19369/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3795,
+        "title": "Pro Objective-C",
+        "img": "https://imagebsj.netlify.app/3795.jpeg",
+        "author": "Keith Lee",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Objective-C",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3795/webstorage_links/19362/to_link"
+            },
+            {
+                "fmt": "PDF",
+                "title": "百度网盘",
+                "link": "/e_books/3795/webstorage_links/19361/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3779,
+        "title": "NumPy Beginner&#39;s Guide 2nd Edition",
+        "img": "https://imagebsj.netlify.app/3779.jpeg",
+        "author": "Ivan Idris",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3779/webstorage_links/19295/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3779/webstorage_links/19294/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3767,
+        "title": "Learning Python 5th Edition",
+        "img": "https://imagebsj.netlify.app/3767.jpeg",
+        "author": "Mark Lutz",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3767/webstorage_links/19251/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3767/webstorage_links/19250/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3761,
+        "title": "iPhone The Missing Manual 7th Edition",
+        "img": "https://imagebsj.netlify.app/3761.jpeg",
+        "author": "David Pogue",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3761/webstorage_links/19227/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3761/webstorage_links/19226/to_link"
+            }
+        ]
+    },
+    {
         "id": 3759,
         "title": "Hello! IOS Development",
         "img": "http://image.banshujiang.cn/3759.jpeg?timestamp=1712399988596",
@@ -155,153 +302,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3759/webstorage_links/19218/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3745,
-        "title": "Building iPhone and iPad Electronic Projects",
-        "img": "http://image.banshujiang.cn/3745.jpeg?timestamp=1712324585244",
-        "author": "Mike Westerfield",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3745/webstorage_links/19169/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3745/webstorage_links/19168/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3682,
-        "title": "Python Cookbook 3rd Edition",
-        "img": "http://image.banshujiang.cn/3682.jpeg?timestamp=1711698416057",
-        "author": "David Beazley and Brian K. Jones",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3682/webstorage_links/18915/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3682/webstorage_links/18914/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3623,
-        "title": "SwiftUI Animations by Tutorials",
-        "img": "http://image.banshujiang.cn/3623.jpeg?timestamp=1708772434058",
-        "author": "Irina Galata &amp; Bill Morefield",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3623/webstorage_links/18703/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3623/webstorage_links/18702/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3619,
-        "title": "Python Playground 2nd Edition",
-        "img": "http://image.banshujiang.cn/3619.jpeg?timestamp=1708054218985",
-        "author": "Mahesh Venkitachalam",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3619/webstorage_links/18690/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/3619/webstorage_links/18691/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3618,
-        "title": "Push Notifications by Tutorials 4th Edition",
-        "img": "http://image.banshujiang.cn/3618.jpeg?timestamp=1708054143788",
-        "author": "Scott Grosch",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3618/webstorage_links/18687/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3618/webstorage_links/18686/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3605,
-        "title": "Scaling Python with Dask",
-        "img": "http://image.banshujiang.cn/3605.jpeg?timestamp=1708052554122",
-        "author": "Holden Karau and Mika Kimmins",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3605/webstorage_links/18638/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3605/webstorage_links/18639/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3594,
-        "title": "Machine Learning with Python Cookbook 2nd Edition",
-        "img": "http://image.banshujiang.cn/3594.jpeg?timestamp=1707806389650",
-        "author": "Kyle Gallatin and Chris Albon",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3594/webstorage_links/18609/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3594/webstorage_links/18608/to_link"
             }
         ]
     }

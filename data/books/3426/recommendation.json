@@ -1,5 +1,89 @@
 [
     {
+        "id": 3807,
+        "title": "Building Machine Learning Systems with Python",
+        "img": "http://image.banshujiang.cn/3807.jpeg?timestamp=1712976198310",
+        "author": "Willi Richert and Luis Pedro Coelho",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3807/webstorage_links/19408/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3807/webstorage_links/19407/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3797,
+        "title": "Programming ArcGIS 10.1 with Python Cookbook",
+        "img": "https://imagebsj.netlify.app/3797.jpeg",
+        "author": "Eric Pimpler",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3797/webstorage_links/19370/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3797/webstorage_links/19369/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3779,
+        "title": "NumPy Beginner&#39;s Guide 2nd Edition",
+        "img": "https://imagebsj.netlify.app/3779.jpeg",
+        "author": "Ivan Idris",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3779/webstorage_links/19295/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3779/webstorage_links/19294/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3767,
+        "title": "Learning Python 5th Edition",
+        "img": "https://imagebsj.netlify.app/3767.jpeg",
+        "author": "Mark Lutz",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3767/webstorage_links/19251/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3767/webstorage_links/19250/to_link"
+            }
+        ]
+    },
+    {
         "id": 3682,
         "title": "Python Cookbook 3rd Edition",
         "img": "http://image.banshujiang.cn/3682.jpeg?timestamp=1711698416057",
@@ -248,100 +332,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3499/webstorage_links/18259/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3465,
-        "title": "Scientific Computing with Python 3",
-        "img": "http://image.banshujiang.cn/3465.jpeg?timestamp=1696338985450",
-        "author": "Claus Führer, Jan Erik Solem and Olivier Verdier",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3465/webstorage_links/18103/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3465/webstorage_links/18101/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/3465/webstorage_links/18102/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3445,
-        "title": "Mastering Python Data Analysis",
-        "img": "http://image.banshujiang.cn/3445.jpeg?timestamp=1691891702400",
-        "author": "Magnus Vilhelm Persson and Luiz Felipe Martins",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3445/webstorage_links/17987/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3444,
-        "title": "Mastering Django: Core",
-        "img": "http://image.banshujiang.cn/3444.jpeg?timestamp=1691891559353",
-        "author": "Nigel George",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3444/webstorage_links/17983/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3444/webstorage_links/17984/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/3444/webstorage_links/17985/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3418,
-        "title": "Python in a Nutshell 3th Edition",
-        "img": "http://image.banshujiang.cn/3418.jpeg?timestamp=1681544794595",
-        "author": "Alex Martelli, Anna Ravenscroft, and Steve Holden",
-        "language": "英文",
-        "publishYear": 2017,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3418/webstorage_links/17850/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3418/webstorage_links/17849/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/3418/webstorage_links/17851/to_link"
             }
         ]
     }

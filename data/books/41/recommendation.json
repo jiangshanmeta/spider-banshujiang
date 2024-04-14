@@ -1,5 +1,26 @@
 [
     {
+        "id": 3804,
+        "title": "Android Development Tools for Eclipse",
+        "img": "http://image.banshujiang.cn/3804.jpeg?timestamp=1712975881397",
+        "author": "Sanjay Shah and Khirulnizam Abd Rahman",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3804/webstorage_links/19396/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3804/webstorage_links/19395/to_link"
+            }
+        ]
+    },
+    {
         "id": 3741,
         "title": "Android Native Development Kit Cookbook",
         "img": "http://image.banshujiang.cn/3741.jpeg?timestamp=1712268168171",
@@ -316,22 +337,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/1526/webstorage_links/12368/to_link"
-            }
-        ]
-    },
-    {
-        "id": 1525,
-        "title": "Android Application Programming with OpenCV",
-        "img": "https://imagebsj.netlify.app/1525.jpeg",
-        "author": "Joseph Howse",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/1525/webstorage_links/12366/to_link"
             }
         ]
     }

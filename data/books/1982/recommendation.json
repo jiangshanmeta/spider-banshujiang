@@ -1,5 +1,47 @@
 [
     {
+        "id": 3815,
+        "title": "iOS 7 Programming Fundamentals",
+        "img": "http://image.banshujiang.cn/3815.jpeg?timestamp=1712977153520",
+        "author": "Matt Neuburg",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Objective-C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3815/webstorage_links/19440/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3815/webstorage_links/19439/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3795,
+        "title": "Pro Objective-C",
+        "img": "https://imagebsj.netlify.app/3795.jpeg",
+        "author": "Keith Lee",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Objective-C",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3795/webstorage_links/19362/to_link"
+            },
+            {
+                "fmt": "PDF",
+                "title": "百度网盘",
+                "link": "/e_books/3795/webstorage_links/19361/to_link"
+            }
+        ]
+    },
+    {
         "id": 3759,
         "title": "Hello! IOS Development",
         "img": "http://image.banshujiang.cn/3759.jpeg?timestamp=1712399988596",
@@ -230,38 +272,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/1450/webstorage_links/13404/to_link"
-            }
-        ]
-    },
-    {
-        "id": 1327,
-        "title": "iOS 7 Programming",
-        "img": "https://imagebsj.netlify.app/1327.jpeg",
-        "author": "Rob Napier and Mugunth Kumar",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Objective-C",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/1327/webstorage_links/13162/to_link"
-            }
-        ]
-    },
-    {
-        "id": 1326,
-        "title": "iOS Components and Frameworks",
-        "img": "https://imagebsj.netlify.app/1326.jpeg",
-        "author": "Kyle Richter and Joe Keeley",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "Objective-C",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/1326/webstorage_links/13160/to_link"
             }
         ]
     }
