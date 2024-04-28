@@ -138,6 +138,27 @@
         ]
     },
     {
+        "id": 3843,
+        "title": "iPad the missing manual 6th Edition",
+        "img": "http://image.banshujiang.cn/3843.jpeg?timestamp=1713969065489",
+        "author": "J.D. Biersdorfer",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3843/webstorage_links/19550/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3843/webstorage_links/19549/to_link"
+            }
+        ]
+    },
+    {
         "id": 3815,
         "title": "iOS 7 Programming Fundamentals",
         "img": "http://image.banshujiang.cn/3815.jpeg?timestamp=1712977153520",
@@ -281,27 +302,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3761/webstorage_links/19226/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3759,
-        "title": "Hello! IOS Development",
-        "img": "http://image.banshujiang.cn/3759.jpeg?timestamp=1712399988596",
-        "author": "Lou Franco and Eitan Mendelowitz",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "Objective-C",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3759/webstorage_links/19219/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3759/webstorage_links/19218/to_link"
             }
         ]
     }

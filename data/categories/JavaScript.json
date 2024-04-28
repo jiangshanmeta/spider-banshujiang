@@ -1,5 +1,110 @@
 [
     {
+        "id": 3846,
+        "title": "Learning jQuery Deferreds",
+        "img": "http://image.banshujiang.cn/3846.jpeg?timestamp=1713969744697",
+        "author": "Terry Jones and Nicholas H. Tollervey",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3846/webstorage_links/19562/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3846/webstorage_links/19561/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3844,
+        "title": "jQuer y and JavaScript",
+        "img": "http://image.banshujiang.cn/3844.jpeg?timestamp=1713969251071",
+        "author": "Brad Dayley",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3844/webstorage_links/19554/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3844/webstorage_links/19553/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3838,
+        "title": "Expert Javascripot",
+        "img": "http://image.banshujiang.cn/3838.jpeg?timestamp=1713636156079",
+        "author": "Mark E. Daggett",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3838/webstorage_links/19530/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3838/webstorage_links/19529/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3835,
+        "title": "Effective JavaScript",
+        "img": "http://image.banshujiang.cn/3835.jpeg?timestamp=1713635890150",
+        "author": "David Herman",
+        "language": "英文",
+        "publishYear": 2012,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3835/webstorage_links/19520/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3835/webstorage_links/19519/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3825,
+        "title": "Backbone.js Cookbook",
+        "img": "http://image.banshujiang.cn/3825.jpeg?timestamp=1713613960883",
+        "author": "Vadim Mirgorod",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3825/webstorage_links/19480/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3825/webstorage_links/19479/to_link"
+            }
+        ]
+    },
+    {
         "id": 3819,
         "title": "Mastering Ext JS",
         "img": "http://image.banshujiang.cn/3819.jpeg?timestamp=1712977422253",

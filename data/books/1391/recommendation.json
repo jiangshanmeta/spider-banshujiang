@@ -1,5 +1,26 @@
 [
     {
+        "id": 3837,
+        "title": "Expert Consolidation in Oracle Database 12c",
+        "img": "http://image.banshujiang.cn/3837.jpeg?timestamp=1713636080748",
+        "author": "Martin Bach",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3837/webstorage_links/19526/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3837/webstorage_links/19525/to_link"
+            }
+        ]
+    },
+    {
         "id": 3782,
         "title": "Oracle Essentials 5th Edition",
         "img": "https://imagebsj.netlify.app/3782.jpeg",
@@ -246,22 +267,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/1392/webstorage_links/13288/to_link"
-            }
-        ]
-    },
-    {
-        "id": 1390,
-        "title": "Oracle Identity Management 3rd Edition",
-        "img": "https://imagebsj.netlify.app/1390.jpeg",
-        "author": "Marlin B. Pohlman",
-        "language": "英文",
-        "publishYear": 2008,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/1390/webstorage_links/13284/to_link"
             }
         ]
     }

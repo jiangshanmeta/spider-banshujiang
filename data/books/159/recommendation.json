@@ -64,6 +64,69 @@
         ]
     },
     {
+        "id": 3826,
+        "title": "C Primer Plus 6th Edition",
+        "img": "http://image.banshujiang.cn/3826.jpeg?timestamp=1713614036367",
+        "author": "Stephen Prata",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3826/webstorage_links/19484/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3826/webstorage_links/19483/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3822,
+        "title": "Advanced UNIX Programming 2nd Edition",
+        "img": "http://image.banshujiang.cn/3822.jpeg?timestamp=1713604454544",
+        "author": "Marc J. Rochkind",
+        "language": "英文",
+        "publishYear": 2004,
+        "programLanguage": "C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3822/webstorage_links/19468/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3822/webstorage_links/19467/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3821,
+        "title": "Advanced Topics in C",
+        "img": "http://image.banshujiang.cn/3821.jpeg?timestamp=1713585043065",
+        "author": "Noel Kaliicharan",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3821/webstorage_links/19464/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3821/webstorage_links/19463/to_link"
+            }
+        ]
+    },
+    {
         "id": 3751,
         "title": "Cryptography in C and C++ 2nd Edition",
         "img": "http://image.banshujiang.cn/3751.jpeg?timestamp=1712398104814",
@@ -244,54 +307,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/2274/webstorage_links/15654/to_link"
-            }
-        ]
-    },
-    {
-        "id": 1917,
-        "title": "Reverse Engineering for Beginners",
-        "img": "https://imagebsj.netlify.app/1917.jpeg",
-        "author": "Dennis Yurichev",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "C",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/1917/webstorage_links/11456/to_link"
-            }
-        ]
-    },
-    {
-        "id": 1697,
-        "title": "The C Programming Language 2nd Edition",
-        "img": "https://imagebsj.netlify.app/1697.jpeg",
-        "author": "Brian W. Kernighan and Dennis M. Ritchie",
-        "language": "英文",
-        "publishYear": 1988,
-        "programLanguage": "C",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/1697/webstorage_links/12100/to_link"
-            }
-        ]
-    },
-    {
-        "id": 1642,
-        "title": "Computational Finance Using C and C#",
-        "img": "https://imagebsj.netlify.app/1642.jpeg",
-        "author": "George Levy",
-        "language": "英文",
-        "publishYear": 2008,
-        "programLanguage": "C",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/1642/webstorage_links/11988/to_link"
             }
         ]
     }

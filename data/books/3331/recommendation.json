@@ -1,5 +1,68 @@
 [
     {
+        "id": 3826,
+        "title": "C Primer Plus 6th Edition",
+        "img": "http://image.banshujiang.cn/3826.jpeg?timestamp=1713614036367",
+        "author": "Stephen Prata",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3826/webstorage_links/19484/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3826/webstorage_links/19483/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3822,
+        "title": "Advanced UNIX Programming 2nd Edition",
+        "img": "http://image.banshujiang.cn/3822.jpeg?timestamp=1713604454544",
+        "author": "Marc J. Rochkind",
+        "language": "英文",
+        "publishYear": 2004,
+        "programLanguage": "C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3822/webstorage_links/19468/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3822/webstorage_links/19467/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3821,
+        "title": "Advanced Topics in C",
+        "img": "http://image.banshujiang.cn/3821.jpeg?timestamp=1713585043065",
+        "author": "Noel Kaliicharan",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3821/webstorage_links/19464/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3821/webstorage_links/19463/to_link"
+            }
+        ]
+    },
+    {
         "id": 3751,
         "title": "Cryptography in C and C++ 2nd Edition",
         "img": "http://image.banshujiang.cn/3751.jpeg?timestamp=1712398104814",
@@ -239,54 +302,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/1530/webstorage_links/12376/to_link"
-            }
-        ]
-    },
-    {
-        "id": 1505,
-        "title": "算法精解: C语言描述",
-        "img": "https://imagebsj.netlify.app/1505.jpeg",
-        "author": "Kyle Loudon 著 肖翔 陈舸 译",
-        "language": "中文",
-        "publishYear": 2012,
-        "programLanguage": "C",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/1505/webstorage_links/12326/to_link"
-            }
-        ]
-    },
-    {
-        "id": 1453,
-        "title": "Advanced Programing in the Unix Environment 2nd Edition",
-        "img": "https://imagebsj.netlify.app/1453.jpeg",
-        "author": "W. Richard Stevens and Stephen A. Rago",
-        "language": "英文",
-        "publishYear": 2005,
-        "programLanguage": "C",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/1453/webstorage_links/13410/to_link"
-            }
-        ]
-    },
-    {
-        "id": 1364,
-        "title": "Modern Compiler Implementation in C",
-        "img": "https://imagebsj.netlify.app/1364.jpeg",
-        "author": "Andrew W. Appel",
-        "language": "英文",
-        "publishYear": 1998,
-        "programLanguage": "C",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/1364/webstorage_links/13234/to_link"
             }
         ]
     }

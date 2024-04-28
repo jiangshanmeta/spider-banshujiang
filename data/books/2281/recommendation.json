@@ -1,5 +1,68 @@
 [
     {
+        "id": 3845,
+        "title": "Learning Android 2nd Edition",
+        "img": "http://image.banshujiang.cn/3845.jpeg?timestamp=1713969354668",
+        "author": "Marko Gargenta and Masumi Nakamura",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3845/webstorage_links/19558/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3845/webstorage_links/19557/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3842,
+        "title": "Introduction to Android Application Development 4th Edition",
+        "img": "http://image.banshujiang.cn/3842.jpeg?timestamp=1713968971339",
+        "author": "Joseph Annuzzi, Jr. Lauren Darcey and Shane Conder",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3842/webstorage_links/19546/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3842/webstorage_links/19545/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3832,
+        "title": "Developing Android on Android",
+        "img": "http://image.banshujiang.cn/3832.jpeg?timestamp=1713631740345",
+        "author": "Mike Riley",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3832/webstorage_links/19508/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3832/webstorage_links/19507/to_link"
+            }
+        ]
+    },
+    {
         "id": 3804,
         "title": "Android Development Tools for Eclipse",
         "img": "http://image.banshujiang.cn/3804.jpeg?timestamp=1712975881397",
@@ -289,54 +352,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/1781/webstorage_links/12274/to_link"
-            }
-        ]
-    },
-    {
-        "id": 1677,
-        "title": "Learn Java for Android Development 3rd Edition",
-        "img": "https://imagebsj.netlify.app/1677.jpeg",
-        "author": "Jeff Friesen",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/1677/webstorage_links/12060/to_link"
-            }
-        ]
-    },
-    {
-        "id": 1526,
-        "title": "Android NDK Game Development Cookbook",
-        "img": "https://imagebsj.netlify.app/1526.jpeg",
-        "author": "Sergey Kosarevsky and Viktor Latypov",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/1526/webstorage_links/12368/to_link"
-            }
-        ]
-    },
-    {
-        "id": 1525,
-        "title": "Android Application Programming with OpenCV",
-        "img": "https://imagebsj.netlify.app/1525.jpeg",
-        "author": "Joseph Howse",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/1525/webstorage_links/12366/to_link"
             }
         ]
     }

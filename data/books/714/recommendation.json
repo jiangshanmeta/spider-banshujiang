@@ -1,5 +1,26 @@
 [
     {
+        "id": 3843,
+        "title": "iPad the missing manual 6th Edition",
+        "img": "http://image.banshujiang.cn/3843.jpeg?timestamp=1713969065489",
+        "author": "J.D. Biersdorfer",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3843/webstorage_links/19550/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3843/webstorage_links/19549/to_link"
+            }
+        ]
+    },
+    {
         "id": 3815,
         "title": "iOS 7 Programming Fundamentals",
         "img": "http://image.banshujiang.cn/3815.jpeg?timestamp=1712977153520",
@@ -311,27 +332,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3416/webstorage_links/17843/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3405,
-        "title": "Learning Swift 2nd Edition",
-        "img": "http://image.banshujiang.cn/3405.jpeg?timestamp=1681021583194",
-        "author": "Jon Manning, Paris Buttfield-Addison, and Tim Nugent",
-        "language": "英文",
-        "publishYear": 2017,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3405/webstorage_links/17796/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3405/webstorage_links/17797/to_link"
             }
         ]
     }

@@ -208,10 +208,10 @@
         ]
     },
     {
-        "id": 3819,
-        "title": "Mastering Ext JS",
-        "img": "http://image.banshujiang.cn/3819.jpeg?timestamp=1712977422253",
-        "author": "Loiane Groner",
+        "id": 3846,
+        "title": "Learning jQuery Deferreds",
+        "img": "http://image.banshujiang.cn/3846.jpeg?timestamp=1713969744697",
+        "author": "Terry Jones and Nicholas H. Tollervey",
         "language": "英文",
         "publishYear": 2013,
         "programLanguage": "JavaScript",
@@ -219,20 +219,20 @@
             {
                 "fmt": "PDF",
                 "title": "城通网盘",
-                "link": "/e_books/3819/webstorage_links/19456/to_link"
+                "link": "/e_books/3846/webstorage_links/19562/to_link"
             },
             {
                 "fmt": "EPUB",
                 "title": "城通网盘",
-                "link": "/e_books/3819/webstorage_links/19455/to_link"
+                "link": "/e_books/3846/webstorage_links/19561/to_link"
             }
         ]
     },
     {
-        "id": 3817,
-        "title": "jQuery UI Cookbook",
-        "img": "http://image.banshujiang.cn/3817.jpeg?timestamp=1712977304094",
-        "author": "Adam Boduch",
+        "id": 3844,
+        "title": "jQuer y and JavaScript",
+        "img": "http://image.banshujiang.cn/3844.jpeg?timestamp=1713969251071",
+        "author": "Brad Dayley",
         "language": "英文",
         "publishYear": 2013,
         "programLanguage": "JavaScript",
@@ -240,20 +240,20 @@
             {
                 "fmt": "PDF",
                 "title": "城通网盘",
-                "link": "/e_books/3817/webstorage_links/19448/to_link"
+                "link": "/e_books/3844/webstorage_links/19554/to_link"
             },
             {
                 "fmt": "EPUB",
                 "title": "城通网盘",
-                "link": "/e_books/3817/webstorage_links/19447/to_link"
+                "link": "/e_books/3844/webstorage_links/19553/to_link"
             }
         ]
     },
     {
-        "id": 3792,
-        "title": "Practical Ext JS 4",
-        "img": "https://imagebsj.netlify.app/3792.jpeg",
-        "author": "Prabhu Sunderaraman",
+        "id": 3838,
+        "title": "Expert Javascripot",
+        "img": "http://image.banshujiang.cn/3838.jpeg?timestamp=1713636156079",
+        "author": "Mark E. Daggett",
         "language": "英文",
         "publishYear": 2013,
         "programLanguage": "JavaScript",
@@ -261,12 +261,12 @@
             {
                 "fmt": "PDF",
                 "title": "城通网盘",
-                "link": "/e_books/3792/webstorage_links/19351/to_link"
+                "link": "/e_books/3838/webstorage_links/19530/to_link"
             },
             {
                 "fmt": "EPUB",
                 "title": "城通网盘",
-                "link": "/e_books/3792/webstorage_links/19350/to_link"
+                "link": "/e_books/3838/webstorage_links/19529/to_link"
             }
         ]
     }

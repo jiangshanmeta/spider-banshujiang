@@ -1,5 +1,26 @@
 [
     {
+        "id": 3839,
+        "title": "Grails 2 A Quick-Start Guide",
+        "img": "http://image.banshujiang.cn/3839.jpeg?timestamp=1713636260340",
+        "author": "Dave Klein and Ben Klein",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Groovy",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3839/webstorage_links/19534/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3839/webstorage_links/19533/to_link"
+            }
+        ]
+    },
+    {
         "id": 3774,
         "title": "Making Java Groovy",
         "img": "https://imagebsj.netlify.app/3774.jpeg",

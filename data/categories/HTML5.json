@@ -1,5 +1,68 @@
 [
     {
+        "id": 3848,
+        "title": "Mobile HTML5",
+        "img": "http://image.banshujiang.cn/3848.jpeg?timestamp=1713969943714",
+        "author": "Mobile HTML5",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "HTML5",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3848/webstorage_links/19570/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3848/webstorage_links/19569/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3841,
+        "title": "HTML5 the missing manual 2nd Edition",
+        "img": "http://image.banshujiang.cn/3841.jpeg?timestamp=1713968869460",
+        "author": "Matthew MacDonald",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "HTML5",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3841/webstorage_links/19542/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3841/webstorage_links/19541/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3833,
+        "title": "Developing Windows Store Apps with HTML5 and JavaScript",
+        "img": "http://image.banshujiang.cn/3833.jpeg?timestamp=1713692825107",
+        "author": "Rami Sarieddine",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "HTML5",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3833/webstorage_links/19512/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3833/webstorage_links/19511/to_link"
+            }
+        ]
+    },
+    {
         "id": 3814,
         "title": "HTML5 and CSS3 2nd Edition",
         "img": "http://image.banshujiang.cn/3814.jpeg?timestamp=1712976771976",

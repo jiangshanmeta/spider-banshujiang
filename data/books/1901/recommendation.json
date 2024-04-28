@@ -64,6 +64,69 @@
         ]
     },
     {
+        "id": 3845,
+        "title": "Learning Android 2nd Edition",
+        "img": "http://image.banshujiang.cn/3845.jpeg?timestamp=1713969354668",
+        "author": "Marko Gargenta and Masumi Nakamura",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3845/webstorage_links/19558/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3845/webstorage_links/19557/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3842,
+        "title": "Introduction to Android Application Development 4th Edition",
+        "img": "http://image.banshujiang.cn/3842.jpeg?timestamp=1713968971339",
+        "author": "Joseph Annuzzi, Jr. Lauren Darcey and Shane Conder",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3842/webstorage_links/19546/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3842/webstorage_links/19545/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3832,
+        "title": "Developing Android on Android",
+        "img": "http://image.banshujiang.cn/3832.jpeg?timestamp=1713631740345",
+        "author": "Mike Riley",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3832/webstorage_links/19508/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3832/webstorage_links/19507/to_link"
+            }
+        ]
+    },
+    {
         "id": 3816,
         "title": "Java Network Programming 4th Edition",
         "img": "http://image.banshujiang.cn/3816.jpeg?timestamp=1712977239335",
@@ -249,69 +312,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3734/webstorage_links/19120/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3733,
-        "title": "Java 7 Pocket Guide 2nd Edition",
-        "img": "http://image.banshujiang.cn/3733.jpeg?timestamp=1711720559022",
-        "author": "Robert Liguori and Patricia Liguori",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3733/webstorage_links/19117/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3733/webstorage_links/19116/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3702,
-        "title": "Android Developer Tools Essentials",
-        "img": "http://image.banshujiang.cn/3702.jpeg?timestamp=1711717319489",
-        "author": "Mike Wolfson",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3702/webstorage_links/18993/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3702/webstorage_links/18992/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3694,
-        "title": "Building Hybrid Android Apps with Java and JavaScript",
-        "img": "http://image.banshujiang.cn/3694.jpeg?timestamp=1711704809212",
-        "author": "Nizamettin Gok and Nitin Khanna",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3694/webstorage_links/18961/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3694/webstorage_links/18960/to_link"
             }
         ]
     }
