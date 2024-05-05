@@ -1,5 +1,110 @@
 [
     {
+        "id": 3970,
+        "title": "Essential C# 12.0",
+        "img": "http://image.banshujiang.cn/3970.jpeg?timestamp=1714640723093",
+        "author": "Mark Michaelis",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3970/webstorage_links/20052/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3970/webstorage_links/20051/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3953,
+        "title": "C# 12 and .NET 8 – Modern Cross-Platform Development Fundamentals 8th Edition",
+        "img": "http://image.banshujiang.cn/3953.jpeg?timestamp=1714638439032",
+        "author": "Mark J. Price",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3953/webstorage_links/19988/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3953/webstorage_links/19987/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3926,
+        "title": "C# 12 Pocket Reference",
+        "img": "http://image.banshujiang.cn/3926.jpeg?timestamp=1714571885240",
+        "author": "Joseph Albahari and Ben Albahari",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3926/webstorage_links/19884/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3926/webstorage_links/19883/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3925,
+        "title": "C# 12 in a Nutshell",
+        "img": "http://image.banshujiang.cn/3925.jpeg?timestamp=1714571822184",
+        "author": "Joseph Albahari",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3925/webstorage_links/19880/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3925/webstorage_links/19879/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3896,
+        "title": "Visual Studio 2012 and .NET 4.5 Expert Development Cookbook",
+        "img": "http://image.banshujiang.cn/3896.jpeg?timestamp=1714483179836",
+        "author": "Abhishek Sur",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3896/webstorage_links/19762/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3896/webstorage_links/19761/to_link"
+            }
+        ]
+    },
+    {
         "id": 3801,
         "title": ".NET 4.5 Parallel Extensions Cookbook",
         "img": "http://image.banshujiang.cn/3801.jpeg?timestamp=1712975169894",
@@ -212,106 +317,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3213/webstorage_links/16985/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3177,
-        "title": "C# 7.0 Pocket Reference",
-        "img": "http://image.banshujiang.cn/3177.jpeg?timestamp=1672467578458",
-        "author": "Joseph Albahari and Ben Albahari",
-        "language": "英文",
-        "publishYear": 2017,
-        "programLanguage": "C#",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3177/webstorage_links/16815/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/3177/webstorage_links/16816/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3113,
-        "title": "Developing on AWS with C#",
-        "img": "https://imagebsj.netlify.app/3113.jpeg",
-        "author": "Noah Gift and James Charlesworth",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "C#",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3113/webstorage_links/16515/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/3113/webstorage_links/16516/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2980,
-        "title": "Programming C# 10",
-        "img": "https://imagebsj.netlify.app/2980.jpeg",
-        "author": "Ian Griffiths",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "C#",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2980/webstorage_links/10996/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/2980/webstorage_links/10997/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2849,
-        "title": "C# 10 Pocket Reference",
-        "img": "https://imagebsj.netlify.app/2849.jpeg",
-        "author": "Joseph Albahari and Ben Albahari",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "C#",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2849/webstorage_links/10441/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2848,
-        "title": "C# 10 in a Nutshell",
-        "img": "https://imagebsj.netlify.app/2848.jpeg",
-        "author": "Joseph Albahari",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "C#",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2848/webstorage_links/10439/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2848/webstorage_links/10438/to_link"
             }
         ]
     }

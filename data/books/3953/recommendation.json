@@ -1,0 +1,323 @@
+[
+    {
+        "id": 3970,
+        "title": "Essential C# 12.0",
+        "img": "http://image.banshujiang.cn/3970.jpeg?timestamp=1714640723093",
+        "author": "Mark Michaelis",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3970/webstorage_links/20052/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3970/webstorage_links/20051/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3926,
+        "title": "C# 12 Pocket Reference",
+        "img": "http://image.banshujiang.cn/3926.jpeg?timestamp=1714571885240",
+        "author": "Joseph Albahari and Ben Albahari",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3926/webstorage_links/19884/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3926/webstorage_links/19883/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3925,
+        "title": "C# 12 in a Nutshell",
+        "img": "http://image.banshujiang.cn/3925.jpeg?timestamp=1714571822184",
+        "author": "Joseph Albahari",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3925/webstorage_links/19880/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3925/webstorage_links/19879/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3896,
+        "title": "Visual Studio 2012 and .NET 4.5 Expert Development Cookbook",
+        "img": "http://image.banshujiang.cn/3896.jpeg?timestamp=1714483179836",
+        "author": "Abhishek Sur",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3896/webstorage_links/19762/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3896/webstorage_links/19761/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3801,
+        "title": ".NET 4.5 Parallel Extensions Cookbook",
+        "img": "http://image.banshujiang.cn/3801.jpeg?timestamp=1712975169894",
+        "author": "Bryan Freeman",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3801/webstorage_links/19384/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3752,
+        "title": "C# in Depth 3rd Edition",
+        "img": "http://image.banshujiang.cn/3752.jpeg?timestamp=1712398407780",
+        "author": "Jon Skeet",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3752/webstorage_links/19191/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3752/webstorage_links/19190/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3726,
+        "title": "Head First C# 3rd Edition",
+        "img": "http://image.banshujiang.cn/3726.jpeg?timestamp=1711719997389",
+        "author": "Andrew Stellman and Jennifer Greene",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3726/webstorage_links/19089/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3726/webstorage_links/19088/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3698,
+        "title": "Windows Store App Development",
+        "img": "http://image.banshujiang.cn/3698.jpeg?timestamp=1711705068633",
+        "author": "Pete Brown",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3698/webstorage_links/18977/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3698/webstorage_links/18976/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3686,
+        "title": "The Art of Unit Testing with Examples in .NET",
+        "img": "http://image.banshujiang.cn/3686.jpeg?timestamp=1711699204408",
+        "author": "Roy Osherove",
+        "language": "英文",
+        "publishYear": 2009,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3686/webstorage_links/18929/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3626,
+        "title": "The C# Type System",
+        "img": "http://image.banshujiang.cn/3626.jpeg?timestamp=1708773359023",
+        "author": "Steve Love",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3626/webstorage_links/18714/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3626/webstorage_links/18715/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3566,
+        "title": "Functional Programming with C#",
+        "img": "http://image.banshujiang.cn/3566.jpeg?timestamp=1705121499865",
+        "author": "Simon J. Painter",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3566/webstorage_links/18513/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3558,
+        "title": "Microsoft Visual C# Step by Step 10th Edition",
+        "img": "http://image.banshujiang.cn/3558.jpeg?timestamp=1697274353067",
+        "author": "John Sharp",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3558/webstorage_links/18493/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3558/webstorage_links/18492/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3435,
+        "title": "Functional C#",
+        "img": "http://image.banshujiang.cn/3435.jpeg?timestamp=1686967838255",
+        "author": "Wisnu Anggoro",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3435/webstorage_links/17930/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3435/webstorage_links/17931/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3222,
+        "title": "Unity Games by Tutorials",
+        "img": "http://image.banshujiang.cn/3222.jpeg?timestamp=1674647568778",
+        "author": "Mike Berg, Sean Duffy, Brian Moakley, Eric Van de Kerckhove, and Anthony Uccello",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3222/webstorage_links/17021/to_link"
+            },
+            {
+                "fmt": "CODE",
+                "title": "城通网盘",
+                "link": "/e_books/3222/webstorage_links/17022/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3213,
+        "title": "Programming C# 8.0",
+        "img": "http://image.banshujiang.cn/3213.jpeg?timestamp=1674645933631",
+        "author": "Ian Griffiths",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3213/webstorage_links/16986/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3213/webstorage_links/16985/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3177,
+        "title": "C# 7.0 Pocket Reference",
+        "img": "http://image.banshujiang.cn/3177.jpeg?timestamp=1672467578458",
+        "author": "Joseph Albahari and Ben Albahari",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3177/webstorage_links/16815/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/3177/webstorage_links/16816/to_link"
+            }
+        ]
+    }
+]

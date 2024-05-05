@@ -1,5 +1,42 @@
 [
     {
+        "id": 3958,
+        "title": "Machine Learning with R 4th Edition",
+        "img": "http://image.banshujiang.cn/3958.jpeg?timestamp=1714638980386",
+        "author": "Brett Lantz",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3958/webstorage_links/20006/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3864,
+        "title": "R Statistical Application Development by Example Beginner&#39;s Guide",
+        "img": "http://image.banshujiang.cn/3864.jpeg?timestamp=1714476031236",
+        "author": "Prabhanjan Narayanachar Tattar",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3864/webstorage_links/19634/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3864/webstorage_links/19633/to_link"
+            }
+        ]
+    },
+    {
         "id": 3768,
         "title": "Learning R",
         "img": "https://imagebsj.netlify.app/3768.jpeg",

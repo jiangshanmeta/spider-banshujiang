@@ -112,6 +112,90 @@
         ]
     },
     {
+        "id": 3978,
+        "title": "Windows 11 for Enterprise Administrators 2nd Edition",
+        "img": "http://image.banshujiang.cn/3978.jpeg?timestamp=1714641717225",
+        "author": "Manuel Singer",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3978/webstorage_links/20086/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3978/webstorage_links/20085/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3898,
+        "title": "Windows 8.1: Out of the Box 2nd Edition",
+        "img": "http://image.banshujiang.cn/3898.jpeg?timestamp=1714483310625",
+        "author": "Mike Halsey",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3898/webstorage_links/19770/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3898/webstorage_links/19769/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3897,
+        "title": "Windows 8.1 the missing manual",
+        "img": "http://image.banshujiang.cn/3897.jpeg?timestamp=1714483244534",
+        "author": "David Pogue",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3897/webstorage_links/19766/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3897/webstorage_links/19765/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3869,
+        "title": "Releasing HTML5 Games for Windows 8",
+        "img": "http://image.banshujiang.cn/3869.jpeg?timestamp=1714476497283",
+        "author": "Jesse Freeman",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "HTML5",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3869/webstorage_links/19654/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3869/webstorage_links/19653/to_link"
+            }
+        ]
+    },
+    {
         "id": 3790,
         "title": "PowerShell Deep Dives",
         "img": "https://imagebsj.netlify.app/3790.jpeg",
@@ -218,110 +302,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/3508/webstorage_links/18300/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3102,
-        "title": "Powershell for Sysadmins",
-        "img": "https://imagebsj.netlify.app/3102.jpeg",
-        "author": "Adam Bertram",
-        "language": "英文",
-        "publishYear": 2020,
-        "programLanguage": "PowerShell",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3102/webstorage_links/16457/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3102/webstorage_links/16456/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/3102/webstorage_links/16458/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2998,
-        "title": "The PowerShell Scripting and Toolmaking Book",
-        "img": "https://imagebsj.netlify.app/2998.jpeg",
-        "author": "Don Jones and Jeff Hicks",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "PowerShell",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2998/webstorage_links/11075/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2998/webstorage_links/11073/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/2998/webstorage_links/11074/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2900,
-        "title": "Windows Kernel Programming 2nd Edition",
-        "img": "https://imagebsj.netlify.app/2900.jpeg",
-        "author": "Pavel Yosifovich",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2900/webstorage_links/10634/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2900/webstorage_links/10633/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/2900/webstorage_links/10635/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2829,
-        "title": "Learn PowerShell in a Month of Lunches 4th Edition",
-        "img": "https://imagebsj.netlify.app/2829.jpeg",
-        "author": "James Petty, Travis Plunk, Tyler Leonhardt, Don Jones, Jeffery Hicks",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "PowerShell",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2829/webstorage_links/10339/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2829/webstorage_links/10337/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/2829/webstorage_links/10338/to_link"
             }
         ]
     }

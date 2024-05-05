@@ -21,6 +21,27 @@
         ]
     },
     {
+        "id": 3908,
+        "title": "iOS 17 App Development Essentials",
+        "img": "http://image.banshujiang.cn/3908.jpeg?timestamp=1714570396489",
+        "author": "Neil Smyth",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3908/webstorage_links/19814/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3908/webstorage_links/19813/to_link"
+            }
+        ]
+    },
+    {
         "id": 3623,
         "title": "SwiftUI Animations by Tutorials",
         "img": "http://image.banshujiang.cn/3623.jpeg?timestamp=1708772434058",
@@ -306,32 +327,6 @@
                 "fmt": "CODE",
                 "title": "城通网盘",
                 "link": "/e_books/3367/webstorage_links/17627/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3300,
-        "title": "SwiftUI by Tutorials",
-        "img": "http://image.banshujiang.cn/3300.jpeg?timestamp=1676087998370",
-        "author": "Antonio Bello, Phil Łaszkowicz, Bill Morefield &amp; Audrey Tam",
-        "language": "英文",
-        "publishYear": 2019,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "CODE",
-                "title": "城通网盘",
-                "link": "/e_books/3300/webstorage_links/17411/to_link"
-            },
-            {
-                "fmt": "PDF",
-                "title": "百度网盘",
-                "link": "/e_books/3300/webstorage_links/17410/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "百度网盘",
-                "link": "/e_books/3300/webstorage_links/17409/to_link"
             }
         ]
     }

@@ -1,5 +1,26 @@
 [
     {
+        "id": 3855,
+        "title": "Perl One - Liners",
+        "img": "http://image.banshujiang.cn/3855.jpeg?timestamp=1714474670269",
+        "author": "Peteris Krumins",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Perl",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3855/webstorage_links/19598/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3855/webstorage_links/19597/to_link"
+            }
+        ]
+    },
+    {
         "id": 3836,
         "title": "Effective Perl Programming 2nd Edition",
         "img": "http://image.banshujiang.cn/3836.jpeg?timestamp=1713635994703",
@@ -251,22 +272,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/149/webstorage_links/13815/to_link"
-            }
-        ]
-    },
-    {
-        "id": 28,
-        "title": "Learning Perl 6th Edition",
-        "img": "https://imagebsj.netlify.app/28.jpeg",
-        "author": "Randal L. Schwartz, brian d foy, and Tom Phoenix",
-        "language": "英文",
-        "publishYear": 2011,
-        "programLanguage": "Perl",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/28/webstorage_links/13573/to_link"
             }
         ]
     }

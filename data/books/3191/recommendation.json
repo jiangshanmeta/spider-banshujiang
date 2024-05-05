@@ -1,5 +1,26 @@
 [
     {
+        "id": 3858,
+        "title": "Programming Erlang 2nd Edition",
+        "img": "http://image.banshujiang.cn/3858.jpeg?timestamp=1714475156409",
+        "author": "Joe Armstrong",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Erlang",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3858/webstorage_links/19610/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3858/webstorage_links/19609/to_link"
+            }
+        ]
+    },
+    {
         "id": 3655,
         "title": "Études for Erlang",
         "img": "http://image.banshujiang.cn/3655.jpeg?timestamp=1709954663475",

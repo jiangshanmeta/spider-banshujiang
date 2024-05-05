@@ -1,5 +1,47 @@
 [
     {
+        "id": 3919,
+        "title": "Pro ASP.NET Core 7 10th Edition",
+        "img": "http://image.banshujiang.cn/3919.jpeg?timestamp=1714571387805",
+        "author": "Adam Freeman",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "ASP.net",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3919/webstorage_links/19858/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3919/webstorage_links/19857/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3911,
+        "title": "Asp.net Core in Action 3rd Edition",
+        "img": "http://image.banshujiang.cn/3911.jpeg?timestamp=1714570788255",
+        "author": "Andrew Lock",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "ASP.net",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3911/webstorage_links/19826/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3911/webstorage_links/19825/to_link"
+            }
+        ]
+    },
+    {
         "id": 3794,
         "title": "Pro ASP.NET Web API",
         "img": "https://imagebsj.netlify.app/3794.jpeg",

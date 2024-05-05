@@ -1,5 +1,89 @@
 [
     {
+        "id": 3994,
+        "title": "Analytics Engineering with SQL and dbt",
+        "img": "http://image.banshujiang.cn/3994.jpeg?timestamp=1714645004437",
+        "author": "Rui Machado and Hélder Russa",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "SQL",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3994/webstorage_links/20140/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3994/webstorage_links/20139/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3943,
+        "title": "Learning Snowflake SQL and Scripting",
+        "img": "http://image.banshujiang.cn/3943.jpeg?timestamp=1714575780787",
+        "author": "Generate, Retrieve, and Automate Snowflake Data",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "SQL",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3943/webstorage_links/19952/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3943/webstorage_links/19951/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3933,
+        "title": "Fuzzy Data Matching with SQL",
+        "img": "http://image.banshujiang.cn/3933.jpeg?timestamp=1714574980734",
+        "author": "Jim Lehmer",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "SQL",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3933/webstorage_links/19912/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3933/webstorage_links/19911/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3884,
+        "title": "The Art of SQL",
+        "img": "http://image.banshujiang.cn/3884.jpeg?timestamp=1714480887820",
+        "author": "Stéphane Faroult ",
+        "language": "英文",
+        "publishYear": 2006,
+        "programLanguage": "SQL",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3884/webstorage_links/19714/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3884/webstorage_links/19713/to_link"
+            }
+        ]
+    },
+    {
         "id": 3628,
         "title": "T-SQL Fundamentals",
         "img": "http://image.banshujiang.cn/3628.jpeg?timestamp=1708773541020",
@@ -243,85 +327,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/2470/webstorage_links/15992/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2313,
-        "title": "SQL Queries for Mere Mortals 4th Edition",
-        "img": "https://imagebsj.netlify.app/2313.jpeg",
-        "author": "John L. Viescas",
-        "language": "英文",
-        "publishYear": 2018,
-        "programLanguage": "SQL",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2313/webstorage_links/15720/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2313/webstorage_links/15719/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2312,
-        "title": "SQL Queries for Mere Mortals  3rd Edition",
-        "img": "https://imagebsj.netlify.app/2312.jpeg",
-        "author": "John L.Viescas and Michael J. Hernandez",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "SQL",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2312/webstorage_links/15718/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2312/webstorage_links/15717/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2163,
-        "title": "Mastering PostgreSQL 10",
-        "img": "https://imagebsj.netlify.app/2163.jpeg",
-        "author": "Hans-Jürgen Schönig",
-        "language": "英文",
-        "publishYear": 2018,
-        "programLanguage": "SQL",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2163/webstorage_links/8235/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2163/webstorage_links/9376/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2052,
-        "title": "SQL Server 2012 Query Performance Tuning",
-        "img": "https://imagebsj.netlify.app/2052.jpeg",
-        "author": "Grant Fritchey",
-        "language": "英文",
-        "publishYear": 2012,
-        "programLanguage": "SQL",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2052/webstorage_links/11238/to_link"
             }
         ]
     }

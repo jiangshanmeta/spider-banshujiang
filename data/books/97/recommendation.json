@@ -1,5 +1,26 @@
 [
     {
+        "id": 3976,
+        "title": "Practical MongoDB Aggregations",
+        "img": "http://image.banshujiang.cn/3976.jpeg?timestamp=1714641578855",
+        "author": "Paul Done",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3976/webstorage_links/20078/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3976/webstorage_links/20077/to_link"
+            }
+        ]
+    },
+    {
         "id": 3744,
         "title": "BeginningRails 4 3rd Edition",
         "img": "http://image.banshujiang.cn/3744.jpeg?timestamp=1712323977169",
@@ -311,22 +332,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/2069/webstorage_links/11316/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2020,
-        "title": "Simply Rails 2, 2nd Edition",
-        "img": "https://imagebsj.netlify.app/2020.jpeg",
-        "author": "Patrick Lenz",
-        "language": "英文",
-        "publishYear": 2008,
-        "programLanguage": "Ruby",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2020/webstorage_links/11142/to_link"
             }
         ]
     }

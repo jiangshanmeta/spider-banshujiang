@@ -1,0 +1,333 @@
+[
+    {
+        "id": 3994,
+        "title": "Analytics Engineering with SQL and dbt",
+        "img": "http://image.banshujiang.cn/3994.jpeg?timestamp=1714645004437",
+        "author": "Rui Machado and Hélder Russa",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "SQL",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3994/webstorage_links/20140/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3994/webstorage_links/20139/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3943,
+        "title": "Learning Snowflake SQL and Scripting",
+        "img": "http://image.banshujiang.cn/3943.jpeg?timestamp=1714575780787",
+        "author": "Generate, Retrieve, and Automate Snowflake Data",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "SQL",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3943/webstorage_links/19952/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3943/webstorage_links/19951/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3884,
+        "title": "The Art of SQL",
+        "img": "http://image.banshujiang.cn/3884.jpeg?timestamp=1714480887820",
+        "author": "Stéphane Faroult ",
+        "language": "英文",
+        "publishYear": 2006,
+        "programLanguage": "SQL",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3884/webstorage_links/19714/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3884/webstorage_links/19713/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3628,
+        "title": "T-SQL Fundamentals",
+        "img": "http://image.banshujiang.cn/3628.jpeg?timestamp=1708773541020",
+        "author": "Itzik Ben-Gan 4th Edition",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "SQL",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3628/webstorage_links/18721/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3628/webstorage_links/18720/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3045,
+        "title": "Learning SQL 3rd Edition",
+        "img": "https://imagebsj.netlify.app/3045.jpeg",
+        "author": "Alan Beaulieu",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "SQL",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3045/webstorage_links/16202/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3045/webstorage_links/16203/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2988,
+        "title": "SQL Server Advanced Troubleshooting and Performance Tuning",
+        "img": "https://imagebsj.netlify.app/2988.jpeg",
+        "author": "Dmitri Korotkevich",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "SQL",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2988/webstorage_links/11033/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2988/webstorage_links/11032/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2987,
+        "title": "SQL in a Nutshell 4th Edition",
+        "img": "https://imagebsj.netlify.app/2987.jpeg",
+        "author": "Kevin Kline, Regine O. Obe, and Leo S. Hsu",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "SQL",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2987/webstorage_links/11029/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2987/webstorage_links/11027/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/2987/webstorage_links/11028/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2974,
+        "title": "MySQL Cookbook 4th Edition",
+        "img": "https://imagebsj.netlify.app/2974.jpeg",
+        "author": "Sveta Smirnova and Alkin Tezuysal",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "SQL",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2974/webstorage_links/10970/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/2974/webstorage_links/10971/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2866,
+        "title": "High Performance MySQL 4th Edition",
+        "img": "https://imagebsj.netlify.app/2866.jpeg",
+        "author": "Silvia Botros and Jeremy Tinley Foreword by Jeremy Cole",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "SQL",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2866/webstorage_links/10497/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2866/webstorage_links/10496/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2862,
+        "title": "Efficient MySQL Performance",
+        "img": "https://imagebsj.netlify.app/2862.jpeg",
+        "author": "Daniel Nichter",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "SQL",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2862/webstorage_links/10483/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2862/webstorage_links/10482/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2857,
+        "title": "Practical SQL 2nd Edition",
+        "img": "https://imagebsj.netlify.app/2857.jpeg",
+        "author": "Anthony DeBarros",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "SQL",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2857/webstorage_links/10465/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2782,
+        "title": "SQL Pocket Guide 4th Edition",
+        "img": "https://imagebsj.netlify.app/2782.jpeg",
+        "author": "Alice Zhao",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "SQL",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2782/webstorage_links/10119/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2782/webstorage_links/10118/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2781,
+        "title": "SQL for Data Analysis",
+        "img": "https://imagebsj.netlify.app/2781.jpeg",
+        "author": "Cathy Tanimura",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "SQL",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2781/webstorage_links/10117/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2781/webstorage_links/10116/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2638,
+        "title": "Trino: The Definitive Guide",
+        "img": "https://imagebsj.netlify.app/2638.jpeg",
+        "author": "Matt Fuller, Manfred Moser, and Martin Traverso",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "SQL",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2638/webstorage_links/9224/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2470,
+        "title": "SQL Cookbook 2nd Edition",
+        "img": "https://imagebsj.netlify.app/2470.jpeg",
+        "author": "Anthony Molinaro and Robert de Graaf",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "SQL",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2470/webstorage_links/15993/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2470/webstorage_links/15992/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2313,
+        "title": "SQL Queries for Mere Mortals 4th Edition",
+        "img": "https://imagebsj.netlify.app/2313.jpeg",
+        "author": "John L. Viescas",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "SQL",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2313/webstorage_links/15720/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2313/webstorage_links/15719/to_link"
+            }
+        ]
+    }
+]

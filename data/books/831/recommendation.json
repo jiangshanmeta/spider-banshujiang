@@ -1,5 +1,173 @@
 [
     {
+        "id": 3970,
+        "title": "Essential C# 12.0",
+        "img": "http://image.banshujiang.cn/3970.jpeg?timestamp=1714640723093",
+        "author": "Mark Michaelis",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3970/webstorage_links/20052/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3970/webstorage_links/20051/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3953,
+        "title": "C# 12 and .NET 8 – Modern Cross-Platform Development Fundamentals 8th Edition",
+        "img": "http://image.banshujiang.cn/3953.jpeg?timestamp=1714638439032",
+        "author": "Mark J. Price",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3953/webstorage_links/19988/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3953/webstorage_links/19987/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3926,
+        "title": "C# 12 Pocket Reference",
+        "img": "http://image.banshujiang.cn/3926.jpeg?timestamp=1714571885240",
+        "author": "Joseph Albahari and Ben Albahari",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3926/webstorage_links/19884/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3926/webstorage_links/19883/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3925,
+        "title": "C# 12 in a Nutshell",
+        "img": "http://image.banshujiang.cn/3925.jpeg?timestamp=1714571822184",
+        "author": "Joseph Albahari",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3925/webstorage_links/19880/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3925/webstorage_links/19879/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3908,
+        "title": "iOS 17 App Development Essentials",
+        "img": "http://image.banshujiang.cn/3908.jpeg?timestamp=1714570396489",
+        "author": "Neil Smyth",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3908/webstorage_links/19814/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3908/webstorage_links/19813/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3896,
+        "title": "Visual Studio 2012 and .NET 4.5 Expert Development Cookbook",
+        "img": "http://image.banshujiang.cn/3896.jpeg?timestamp=1714483179836",
+        "author": "Abhishek Sur",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3896/webstorage_links/19762/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3896/webstorage_links/19761/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3881,
+        "title": "Test iOS Apps with UI Automation",
+        "img": "http://image.banshujiang.cn/3881.jpeg?timestamp=1714480672955",
+        "author": "Jonathan Penn",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3881/webstorage_links/19702/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3881/webstorage_links/19701/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3860,
+        "title": "Programming iOS 7 4th Edition",
+        "img": "http://image.banshujiang.cn/3860.jpeg?timestamp=1714475447463",
+        "author": "Matt Neuburg",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Objective-C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3860/webstorage_links/19618/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3860/webstorage_links/19617/to_link"
+            }
+        ]
+    },
+    {
         "id": 3843,
         "title": "iPad the missing manual 6th Edition",
         "img": "http://image.banshujiang.cn/3843.jpeg?timestamp=1713969065489",
@@ -159,164 +327,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3745/webstorage_links/19168/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3726,
-        "title": "Head First C# 3rd Edition",
-        "img": "http://image.banshujiang.cn/3726.jpeg?timestamp=1711719997389",
-        "author": "Andrew Stellman and Jennifer Greene",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "C#",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3726/webstorage_links/19089/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3726/webstorage_links/19088/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3698,
-        "title": "Windows Store App Development",
-        "img": "http://image.banshujiang.cn/3698.jpeg?timestamp=1711705068633",
-        "author": "Pete Brown",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "C#",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3698/webstorage_links/18977/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3698/webstorage_links/18976/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3686,
-        "title": "The Art of Unit Testing with Examples in .NET",
-        "img": "http://image.banshujiang.cn/3686.jpeg?timestamp=1711699204408",
-        "author": "Roy Osherove",
-        "language": "英文",
-        "publishYear": 2009,
-        "programLanguage": "C#",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3686/webstorage_links/18929/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3626,
-        "title": "The C# Type System",
-        "img": "http://image.banshujiang.cn/3626.jpeg?timestamp=1708773359023",
-        "author": "Steve Love",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "C#",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3626/webstorage_links/18714/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/3626/webstorage_links/18715/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3623,
-        "title": "SwiftUI Animations by Tutorials",
-        "img": "http://image.banshujiang.cn/3623.jpeg?timestamp=1708772434058",
-        "author": "Irina Galata &amp; Bill Morefield",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3623/webstorage_links/18703/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3623/webstorage_links/18702/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3618,
-        "title": "Push Notifications by Tutorials 4th Edition",
-        "img": "http://image.banshujiang.cn/3618.jpeg?timestamp=1708054143788",
-        "author": "Scott Grosch",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3618/webstorage_links/18687/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3618/webstorage_links/18686/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3566,
-        "title": "Functional Programming with C#",
-        "img": "http://image.banshujiang.cn/3566.jpeg?timestamp=1705121499865",
-        "author": "Simon J. Painter",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "C#",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3566/webstorage_links/18513/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3559,
-        "title": "Modern Concurrency in Swift 2nd Edition",
-        "img": "http://image.banshujiang.cn/3559.jpeg?timestamp=1697274441182",
-        "author": "Marin Todorov",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3559/webstorage_links/18497/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3559/webstorage_links/18496/to_link"
             }
         ]
     }

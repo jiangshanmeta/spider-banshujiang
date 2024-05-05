@@ -1,5 +1,68 @@
 [
     {
+        "id": 3908,
+        "title": "iOS 17 App Development Essentials",
+        "img": "http://image.banshujiang.cn/3908.jpeg?timestamp=1714570396489",
+        "author": "Neil Smyth",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3908/webstorage_links/19814/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3908/webstorage_links/19813/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3881,
+        "title": "Test iOS Apps with UI Automation",
+        "img": "http://image.banshujiang.cn/3881.jpeg?timestamp=1714480672955",
+        "author": "Jonathan Penn",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3881/webstorage_links/19702/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3881/webstorage_links/19701/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3860,
+        "title": "Programming iOS 7 4th Edition",
+        "img": "http://image.banshujiang.cn/3860.jpeg?timestamp=1714475447463",
+        "author": "Matt Neuburg",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Objective-C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3860/webstorage_links/19618/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3860/webstorage_links/19617/to_link"
+            }
+        ]
+    },
+    {
         "id": 3815,
         "title": "iOS 7 Programming Fundamentals",
         "img": "http://image.banshujiang.cn/3815.jpeg?timestamp=1712977153520",
@@ -269,69 +332,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/3438/webstorage_links/17949/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3424,
-        "title": "Swift Development for the Apple Watch",
-        "img": "http://image.banshujiang.cn/3424.jpeg?timestamp=1686457171825",
-        "author": "Jon Manning and Paris Buttfield-Addison",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3424/webstorage_links/17873/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3424/webstorage_links/17872/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3416,
-        "title": "Programming iOS 10 7th Edition",
-        "img": "http://image.banshujiang.cn/3416.jpeg?timestamp=1681544166216",
-        "author": "Matt Neuburg",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3416/webstorage_links/17842/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3416/webstorage_links/17843/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3405,
-        "title": "Learning Swift 2nd Edition",
-        "img": "http://image.banshujiang.cn/3405.jpeg?timestamp=1681021583194",
-        "author": "Jon Manning, Paris Buttfield-Addison, and Tim Nugent",
-        "language": "英文",
-        "publishYear": 2017,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3405/webstorage_links/17796/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3405/webstorage_links/17797/to_link"
             }
         ]
     }

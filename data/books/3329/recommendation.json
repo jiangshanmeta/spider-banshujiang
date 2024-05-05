@@ -1,5 +1,52 @@
 [
     {
+        "id": 3971,
+        "title": "Everyday Golang - The Fast Track",
+        "img": "http://image.banshujiang.cn/3971.jpeg?timestamp=1714641076681",
+        "author": "Alex Ellis",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Go",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3971/webstorage_links/20060/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3971/webstorage_links/20059/to_link"
+            },
+            {
+                "fmt": "CODE",
+                "title": "城通网盘",
+                "link": "/e_books/3971/webstorage_links/20058/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3916,
+        "title": "gRPC Microservices in Go",
+        "img": "http://image.banshujiang.cn/3916.jpeg?timestamp=1714571165259",
+        "author": "Hüseyin Babal",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Go",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3916/webstorage_links/19846/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3916/webstorage_links/19845/to_link"
+            }
+        ]
+    },
+    {
         "id": 3579,
         "title": "Go Cookbook",
         "img": "http://image.banshujiang.cn/3579.jpeg?timestamp=1706325116566",
@@ -275,53 +322,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/2576/webstorage_links/8974/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2562,
-        "title": "Cloud Native Go",
-        "img": "https://imagebsj.netlify.app/2562.jpeg",
-        "author": "Matthew A. Titmus",
-        "language": "英文",
-        "publishYear": 2021,
-        "programLanguage": "Go",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2562/webstorage_links/8938/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2562/webstorage_links/8939/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2548,
-        "title": "Network Programming with Go",
-        "img": "https://imagebsj.netlify.app/2548.jpeg",
-        "author": "Adam Woodbeck",
-        "language": "英文",
-        "publishYear": 2021,
-        "programLanguage": "Go",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2548/webstorage_links/8890/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2548/webstorage_links/8892/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/2548/webstorage_links/8891/to_link"
             }
         ]
     }

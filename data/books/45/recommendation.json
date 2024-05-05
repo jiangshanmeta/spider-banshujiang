@@ -16,6 +16,27 @@
         ]
     },
     {
+        "id": 3869,
+        "title": "Releasing HTML5 Games for Windows 8",
+        "img": "http://image.banshujiang.cn/3869.jpeg?timestamp=1714476497283",
+        "author": "Jesse Freeman",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "HTML5",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3869/webstorage_links/19654/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3869/webstorage_links/19653/to_link"
+            }
+        ]
+    },
+    {
         "id": 3848,
         "title": "Mobile HTML5",
         "img": "http://image.banshujiang.cn/3848.jpeg?timestamp=1713969943714",
@@ -306,27 +327,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3741/webstorage_links/19148/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3730,
-        "title": "HTML5: Pocket Reference 5th Edition",
-        "img": "http://image.banshujiang.cn/3730.jpeg?timestamp=1711720283832",
-        "author": "Jennifer Niederst Robbins",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "HTML5",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3730/webstorage_links/19105/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3730/webstorage_links/19104/to_link"
             }
         ]
     }

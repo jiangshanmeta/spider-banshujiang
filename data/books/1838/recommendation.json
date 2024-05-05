@@ -1,5 +1,47 @@
 [
     {
+        "id": 3919,
+        "title": "Pro ASP.NET Core 7 10th Edition",
+        "img": "http://image.banshujiang.cn/3919.jpeg?timestamp=1714571387805",
+        "author": "Adam Freeman",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "ASP.net",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3919/webstorage_links/19858/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3919/webstorage_links/19857/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3911,
+        "title": "Asp.net Core in Action 3rd Edition",
+        "img": "http://image.banshujiang.cn/3911.jpeg?timestamp=1714570788255",
+        "author": "Andrew Lock",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "ASP.net",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3911/webstorage_links/19826/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3911/webstorage_links/19825/to_link"
+            }
+        ]
+    },
+    {
         "id": 3805,
         "title": "ASP.NET MVC 4 Mobile App Development",
         "img": "http://image.banshujiang.cn/3805.jpeg?timestamp=1712976018559",
@@ -255,38 +297,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/1860/webstorage_links/11820/to_link"
-            }
-        ]
-    },
-    {
-        "id": 1858,
-        "title": "Pro Single Page Application Development: Using Backbone.js and ASP.NET",
-        "img": "https://imagebsj.netlify.app/1858.jpeg",
-        "author": "Gil Fink and ldo Flatow",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "ASP.net",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/1858/webstorage_links/11816/to_link"
-            }
-        ]
-    },
-    {
-        "id": 1837,
-        "title": "Pro ASP.NET 3.5 Server Controls and AJAX Components",
-        "img": "https://imagebsj.netlify.app/1837.jpeg",
-        "author": "Rob Cameron and Dale Michalk",
-        "language": "英文",
-        "publishYear": 2008,
-        "programLanguage": "ASP.net",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/1837/webstorage_links/11756/to_link"
             }
         ]
     }

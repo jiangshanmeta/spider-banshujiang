@@ -64,6 +64,48 @@
         ]
     },
     {
+        "id": 3860,
+        "title": "Programming iOS 7 4th Edition",
+        "img": "http://image.banshujiang.cn/3860.jpeg?timestamp=1714475447463",
+        "author": "Matt Neuburg",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Objective-C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3860/webstorage_links/19618/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3860/webstorage_links/19617/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3859,
+        "title": "Programming in Objective-C 6th Edition",
+        "img": "http://image.banshujiang.cn/3859.jpeg?timestamp=1714475329685",
+        "author": "Stephen G. Kochan",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Objective-C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3859/webstorage_links/19614/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3859/webstorage_links/19613/to_link"
+            }
+        ]
+    },
+    {
         "id": 3815,
         "title": "iOS 7 Programming Fundamentals",
         "img": "http://image.banshujiang.cn/3815.jpeg?timestamp=1712977153520",
@@ -245,38 +287,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/1802/webstorage_links/11658/to_link"
-            }
-        ]
-    },
-    {
-        "id": 1660,
-        "title": "iPhone: The Missing Manual",
-        "img": "https://imagebsj.netlify.app/1660.jpeg",
-        "author": "David Pogue",
-        "language": "英文",
-        "publishYear": 2008,
-        "programLanguage": "Objective-C",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/1660/webstorage_links/12024/to_link"
-            }
-        ]
-    },
-    {
-        "id": 1659,
-        "title": "iPhone 3G Portable Genius",
-        "img": "https://imagebsj.netlify.app/1659.jpeg",
-        "author": "Paul McFedries and David Pabian",
-        "language": "英文",
-        "publishYear": 2008,
-        "programLanguage": "Objective-C",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/1659/webstorage_links/12022/to_link"
             }
         ]
     }

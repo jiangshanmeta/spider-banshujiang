@@ -1,5 +1,26 @@
 [
     {
+        "id": 3960,
+        "title": "Mastering Blockchain 4th Edition",
+        "img": "http://image.banshujiang.cn/3960.jpeg?timestamp=1714639157182",
+        "author": "Imran Bashir",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3960/webstorage_links/20014/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3960/webstorage_links/20013/to_link"
+            }
+        ]
+    },
+    {
         "id": 3485,
         "title": "Blockchain Tethered AI",
         "img": "http://image.banshujiang.cn/3485.jpeg?timestamp=1696511206256",

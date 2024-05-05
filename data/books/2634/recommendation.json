@@ -1,5 +1,26 @@
 [
     {
+        "id": 3873,
+        "title": "Scala Cookbook",
+        "img": "http://image.banshujiang.cn/3873.jpeg?timestamp=1714478720515",
+        "author": "Alvin Alexander",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Scala",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3873/webstorage_links/19670/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3873/webstorage_links/19669/to_link"
+            }
+        ]
+    },
+    {
         "id": 3810,
         "title": "Functional Programming Patterns in Scala and Clojure",
         "img": "http://image.banshujiang.cn/3810.jpeg?timestamp=1712976485073",

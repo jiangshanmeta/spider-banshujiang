@@ -1,5 +1,26 @@
 [
     {
+        "id": 3869,
+        "title": "Releasing HTML5 Games for Windows 8",
+        "img": "http://image.banshujiang.cn/3869.jpeg?timestamp=1714476497283",
+        "author": "Jesse Freeman",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "HTML5",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3869/webstorage_links/19654/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3869/webstorage_links/19653/to_link"
+            }
+        ]
+    },
+    {
         "id": 3848,
         "title": "Mobile HTML5",
         "img": "http://image.banshujiang.cn/3848.jpeg?timestamp=1713969943714",
@@ -316,22 +337,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/1596/webstorage_links/12508/to_link"
-            }
-        ]
-    },
-    {
-        "id": 1595,
-        "title": "HTML5 Canvas 游戏开发实战",
-        "img": "https://imagebsj.netlify.app/1595.jpeg",
-        "author": "张路斌",
-        "language": "中文",
-        "publishYear": 2013,
-        "programLanguage": "HTML5",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/1595/webstorage_links/12506/to_link"
             }
         ]
     }

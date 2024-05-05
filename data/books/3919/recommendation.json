@@ -1,0 +1,288 @@
+[
+    {
+        "id": 3911,
+        "title": "Asp.net Core in Action 3rd Edition",
+        "img": "http://image.banshujiang.cn/3911.jpeg?timestamp=1714570788255",
+        "author": "Andrew Lock",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "ASP.net",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3911/webstorage_links/19826/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3911/webstorage_links/19825/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3805,
+        "title": "ASP.NET MVC 4 Mobile App Development",
+        "img": "http://image.banshujiang.cn/3805.jpeg?timestamp=1712976018559",
+        "author": "Andy Meadows",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "ASP.net",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3805/webstorage_links/19400/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3805/webstorage_links/19399/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3794,
+        "title": "Pro ASP.NET Web API",
+        "img": "https://imagebsj.netlify.app/3794.jpeg",
+        "author": "Tugberk Ugurlu",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "ASP.net",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3794/webstorage_links/19359/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3794/webstorage_links/19358/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3793,
+        "title": "Pro ASP.NET 4.5 in VB",
+        "img": "https://imagebsj.netlify.app/3793.jpeg",
+        "author": "Dan Mabbutt, Adam Freeman and Matthew MacDonald",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "ASP.net",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3793/webstorage_links/19355/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3793/webstorage_links/19354/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3791,
+        "title": "Practical ASP.NET Web API",
+        "img": "https://imagebsj.netlify.app/3791.jpeg",
+        "author": "Badrinarayanan Lakshmiraghavan",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "ASP.net",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3791/webstorage_links/19347/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3791/webstorage_links/19346/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3757,
+        "title": "Fast ASP.NET Websites",
+        "img": "http://image.banshujiang.cn/3757.jpeg?timestamp=1712399839720",
+        "author": "Dean Alan Hume",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "ASP.net",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3757/webstorage_links/19211/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3757/webstorage_links/19210/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2530,
+        "title": "ASP.NET Core in Action 2nd Edition",
+        "img": "https://imagebsj.netlify.app/2530.jpeg",
+        "author": "Andrew Lock",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "ASP.net",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2530/webstorage_links/8764/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1879,
+        "title": "Programming Visual Basic 2008",
+        "img": "https://imagebsj.netlify.app/1879.jpeg",
+        "author": "Tim Patrick",
+        "language": "英文",
+        "publishYear": 2008,
+        "programLanguage": "ASP.net",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1879/webstorage_links/11862/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1863,
+        "title": "Pro WPF with VB 2008: Windows Presentation Foundation with .NET 3.5",
+        "img": "https://imagebsj.netlify.app/1863.jpeg",
+        "author": "Matthew MacDonald",
+        "language": "英文",
+        "publishYear": 2008,
+        "programLanguage": "ASP.net",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1863/webstorage_links/11826/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1858,
+        "title": "Pro Single Page Application Development: Using Backbone.js and ASP.NET",
+        "img": "https://imagebsj.netlify.app/1858.jpeg",
+        "author": "Gil Fink and ldo Flatow",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "ASP.net",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1858/webstorage_links/11816/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1838,
+        "title": "Pro ASP.NET for SQL Server",
+        "img": "https://imagebsj.netlify.app/1838.jpeg",
+        "author": "Brennan Stehling",
+        "language": "英文",
+        "publishYear": 2007,
+        "programLanguage": "ASP.net",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1838/webstorage_links/11758/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1837,
+        "title": "Pro ASP.NET 3.5 Server Controls and AJAX Components",
+        "img": "https://imagebsj.netlify.app/1837.jpeg",
+        "author": "Rob Cameron and Dale Michalk",
+        "language": "英文",
+        "publishYear": 2008,
+        "programLanguage": "ASP.net",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1837/webstorage_links/11756/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1769,
+        "title": "Microsoft ASP.NET 3.5 Step by Step",
+        "img": "https://imagebsj.netlify.app/1769.jpeg",
+        "author": "George Shepherd",
+        "language": "英文",
+        "publishYear": 2008,
+        "programLanguage": "ASP.net",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1769/webstorage_links/12250/to_link"
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "title": "Programming ASP.NET MVC 4",
+        "img": "https://imagebsj.netlify.app/131.jpeg",
+        "author": "Jess Chadwick, Todd Snyder, and Hrusikesh Panda",
+        "language": "英文",
+        "publishYear": 2012,
+        "programLanguage": "ASP.net",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/131/webstorage_links/13779/to_link"
+            }
+        ]
+    },
+    {
+        "id": 79,
+        "title": "ASP.NET MVC 4 in Action",
+        "img": "https://imagebsj.netlify.app/79.jpeg",
+        "author": "Jeffrey Palermo, Jimmy Bogard, Eric Hexter, Matthew Hinze And Jeremy Skinner",
+        "language": "英文",
+        "publishYear": 2012,
+        "programLanguage": "ASP.net",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/79/webstorage_links/13675/to_link"
+            }
+        ]
+    },
+    {
+        "id": 78,
+        "title": "ASP.NET 4.0 in Practice",
+        "img": "https://imagebsj.netlify.app/78.jpeg",
+        "author": "Daniele Bochicchio, Stefano Mostarda,  Marco De Sanctis",
+        "language": "英文",
+        "publishYear": 2011,
+        "programLanguage": "ASP.net",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/78/webstorage_links/13673/to_link"
+            }
+        ]
+    }
+]

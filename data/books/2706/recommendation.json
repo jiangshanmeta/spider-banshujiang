@@ -1,5 +1,47 @@
 [
     {
+        "id": 3956,
+        "title": "iOS 17 Programming for Beginners 8th Edition",
+        "img": "http://image.banshujiang.cn/3956.jpeg?timestamp=1714638839904",
+        "author": "Ahmad Sahar",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3956/webstorage_links/20000/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3956/webstorage_links/19999/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3908,
+        "title": "iOS 17 App Development Essentials",
+        "img": "http://image.banshujiang.cn/3908.jpeg?timestamp=1714570396489",
+        "author": "Neil Smyth",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3908/webstorage_links/19814/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3908/webstorage_links/19813/to_link"
+            }
+        ]
+    },
+    {
         "id": 3623,
         "title": "SwiftUI Animations by Tutorials",
         "img": "http://image.banshujiang.cn/3623.jpeg?timestamp=1708772434058",
@@ -290,53 +332,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3371/webstorage_links/17663/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3367,
-        "title": "iOS 10 by Tutorials",
-        "img": "http://image.banshujiang.cn/3367.jpeg?timestamp=1677297178073",
-        "author": "Sam Davies, Jeff Rames, &amp; Rich Turton",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3367/webstorage_links/17626/to_link"
-            },
-            {
-                "fmt": "CODE",
-                "title": "城通网盘",
-                "link": "/e_books/3367/webstorage_links/17627/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3300,
-        "title": "SwiftUI by Tutorials",
-        "img": "http://image.banshujiang.cn/3300.jpeg?timestamp=1676087998370",
-        "author": "Antonio Bello, Phil Łaszkowicz, Bill Morefield &amp; Audrey Tam",
-        "language": "英文",
-        "publishYear": 2019,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "CODE",
-                "title": "城通网盘",
-                "link": "/e_books/3300/webstorage_links/17411/to_link"
-            },
-            {
-                "fmt": "PDF",
-                "title": "百度网盘",
-                "link": "/e_books/3300/webstorage_links/17410/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "百度网盘",
-                "link": "/e_books/3300/webstorage_links/17409/to_link"
             }
         ]
     }

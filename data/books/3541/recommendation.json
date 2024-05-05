@@ -138,170 +138,170 @@
         ]
     },
     {
-        "id": 3843,
-        "title": "iPad the missing manual 6th Edition",
-        "img": "http://image.banshujiang.cn/3843.jpeg?timestamp=1713969065489",
-        "author": "J.D. Biersdorfer",
+        "id": 3999,
+        "title": "Building Recommendation Systems in Python and JAX",
+        "img": "http://image.banshujiang.cn/3999.jpeg?timestamp=1714645337485",
+        "author": "Bryan Bischof and Hector Yee",
         "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3843/webstorage_links/19550/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3843/webstorage_links/19549/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3815,
-        "title": "iOS 7 Programming Fundamentals",
-        "img": "http://image.banshujiang.cn/3815.jpeg?timestamp=1712977153520",
-        "author": "Matt Neuburg",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "Objective-C",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3815/webstorage_links/19440/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3815/webstorage_links/19439/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3807,
-        "title": "Building Machine Learning Systems with Python",
-        "img": "http://image.banshujiang.cn/3807.jpeg?timestamp=1712976198310",
-        "author": "Willi Richert and Luis Pedro Coelho",
-        "language": "英文",
-        "publishYear": 2013,
+        "publishYear": 2023,
         "programLanguage": "Python",
         "formats": [
             {
                 "fmt": "PDF",
                 "title": "城通网盘",
-                "link": "/e_books/3807/webstorage_links/19408/to_link"
+                "link": "/e_books/3999/webstorage_links/20160/to_link"
             },
             {
                 "fmt": "EPUB",
                 "title": "城通网盘",
-                "link": "/e_books/3807/webstorage_links/19407/to_link"
+                "link": "/e_books/3999/webstorage_links/20159/to_link"
             }
         ]
     },
     {
-        "id": 3797,
-        "title": "Programming ArcGIS 10.1 with Python Cookbook",
-        "img": "https://imagebsj.netlify.app/3797.jpeg",
-        "author": "Eric Pimpler",
+        "id": 3993,
+        "title": "OpenAI GPT For Python Developers 2nd Edition",
+        "img": "http://image.banshujiang.cn/3993.jpeg?timestamp=1714644935614",
+        "author": "Aymen El Amri",
         "language": "英文",
-        "publishYear": 2013,
+        "publishYear": 2024,
         "programLanguage": "Python",
         "formats": [
             {
                 "fmt": "PDF",
                 "title": "城通网盘",
-                "link": "/e_books/3797/webstorage_links/19370/to_link"
+                "link": "/e_books/3993/webstorage_links/20136/to_link"
             },
             {
                 "fmt": "EPUB",
                 "title": "城通网盘",
-                "link": "/e_books/3797/webstorage_links/19369/to_link"
+                "link": "/e_books/3993/webstorage_links/20135/to_link"
             }
         ]
     },
     {
-        "id": 3795,
-        "title": "Pro Objective-C",
-        "img": "https://imagebsj.netlify.app/3795.jpeg",
-        "author": "Keith Lee",
+        "id": 3968,
+        "title": "Django for Professionals",
+        "img": "http://image.banshujiang.cn/3968.jpeg?timestamp=1714640490799",
+        "author": "William S. Vincent",
         "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "Objective-C",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3795/webstorage_links/19362/to_link"
-            },
-            {
-                "fmt": "PDF",
-                "title": "百度网盘",
-                "link": "/e_books/3795/webstorage_links/19361/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3779,
-        "title": "NumPy Beginner&#39;s Guide 2nd Edition",
-        "img": "https://imagebsj.netlify.app/3779.jpeg",
-        "author": "Ivan Idris",
-        "language": "英文",
-        "publishYear": 2013,
+        "publishYear": 2022,
         "programLanguage": "Python",
         "formats": [
             {
                 "fmt": "PDF",
                 "title": "城通网盘",
-                "link": "/e_books/3779/webstorage_links/19295/to_link"
+                "link": "/e_books/3968/webstorage_links/20046/to_link"
             },
             {
                 "fmt": "EPUB",
                 "title": "城通网盘",
-                "link": "/e_books/3779/webstorage_links/19294/to_link"
+                "link": "/e_books/3968/webstorage_links/20045/to_link"
             }
         ]
     },
     {
-        "id": 3767,
-        "title": "Learning Python 5th Edition",
-        "img": "https://imagebsj.netlify.app/3767.jpeg",
-        "author": "Mark Lutz",
+        "id": 3967,
+        "title": "Django for Beginners",
+        "img": "http://image.banshujiang.cn/3967.jpeg?timestamp=1714640408584",
+        "author": "William S. Vincent",
         "language": "英文",
-        "publishYear": 2013,
+        "publishYear": 2023,
         "programLanguage": "Python",
         "formats": [
             {
                 "fmt": "PDF",
                 "title": "城通网盘",
-                "link": "/e_books/3767/webstorage_links/19251/to_link"
+                "link": "/e_books/3967/webstorage_links/20042/to_link"
             },
             {
                 "fmt": "EPUB",
                 "title": "城通网盘",
-                "link": "/e_books/3767/webstorage_links/19250/to_link"
+                "link": "/e_books/3967/webstorage_links/20041/to_link"
             }
         ]
     },
     {
-        "id": 3761,
-        "title": "iPhone The Missing Manual 7th Edition",
-        "img": "https://imagebsj.netlify.app/3761.jpeg",
-        "author": "David Pogue",
+        "id": 3966,
+        "title": "Django for APIs",
+        "img": "http://image.banshujiang.cn/3966.jpeg?timestamp=1714640341832",
+        "author": "William S. Vincent",
         "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "",
+        "publishYear": 2022,
+        "programLanguage": "Python",
         "formats": [
             {
                 "fmt": "PDF",
                 "title": "城通网盘",
-                "link": "/e_books/3761/webstorage_links/19227/to_link"
+                "link": "/e_books/3966/webstorage_links/20038/to_link"
             },
             {
                 "fmt": "EPUB",
                 "title": "城通网盘",
-                "link": "/e_books/3761/webstorage_links/19226/to_link"
+                "link": "/e_books/3966/webstorage_links/20037/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3936,
+        "title": "Head First Python 3rd Edition",
+        "img": "http://image.banshujiang.cn/3936.jpeg?timestamp=1714575190278",
+        "author": "Paul Barry",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3936/webstorage_links/19924/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3936/webstorage_links/19923/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3917,
+        "title": "Learn AI-Assisted Python Programming",
+        "img": "http://image.banshujiang.cn/3917.jpeg?timestamp=1714571230615",
+        "author": "Leo Porter and Daniel Zingaro",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3917/webstorage_links/19850/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3917/webstorage_links/19849/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3908,
+        "title": "iOS 17 App Development Essentials",
+        "img": "http://image.banshujiang.cn/3908.jpeg?timestamp=1714570396489",
+        "author": "Neil Smyth",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3908/webstorage_links/19814/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3908/webstorage_links/19813/to_link"
             }
         ]
     }

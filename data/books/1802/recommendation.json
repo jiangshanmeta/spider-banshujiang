@@ -1,5 +1,26 @@
 [
     {
+        "id": 3860,
+        "title": "Programming iOS 7 4th Edition",
+        "img": "http://image.banshujiang.cn/3860.jpeg?timestamp=1714475447463",
+        "author": "Matt Neuburg",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Objective-C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3860/webstorage_links/19618/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3860/webstorage_links/19617/to_link"
+            }
+        ]
+    },
+    {
         "id": 3815,
         "title": "iOS 7 Programming Fundamentals",
         "img": "http://image.banshujiang.cn/3815.jpeg?timestamp=1712977153520",
@@ -256,22 +277,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/1650/webstorage_links/12004/to_link"
-            }
-        ]
-    },
-    {
-        "id": 1450,
-        "title": "iOS Drawing: Practical UIKit Solutions",
-        "img": "https://imagebsj.netlify.app/1450.jpeg",
-        "author": "Erica Sadun",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Objective-C",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/1450/webstorage_links/13404/to_link"
             }
         ]
     }

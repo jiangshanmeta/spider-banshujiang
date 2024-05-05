@@ -1,5 +1,47 @@
 [
     {
+        "id": 3975,
+        "title": "PostgreSQL 16 Administration Cookbook",
+        "img": "http://image.banshujiang.cn/3975.jpeg?timestamp=1714641509809",
+        "author": "Gianni Ciolli",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3975/webstorage_links/20074/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3975/webstorage_links/20073/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3957,
+        "title": "Learn PostgreSQL",
+        "img": "http://image.banshujiang.cn/3957.jpeg?timestamp=1714638902228",
+        "author": "Luca Ferrari and Enrico Pirozzi",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3957/webstorage_links/20004/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3957/webstorage_links/20003/to_link"
+            }
+        ]
+    },
+    {
         "id": 3787,
         "title": "PHP Quick Scripting Reference",
         "img": "https://imagebsj.netlify.app/3787.jpeg",
@@ -295,43 +337,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3290/webstorage_links/17356/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3278,
-        "title": "PostgreSQL High Availability Cookbook 2nd Edition",
-        "img": "http://image.banshujiang.cn/3278.jpeg?timestamp=1675570655124",
-        "author": "Shaun M. Thomas",
-        "language": "英文",
-        "publishYear": 2017,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3278/webstorage_links/17289/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3277,
-        "title": "PHP 7 Data Structures and Algorithms",
-        "img": "http://image.banshujiang.cn/3277.jpeg?timestamp=1675570591329",
-        "author": "Mizanur Rahman",
-        "language": "英文",
-        "publishYear": 2017,
-        "programLanguage": "PHP",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3277/webstorage_links/17287/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/3277/webstorage_links/17286/to_link"
             }
         ]
     }
