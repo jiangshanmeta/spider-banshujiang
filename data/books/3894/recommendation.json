@@ -1,5 +1,26 @@
 [
     {
+        "id": 4002,
+        "title": "Fluent React",
+        "img": "http://image.banshujiang.cn/4002.jpeg?timestamp=1714913571465",
+        "author": "Tejas Kumar",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4002/webstorage_links/20172/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4002/webstorage_links/20171/to_link"
+            }
+        ]
+    },
+    {
         "id": 3982,
         "title": "Javascript Crash Course",
         "img": "http://image.banshujiang.cn/3982.jpeg?timestamp=1714643194251",
@@ -306,27 +327,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3756/webstorage_links/19206/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3747,
-        "title": "Building Impressive Presentations with impress.js",
-        "img": "http://image.banshujiang.cn/3747.jpeg?timestamp=1712324380179",
-        "author": "Rakhitha Nimesh Ratnayake",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3747/webstorage_links/19173/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3747/webstorage_links/19172/to_link"
             }
         ]
     }

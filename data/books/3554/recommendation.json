@@ -1,5 +1,26 @@
 [
     {
+        "id": 4007,
+        "title": "Code Like a Pro in Rust",
+        "img": "http://image.banshujiang.cn/4007.jpeg?timestamp=1715419813337",
+        "author": "Brenden Matthews",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Rust",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4007/webstorage_links/20192/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4007/webstorage_links/20191/to_link"
+            }
+        ]
+    },
+    {
         "id": 3369,
         "title": "The Rust Programming Language 2nd Edition",
         "img": "http://image.banshujiang.cn/3369.jpeg?timestamp=1677297426654",

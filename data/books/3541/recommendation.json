@@ -138,6 +138,48 @@
         ]
     },
     {
+        "id": 4003,
+        "title": "Hands-On Entity Resolution",
+        "img": "http://image.banshujiang.cn/4003.jpeg?timestamp=1714913915403",
+        "author": "Michael Shearer",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4003/webstorage_links/20176/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4003/webstorage_links/20175/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4001,
+        "title": "Deep Learning for Finance",
+        "img": "http://image.banshujiang.cn/4001.jpeg?timestamp=1714913452504",
+        "author": "Sofien Kaabar",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4001/webstorage_links/20168/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4001/webstorage_links/20167/to_link"
+            }
+        ]
+    },
+    {
         "id": 3999,
         "title": "Building Recommendation Systems in Python and JAX",
         "img": "http://image.banshujiang.cn/3999.jpeg?timestamp=1714645337485",
@@ -260,48 +302,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3936/webstorage_links/19923/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3917,
-        "title": "Learn AI-Assisted Python Programming",
-        "img": "http://image.banshujiang.cn/3917.jpeg?timestamp=1714571230615",
-        "author": "Leo Porter and Daniel Zingaro",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3917/webstorage_links/19850/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3917/webstorage_links/19849/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3908,
-        "title": "iOS 17 App Development Essentials",
-        "img": "http://image.banshujiang.cn/3908.jpeg?timestamp=1714570396489",
-        "author": "Neil Smyth",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3908/webstorage_links/19814/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3908/webstorage_links/19813/to_link"
             }
         ]
     }

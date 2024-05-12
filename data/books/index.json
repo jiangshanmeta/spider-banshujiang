@@ -74220,5 +74220,189 @@
                 "link": "/e_books/4000/webstorage_links/20163/to_link"
             }
         ]
+    },
+    {
+        "id": 4001,
+        "title": "Deep Learning for Finance",
+        "img": "http://image.banshujiang.cn/4001.jpeg?timestamp=1714913452504",
+        "author": "Sofien Kaabar",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4001/webstorage_links/20168/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4001/webstorage_links/20167/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4002,
+        "title": "Fluent React",
+        "img": "http://image.banshujiang.cn/4002.jpeg?timestamp=1714913571465",
+        "author": "Tejas Kumar",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4002/webstorage_links/20172/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4002/webstorage_links/20171/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4003,
+        "title": "Hands-On Entity Resolution",
+        "img": "http://image.banshujiang.cn/4003.jpeg?timestamp=1714913915403",
+        "author": "Michael Shearer",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4003/webstorage_links/20176/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4003/webstorage_links/20175/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4004,
+        "title": "Laws of UX 2nd Edition",
+        "img": "http://image.banshujiang.cn/4004.jpeg?timestamp=1714914010595",
+        "author": "Jon Yablonski",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4004/webstorage_links/20180/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4004/webstorage_links/20179/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4005,
+        "title": "Learning Airtable",
+        "img": "http://image.banshujiang.cn/4005.jpeg?timestamp=1715403022678",
+        "author": "Elliott Adams",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4005/webstorage_links/20184/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4005/webstorage_links/20183/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4006,
+        "title": "Functional Design",
+        "img": "http://image.banshujiang.cn/4006.jpeg?timestamp=1715419613451",
+        "author": "Robert C. Martin",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4006/webstorage_links/20188/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4006/webstorage_links/20187/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4007,
+        "title": "Code Like a Pro in Rust",
+        "img": "http://image.banshujiang.cn/4007.jpeg?timestamp=1715419813337",
+        "author": "Brenden Matthews",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Rust",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4007/webstorage_links/20192/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4007/webstorage_links/20191/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4008,
+        "title": "grokking algorithms 2nd Edition",
+        "img": "http://image.banshujiang.cn/4008.jpeg?timestamp=1715419901071",
+        "author": "Aditya Y. Bhargava",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4008/webstorage_links/20196/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4008/webstorage_links/20195/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4009,
+        "title": "Introduction to Generative AI",
+        "img": "http://image.banshujiang.cn/4009.jpeg?timestamp=1715421591264",
+        "author": "Numa Dhamani and Maggie Engler",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4009/webstorage_links/20198/to_link"
+            }
+        ]
     }
 ]

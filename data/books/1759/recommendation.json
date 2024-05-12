@@ -1,5 +1,26 @@
 [
     {
+        "id": 4002,
+        "title": "Fluent React",
+        "img": "http://image.banshujiang.cn/4002.jpeg?timestamp=1714913571465",
+        "author": "Tejas Kumar",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4002/webstorage_links/20172/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4002/webstorage_links/20171/to_link"
+            }
+        ]
+    },
+    {
         "id": 3982,
         "title": "Javascript Crash Course",
         "img": "http://image.banshujiang.cn/3982.jpeg?timestamp=1714643194251",
@@ -306,27 +327,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3835/webstorage_links/19519/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3825,
-        "title": "Backbone.js Cookbook",
-        "img": "http://image.banshujiang.cn/3825.jpeg?timestamp=1713613960883",
-        "author": "Vadim Mirgorod",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3825/webstorage_links/19480/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3825/webstorage_links/19479/to_link"
             }
         ]
     }

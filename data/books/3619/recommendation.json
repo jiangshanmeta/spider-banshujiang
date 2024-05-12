@@ -1,5 +1,47 @@
 [
     {
+        "id": 4003,
+        "title": "Hands-On Entity Resolution",
+        "img": "http://image.banshujiang.cn/4003.jpeg?timestamp=1714913915403",
+        "author": "Michael Shearer",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4003/webstorage_links/20176/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4003/webstorage_links/20175/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4001,
+        "title": "Deep Learning for Finance",
+        "img": "http://image.banshujiang.cn/4001.jpeg?timestamp=1714913452504",
+        "author": "Sofien Kaabar",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4001/webstorage_links/20168/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4001/webstorage_links/20167/to_link"
+            }
+        ]
+    },
+    {
         "id": 3999,
         "title": "Building Recommendation Systems in Python and JAX",
         "img": "http://image.banshujiang.cn/3999.jpeg?timestamp=1714645337485",
@@ -290,48 +332,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3682/webstorage_links/18914/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3605,
-        "title": "Scaling Python with Dask",
-        "img": "http://image.banshujiang.cn/3605.jpeg?timestamp=1708052554122",
-        "author": "Holden Karau and Mika Kimmins",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3605/webstorage_links/18638/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3605/webstorage_links/18639/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3594,
-        "title": "Machine Learning with Python Cookbook 2nd Edition",
-        "img": "http://image.banshujiang.cn/3594.jpeg?timestamp=1707806389650",
-        "author": "Kyle Gallatin and Chris Albon",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3594/webstorage_links/18609/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3594/webstorage_links/18608/to_link"
             }
         ]
     }
