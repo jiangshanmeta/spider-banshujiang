@@ -80,6 +80,27 @@
         ]
     },
     {
+        "id": 4036,
+        "title": "Ruby on Rails Tutorial 7th Edition",
+        "img": "http://image.banshujiang.cn/4036.jpeg?timestamp=1715950043170",
+        "author": "Michael Hartl",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Ruby",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4036/webstorage_links/20298/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4036/webstorage_links/20297/to_link"
+            }
+        ]
+    },
+    {
         "id": 3744,
         "title": "BeginningRails 4 3rd Edition",
         "img": "http://image.banshujiang.cn/3744.jpeg?timestamp=1712323977169",
@@ -286,22 +307,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/2228/webstorage_links/15580/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2214,
-        "title": "High Performance Django",
-        "img": "https://imagebsj.netlify.app/2214.jpeg",
-        "author": "Peter Baumgartner and Yann Malet",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2214/webstorage_links/15564/to_link"
             }
         ]
     }

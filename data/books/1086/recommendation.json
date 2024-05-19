@@ -1,5 +1,26 @@
 [
     {
+        "id": 4036,
+        "title": "Ruby on Rails Tutorial 7th Edition",
+        "img": "http://image.banshujiang.cn/4036.jpeg?timestamp=1715950043170",
+        "author": "Michael Hartl",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Ruby",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4036/webstorage_links/20298/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4036/webstorage_links/20297/to_link"
+            }
+        ]
+    },
+    {
         "id": 3908,
         "title": "iOS 17 App Development Essentials",
         "img": "http://image.banshujiang.cn/3908.jpeg?timestamp=1714570396489",
@@ -311,27 +332,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3541/webstorage_links/18435/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3521,
-        "title": "Agile Web Development with Rails 7",
-        "img": "http://image.banshujiang.cn/3521.jpeg?timestamp=1696770038701",
-        "author": "Sam Ruby",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "Ruby",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3521/webstorage_links/18343/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3521/webstorage_links/18342/to_link"
             }
         ]
     }

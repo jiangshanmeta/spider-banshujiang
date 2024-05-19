@@ -16,6 +16,27 @@
         ]
     },
     {
+        "id": 4036,
+        "title": "Ruby on Rails Tutorial 7th Edition",
+        "img": "http://image.banshujiang.cn/4036.jpeg?timestamp=1715950043170",
+        "author": "Michael Hartl",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Ruby",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4036/webstorage_links/20298/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4036/webstorage_links/20297/to_link"
+            }
+        ]
+    },
+    {
         "id": 3859,
         "title": "Programming in Objective-C 6th Edition",
         "img": "http://image.banshujiang.cn/3859.jpeg?timestamp=1714475329685",
@@ -296,32 +317,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/2253/webstorage_links/15619/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2233,
-        "title": "Docker for Rails Developers",
-        "img": "https://imagebsj.netlify.app/2233.jpeg",
-        "author": "Rob Isenberg",
-        "language": "英文",
-        "publishYear": 2019,
-        "programLanguage": "Ruby",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2233/webstorage_links/15593/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2233/webstorage_links/15592/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/2233/webstorage_links/15591/to_link"
             }
         ]
     }

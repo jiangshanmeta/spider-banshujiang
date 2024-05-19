@@ -1,5 +1,47 @@
 [
     {
+        "id": 4034,
+        "title": "Python Testing with pytest 2nd Edition",
+        "img": "http://image.banshujiang.cn/4034.jpeg?timestamp=1715949725622",
+        "author": "Brian Okken",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4034/webstorage_links/20292/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4034/webstorage_links/20291/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4027,
+        "title": "Bayesian Analysis with Python 3rd Edition",
+        "img": "http://image.banshujiang.cn/4027.jpeg?timestamp=1715948787258",
+        "author": "Osvaldo Martin",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4027/webstorage_links/20264/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4027/webstorage_links/20263/to_link"
+            }
+        ]
+    },
+    {
         "id": 4003,
         "title": "Hands-On Entity Resolution",
         "img": "http://image.banshujiang.cn/4003.jpeg?timestamp=1714913915403",
@@ -290,48 +332,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3779/webstorage_links/19294/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3767,
-        "title": "Learning Python 5th Edition",
-        "img": "https://imagebsj.netlify.app/3767.jpeg",
-        "author": "Mark Lutz",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3767/webstorage_links/19251/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3767/webstorage_links/19250/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3619,
-        "title": "Python Playground 2nd Edition",
-        "img": "http://image.banshujiang.cn/3619.jpeg?timestamp=1708054218985",
-        "author": "Mahesh Venkitachalam",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3619/webstorage_links/18690/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/3619/webstorage_links/18691/to_link"
             }
         ]
     }

@@ -1,5 +1,26 @@
 [
     {
+        "id": 4011,
+        "title": "Learn Rust in a Month of Lunches",
+        "img": "http://image.banshujiang.cn/4011.jpeg?timestamp=1715523366998",
+        "author": "Dave Macleod",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Rust",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4011/webstorage_links/20206/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4011/webstorage_links/20205/to_link"
+            }
+        ]
+    },
+    {
         "id": 3554,
         "title": "Rust Servers Services, and Apps",
         "img": "http://image.banshujiang.cn/3554.jpeg?timestamp=1697274077390",

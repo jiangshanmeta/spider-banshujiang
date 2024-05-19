@@ -1,5 +1,26 @@
 [
     {
+        "id": 4036,
+        "title": "Ruby on Rails Tutorial 7th Edition",
+        "img": "http://image.banshujiang.cn/4036.jpeg?timestamp=1715950043170",
+        "author": "Michael Hartl",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Ruby",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4036/webstorage_links/20298/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4036/webstorage_links/20297/to_link"
+            }
+        ]
+    },
+    {
         "id": 3744,
         "title": "BeginningRails 4 3rd Edition",
         "img": "http://image.banshujiang.cn/3744.jpeg?timestamp=1712323977169",
@@ -286,22 +307,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/1871/webstorage_links/11842/to_link"
-            }
-        ]
-    },
-    {
-        "id": 1834,
-        "title": "Practical Reporting with Ruby and Rails",
-        "img": "https://imagebsj.netlify.app/1834.jpeg",
-        "author": "David Berube",
-        "language": "英文",
-        "publishYear": 2008,
-        "programLanguage": "Ruby",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/1834/webstorage_links/11750/to_link"
             }
         ]
     }

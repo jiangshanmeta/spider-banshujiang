@@ -74404,5 +74404,621 @@
                 "link": "/e_books/4009/webstorage_links/20198/to_link"
             }
         ]
+    },
+    {
+        "id": 4010,
+        "title": "Kubernetes for Developers",
+        "img": "http://image.banshujiang.cn/4010.jpeg?timestamp=1715523289562",
+        "author": "William Denniss",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4010/webstorage_links/20202/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4010/webstorage_links/20201/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4011,
+        "title": "Learn Rust in a Month of Lunches",
+        "img": "http://image.banshujiang.cn/4011.jpeg?timestamp=1715523366998",
+        "author": "Dave Macleod",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Rust",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4011/webstorage_links/20206/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4011/webstorage_links/20205/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4012,
+        "title": "Pro Angular 16 6th Edition",
+        "img": "http://image.banshujiang.cn/4012.jpeg?timestamp=1715523457422",
+        "author": "Adam Freeman",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "TypeScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4012/webstorage_links/20208/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4013,
+        "title": "The Art of Unit Testing 3rd Edition",
+        "img": "http://image.banshujiang.cn/4013.jpeg?timestamp=1715523558170",
+        "author": "Roy Osherove",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4013/webstorage_links/20212/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4013/webstorage_links/20211/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4014,
+        "title": "Building Green Software",
+        "img": "http://image.banshujiang.cn/4014.jpeg?timestamp=1715523639426",
+        "author": "Anne Currie, Sarah Hsu, and Sara Bergman",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4014/webstorage_links/20216/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4014/webstorage_links/20215/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4015,
+        "title": "Effective Machine Learning Teams",
+        "img": "http://image.banshujiang.cn/4015.jpeg?timestamp=1715523707235",
+        "author": "David Tan, Ada Leung, and David Colls",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4015/webstorage_links/20220/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4015/webstorage_links/20219/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4016,
+        "title": "Learning Go 2nd Edition",
+        "img": "http://image.banshujiang.cn/4016.jpeg?timestamp=1715523773106",
+        "author": "Jon Bodner",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Go",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4016/webstorage_links/20224/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4016/webstorage_links/20223/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4017,
+        "title": "Learning Vue",
+        "img": "http://image.banshujiang.cn/4017.jpeg?timestamp=1715523859398",
+        "author": "Maya Shavin",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "TypeScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4017/webstorage_links/20228/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4017/webstorage_links/20227/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4018,
+        "title": "Making Embedded Systems 2nd Edition",
+        "img": "http://image.banshujiang.cn/4018.jpeg?timestamp=1715523920152",
+        "author": "Elecia White",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4018/webstorage_links/20232/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4018/webstorage_links/20231/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4019,
+        "title": "NGINX Cookbook 3rd Edition",
+        "img": "http://image.banshujiang.cn/4019.jpeg?timestamp=1715523979352",
+        "author": "Derek DeJonghe",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4019/webstorage_links/20236/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4019/webstorage_links/20235/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4020,
+        "title": "Serverless Development on AWS",
+        "img": "http://image.banshujiang.cn/4020.jpeg?timestamp=1715524124613",
+        "author": "Sheen Brisals and Luke Hedger",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4020/webstorage_links/20240/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4020/webstorage_links/20239/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4021,
+        "title": "Software Supply Chain Security",
+        "img": "http://image.banshujiang.cn/4021.jpeg?timestamp=1715947979851",
+        "author": "Cassie Crossley",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4021/webstorage_links/20244/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4021/webstorage_links/20243/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4022,
+        "title": "The Engineering Executive’s Primer",
+        "img": "http://image.banshujiang.cn/4022.jpeg?timestamp=1715948073242",
+        "author": "Will Larson",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4022/webstorage_links/20248/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4022/webstorage_links/20247/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4023,
+        "title": "Understanding DeFi",
+        "img": "http://image.banshujiang.cn/4023.jpeg?timestamp=1715948226775",
+        "author": "Alexandra Damsker",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4023/webstorage_links/20250/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4024,
+        "title": "Unifying Business, Data, and Code",
+        "img": "http://image.banshujiang.cn/4024.jpeg?timestamp=1715948293002",
+        "author": "Ron Itelman and Juan Cruz Viotti",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4024/webstorage_links/20252/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4025,
+        "title": "Web Application Security 2nd Edition",
+        "img": "http://image.banshujiang.cn/4025.jpeg?timestamp=1715948636262",
+        "author": "Andrew Hoffman",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4025/webstorage_links/20256/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4025/webstorage_links/20255/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4026,
+        "title": "Zero Trust Networks 2nd Edition",
+        "img": "http://image.banshujiang.cn/4026.jpeg?timestamp=1715948719499",
+        "author": "Razi Rais, Christina Morillo, Evan Gilman, and Doug Barth",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4026/webstorage_links/20260/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4026/webstorage_links/20259/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4027,
+        "title": "Bayesian Analysis with Python 3rd Edition",
+        "img": "http://image.banshujiang.cn/4027.jpeg?timestamp=1715948787258",
+        "author": "Osvaldo Martin",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4027/webstorage_links/20264/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4027/webstorage_links/20263/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4028,
+        "title": "Building an API Product",
+        "img": "http://image.banshujiang.cn/4028.jpeg?timestamp=1715948850455",
+        "author": "Bruno Pedro",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4028/webstorage_links/20268/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4028/webstorage_links/20267/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4029,
+        "title": "Mastering MongoDB 7.0",
+        "img": "http://image.banshujiang.cn/4029.jpeg?timestamp=1715948936009",
+        "author": "Marko Aleksendrić",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4029/webstorage_links/20272/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4029/webstorage_links/20271/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4030,
+        "title": "OpenAI API Cookbook",
+        "img": "http://image.banshujiang.cn/4030.jpeg?timestamp=1715949088569",
+        "author": "Henry Habib",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4030/webstorage_links/20276/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4030/webstorage_links/20275/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4031,
+        "title": "Patterns for API Design",
+        "img": "http://image.banshujiang.cn/4031.jpeg?timestamp=1715949268926",
+        "author": "Olaf Zimmermann",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4031/webstorage_links/20280/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4031/webstorage_links/20279/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4032,
+        "title": "Patterns of Distributed Systems",
+        "img": "http://image.banshujiang.cn/4032.jpeg?timestamp=1715949392575",
+        "author": "Unmesh Joshi",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4032/webstorage_links/20284/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4032/webstorage_links/20283/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4033,
+        "title": "Professional C++ 6th Edition",
+        "img": "http://image.banshujiang.cn/4033.jpeg?timestamp=1715949511389",
+        "author": "Marc Gregoire",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4033/webstorage_links/20288/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4033/webstorage_links/20287/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4034,
+        "title": "Python Testing with pytest 2nd Edition",
+        "img": "http://image.banshujiang.cn/4034.jpeg?timestamp=1715949725622",
+        "author": "Brian Okken",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4034/webstorage_links/20292/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4034/webstorage_links/20291/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4035,
+        "title": "Raspberry Pi 5 Essentials",
+        "img": "http://image.banshujiang.cn/4035.jpeg?timestamp=1715949972128",
+        "author": "Dogan Ibrahim",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4035/webstorage_links/20294/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4036,
+        "title": "Ruby on Rails Tutorial 7th Edition",
+        "img": "http://image.banshujiang.cn/4036.jpeg?timestamp=1715950043170",
+        "author": "Michael Hartl",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Ruby",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4036/webstorage_links/20298/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4036/webstorage_links/20297/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4037,
+        "title": "Serverless as a Game Changer",
+        "img": "http://image.banshujiang.cn/4037.jpeg?timestamp=1715950187837",
+        "author": "Joseph Emison",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4037/webstorage_links/20300/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4038,
+        "title": "Starting Out with C++ 10th Edition",
+        "img": "http://image.banshujiang.cn/4038.jpeg?timestamp=1715950744569",
+        "author": "Tony Gaddis",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4038/webstorage_links/20302/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4039,
+        "title": "The Active Defender",
+        "img": "http://image.banshujiang.cn/4039.jpeg?timestamp=1715950804813",
+        "author": "Dr. Catherine J. Ullman",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4039/webstorage_links/20306/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4039/webstorage_links/20305/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4040,
+        "title": "The Art of Randomness",
+        "img": "http://image.banshujiang.cn/4040.jpeg?timestamp=1715950881065",
+        "author": "Ronald T. Kneusel",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4040/webstorage_links/20308/to_link"
+            }
+        ]
     }
 ]

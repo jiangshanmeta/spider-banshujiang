@@ -1,5 +1,26 @@
 [
     {
+        "id": 4016,
+        "title": "Learning Go 2nd Edition",
+        "img": "http://image.banshujiang.cn/4016.jpeg?timestamp=1715523773106",
+        "author": "Jon Bodner",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Go",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4016/webstorage_links/20224/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4016/webstorage_links/20223/to_link"
+            }
+        ]
+    },
+    {
         "id": 3971,
         "title": "Everyday Golang - The Fast Track",
         "img": "http://image.banshujiang.cn/3971.jpeg?timestamp=1714641076681",
@@ -301,22 +322,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/2612/webstorage_links/9112/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2576,
-        "title": "Learning Go",
-        "img": "https://imagebsj.netlify.app/2576.jpeg",
-        "author": "Jon Bodner",
-        "language": "英文",
-        "publishYear": 2021,
-        "programLanguage": "Go",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2576/webstorage_links/8974/to_link"
             }
         ]
     }

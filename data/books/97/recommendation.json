@@ -1,5 +1,47 @@
 [
     {
+        "id": 4036,
+        "title": "Ruby on Rails Tutorial 7th Edition",
+        "img": "http://image.banshujiang.cn/4036.jpeg?timestamp=1715950043170",
+        "author": "Michael Hartl",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Ruby",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4036/webstorage_links/20298/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4036/webstorage_links/20297/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4029,
+        "title": "Mastering MongoDB 7.0",
+        "img": "http://image.banshujiang.cn/4029.jpeg?timestamp=1715948936009",
+        "author": "Marko Aleksendrić",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4029/webstorage_links/20272/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4029/webstorage_links/20271/to_link"
+            }
+        ]
+    },
+    {
         "id": 3976,
         "title": "Practical MongoDB Aggregations",
         "img": "http://image.banshujiang.cn/3976.jpeg?timestamp=1714641578855",
@@ -295,43 +337,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/2228/webstorage_links/15580/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2169,
-        "title": "Rails 5 Test Prescriptions",
-        "img": "https://imagebsj.netlify.app/2169.jpeg",
-        "author": "Noel Rappin",
-        "language": "英文",
-        "publishYear": 2018,
-        "programLanguage": "Ruby",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2169/webstorage_links/9366/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2169/webstorage_links/9367/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2069,
-        "title": "Agile Web Development with Rails 5.1",
-        "img": "https://imagebsj.netlify.app/2069.jpeg",
-        "author": "Sam Ruby, David Bryant Copeland with Dave Thomas",
-        "language": "英文",
-        "publishYear": 2017,
-        "programLanguage": "Ruby",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2069/webstorage_links/11316/to_link"
             }
         ]
     }
