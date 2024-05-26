@@ -1,5 +1,26 @@
 [
     {
+        "id": 4059,
+        "title": "Mastering Perl 2nd Edition",
+        "img": "http://image.banshujiang.cn/4059.jpeg?timestamp=1716702640438",
+        "author": "brian d foy",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Perl",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4059/webstorage_links/20380/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4059/webstorage_links/20379/to_link"
+            }
+        ]
+    },
+    {
         "id": 3855,
         "title": "Perl One - Liners",
         "img": "http://image.banshujiang.cn/3855.jpeg?timestamp=1714474670269",
@@ -271,22 +292,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/1483/webstorage_links/13470/to_link"
-            }
-        ]
-    },
-    {
-        "id": 1478,
-        "title": "Oracle Database 11g PL/SQL 编程实战",
-        "img": "https://imagebsj.netlify.app/1478.jpeg",
-        "author": "Michael McLaughlin and John M. Harper 著 陈武 译",
-        "language": "中文",
-        "publishYear": 2011,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/1478/webstorage_links/13460/to_link"
             }
         ]
     }

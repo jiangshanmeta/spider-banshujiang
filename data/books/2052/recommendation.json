@@ -1,5 +1,26 @@
 [
     {
+        "id": 4060,
+        "title": "Microsoft SQL Server 2012 Internals",
+        "img": "http://image.banshujiang.cn/4060.jpeg?timestamp=1716702736467",
+        "author": "Kalen Delaney",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "SQL",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4060/webstorage_links/20384/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4060/webstorage_links/20383/to_link"
+            }
+        ]
+    },
+    {
         "id": 3628,
         "title": "T-SQL Fundamentals",
         "img": "http://image.banshujiang.cn/3628.jpeg?timestamp=1708773541020",
@@ -54,6 +75,27 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/2041/webstorage_links/11422/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4043,
+        "title": "The Language of SQL 3rd Edition",
+        "img": "http://image.banshujiang.cn/4043.jpeg?timestamp=1716699621383",
+        "author": "Larry Rockoff",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "SQL",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4043/webstorage_links/20320/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4043/webstorage_links/20319/to_link"
             }
         ]
     },
@@ -285,43 +327,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/2782/webstorage_links/10118/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2781,
-        "title": "SQL for Data Analysis",
-        "img": "https://imagebsj.netlify.app/2781.jpeg",
-        "author": "Cathy Tanimura",
-        "language": "英文",
-        "publishYear": 2021,
-        "programLanguage": "SQL",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2781/webstorage_links/10117/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2781/webstorage_links/10116/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2638,
-        "title": "Trino: The Definitive Guide",
-        "img": "https://imagebsj.netlify.app/2638.jpeg",
-        "author": "Matt Fuller, Manfred Moser, and Martin Traverso",
-        "language": "英文",
-        "publishYear": 2021,
-        "programLanguage": "SQL",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2638/webstorage_links/9224/to_link"
             }
         ]
     }

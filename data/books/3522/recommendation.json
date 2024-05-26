@@ -1,5 +1,26 @@
 [
     {
+        "id": 4051,
+        "title": "Creating Dynamic UI with Android Fragments",
+        "img": "http://image.banshujiang.cn/4051.jpeg?timestamp=1716700883069",
+        "author": "Jim Wilson",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4051/webstorage_links/20350/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4051/webstorage_links/20349/to_link"
+            }
+        ]
+    },
+    {
         "id": 3845,
         "title": "Learning Android 2nd Edition",
         "img": "http://image.banshujiang.cn/3845.jpeg?timestamp=1713969354668",
@@ -306,27 +327,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3528/webstorage_links/18364/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3388,
-        "title": "Gradle Recipes for Android",
-        "img": "http://image.banshujiang.cn/3388.jpeg?timestamp=1677313529596",
-        "author": "Ken Kousen",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "Kotlin",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3388/webstorage_links/17735/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3388/webstorage_links/17734/to_link"
             }
         ]
     }

@@ -64,6 +64,48 @@
         ]
     },
     {
+        "id": 4051,
+        "title": "Creating Dynamic UI with Android Fragments",
+        "img": "http://image.banshujiang.cn/4051.jpeg?timestamp=1716700883069",
+        "author": "Jim Wilson",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4051/webstorage_links/20350/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4051/webstorage_links/20349/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4050,
+        "title": "Building Minecraft Server Modifications",
+        "img": "http://image.banshujiang.cn/4050.jpeg?timestamp=1716700520174",
+        "author": "Cody M. Sommer",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4050/webstorage_links/20346/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4050/webstorage_links/20345/to_link"
+            }
+        ]
+    },
+    {
         "id": 3954,
         "title": "Full Stack Development with Spring Boot 3 and React 4th Edition",
         "img": "http://image.banshujiang.cn/3954.jpeg?timestamp=1714638694734",
@@ -270,48 +312,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3762/webstorage_links/19230/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3741,
-        "title": "Android Native Development Kit Cookbook",
-        "img": "http://image.banshujiang.cn/3741.jpeg?timestamp=1712268168171",
-        "author": "Feipeng Liu",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3741/webstorage_links/19149/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3741/webstorage_links/19148/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3739,
-        "title": "Learning Java 4th Edition",
-        "img": "http://image.banshujiang.cn/3739.jpeg?timestamp=1711720917962",
-        "author": "Patrick Niemeyer and Daniel Leuck",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3739/webstorage_links/19141/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3739/webstorage_links/19140/to_link"
             }
         ]
     }

@@ -1,5 +1,47 @@
 [
     {
+        "id": 4060,
+        "title": "Microsoft SQL Server 2012 Internals",
+        "img": "http://image.banshujiang.cn/4060.jpeg?timestamp=1716702736467",
+        "author": "Kalen Delaney",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "SQL",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4060/webstorage_links/20384/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4060/webstorage_links/20383/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4043,
+        "title": "The Language of SQL 3rd Edition",
+        "img": "http://image.banshujiang.cn/4043.jpeg?timestamp=1716699621383",
+        "author": "Larry Rockoff",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "SQL",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4043/webstorage_links/20320/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4043/webstorage_links/20319/to_link"
+            }
+        ]
+    },
+    {
         "id": 3994,
         "title": "Analytics Engineering with SQL and dbt",
         "img": "http://image.banshujiang.cn/3994.jpeg?timestamp=1714645004437",
@@ -285,53 +327,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/2988/webstorage_links/11032/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2987,
-        "title": "SQL in a Nutshell 4th Edition",
-        "img": "https://imagebsj.netlify.app/2987.jpeg",
-        "author": "Kevin Kline, Regine O. Obe, and Leo S. Hsu",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "SQL",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2987/webstorage_links/11029/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2987/webstorage_links/11027/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/2987/webstorage_links/11028/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2974,
-        "title": "MySQL Cookbook 4th Edition",
-        "img": "https://imagebsj.netlify.app/2974.jpeg",
-        "author": "Sveta Smirnova and Alkin Tezuysal",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "SQL",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2974/webstorage_links/10970/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/2974/webstorage_links/10971/to_link"
             }
         ]
     }

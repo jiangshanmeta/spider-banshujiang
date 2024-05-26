@@ -143,6 +143,27 @@
         ]
     },
     {
+        "id": 4053,
+        "title": "Head First iPhone and iPad Development 3rd Edition",
+        "img": "http://image.banshujiang.cn/4053.jpeg?timestamp=1716701801839",
+        "author": "Tracey Pilone and Dan Pilone",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Objective-C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4053/webstorage_links/20358/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4053/webstorage_links/20357/to_link"
+            }
+        ]
+    },
+    {
         "id": 3908,
         "title": "iOS 17 App Development Essentials",
         "img": "http://image.banshujiang.cn/3908.jpeg?timestamp=1714570396489",
@@ -286,27 +307,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3815/webstorage_links/19439/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3795,
-        "title": "Pro Objective-C",
-        "img": "https://imagebsj.netlify.app/3795.jpeg",
-        "author": "Keith Lee",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "Objective-C",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3795/webstorage_links/19362/to_link"
-            },
-            {
-                "fmt": "PDF",
-                "title": "百度网盘",
-                "link": "/e_books/3795/webstorage_links/19361/to_link"
             }
         ]
     }

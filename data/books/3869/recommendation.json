@@ -1,5 +1,42 @@
 [
     {
+        "id": 4046,
+        "title": "Windows Security Internals",
+        "img": "http://image.banshujiang.cn/4046.jpeg?timestamp=1716699900712",
+        "author": "James Forshaw",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4046/webstorage_links/20330/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4045,
+        "title": "Windows Internals 7th Edition Part 2",
+        "img": "http://image.banshujiang.cn/4045.jpeg?timestamp=1716699810893",
+        "author": "Andrea Allievi, Alex Ionescu, Mark E. Russinovich and David A. Solomon",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4045/webstorage_links/20328/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4045/webstorage_links/20327/to_link"
+            }
+        ]
+    },
+    {
         "id": 3978,
         "title": "Windows 11 for Enterprise Administrators 2nd Edition",
         "img": "http://image.banshujiang.cn/3978.jpeg?timestamp=1714641717225",
@@ -300,43 +337,6 @@
                 "fmt": "CODE",
                 "title": "城通网盘",
                 "link": "/e_books/3463/webstorage_links/18090/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3236,
-        "title": "Learn Windows PowerShell in a Month of Lunches 3rd Edtion",
-        "img": "http://image.banshujiang.cn/3236.jpeg?timestamp=1674791757107",
-        "author": "Don Jones and Jeffery Hicks",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "PowerShell",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3236/webstorage_links/17079/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3061,
-        "title": "Responsive Web Design with HTML5 and CSS 4th Edition",
-        "img": "https://imagebsj.netlify.app/3061.jpeg",
-        "author": "Ben Frain",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "HTML5",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3061/webstorage_links/16269/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3061/webstorage_links/16270/to_link"
             }
         ]
     }

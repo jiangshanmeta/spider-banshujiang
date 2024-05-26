@@ -138,6 +138,27 @@
         ]
     },
     {
+        "id": 4053,
+        "title": "Head First iPhone and iPad Development 3rd Edition",
+        "img": "http://image.banshujiang.cn/4053.jpeg?timestamp=1716701801839",
+        "author": "Tracey Pilone and Dan Pilone",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Objective-C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4053/webstorage_links/20358/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4053/webstorage_links/20357/to_link"
+            }
+        ]
+    },
+    {
         "id": 4034,
         "title": "Python Testing with pytest 2nd Edition",
         "img": "http://image.banshujiang.cn/4034.jpeg?timestamp=1715949725622",
@@ -281,27 +302,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3968/webstorage_links/20045/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3967,
-        "title": "Django for Beginners",
-        "img": "http://image.banshujiang.cn/3967.jpeg?timestamp=1714640408584",
-        "author": "William S. Vincent",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3967/webstorage_links/20042/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3967/webstorage_links/20041/to_link"
             }
         ]
     }

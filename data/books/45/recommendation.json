@@ -16,6 +16,27 @@
         ]
     },
     {
+        "id": 4051,
+        "title": "Creating Dynamic UI with Android Fragments",
+        "img": "http://image.banshujiang.cn/4051.jpeg?timestamp=1716700883069",
+        "author": "Jim Wilson",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4051/webstorage_links/20350/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4051/webstorage_links/20349/to_link"
+            }
+        ]
+    },
+    {
         "id": 3869,
         "title": "Releasing HTML5 Games for Windows 8",
         "img": "http://image.banshujiang.cn/3869.jpeg?timestamp=1714476497283",
@@ -306,27 +327,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3743/webstorage_links/19156/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3741,
-        "title": "Android Native Development Kit Cookbook",
-        "img": "http://image.banshujiang.cn/3741.jpeg?timestamp=1712268168171",
-        "author": "Feipeng Liu",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3741/webstorage_links/19149/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3741/webstorage_links/19148/to_link"
             }
         ]
     }

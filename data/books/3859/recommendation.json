@@ -85,6 +85,27 @@
         ]
     },
     {
+        "id": 4053,
+        "title": "Head First iPhone and iPad Development 3rd Edition",
+        "img": "http://image.banshujiang.cn/4053.jpeg?timestamp=1716701801839",
+        "author": "Tracey Pilone and Dan Pilone",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Objective-C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4053/webstorage_links/20358/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4053/webstorage_links/20357/to_link"
+            }
+        ]
+    },
+    {
         "id": 3860,
         "title": "Programming iOS 7 4th Edition",
         "img": "http://image.banshujiang.cn/3860.jpeg?timestamp=1714475447463",
@@ -276,27 +297,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/2239/webstorage_links/15604/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2068,
-        "title": "Advanced Apple Debugging &amp; Reverse Engineering, 2nd Edition",
-        "img": "https://imagebsj.netlify.app/2068.jpeg",
-        "author": "Derek Selander",
-        "language": "英文",
-        "publishYear": 2017,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2068/webstorage_links/11313/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2068/webstorage_links/11314/to_link"
             }
         ]
     }

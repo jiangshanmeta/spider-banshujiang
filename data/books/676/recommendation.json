@@ -69,6 +69,27 @@
         ]
     },
     {
+        "id": 4053,
+        "title": "Head First iPhone and iPad Development 3rd Edition",
+        "img": "http://image.banshujiang.cn/4053.jpeg?timestamp=1716701801839",
+        "author": "Tracey Pilone and Dan Pilone",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Objective-C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4053/webstorage_links/20358/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4053/webstorage_links/20357/to_link"
+            }
+        ]
+    },
+    {
         "id": 3860,
         "title": "Programming iOS 7 4th Edition",
         "img": "http://image.banshujiang.cn/3860.jpeg?timestamp=1714475447463",
@@ -276,22 +297,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/1851/webstorage_links/11788/to_link"
-            }
-        ]
-    },
-    {
-        "id": 1802,
-        "title": "Objective-C 编程之道",
-        "img": "https://imagebsj.netlify.app/1802.jpeg",
-        "author": "Carlo Chung 著 刘威 译",
-        "language": "中文",
-        "publishYear": 2011,
-        "programLanguage": "Objective-C",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/1802/webstorage_links/11658/to_link"
             }
         ]
     }

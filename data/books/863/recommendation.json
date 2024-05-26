@@ -16,6 +16,27 @@
         ]
     },
     {
+        "id": 4053,
+        "title": "Head First iPhone and iPad Development 3rd Edition",
+        "img": "http://image.banshujiang.cn/4053.jpeg?timestamp=1716701801839",
+        "author": "Tracey Pilone and Dan Pilone",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Objective-C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4053/webstorage_links/20358/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4053/webstorage_links/20357/to_link"
+            }
+        ]
+    },
+    {
         "id": 3908,
         "title": "iOS 17 App Development Essentials",
         "img": "http://image.banshujiang.cn/3908.jpeg?timestamp=1714570396489",
@@ -306,27 +327,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3760/webstorage_links/19222/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3759,
-        "title": "Hello! IOS Development",
-        "img": "http://image.banshujiang.cn/3759.jpeg?timestamp=1712399988596",
-        "author": "Lou Franco and Eitan Mendelowitz",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "Objective-C",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3759/webstorage_links/19219/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3759/webstorage_links/19218/to_link"
             }
         ]
     }

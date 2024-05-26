@@ -1,5 +1,26 @@
 [
     {
+        "id": 4059,
+        "title": "Mastering Perl 2nd Edition",
+        "img": "http://image.banshujiang.cn/4059.jpeg?timestamp=1716702640438",
+        "author": "brian d foy",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Perl",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4059/webstorage_links/20380/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4059/webstorage_links/20379/to_link"
+            }
+        ]
+    },
+    {
         "id": 3855,
         "title": "Perl One - Liners",
         "img": "http://image.banshujiang.cn/3855.jpeg?timestamp=1714474670269",
@@ -256,22 +277,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/360/webstorage_links/14237/to_link"
-            }
-        ]
-    },
-    {
-        "id": 49,
-        "title": "Beginning Perl",
-        "img": "https://imagebsj.netlify.app/49.jpeg",
-        "author": "Curtis “Ovid” Poe",
-        "language": "英文",
-        "publishYear": 2012,
-        "programLanguage": "Perl",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/49/webstorage_links/13615/to_link"
             }
         ]
     }

@@ -1,5 +1,47 @@
 [
     {
+        "id": 4060,
+        "title": "Microsoft SQL Server 2012 Internals",
+        "img": "http://image.banshujiang.cn/4060.jpeg?timestamp=1716702736467",
+        "author": "Kalen Delaney",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "SQL",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4060/webstorage_links/20384/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4060/webstorage_links/20383/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4043,
+        "title": "The Language of SQL 3rd Edition",
+        "img": "http://image.banshujiang.cn/4043.jpeg?timestamp=1716699621383",
+        "author": "Larry Rockoff",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "SQL",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4043/webstorage_links/20320/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4043/webstorage_links/20319/to_link"
+            }
+        ]
+    },
+    {
         "id": 3994,
         "title": "Analytics Engineering with SQL and dbt",
         "img": "http://image.banshujiang.cn/3994.jpeg?timestamp=1714645004437",
@@ -285,48 +327,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/2638/webstorage_links/9224/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2470,
-        "title": "SQL Cookbook 2nd Edition",
-        "img": "https://imagebsj.netlify.app/2470.jpeg",
-        "author": "Anthony Molinaro and Robert de Graaf",
-        "language": "英文",
-        "publishYear": 2020,
-        "programLanguage": "SQL",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2470/webstorage_links/15993/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2470/webstorage_links/15992/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2313,
-        "title": "SQL Queries for Mere Mortals 4th Edition",
-        "img": "https://imagebsj.netlify.app/2313.jpeg",
-        "author": "John L. Viescas",
-        "language": "英文",
-        "publishYear": 2018,
-        "programLanguage": "SQL",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2313/webstorage_links/15720/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2313/webstorage_links/15719/to_link"
             }
         ]
     }

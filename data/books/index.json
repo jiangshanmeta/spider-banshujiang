@@ -75020,5 +75020,415 @@
                 "link": "/e_books/4040/webstorage_links/20308/to_link"
             }
         ]
+    },
+    {
+        "id": 4041,
+        "title": "The Complete Developer",
+        "img": "http://image.banshujiang.cn/4041.jpeg?timestamp=1716698617444",
+        "author": "Martin Krause",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4041/webstorage_links/20312/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4041/webstorage_links/20311/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4042,
+        "title": "The Kubernetes Book 2024 Edition",
+        "img": "http://image.banshujiang.cn/4042.jpeg?timestamp=1716699547577",
+        "author": "Nigel Poulton",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4042/webstorage_links/20316/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4042/webstorage_links/20315/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4043,
+        "title": "The Language of SQL 3rd Edition",
+        "img": "http://image.banshujiang.cn/4043.jpeg?timestamp=1716699621383",
+        "author": "Larry Rockoff",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "SQL",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4043/webstorage_links/20320/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4043/webstorage_links/20319/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4044,
+        "title": "Understanding Software Dynamics",
+        "img": "http://image.banshujiang.cn/4044.jpeg?timestamp=1716699694349",
+        "author": "Richard L. Sites",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4044/webstorage_links/20324/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4044/webstorage_links/20323/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4045,
+        "title": "Windows Internals 7th Edition Part 2",
+        "img": "http://image.banshujiang.cn/4045.jpeg?timestamp=1716699810893",
+        "author": "Andrea Allievi, Alex Ionescu, Mark E. Russinovich and David A. Solomon",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4045/webstorage_links/20328/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4045/webstorage_links/20327/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4046,
+        "title": "Windows Security Internals",
+        "img": "http://image.banshujiang.cn/4046.jpeg?timestamp=1716699900712",
+        "author": "James Forshaw",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4046/webstorage_links/20330/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4047,
+        "title": "x86 Software ReverseEngineering, Cracking, and Counter-Measures",
+        "img": "http://image.banshujiang.cn/4047.jpeg?timestamp=1716699990893",
+        "author": "Stephanie Domas and Christopher Domas",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4047/webstorage_links/20334/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4047/webstorage_links/20333/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4048,
+        "title": "Ask, Measure, Learn",
+        "img": "http://image.banshujiang.cn/4048.jpeg?timestamp=1716700313655",
+        "author": "Lutz Finger and Soumitra Dutta",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4048/webstorage_links/20338/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4048/webstorage_links/20337/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4049,
+        "title": "Beginning NFC",
+        "img": "http://image.banshujiang.cn/4049.jpeg?timestamp=1716700421304",
+        "author": "Tom Igoe, Don Coleman, and Brian Jepson",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4049/webstorage_links/20342/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4049/webstorage_links/20341/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4050,
+        "title": "Building Minecraft Server Modifications",
+        "img": "http://image.banshujiang.cn/4050.jpeg?timestamp=1716700520174",
+        "author": "Cody M. Sommer",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4050/webstorage_links/20346/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4050/webstorage_links/20345/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4051,
+        "title": "Creating Dynamic UI with Android Fragments",
+        "img": "http://image.banshujiang.cn/4051.jpeg?timestamp=1716700883069",
+        "author": "Jim Wilson",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4051/webstorage_links/20350/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4051/webstorage_links/20349/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4052,
+        "title": "Getting Started with Magento Extension Development",
+        "img": "http://image.banshujiang.cn/4052.jpeg?timestamp=1716702864132",
+        "author": "Branko Ajzele",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4052/webstorage_links/20354/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4052/webstorage_links/20353/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4053,
+        "title": "Head First iPhone and iPad Development 3rd Edition",
+        "img": "http://image.banshujiang.cn/4053.jpeg?timestamp=1716701801839",
+        "author": "Tracey Pilone and Dan Pilone",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Objective-C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4053/webstorage_links/20358/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4053/webstorage_links/20357/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4054,
+        "title": "Hello World! 2nd Edition",
+        "img": "http://image.banshujiang.cn/4054.jpeg?timestamp=1716701957757",
+        "author": "Warren Sande and Carter Sande",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4054/webstorage_links/20362/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4054/webstorage_links/20361/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4055,
+        "title": "Learn Windows IIS in a Month of Lunches",
+        "img": "http://image.banshujiang.cn/4055.jpeg?timestamp=1716702089403",
+        "author": "Jason Helmick",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4055/webstorage_links/20364/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4056,
+        "title": "Make: AVR Programming",
+        "img": "http://image.banshujiang.cn/4056.jpeg?timestamp=1716702271084",
+        "author": "Elliot Williams",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4056/webstorage_links/20368/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4056/webstorage_links/20367/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4057,
+        "title": "Make: Ultimate Guide to 3D Printing 2014",
+        "img": "http://image.banshujiang.cn/4057.jpeg?timestamp=1716702454144",
+        "author": "",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4057/webstorage_links/20372/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4057/webstorage_links/20371/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4058,
+        "title": "Mastering Ninject for Dependency Injection",
+        "img": "http://image.banshujiang.cn/4058.jpeg?timestamp=1716702530501",
+        "author": "Daniel Baharestani",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4058/webstorage_links/20376/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4058/webstorage_links/20375/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4059,
+        "title": "Mastering Perl 2nd Edition",
+        "img": "http://image.banshujiang.cn/4059.jpeg?timestamp=1716702640438",
+        "author": "brian d foy",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Perl",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4059/webstorage_links/20380/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4059/webstorage_links/20379/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4060,
+        "title": "Microsoft SQL Server 2012 Internals",
+        "img": "http://image.banshujiang.cn/4060.jpeg?timestamp=1716702736467",
+        "author": "Kalen Delaney",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "SQL",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4060/webstorage_links/20384/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4060/webstorage_links/20383/to_link"
+            }
+        ]
     }
 ]

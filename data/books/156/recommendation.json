@@ -112,6 +112,43 @@
         ]
     },
     {
+        "id": 4046,
+        "title": "Windows Security Internals",
+        "img": "http://image.banshujiang.cn/4046.jpeg?timestamp=1716699900712",
+        "author": "James Forshaw",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4046/webstorage_links/20330/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4045,
+        "title": "Windows Internals 7th Edition Part 2",
+        "img": "http://image.banshujiang.cn/4045.jpeg?timestamp=1716699810893",
+        "author": "Andrea Allievi, Alex Ionescu, Mark E. Russinovich and David A. Solomon",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4045/webstorage_links/20328/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4045/webstorage_links/20327/to_link"
+            }
+        ]
+    },
+    {
         "id": 3978,
         "title": "Windows 11 for Enterprise Administrators 2nd Edition",
         "img": "http://image.banshujiang.cn/3978.jpeg?timestamp=1714641717225",
@@ -255,53 +292,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3697/webstorage_links/18972/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3635,
-        "title": "PowerShell in Depth",
-        "img": "http://image.banshujiang.cn/3635.jpeg?timestamp=1708776017693",
-        "author": "Don Jones",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "PowerShell",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3635/webstorage_links/18745/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3635/webstorage_links/18744/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3508,
-        "title": "Practical Automation with PowerShell",
-        "img": "http://image.banshujiang.cn/3508.jpeg?timestamp=1696688367329",
-        "author": "Matthew Dowst",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "PowerShell",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3508/webstorage_links/18301/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3508/webstorage_links/18299/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/3508/webstorage_links/18300/to_link"
             }
         ]
     }

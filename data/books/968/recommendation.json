@@ -1,5 +1,26 @@
 [
     {
+        "id": 4051,
+        "title": "Creating Dynamic UI with Android Fragments",
+        "img": "http://image.banshujiang.cn/4051.jpeg?timestamp=1716700883069",
+        "author": "Jim Wilson",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4051/webstorage_links/20350/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4051/webstorage_links/20349/to_link"
+            }
+        ]
+    },
+    {
         "id": 3845,
         "title": "Learning Android 2nd Edition",
         "img": "http://image.banshujiang.cn/3845.jpeg?timestamp=1713969354668",
@@ -326,32 +347,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/2132/webstorage_links/9409/to_link"
-            }
-        ]
-    },
-    {
-        "id": 1937,
-        "title": "Android High Performance Programming",
-        "img": "https://imagebsj.netlify.app/1937.jpeg",
-        "author": "Enrique López Mañas and Diego Grancini",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/1937/webstorage_links/11514/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/1937/webstorage_links/11515/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/1937/webstorage_links/11516/to_link"
             }
         ]
     }

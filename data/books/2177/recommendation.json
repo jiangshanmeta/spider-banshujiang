@@ -1,5 +1,26 @@
 [
     {
+        "id": 4051,
+        "title": "Creating Dynamic UI with Android Fragments",
+        "img": "http://image.banshujiang.cn/4051.jpeg?timestamp=1716700883069",
+        "author": "Jim Wilson",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4051/webstorage_links/20350/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4051/webstorage_links/20349/to_link"
+            }
+        ]
+    },
+    {
         "id": 3845,
         "title": "Learning Android 2nd Edition",
         "img": "http://image.banshujiang.cn/3845.jpeg?timestamp=1713969354668",
@@ -326,22 +347,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/1937/webstorage_links/11516/to_link"
-            }
-        ]
-    },
-    {
-        "id": 1781,
-        "title": "Migrating to Android for iOS Developers",
-        "img": "https://imagebsj.netlify.app/1781.jpeg",
-        "author": "Sean Liao",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/1781/webstorage_links/12274/to_link"
             }
         ]
     }
