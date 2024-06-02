@@ -112,6 +112,27 @@
         ]
     },
     {
+        "id": 4076,
+        "title": "Windows PowerShell Best Practices",
+        "img": "http://image.banshujiang.cn/4076.jpeg?timestamp=1717203660201",
+        "author": "Ed Wilson",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "PowerShell",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4076/webstorage_links/20446/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4076/webstorage_links/20445/to_link"
+            }
+        ]
+    },
+    {
         "id": 4046,
         "title": "Windows Security Internals",
         "img": "http://image.banshujiang.cn/4046.jpeg?timestamp=1716699900712",
@@ -271,27 +292,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3698/webstorage_links/18976/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3697,
-        "title": "Windows 8: the missing manual",
-        "img": "http://image.banshujiang.cn/3697.jpeg?timestamp=1711705000225",
-        "author": "David Pogue",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3697/webstorage_links/18973/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3697/webstorage_links/18972/to_link"
             }
         ]
     }

@@ -1,5 +1,42 @@
 [
     {
+        "id": 4078,
+        "title": "编写高质量代码：改善Python代码的91个建议",
+        "img": "http://image.banshujiang.cn/4078.jpeg?timestamp=1717204092516",
+        "author": "张颖 赖勇浩",
+        "language": "中文",
+        "publishYear": 2014,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4078/webstorage_links/20450/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4068,
+        "title": "Python Pocket Reference 5th Edition",
+        "img": "http://image.banshujiang.cn/4068.jpeg?timestamp=1717199493263",
+        "author": "Mark Lutz",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4068/webstorage_links/20414/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4068/webstorage_links/20413/to_link"
+            }
+        ]
+    },
+    {
         "id": 4034,
         "title": "Python Testing with pytest 2nd Edition",
         "img": "http://image.banshujiang.cn/4034.jpeg?timestamp=1715949725622",
@@ -290,48 +327,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3862/webstorage_links/19625/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3861,
-        "title": "Python and HDF5",
-        "img": "http://image.banshujiang.cn/3861.jpeg?timestamp=1714475539189",
-        "author": "Andrew Collette",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3861/webstorage_links/19622/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3861/webstorage_links/19621/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3807,
-        "title": "Building Machine Learning Systems with Python",
-        "img": "http://image.banshujiang.cn/3807.jpeg?timestamp=1712976198310",
-        "author": "Willi Richert and Luis Pedro Coelho",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3807/webstorage_links/19408/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3807/webstorage_links/19407/to_link"
             }
         ]
     }

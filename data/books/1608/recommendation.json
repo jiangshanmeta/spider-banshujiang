@@ -85,6 +85,48 @@
         ]
     },
     {
+        "id": 4082,
+        "title": "Clean Architecture with .NET",
+        "img": "http://image.banshujiang.cn/4082.jpeg?timestamp=1717238207513",
+        "author": "Dino Esposito",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4082/webstorage_links/20467/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4082/webstorage_links/20466/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4074,
+        "title": "The Art of Unit Testing with Examples in C# 2nd Edition",
+        "img": "http://image.banshujiang.cn/4074.jpeg?timestamp=1717203257243",
+        "author": "Roy Osherove",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4074/webstorage_links/20438/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4074/webstorage_links/20437/to_link"
+            }
+        ]
+    },
+    {
         "id": 4046,
         "title": "Windows Security Internals",
         "img": "http://image.banshujiang.cn/4046.jpeg?timestamp=1716699900712",
@@ -265,48 +307,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3897/webstorage_links/19765/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3896,
-        "title": "Visual Studio 2012 and .NET 4.5 Expert Development Cookbook",
-        "img": "http://image.banshujiang.cn/3896.jpeg?timestamp=1714483179836",
-        "author": "Abhishek Sur",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "C#",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3896/webstorage_links/19762/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3896/webstorage_links/19761/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3869,
-        "title": "Releasing HTML5 Games for Windows 8",
-        "img": "http://image.banshujiang.cn/3869.jpeg?timestamp=1714476497283",
-        "author": "Jesse Freeman",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "HTML5",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3869/webstorage_links/19654/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3869/webstorage_links/19653/to_link"
             }
         ]
     }

@@ -1,5 +1,47 @@
 [
     {
+        "id": 4082,
+        "title": "Clean Architecture with .NET",
+        "img": "http://image.banshujiang.cn/4082.jpeg?timestamp=1717238207513",
+        "author": "Dino Esposito",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4082/webstorage_links/20467/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4082/webstorage_links/20466/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4074,
+        "title": "The Art of Unit Testing with Examples in C# 2nd Edition",
+        "img": "http://image.banshujiang.cn/4074.jpeg?timestamp=1717203257243",
+        "author": "Roy Osherove",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4074/webstorage_links/20438/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4074/webstorage_links/20437/to_link"
+            }
+        ]
+    },
+    {
         "id": 3970,
         "title": "Essential C# 12.0",
         "img": "http://image.banshujiang.cn/3970.jpeg?timestamp=1714640723093",

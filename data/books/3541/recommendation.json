@@ -138,6 +138,85 @@
         ]
     },
     {
+        "id": 4078,
+        "title": "编写高质量代码：改善Python代码的91个建议",
+        "img": "http://image.banshujiang.cn/4078.jpeg?timestamp=1717204092516",
+        "author": "张颖 赖勇浩",
+        "language": "中文",
+        "publishYear": 2014,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4078/webstorage_links/20450/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4070,
+        "title": "RestKit for iOS",
+        "img": "http://image.banshujiang.cn/4070.jpeg?timestamp=1717202784731",
+        "author": "Taras Kalapun",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Objective-C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4070/webstorage_links/20422/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4070/webstorage_links/20421/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4068,
+        "title": "Python Pocket Reference 5th Edition",
+        "img": "http://image.banshujiang.cn/4068.jpeg?timestamp=1717199493263",
+        "author": "Mark Lutz",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4068/webstorage_links/20414/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4068/webstorage_links/20413/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4066,
+        "title": "Professional iOS Programming",
+        "img": "http://image.banshujiang.cn/4066.jpeg?timestamp=1717199305174",
+        "author": "Peter van de Put",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Objective-C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4066/webstorage_links/20406/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4066/webstorage_links/20405/to_link"
+            }
+        ]
+    },
+    {
         "id": 4053,
         "title": "Head First iPhone and iPad Development 3rd Edition",
         "img": "http://image.banshujiang.cn/4053.jpeg?timestamp=1716701801839",
@@ -218,90 +297,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4003/webstorage_links/20175/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4001,
-        "title": "Deep Learning for Finance",
-        "img": "http://image.banshujiang.cn/4001.jpeg?timestamp=1714913452504",
-        "author": "Sofien Kaabar",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4001/webstorage_links/20168/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4001/webstorage_links/20167/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3999,
-        "title": "Building Recommendation Systems in Python and JAX",
-        "img": "http://image.banshujiang.cn/3999.jpeg?timestamp=1714645337485",
-        "author": "Bryan Bischof and Hector Yee",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3999/webstorage_links/20160/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3999/webstorage_links/20159/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3993,
-        "title": "OpenAI GPT For Python Developers 2nd Edition",
-        "img": "http://image.banshujiang.cn/3993.jpeg?timestamp=1714644935614",
-        "author": "Aymen El Amri",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3993/webstorage_links/20136/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3993/webstorage_links/20135/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3968,
-        "title": "Django for Professionals",
-        "img": "http://image.banshujiang.cn/3968.jpeg?timestamp=1714640490799",
-        "author": "William S. Vincent",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3968/webstorage_links/20046/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3968/webstorage_links/20045/to_link"
             }
         ]
     }

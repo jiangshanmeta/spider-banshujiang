@@ -1,5 +1,94 @@
 [
     {
+        "id": 4081,
+        "title": "Advanced JavaScript Unleashed",
+        "img": "http://image.banshujiang.cn/4081.jpeg?timestamp=1717237829857",
+        "author": "Yousaf Khan",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4081/webstorage_links/20463/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4081/webstorage_links/20462/to_link"
+            },
+            {
+                "fmt": "CODE",
+                "title": "城通网盘",
+                "link": "/e_books/4081/webstorage_links/20461/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4070,
+        "title": "RestKit for iOS",
+        "img": "http://image.banshujiang.cn/4070.jpeg?timestamp=1717202784731",
+        "author": "Taras Kalapun",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Objective-C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4070/webstorage_links/20422/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4070/webstorage_links/20421/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4066,
+        "title": "Professional iOS Programming",
+        "img": "http://image.banshujiang.cn/4066.jpeg?timestamp=1717199305174",
+        "author": "Peter van de Put",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Objective-C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4066/webstorage_links/20406/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4066/webstorage_links/20405/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4061,
+        "title": "Node.js in Action",
+        "img": "http://image.banshujiang.cn/4061.jpeg?timestamp=1717197903058",
+        "author": "Mike Cantelon, Marc Harter, T.j. Holowaychuk and Nathan Rajlich",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4061/webstorage_links/20388/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4061/webstorage_links/20387/to_link"
+            }
+        ]
+    },
+    {
         "id": 4053,
         "title": "Head First iPhone and iPad Development 3rd Edition",
         "img": "http://image.banshujiang.cn/4053.jpeg?timestamp=1716701801839",
@@ -243,90 +332,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3852/webstorage_links/19585/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3851,
-        "title": "Node.js the Right Way",
-        "img": "http://image.banshujiang.cn/3851.jpeg?timestamp=1714473556620",
-        "author": "Jim R. Wilson",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3851/webstorage_links/19582/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3851/webstorage_links/19581/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3846,
-        "title": "Learning jQuery Deferreds",
-        "img": "http://image.banshujiang.cn/3846.jpeg?timestamp=1713969744697",
-        "author": "Terry Jones and Nicholas H. Tollervey",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3846/webstorage_links/19562/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3846/webstorage_links/19561/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3844,
-        "title": "jQuer y and JavaScript",
-        "img": "http://image.banshujiang.cn/3844.jpeg?timestamp=1713969251071",
-        "author": "Brad Dayley",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3844/webstorage_links/19554/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3844/webstorage_links/19553/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3843,
-        "title": "iPad the missing manual 6th Edition",
-        "img": "http://image.banshujiang.cn/3843.jpeg?timestamp=1713969065489",
-        "author": "J.D. Biersdorfer",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3843/webstorage_links/19550/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3843/webstorage_links/19549/to_link"
             }
         ]
     }

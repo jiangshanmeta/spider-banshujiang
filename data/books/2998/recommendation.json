@@ -1,5 +1,26 @@
 [
     {
+        "id": 4076,
+        "title": "Windows PowerShell Best Practices",
+        "img": "http://image.banshujiang.cn/4076.jpeg?timestamp=1717203660201",
+        "author": "Ed Wilson",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "PowerShell",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4076/webstorage_links/20446/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4076/webstorage_links/20445/to_link"
+            }
+        ]
+    },
+    {
         "id": 3790,
         "title": "PowerShell Deep Dives",
         "img": "https://imagebsj.netlify.app/3790.jpeg",
@@ -281,22 +302,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/156/webstorage_links/13829/to_link"
-            }
-        ]
-    },
-    {
-        "id": 155,
-        "title": "Windows PowerShell in Action 2nd Edition",
-        "img": "https://imagebsj.netlify.app/155.jpeg",
-        "author": "Bruce Payette",
-        "language": "英文",
-        "publishYear": 2011,
-        "programLanguage": "PowerShell",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/155/webstorage_links/13827/to_link"
             }
         ]
     }

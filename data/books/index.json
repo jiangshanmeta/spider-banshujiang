@@ -75430,5 +75430,447 @@
                 "link": "/e_books/4060/webstorage_links/20383/to_link"
             }
         ]
+    },
+    {
+        "id": 4061,
+        "title": "Node.js in Action",
+        "img": "http://image.banshujiang.cn/4061.jpeg?timestamp=1717197903058",
+        "author": "Mike Cantelon, Marc Harter, T.j. Holowaychuk and Nathan Rajlich",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4061/webstorage_links/20388/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4061/webstorage_links/20387/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4062,
+        "title": "Oracle PL/SQL Programming 6th Edition",
+        "img": "http://image.banshujiang.cn/4062.jpeg?timestamp=1717198252186",
+        "author": "Steven Feuerstein",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "SQL",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4062/webstorage_links/20392/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4062/webstorage_links/20391/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4063,
+        "title": "Professional Access 2013 Programming",
+        "img": "http://image.banshujiang.cn/4063.jpeg?timestamp=1717198403777",
+        "author": "Teresa Hennig, Ben Clothier, George Hepworth and Dagi (Doug) Yudovich",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4063/webstorage_links/20396/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4063/webstorage_links/20395/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4064,
+        "title": "说服力：工作型PPT该这样做",
+        "img": "http://image.banshujiang.cn/4064.jpeg?timestamp=1717199092307",
+        "author": "张志 刘俊 包翔",
+        "language": "中文",
+        "publishYear": 2020,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4064/webstorage_links/20398/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4065,
+        "title": "Professional Embedded Arm Development",
+        "img": "http://image.banshujiang.cn/4065.jpeg?timestamp=1717199202022",
+        "author": "James A. Langbridge",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4065/webstorage_links/20402/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4065/webstorage_links/20401/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4066,
+        "title": "Professional iOS Programming",
+        "img": "http://image.banshujiang.cn/4066.jpeg?timestamp=1717199305174",
+        "author": "Peter van de Put",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Objective-C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4066/webstorage_links/20406/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4066/webstorage_links/20405/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4067,
+        "title": "Programming Google Glass",
+        "img": "http://image.banshujiang.cn/4067.jpeg?timestamp=1717199405672",
+        "author": "Eric Redmond",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4067/webstorage_links/20410/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4067/webstorage_links/20409/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4068,
+        "title": "Python Pocket Reference 5th Edition",
+        "img": "http://image.banshujiang.cn/4068.jpeg?timestamp=1717199493263",
+        "author": "Mark Lutz",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4068/webstorage_links/20414/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4068/webstorage_links/20413/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4069,
+        "title": "Remote Pairing",
+        "img": "http://image.banshujiang.cn/4069.jpeg?timestamp=1717202719762",
+        "author": "Joe Kutner",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4069/webstorage_links/20418/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4069/webstorage_links/20417/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4070,
+        "title": "RestKit for iOS",
+        "img": "http://image.banshujiang.cn/4070.jpeg?timestamp=1717202784731",
+        "author": "Taras Kalapun",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Objective-C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4070/webstorage_links/20422/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4070/webstorage_links/20421/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4071,
+        "title": "Seven Web Frameworks in Seven Weeks",
+        "img": "http://image.banshujiang.cn/4071.jpeg?timestamp=1717202902937",
+        "author": "Jack Moffitt and Fred Daoud",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4071/webstorage_links/20426/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4071/webstorage_links/20425/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4072,
+        "title": "SonarQube in Action",
+        "img": "http://image.banshujiang.cn/4072.jpeg?timestamp=1717203040912",
+        "author": "G. Ann Campbell and Patroklos P. Papapetrou",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4072/webstorage_links/20430/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4072/webstorage_links/20429/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4073,
+        "title": "Switching to the Mac the missing manual Mavericks Edition",
+        "img": "http://image.banshujiang.cn/4073.jpeg?timestamp=1717203179825",
+        "author": "David Pogue",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4073/webstorage_links/20434/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4073/webstorage_links/20433/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4074,
+        "title": "The Art of Unit Testing with Examples in C# 2nd Edition",
+        "img": "http://image.banshujiang.cn/4074.jpeg?timestamp=1717203257243",
+        "author": "Roy Osherove",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4074/webstorage_links/20438/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4074/webstorage_links/20437/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4075,
+        "title": "Web Development with Clojure",
+        "img": "http://image.banshujiang.cn/4075.jpeg?timestamp=1717203513986",
+        "author": "Dmitri Sotnikov",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4075/webstorage_links/20442/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4075/webstorage_links/20441/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4076,
+        "title": "Windows PowerShell Best Practices",
+        "img": "http://image.banshujiang.cn/4076.jpeg?timestamp=1717203660201",
+        "author": "Ed Wilson",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "PowerShell",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4076/webstorage_links/20446/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4076/webstorage_links/20445/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4077,
+        "title": "写给大家的AI极简史",
+        "img": "http://image.banshujiang.cn/4077.jpeg?timestamp=1717203928055",
+        "author": "[德]托马斯拉姆齐 [译]林若轩",
+        "language": "中文",
+        "publishYear": 2019,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4077/webstorage_links/20448/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4078,
+        "title": "编写高质量代码：改善Python代码的91个建议",
+        "img": "http://image.banshujiang.cn/4078.jpeg?timestamp=1717204092516",
+        "author": "张颖 赖勇浩",
+        "language": "中文",
+        "publishYear": 2014,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4078/webstorage_links/20450/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4079,
+        "title": "人人都是数据分析师 Tableau应用实战",
+        "img": "http://image.banshujiang.cn/4079.jpeg?timestamp=1717204247206",
+        "author": "刘红阁 王淑娟 温融冰",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4079/webstorage_links/20452/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4080,
+        "title": "图说区块链",
+        "img": "http://image.banshujiang.cn/4080.jpeg?timestamp=1717204444921",
+        "author": "徐明星 田颖 李霁月",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4080/webstorage_links/20454/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4081,
+        "title": "Advanced JavaScript Unleashed",
+        "img": "http://image.banshujiang.cn/4081.jpeg?timestamp=1717237829857",
+        "author": "Yousaf Khan",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4081/webstorage_links/20463/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4081/webstorage_links/20462/to_link"
+            },
+            {
+                "fmt": "CODE",
+                "title": "城通网盘",
+                "link": "/e_books/4081/webstorage_links/20461/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4082,
+        "title": "Clean Architecture with .NET",
+        "img": "http://image.banshujiang.cn/4082.jpeg?timestamp=1717238207513",
+        "author": "Dino Esposito",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4082/webstorage_links/20467/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4082/webstorage_links/20466/to_link"
+            }
+        ]
     }
 ]

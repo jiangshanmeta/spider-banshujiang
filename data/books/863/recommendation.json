@@ -16,6 +16,48 @@
         ]
     },
     {
+        "id": 4070,
+        "title": "RestKit for iOS",
+        "img": "http://image.banshujiang.cn/4070.jpeg?timestamp=1717202784731",
+        "author": "Taras Kalapun",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Objective-C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4070/webstorage_links/20422/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4070/webstorage_links/20421/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4066,
+        "title": "Professional iOS Programming",
+        "img": "http://image.banshujiang.cn/4066.jpeg?timestamp=1717199305174",
+        "author": "Peter van de Put",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Objective-C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4066/webstorage_links/20406/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4066/webstorage_links/20405/to_link"
+            }
+        ]
+    },
+    {
         "id": 4053,
         "title": "Head First iPhone and iPad Development 3rd Edition",
         "img": "http://image.banshujiang.cn/4053.jpeg?timestamp=1716701801839",
@@ -285,48 +327,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3764/webstorage_links/19238/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3761,
-        "title": "iPhone The Missing Manual 7th Edition",
-        "img": "https://imagebsj.netlify.app/3761.jpeg",
-        "author": "David Pogue",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3761/webstorage_links/19227/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3761/webstorage_links/19226/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3760,
-        "title": "HTML5 Web Application Development By Example Beginner&#39;s guide",
-        "img": "http://image.banshujiang.cn/3760.jpeg?timestamp=1712400094484",
-        "author": "J.M. Gustafson",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "HTML5",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3760/webstorage_links/19223/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3760/webstorage_links/19222/to_link"
             }
         ]
     }

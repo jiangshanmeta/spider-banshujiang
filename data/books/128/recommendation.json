@@ -208,6 +208,53 @@
         ]
     },
     {
+        "id": 4081,
+        "title": "Advanced JavaScript Unleashed",
+        "img": "http://image.banshujiang.cn/4081.jpeg?timestamp=1717237829857",
+        "author": "Yousaf Khan",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4081/webstorage_links/20463/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4081/webstorage_links/20462/to_link"
+            },
+            {
+                "fmt": "CODE",
+                "title": "城通网盘",
+                "link": "/e_books/4081/webstorage_links/20461/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4061,
+        "title": "Node.js in Action",
+        "img": "http://image.banshujiang.cn/4061.jpeg?timestamp=1717197903058",
+        "author": "Mike Cantelon, Marc Harter, T.j. Holowaychuk and Nathan Rajlich",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4061/webstorage_links/20388/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4061/webstorage_links/20387/to_link"
+            }
+        ]
+    },
+    {
         "id": 4029,
         "title": "Mastering MongoDB 7.0",
         "img": "http://image.banshujiang.cn/4029.jpeg?timestamp=1715948936009",
@@ -225,48 +272,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4029/webstorage_links/20271/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4013,
-        "title": "The Art of Unit Testing 3rd Edition",
-        "img": "http://image.banshujiang.cn/4013.jpeg?timestamp=1715523558170",
-        "author": "Roy Osherove",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4013/webstorage_links/20212/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4013/webstorage_links/20211/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4002,
-        "title": "Fluent React",
-        "img": "http://image.banshujiang.cn/4002.jpeg?timestamp=1714913571465",
-        "author": "Tejas Kumar",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4002/webstorage_links/20172/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4002/webstorage_links/20171/to_link"
             }
         ]
     }

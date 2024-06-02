@@ -85,6 +85,48 @@
         ]
     },
     {
+        "id": 4070,
+        "title": "RestKit for iOS",
+        "img": "http://image.banshujiang.cn/4070.jpeg?timestamp=1717202784731",
+        "author": "Taras Kalapun",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Objective-C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4070/webstorage_links/20422/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4070/webstorage_links/20421/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4066,
+        "title": "Professional iOS Programming",
+        "img": "http://image.banshujiang.cn/4066.jpeg?timestamp=1717199305174",
+        "author": "Peter van de Put",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Objective-C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4066/webstorage_links/20406/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4066/webstorage_links/20405/to_link"
+            }
+        ]
+    },
+    {
         "id": 4053,
         "title": "Head First iPhone and iPad Development 3rd Edition",
         "img": "http://image.banshujiang.cn/4053.jpeg?timestamp=1716701801839",
@@ -265,38 +307,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/3406/webstorage_links/17799/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2907,
-        "title": "Catalyst by Tutorials 3rd Edition",
-        "img": "https://imagebsj.netlify.app/2907.jpeg",
-        "author": "Marin Benčević, Nick Bonatsakis &amp; Andy Pereira",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2907/webstorage_links/10657/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2239,
-        "title": "iOS Animations by Tutorials 4th Edition",
-        "img": "https://imagebsj.netlify.app/2239.jpeg",
-        "author": "Marin Todorov",
-        "language": "英文",
-        "publishYear": 2017,
-        "programLanguage": "Objective-C",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2239/webstorage_links/15604/to_link"
             }
         ]
     }

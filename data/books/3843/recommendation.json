@@ -1,5 +1,47 @@
 [
     {
+        "id": 4070,
+        "title": "RestKit for iOS",
+        "img": "http://image.banshujiang.cn/4070.jpeg?timestamp=1717202784731",
+        "author": "Taras Kalapun",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Objective-C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4070/webstorage_links/20422/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4070/webstorage_links/20421/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4066,
+        "title": "Professional iOS Programming",
+        "img": "http://image.banshujiang.cn/4066.jpeg?timestamp=1717199305174",
+        "author": "Peter van de Put",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Objective-C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4066/webstorage_links/20406/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4066/webstorage_links/20405/to_link"
+            }
+        ]
+    },
+    {
         "id": 4053,
         "title": "Head First iPhone and iPad Development 3rd Edition",
         "img": "http://image.banshujiang.cn/4053.jpeg?timestamp=1716701801839",
@@ -290,43 +332,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3500/webstorage_links/18262/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3482,
-        "title": "iOS 16 App Development Essentials UIKit Edition",
-        "img": "http://image.banshujiang.cn/3482.jpeg?timestamp=1696510994983",
-        "author": "",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3482/webstorage_links/18186/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3482/webstorage_links/18187/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3476,
-        "title": "Swift Apprentice",
-        "img": "http://image.banshujiang.cn/3476.jpeg?timestamp=1696506533400",
-        "author": "Janie Clayton",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3476/webstorage_links/18159/to_link"
             }
         ]
     }
