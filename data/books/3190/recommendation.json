@@ -1,5 +1,26 @@
 [
     {
+        "id": 4109,
+        "title": "Elixir in Action 3rd Edition",
+        "img": "http://image.banshujiang.cn/4109.jpeg?timestamp=1717683929135",
+        "author": "Saša Jurić",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Elixir",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4109/webstorage_links/20563/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4109/webstorage_links/20562/to_link"
+            }
+        ]
+    },
+    {
         "id": 2245,
         "title": "Elixir in Action 2nd Edition",
         "img": "https://imagebsj.netlify.app/2245.jpeg",

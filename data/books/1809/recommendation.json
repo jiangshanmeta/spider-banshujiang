@@ -48,6 +48,27 @@
         ]
     },
     {
+        "id": 4107,
+        "title": "100 Java Mistakes and How to Avoid Them",
+        "img": "http://image.banshujiang.cn/4107.jpeg?timestamp=1717683733968",
+        "author": "Tagir Valeev",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4107/webstorage_links/20557/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4107/webstorage_links/20556/to_link"
+            }
+        ]
+    },
+    {
         "id": 4051,
         "title": "Creating Dynamic UI with Android Fragments",
         "img": "http://image.banshujiang.cn/4051.jpeg?timestamp=1716700883069",
@@ -296,27 +317,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3762/webstorage_links/19230/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3741,
-        "title": "Android Native Development Kit Cookbook",
-        "img": "http://image.banshujiang.cn/3741.jpeg?timestamp=1712268168171",
-        "author": "Feipeng Liu",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3741/webstorage_links/19149/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3741/webstorage_links/19148/to_link"
             }
         ]
     }

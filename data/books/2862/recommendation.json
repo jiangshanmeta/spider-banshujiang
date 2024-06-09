@@ -42,6 +42,27 @@
         ]
     },
     {
+        "id": 4089,
+        "title": "MySQL Crash Course 2nd Edition",
+        "img": "http://image.banshujiang.cn/4089.jpeg?timestamp=1717323802145",
+        "author": "Ben Forta",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4089/webstorage_links/20493/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4089/webstorage_links/20492/to_link"
+            }
+        ]
+    },
+    {
         "id": 4062,
         "title": "Oracle PL/SQL Programming 6th Edition",
         "img": "http://image.banshujiang.cn/4062.jpeg?timestamp=1717198252186",
@@ -311,22 +332,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/2987/webstorage_links/11028/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2857,
-        "title": "Practical SQL 2nd Edition",
-        "img": "https://imagebsj.netlify.app/2857.jpeg",
-        "author": "Anthony DeBarros",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "SQL",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2857/webstorage_links/10465/to_link"
             }
         ]
     }

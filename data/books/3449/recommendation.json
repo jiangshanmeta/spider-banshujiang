@@ -1,5 +1,21 @@
 [
     {
+        "id": 4098,
+        "title": "Linux Pocket Guide 4th Edition",
+        "img": "http://image.banshujiang.cn/4098.jpeg?timestamp=1717330352996",
+        "author": "Daniel J. Barrett",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4098/webstorage_links/20521/to_link"
+            }
+        ]
+    },
+    {
         "id": 3956,
         "title": "iOS 17 Programming for Beginners 8th Edition",
         "img": "http://image.banshujiang.cn/3956.jpeg?timestamp=1714638839904",
@@ -311,22 +327,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3405/webstorage_links/17797/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3395,
-        "title": "iOS 10 Swift Programming Cookbook",
-        "img": "http://image.banshujiang.cn/3395.jpeg?timestamp=1677326118624",
-        "author": "Vandad Nahavandipoor",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3395/webstorage_links/17757/to_link"
             }
         ]
     }

@@ -112,6 +112,27 @@
         ]
     },
     {
+        "id": 4088,
+        "title": "Learn PowerShell Scripting in a Month of Lunches 2nd Edition",
+        "img": "http://image.banshujiang.cn/4088.jpeg?timestamp=1717323640688",
+        "author": "James Petty, Don Jones, and Jeffery Hicks",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "PowerShell",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4088/webstorage_links/20489/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4088/webstorage_links/20488/to_link"
+            }
+        ]
+    },
+    {
         "id": 4076,
         "title": "Windows PowerShell Best Practices",
         "img": "http://image.banshujiang.cn/4076.jpeg?timestamp=1717203660201",
@@ -271,27 +292,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3790/webstorage_links/19342/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3698,
-        "title": "Windows Store App Development",
-        "img": "http://image.banshujiang.cn/3698.jpeg?timestamp=1711705068633",
-        "author": "Pete Brown",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "C#",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3698/webstorage_links/18977/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3698/webstorage_links/18976/to_link"
             }
         ]
     }

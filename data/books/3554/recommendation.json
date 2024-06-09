@@ -1,5 +1,26 @@
 [
     {
+        "id": 4091,
+        "title": "Effective Rust",
+        "img": "http://image.banshujiang.cn/4091.jpeg?timestamp=1717329166519",
+        "author": "David Drysdale",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Rust",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4091/webstorage_links/20501/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4091/webstorage_links/20500/to_link"
+            }
+        ]
+    },
+    {
         "id": 4011,
         "title": "Learn Rust in a Month of Lunches",
         "img": "http://image.banshujiang.cn/4011.jpeg?timestamp=1715523366998",

@@ -1,5 +1,26 @@
 [
     {
+        "id": 4089,
+        "title": "MySQL Crash Course 2nd Edition",
+        "img": "http://image.banshujiang.cn/4089.jpeg?timestamp=1717323802145",
+        "author": "Ben Forta",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4089/webstorage_links/20493/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4089/webstorage_links/20492/to_link"
+            }
+        ]
+    },
+    {
         "id": 3754,
         "title": "Expert PHP and MySQL",
         "img": "http://image.banshujiang.cn/3754.jpeg?timestamp=1712399645821",
@@ -266,22 +287,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/1265/webstorage_links/13040/to_link"
-            }
-        ]
-    },
-    {
-        "id": 959,
-        "title": "Instant InnoDB",
-        "img": "https://imagebsj.netlify.app/959.jpeg",
-        "author": "Matt Reid",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/959/webstorage_links/15432/to_link"
             }
         ]
     }

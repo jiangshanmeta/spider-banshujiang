@@ -138,6 +138,48 @@
         ]
     },
     {
+        "id": 4105,
+        "title": "Learn Python The Hard Way 5th Edition",
+        "img": "http://image.banshujiang.cn/4105.jpeg?timestamp=1717517186496",
+        "author": "Zed A. Shaw",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4105/webstorage_links/20549/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4105/webstorage_links/20548/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4103,
+        "title": "Learn Enough Python To Be Dangerous",
+        "img": "http://image.banshujiang.cn/4103.jpeg?timestamp=1717517029441",
+        "author": "Michael Hartl",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4103/webstorage_links/20541/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4103/webstorage_links/20540/to_link"
+            }
+        ]
+    },
+    {
         "id": 4078,
         "title": "编写高质量代码：改善Python代码的91个建议",
         "img": "http://image.banshujiang.cn/4078.jpeg?timestamp=1717204092516",
@@ -255,48 +297,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4034/webstorage_links/20291/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4027,
-        "title": "Bayesian Analysis with Python 3rd Edition",
-        "img": "http://image.banshujiang.cn/4027.jpeg?timestamp=1715948787258",
-        "author": "Osvaldo Martin",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4027/webstorage_links/20264/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4027/webstorage_links/20263/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4003,
-        "title": "Hands-On Entity Resolution",
-        "img": "http://image.banshujiang.cn/4003.jpeg?timestamp=1714913915403",
-        "author": "Michael Shearer",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4003/webstorage_links/20176/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4003/webstorage_links/20175/to_link"
             }
         ]
     }

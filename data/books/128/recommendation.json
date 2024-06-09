@@ -208,6 +208,27 @@
         ]
     },
     {
+        "id": 4102,
+        "title": "Learn Enough Javascript To Be Dangerous",
+        "img": "http://image.banshujiang.cn/4102.jpeg?timestamp=1717516943398",
+        "author": "Michael Hartl",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4102/webstorage_links/20537/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4102/webstorage_links/20536/to_link"
+            }
+        ]
+    },
+    {
         "id": 4081,
         "title": "Advanced JavaScript Unleashed",
         "img": "http://image.banshujiang.cn/4081.jpeg?timestamp=1717237829857",
@@ -251,27 +272,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4061/webstorage_links/20387/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4029,
-        "title": "Mastering MongoDB 7.0",
-        "img": "http://image.banshujiang.cn/4029.jpeg?timestamp=1715948936009",
-        "author": "Marko Aleksendrić",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4029/webstorage_links/20272/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4029/webstorage_links/20271/to_link"
             }
         ]
     }

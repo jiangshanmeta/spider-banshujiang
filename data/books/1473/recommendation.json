@@ -1,5 +1,26 @@
 [
     {
+        "id": 4107,
+        "title": "100 Java Mistakes and How to Avoid Them",
+        "img": "http://image.banshujiang.cn/4107.jpeg?timestamp=1717683733968",
+        "author": "Tagir Valeev",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4107/webstorage_links/20557/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4107/webstorage_links/20556/to_link"
+            }
+        ]
+    },
+    {
         "id": 4062,
         "title": "Oracle PL/SQL Programming 6th Edition",
         "img": "http://image.banshujiang.cn/4062.jpeg?timestamp=1717198252186",
@@ -311,27 +332,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3762/webstorage_links/19230/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3753,
-        "title": "Expert Oracle RAC 12c",
-        "img": "http://image.banshujiang.cn/3753.jpeg?timestamp=1712398588551",
-        "author": "Syed Jaffar Hussain",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3753/webstorage_links/19195/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3753/webstorage_links/19194/to_link"
             }
         ]
     }

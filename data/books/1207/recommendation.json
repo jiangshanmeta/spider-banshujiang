@@ -85,6 +85,27 @@
         ]
     },
     {
+        "id": 4104,
+        "title": "Learn Enough Ruby To Be Dangerous",
+        "img": "http://image.banshujiang.cn/4104.jpeg?timestamp=1717517100941",
+        "author": "Michael Hartl",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "Ruby",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4104/webstorage_links/20545/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4104/webstorage_links/20544/to_link"
+            }
+        ]
+    },
+    {
         "id": 4036,
         "title": "Ruby on Rails Tutorial 7th Edition",
         "img": "http://image.banshujiang.cn/4036.jpeg?timestamp=1715950043170",
@@ -291,27 +312,6 @@
                 "fmt": "AZW3",
                 "title": "城通网盘",
                 "link": "/e_books/2233/webstorage_links/15591/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2228,
-        "title": "The Well-Grounded Rubyist 2nd Edition",
-        "img": "https://imagebsj.netlify.app/2228.jpeg",
-        "author": "David A. Black",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Ruby",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2228/webstorage_links/15581/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2228/webstorage_links/15580/to_link"
             }
         ]
     }

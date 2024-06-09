@@ -1,5 +1,26 @@
 [
     {
+        "id": 4104,
+        "title": "Learn Enough Ruby To Be Dangerous",
+        "img": "http://image.banshujiang.cn/4104.jpeg?timestamp=1717517100941",
+        "author": "Michael Hartl",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "Ruby",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4104/webstorage_links/20545/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4104/webstorage_links/20544/to_link"
+            }
+        ]
+    },
+    {
         "id": 3744,
         "title": "BeginningRails 4 3rd Edition",
         "img": "http://image.banshujiang.cn/3744.jpeg?timestamp=1712323977169",
@@ -296,22 +317,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/1890/webstorage_links/11884/to_link"
-            }
-        ]
-    },
-    {
-        "id": 1871,
-        "title": "Professional Ruby on Rails",
-        "img": "https://imagebsj.netlify.app/1871.jpeg",
-        "author": "Noel Rappin",
-        "language": "英文",
-        "publishYear": 2008,
-        "programLanguage": "Ruby",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/1871/webstorage_links/11842/to_link"
             }
         ]
     }

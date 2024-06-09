@@ -1,5 +1,21 @@
 [
     {
+        "id": 4098,
+        "title": "Linux Pocket Guide 4th Edition",
+        "img": "http://image.banshujiang.cn/4098.jpeg?timestamp=1717330352996",
+        "author": "Daniel J. Barrett",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4098/webstorage_links/20521/to_link"
+            }
+        ]
+    },
+    {
         "id": 3704,
         "title": "CentOS 6 Linux Server Cookbook",
         "img": "http://image.banshujiang.cn/3704.jpeg?timestamp=1711717531983",
@@ -336,22 +352,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/2520/webstorage_links/8792/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2409,
-        "title": "Bite Size Linux",
-        "img": "https://imagebsj.netlify.app/2409.jpeg",
-        "author": "Julia Evans",
-        "language": "英文",
-        "publishYear": 2021,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2409/webstorage_links/15881/to_link"
             }
         ]
     }

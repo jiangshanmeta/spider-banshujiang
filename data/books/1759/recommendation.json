@@ -1,5 +1,26 @@
 [
     {
+        "id": 4102,
+        "title": "Learn Enough Javascript To Be Dangerous",
+        "img": "http://image.banshujiang.cn/4102.jpeg?timestamp=1717516943398",
+        "author": "Michael Hartl",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4102/webstorage_links/20537/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4102/webstorage_links/20536/to_link"
+            }
+        ]
+    },
+    {
         "id": 4081,
         "title": "Advanced JavaScript Unleashed",
         "img": "http://image.banshujiang.cn/4081.jpeg?timestamp=1717237829857",
@@ -311,27 +332,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3853/webstorage_links/19589/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3852,
-        "title": "Node Web Development 2nd Edition",
-        "img": "http://image.banshujiang.cn/3852.jpeg?timestamp=1714473716008",
-        "author": "David Herron",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3852/webstorage_links/19586/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3852/webstorage_links/19585/to_link"
             }
         ]
     }

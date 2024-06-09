@@ -1,5 +1,26 @@
 [
     {
+        "id": 4104,
+        "title": "Learn Enough Ruby To Be Dangerous",
+        "img": "http://image.banshujiang.cn/4104.jpeg?timestamp=1717517100941",
+        "author": "Michael Hartl",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "Ruby",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4104/webstorage_links/20545/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4104/webstorage_links/20544/to_link"
+            }
+        ]
+    },
+    {
         "id": 4036,
         "title": "Ruby on Rails Tutorial 7th Edition",
         "img": "http://image.banshujiang.cn/4036.jpeg?timestamp=1715950043170",
