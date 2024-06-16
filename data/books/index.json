@@ -76425,5 +76425,339 @@
                 "link": "/e_books/4110/webstorage_links/20565/to_link"
             }
         ]
+    },
+    {
+        "id": 4111,
+        "title": "Inside AI",
+        "img": "http://image.banshujiang.cn/4111.jpeg?timestamp=1718111284114",
+        "author": "Akli Adjaoute",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4111/webstorage_links/20569/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4111/webstorage_links/20568/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4112,
+        "title": "Kafka Streams in Action 2nd Edition",
+        "img": "http://image.banshujiang.cn/4112.jpeg?timestamp=1718111360701",
+        "author": "Bill Bejeck",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4112/webstorage_links/20571/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4113,
+        "title": "Math and Architectures of Deep Learning",
+        "img": "http://image.banshujiang.cn/4113.jpeg?timestamp=1718111458437",
+        "author": "Krishnendu Chaudhury",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4113/webstorage_links/20575/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4113/webstorage_links/20574/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4114,
+        "title": ".NET in Action 2nd Edition",
+        "img": "http://image.banshujiang.cn/4114.jpeg?timestamp=1718111531642",
+        "author": "Dustin Metzgar",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4114/webstorage_links/20577/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4115,
+        "title": "Pandas Workout",
+        "img": "http://image.banshujiang.cn/4115.jpeg?timestamp=1718111602632",
+        "author": "Reuven M. Lerner",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4115/webstorage_links/20579/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4116,
+        "title": "LeetCode 101: 和你一起你轻松刷题(C++) v1.04",
+        "img": "http://image.banshujiang.cn/4116.jpeg?timestamp=1718112256209",
+        "author": "高畅",
+        "language": "中文",
+        "publishYear": 2024,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4116/webstorage_links/20581/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4117,
+        "title": "Spring Security in Action 2nd Edition",
+        "img": "http://image.banshujiang.cn/4117.jpeg?timestamp=1718112512783",
+        "author": "Laurențiu Spilcă",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4117/webstorage_links/20583/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4118,
+        "title": "Neural Networks and Deep Learning 2nd Edition",
+        "img": "http://image.banshujiang.cn/4118.jpeg?timestamp=1718112929395",
+        "author": "Charu C. Aggarwal",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4118/webstorage_links/20587/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4118/webstorage_links/20586/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4119,
+        "title": "Adversary Emulation with MITRE ATT&amp;CK",
+        "img": "http://image.banshujiang.cn/4119.jpeg?timestamp=1718113005512",
+        "author": "Drinor Selmanaj",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4119/webstorage_links/20589/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4120,
+        "title": "Apache Iceberg: The Definitive Guide",
+        "img": "http://image.banshujiang.cn/4120.jpeg?timestamp=1718113062122",
+        "author": "Tomer Shiran, Jason Hughes, and Alex Merced",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4120/webstorage_links/20591/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4121,
+        "title": "Building Multi-Tenant SaaS Architectures",
+        "img": "http://image.banshujiang.cn/4121.jpeg?timestamp=1718201061467",
+        "author": "Tod Golding",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4121/webstorage_links/20595/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4121/webstorage_links/20594/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4122,
+        "title": "Effective TypeScript 2nd Edition",
+        "img": "http://image.banshujiang.cn/4122.jpeg?timestamp=1718201151852",
+        "author": "Dan Vanderkam",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "TypeScript",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4122/webstorage_links/20597/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4123,
+        "title": "Excel Cookbook",
+        "img": "http://image.banshujiang.cn/4123.jpeg?timestamp=1718201250241",
+        "author": "Dawn Griffiths",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4123/webstorage_links/20599/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4124,
+        "title": "Learning DevSecOps",
+        "img": "http://image.banshujiang.cn/4124.jpeg?timestamp=1718443411948",
+        "author": "Steve Suehring",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4124/webstorage_links/20601/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4125,
+        "title": "Linkerd: Up and Running",
+        "img": "http://image.banshujiang.cn/4125.jpeg?timestamp=1718443588538",
+        "author": "Jason Morgan and Flynn",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4125/webstorage_links/20605/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4125/webstorage_links/20604/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4126,
+        "title": "Modern Data Analytics in Excel",
+        "img": "http://image.banshujiang.cn/4126.jpeg?timestamp=1718443703260",
+        "author": "George Mount",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4126/webstorage_links/20607/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4127,
+        "title": "Predictive Analytics for the Modern Enterprise",
+        "img": "http://image.banshujiang.cn/4127.jpeg?timestamp=1718443852945",
+        "author": "Nooruddin Abbas Ali",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4127/webstorage_links/20609/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4128,
+        "title": "Software Engineering for Data Scientists",
+        "img": "http://image.banshujiang.cn/4128.jpeg?timestamp=1718457247479",
+        "author": "Catherine Nelson",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4128/webstorage_links/20613/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4128/webstorage_links/20612/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4129,
+        "title": "Statistical Tableau",
+        "img": "http://image.banshujiang.cn/4129.jpeg?timestamp=1718457475309",
+        "author": "Ethan Lang",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4129/webstorage_links/20615/to_link"
+            }
+        ]
     }
 ]

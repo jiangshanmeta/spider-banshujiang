@@ -1,5 +1,21 @@
 [
     {
+        "id": 4117,
+        "title": "Spring Security in Action 2nd Edition",
+        "img": "http://image.banshujiang.cn/4117.jpeg?timestamp=1718112512783",
+        "author": "Laurențiu Spilcă",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4117/webstorage_links/20583/to_link"
+            }
+        ]
+    },
+    {
         "id": 4107,
         "title": "100 Java Mistakes and How to Avoid Them",
         "img": "http://image.banshujiang.cn/4107.jpeg?timestamp=1717683733968",

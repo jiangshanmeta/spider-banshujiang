@@ -1,5 +1,21 @@
 [
     {
+        "id": 4114,
+        "title": ".NET in Action 2nd Edition",
+        "img": "http://image.banshujiang.cn/4114.jpeg?timestamp=1718111531642",
+        "author": "Dustin Metzgar",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4114/webstorage_links/20577/to_link"
+            }
+        ]
+    },
+    {
         "id": 4082,
         "title": "Clean Architecture with .NET",
         "img": "http://image.banshujiang.cn/4082.jpeg?timestamp=1717238207513",
@@ -311,22 +327,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3815/webstorage_links/19439/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3801,
-        "title": ".NET 4.5 Parallel Extensions Cookbook",
-        "img": "http://image.banshujiang.cn/3801.jpeg?timestamp=1712975169894",
-        "author": "Bryan Freeman",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "C#",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3801/webstorage_links/19384/to_link"
             }
         ]
     }

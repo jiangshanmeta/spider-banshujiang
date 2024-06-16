@@ -1,5 +1,21 @@
 [
     {
+        "id": 4122,
+        "title": "Effective TypeScript 2nd Edition",
+        "img": "http://image.banshujiang.cn/4122.jpeg?timestamp=1718201151852",
+        "author": "Dan Vanderkam",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "TypeScript",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4122/webstorage_links/20597/to_link"
+            }
+        ]
+    },
+    {
         "id": 4017,
         "title": "Learning Vue",
         "img": "http://image.banshujiang.cn/4017.jpeg?timestamp=1715523859398",
