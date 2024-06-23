@@ -1,5 +1,26 @@
 [
     {
+        "id": 4136,
+        "title": "SwiftUI Apprentice 2nd Edition",
+        "img": "http://image.banshujiang.cn/4136.jpeg?timestamp=1718463868851",
+        "author": "Audrey Tam and Caroline Begbie",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4136/webstorage_links/20641/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4136/webstorage_links/20640/to_link"
+            }
+        ]
+    },
+    {
         "id": 4098,
         "title": "Linux Pocket Guide 4th Edition",
         "img": "http://image.banshujiang.cn/4098.jpeg?timestamp=1717330352996",
@@ -306,27 +327,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3416/webstorage_links/17843/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3405,
-        "title": "Learning Swift 2nd Edition",
-        "img": "http://image.banshujiang.cn/3405.jpeg?timestamp=1681021583194",
-        "author": "Jon Manning, Paris Buttfield-Addison, and Tim Nugent",
-        "language": "英文",
-        "publishYear": 2017,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3405/webstorage_links/17796/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3405/webstorage_links/17797/to_link"
             }
         ]
     }

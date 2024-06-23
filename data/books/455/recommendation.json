@@ -16,6 +16,95 @@
         ]
     },
     {
+        "id": 4168,
+        "title": "Data Push Apps with HTML5 SSE",
+        "img": "http://image.banshujiang.cn/4168.jpeg?timestamp=1718515981742",
+        "author": "Darren Cook",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "HTML5",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4168/webstorage_links/20789/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4168/webstorage_links/20788/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4154,
+        "title": "Android Design Patterns",
+        "img": "http://image.banshujiang.cn/4154.jpeg?timestamp=1718512995424",
+        "author": "Greg Nudelman",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4154/webstorage_links/20713/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4154/webstorage_links/20712/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4143,
+        "title": "Android Studio Application Development",
+        "img": "http://image.banshujiang.cn/4143.jpeg?timestamp=1718465257484",
+        "author": "Belén Cruz Zapata",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4143/webstorage_links/20671/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4143/webstorage_links/20670/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4142,
+        "title": "Android Programming: Pushing the Limits",
+        "img": "http://image.banshujiang.cn/4142.jpeg?timestamp=1718464918303",
+        "author": "Erik Hellman",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4142/webstorage_links/20667/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4142/webstorage_links/20665/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4142/webstorage_links/20666/to_link"
+            }
+        ]
+    },
+    {
         "id": 4051,
         "title": "Creating Dynamic UI with Android Fragments",
         "img": "http://image.banshujiang.cn/4051.jpeg?timestamp=1716700883069",
@@ -243,90 +332,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3804/webstorage_links/19395/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3781,
-        "title": "OpenGL ES 2 for Android",
-        "img": "https://imagebsj.netlify.app/3781.jpeg",
-        "author": "Kevin Brothaler",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3781/webstorage_links/19307/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3781/webstorage_links/19306/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3764,
-        "title": "Learn HTML5 by Creating Fun Games",
-        "img": "https://imagebsj.netlify.app/3764.jpeg",
-        "author": "Rodrigo Silveira",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "HTML5",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3764/webstorage_links/19239/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3764/webstorage_links/19238/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3760,
-        "title": "HTML5 Web Application Development By Example Beginner&#39;s guide",
-        "img": "http://image.banshujiang.cn/3760.jpeg?timestamp=1712400094484",
-        "author": "J.M. Gustafson",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "HTML5",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3760/webstorage_links/19223/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3760/webstorage_links/19222/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3743,
-        "title": "Beginning Android C++ Game Development",
-        "img": "http://image.banshujiang.cn/3743.jpeg?timestamp=1712322658824",
-        "author": "Bruce Sutherland",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "C++",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3743/webstorage_links/19157/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3743/webstorage_links/19156/to_link"
             }
         ]
     }

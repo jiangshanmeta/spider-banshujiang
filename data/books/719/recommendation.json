@@ -143,6 +143,48 @@
         ]
     },
     {
+        "id": 4159,
+        "title": "Beginning iOS Programming",
+        "img": "http://image.banshujiang.cn/4159.jpeg?timestamp=1718514031016",
+        "author": "Nick Harris",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Objective-C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4159/webstorage_links/20741/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4159/webstorage_links/20740/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4136,
+        "title": "SwiftUI Apprentice 2nd Edition",
+        "img": "http://image.banshujiang.cn/4136.jpeg?timestamp=1718463868851",
+        "author": "Audrey Tam and Caroline Begbie",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4136/webstorage_links/20641/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4136/webstorage_links/20640/to_link"
+            }
+        ]
+    },
+    {
         "id": 4070,
         "title": "RestKit for iOS",
         "img": "http://image.banshujiang.cn/4070.jpeg?timestamp=1717202784731",
@@ -265,48 +307,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3860/webstorage_links/19617/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3859,
-        "title": "Programming in Objective-C 6th Edition",
-        "img": "http://image.banshujiang.cn/3859.jpeg?timestamp=1714475329685",
-        "author": "Stephen G. Kochan",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "Objective-C",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3859/webstorage_links/19614/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3859/webstorage_links/19613/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3854,
-        "title": "OS X Mavericks the missing manual",
-        "img": "http://image.banshujiang.cn/3854.jpeg?timestamp=1714474146905",
-        "author": "David Pogue",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3854/webstorage_links/19594/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3854/webstorage_links/19593/to_link"
             }
         ]
     }

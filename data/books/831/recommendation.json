@@ -1,5 +1,47 @@
 [
     {
+        "id": 4159,
+        "title": "Beginning iOS Programming",
+        "img": "http://image.banshujiang.cn/4159.jpeg?timestamp=1718514031016",
+        "author": "Nick Harris",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Objective-C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4159/webstorage_links/20741/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4159/webstorage_links/20740/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4136,
+        "title": "SwiftUI Apprentice 2nd Edition",
+        "img": "http://image.banshujiang.cn/4136.jpeg?timestamp=1718463868851",
+        "author": "Audrey Tam and Caroline Begbie",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4136/webstorage_links/20641/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4136/webstorage_links/20640/to_link"
+            }
+        ]
+    },
+    {
         "id": 4114,
         "title": ".NET in Action 2nd Edition",
         "img": "http://image.banshujiang.cn/4114.jpeg?timestamp=1718111531642",
@@ -285,48 +327,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3860/webstorage_links/19617/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3843,
-        "title": "iPad the missing manual 6th Edition",
-        "img": "http://image.banshujiang.cn/3843.jpeg?timestamp=1713969065489",
-        "author": "J.D. Biersdorfer",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3843/webstorage_links/19550/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3843/webstorage_links/19549/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3815,
-        "title": "iOS 7 Programming Fundamentals",
-        "img": "http://image.banshujiang.cn/3815.jpeg?timestamp=1712977153520",
-        "author": "Matt Neuburg",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "Objective-C",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3815/webstorage_links/19440/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3815/webstorage_links/19439/to_link"
             }
         ]
     }

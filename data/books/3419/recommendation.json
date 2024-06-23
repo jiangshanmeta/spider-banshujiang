@@ -1,5 +1,47 @@
 [
     {
+        "id": 4160,
+        "title": "Big Data Analytics with R and Hadoop",
+        "img": "http://image.banshujiang.cn/4160.jpeg?timestamp=1718514105526",
+        "author": "Vignesh Prajapati",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4160/webstorage_links/20747/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4160/webstorage_links/20745/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4160/webstorage_links/20746/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4135,
+        "title": "R for The Rest of Us: a Statistics-free Introduction",
+        "img": "http://image.banshujiang.cn/4135.jpeg?timestamp=1718463688525",
+        "author": "David Keyes",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4135/webstorage_links/20637/to_link"
+            }
+        ]
+    },
+    {
         "id": 3958,
         "title": "Machine Learning with R 4th Edition",
         "img": "http://image.banshujiang.cn/3958.jpeg?timestamp=1714638980386",
@@ -295,53 +337,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/3022/webstorage_links/16116/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3010,
-        "title": "The R Book 3rd Edition",
-        "img": "https://imagebsj.netlify.app/3010.jpeg",
-        "author": "Elinor Jones, Simon Harden and Michael J. Crawley",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "R",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3010/webstorage_links/16076/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3010/webstorage_links/16077/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2990,
-        "title": "Tidy Modeling with R",
-        "img": "https://imagebsj.netlify.app/2990.jpeg",
-        "author": "Max Kuhn and Julia Silge",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "R",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2990/webstorage_links/11043/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2990/webstorage_links/11041/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/2990/webstorage_links/11042/to_link"
             }
         ]
     }

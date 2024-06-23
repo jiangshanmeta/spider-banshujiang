@@ -138,6 +138,69 @@
         ]
     },
     {
+        "id": 4159,
+        "title": "Beginning iOS Programming",
+        "img": "http://image.banshujiang.cn/4159.jpeg?timestamp=1718514031016",
+        "author": "Nick Harris",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Objective-C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4159/webstorage_links/20741/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4159/webstorage_links/20740/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4136,
+        "title": "SwiftUI Apprentice 2nd Edition",
+        "img": "http://image.banshujiang.cn/4136.jpeg?timestamp=1718463868851",
+        "author": "Audrey Tam and Caroline Begbie",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4136/webstorage_links/20641/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4136/webstorage_links/20640/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4130,
+        "title": "Web Scraping with Python 3rd Edition",
+        "img": "http://image.banshujiang.cn/4130.jpeg?timestamp=1718457543723",
+        "author": "Ryan Mitchell",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4130/webstorage_links/20619/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4130/webstorage_links/20618/to_link"
+            }
+        ]
+    },
+    {
         "id": 4105,
         "title": "Learn Python The Hard Way 5th Edition",
         "img": "http://image.banshujiang.cn/4105.jpeg?timestamp=1717517186496",
@@ -234,69 +297,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4068/webstorage_links/20413/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4066,
-        "title": "Professional iOS Programming",
-        "img": "http://image.banshujiang.cn/4066.jpeg?timestamp=1717199305174",
-        "author": "Peter van de Put",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "Objective-C",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4066/webstorage_links/20406/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4066/webstorage_links/20405/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4053,
-        "title": "Head First iPhone and iPad Development 3rd Edition",
-        "img": "http://image.banshujiang.cn/4053.jpeg?timestamp=1716701801839",
-        "author": "Tracey Pilone and Dan Pilone",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "Objective-C",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4053/webstorage_links/20358/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4053/webstorage_links/20357/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4034,
-        "title": "Python Testing with pytest 2nd Edition",
-        "img": "http://image.banshujiang.cn/4034.jpeg?timestamp=1715949725622",
-        "author": "Brian Okken",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4034/webstorage_links/20292/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4034/webstorage_links/20291/to_link"
             }
         ]
     }

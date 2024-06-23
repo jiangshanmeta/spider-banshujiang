@@ -1,5 +1,73 @@
 [
     {
+        "id": 4154,
+        "title": "Android Design Patterns",
+        "img": "http://image.banshujiang.cn/4154.jpeg?timestamp=1718512995424",
+        "author": "Greg Nudelman",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4154/webstorage_links/20713/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4154/webstorage_links/20712/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4143,
+        "title": "Android Studio Application Development",
+        "img": "http://image.banshujiang.cn/4143.jpeg?timestamp=1718465257484",
+        "author": "Belén Cruz Zapata",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4143/webstorage_links/20671/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4143/webstorage_links/20670/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4142,
+        "title": "Android Programming: Pushing the Limits",
+        "img": "http://image.banshujiang.cn/4142.jpeg?timestamp=1718464918303",
+        "author": "Erik Hellman",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4142/webstorage_links/20667/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4142/webstorage_links/20665/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4142/webstorage_links/20666/to_link"
+            }
+        ]
+    },
+    {
         "id": 4051,
         "title": "Creating Dynamic UI with Android Fragments",
         "img": "http://image.banshujiang.cn/4051.jpeg?timestamp=1716700883069",

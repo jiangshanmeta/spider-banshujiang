@@ -165,6 +165,32 @@
         ]
     },
     {
+        "id": 4161,
+        "title": "Building Web Apps with WordPress",
+        "img": "http://image.banshujiang.cn/4161.jpeg?timestamp=1718515346829",
+        "author": "Brian Messenlehner and Jason Coleman",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "PHP",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4161/webstorage_links/20753/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4161/webstorage_links/20751/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4161/webstorage_links/20752/to_link"
+            }
+        ]
+    },
+    {
         "id": 4089,
         "title": "MySQL Crash Course 2nd Edition",
         "img": "http://image.banshujiang.cn/4089.jpeg?timestamp=1717323802145",
@@ -261,27 +287,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3598/webstorage_links/18619/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3470,
-        "title": "PHP for the Web 5th Edition",
-        "img": "http://image.banshujiang.cn/3470.jpeg?timestamp=1696339491171",
-        "author": "Larry Ullman",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "PHP",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3470/webstorage_links/18128/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3470/webstorage_links/18129/to_link"
             }
         ]
     }

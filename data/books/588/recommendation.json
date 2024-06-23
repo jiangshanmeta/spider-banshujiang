@@ -1,5 +1,31 @@
 [
     {
+        "id": 4164,
+        "title": "CoffeeScript in Action",
+        "img": "http://image.banshujiang.cn/4164.jpeg?timestamp=1718515670589",
+        "author": "Patrick Lee",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "CoffeeScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4164/webstorage_links/20769/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4164/webstorage_links/20767/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4164/webstorage_links/20768/to_link"
+            }
+        ]
+    },
+    {
         "id": 1136,
         "title": "CoffeeScript Programming with jQuery, Rails, and Node.js",
         "img": "https://imagebsj.netlify.app/1136.jpeg",

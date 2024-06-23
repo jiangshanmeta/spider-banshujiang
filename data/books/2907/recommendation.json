@@ -21,6 +21,27 @@
         ]
     },
     {
+        "id": 4136,
+        "title": "SwiftUI Apprentice 2nd Edition",
+        "img": "http://image.banshujiang.cn/4136.jpeg?timestamp=1718463868851",
+        "author": "Audrey Tam and Caroline Begbie",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4136/webstorage_links/20641/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4136/webstorage_links/20640/to_link"
+            }
+        ]
+    },
+    {
         "id": 3908,
         "title": "iOS 17 App Development Essentials",
         "img": "http://image.banshujiang.cn/3908.jpeg?timestamp=1714570396489",
@@ -306,27 +327,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3371/webstorage_links/17663/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3367,
-        "title": "iOS 10 by Tutorials",
-        "img": "http://image.banshujiang.cn/3367.jpeg?timestamp=1677297178073",
-        "author": "Sam Davies, Jeff Rames, &amp; Rich Turton",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3367/webstorage_links/17626/to_link"
-            },
-            {
-                "fmt": "CODE",
-                "title": "城通网盘",
-                "link": "/e_books/3367/webstorage_links/17627/to_link"
             }
         ]
     }

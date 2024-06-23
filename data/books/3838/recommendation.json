@@ -1,5 +1,115 @@
 [
     {
+        "id": 4169,
+        "title": "Data Structures and Algorithms with JavaScript",
+        "img": "http://image.banshujiang.cn/4169.jpeg?timestamp=1718516059416",
+        "author": "Michael McMillan",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4169/webstorage_links/20793/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4169/webstorage_links/20792/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4162,
+        "title": "Client-Server Web Apps with JavaScript and Java",
+        "img": "http://image.banshujiang.cn/4162.jpeg?timestamp=1718515538068",
+        "author": "Casimir Saternos",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4162/webstorage_links/20759/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4162/webstorage_links/20757/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4162/webstorage_links/20758/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4147,
+        "title": "Data Visualization with D3.js Cookbook",
+        "img": "http://image.banshujiang.cn/4147.jpeg?timestamp=1718508849939",
+        "author": "Nick Qi Zhu",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4147/webstorage_links/20687/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4147/webstorage_links/20686/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4146,
+        "title": "Data Visualization with d3.js",
+        "img": "http://image.banshujiang.cn/4146.jpeg?timestamp=1718506164439",
+        "author": "Swizec Teller",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4146/webstorage_links/20683/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4146/webstorage_links/20682/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4139,
+        "title": "The Road to React The React.js in JavaScript Book (2024 Edition)",
+        "img": "http://image.banshujiang.cn/4139.jpeg?timestamp=1718464258928",
+        "author": "Robin Wieruch",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4139/webstorage_links/20651/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4139/webstorage_links/20650/to_link"
+            }
+        ]
+    },
+    {
         "id": 4102,
         "title": "Learn Enough Javascript To Be Dangerous",
         "img": "http://image.banshujiang.cn/4102.jpeg?timestamp=1717516943398",
@@ -227,111 +337,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3852/webstorage_links/19585/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3851,
-        "title": "Node.js the Right Way",
-        "img": "http://image.banshujiang.cn/3851.jpeg?timestamp=1714473556620",
-        "author": "Jim R. Wilson",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3851/webstorage_links/19582/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3851/webstorage_links/19581/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3846,
-        "title": "Learning jQuery Deferreds",
-        "img": "http://image.banshujiang.cn/3846.jpeg?timestamp=1713969744697",
-        "author": "Terry Jones and Nicholas H. Tollervey",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3846/webstorage_links/19562/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3846/webstorage_links/19561/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3844,
-        "title": "jQuer y and JavaScript",
-        "img": "http://image.banshujiang.cn/3844.jpeg?timestamp=1713969251071",
-        "author": "Brad Dayley",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3844/webstorage_links/19554/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3844/webstorage_links/19553/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3835,
-        "title": "Effective JavaScript",
-        "img": "http://image.banshujiang.cn/3835.jpeg?timestamp=1713635890150",
-        "author": "David Herman",
-        "language": "英文",
-        "publishYear": 2012,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3835/webstorage_links/19520/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3835/webstorage_links/19519/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3825,
-        "title": "Backbone.js Cookbook",
-        "img": "http://image.banshujiang.cn/3825.jpeg?timestamp=1713613960883",
-        "author": "Vadim Mirgorod",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3825/webstorage_links/19480/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3825/webstorage_links/19479/to_link"
             }
         ]
     }

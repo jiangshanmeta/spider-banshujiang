@@ -16,6 +16,27 @@
         ]
     },
     {
+        "id": 4130,
+        "title": "Web Scraping with Python 3rd Edition",
+        "img": "http://image.banshujiang.cn/4130.jpeg?timestamp=1718457543723",
+        "author": "Ryan Mitchell",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4130/webstorage_links/20619/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4130/webstorage_links/20618/to_link"
+            }
+        ]
+    },
+    {
         "id": 4105,
         "title": "Learn Python The Hard Way 5th Edition",
         "img": "http://image.banshujiang.cn/4105.jpeg?timestamp=1717517186496",
@@ -301,27 +322,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3936/webstorage_links/19923/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3917,
-        "title": "Learn AI-Assisted Python Programming",
-        "img": "http://image.banshujiang.cn/3917.jpeg?timestamp=1714571230615",
-        "author": "Leo Porter and Daniel Zingaro",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3917/webstorage_links/19850/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3917/webstorage_links/19849/to_link"
             }
         ]
     }

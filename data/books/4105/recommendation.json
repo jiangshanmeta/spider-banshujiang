@@ -1,5 +1,26 @@
 [
     {
+        "id": 4130,
+        "title": "Web Scraping with Python 3rd Edition",
+        "img": "http://image.banshujiang.cn/4130.jpeg?timestamp=1718457543723",
+        "author": "Ryan Mitchell",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4130/webstorage_links/20619/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4130/webstorage_links/20618/to_link"
+            }
+        ]
+    },
+    {
         "id": 4103,
         "title": "Learn Enough Python To Be Dangerous",
         "img": "http://image.banshujiang.cn/4103.jpeg?timestamp=1717517029441",
@@ -306,27 +327,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3862/webstorage_links/19625/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3861,
-        "title": "Python and HDF5",
-        "img": "http://image.banshujiang.cn/3861.jpeg?timestamp=1714475539189",
-        "author": "Andrew Collette",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3861/webstorage_links/19622/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3861/webstorage_links/19621/to_link"
             }
         ]
     }

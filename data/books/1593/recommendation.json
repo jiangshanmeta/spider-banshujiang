@@ -208,57 +208,57 @@
         ]
     },
     {
-        "id": 4102,
-        "title": "Learn Enough Javascript To Be Dangerous",
-        "img": "http://image.banshujiang.cn/4102.jpeg?timestamp=1717516943398",
-        "author": "Michael Hartl",
+        "id": 4169,
+        "title": "Data Structures and Algorithms with JavaScript",
+        "img": "http://image.banshujiang.cn/4169.jpeg?timestamp=1718516059416",
+        "author": "Michael McMillan",
         "language": "英文",
-        "publishYear": 2022,
+        "publishYear": 2014,
         "programLanguage": "JavaScript",
         "formats": [
             {
                 "fmt": "PDF",
                 "title": "城通网盘",
-                "link": "/e_books/4102/webstorage_links/20537/to_link"
+                "link": "/e_books/4169/webstorage_links/20793/to_link"
             },
             {
                 "fmt": "EPUB",
                 "title": "城通网盘",
-                "link": "/e_books/4102/webstorage_links/20536/to_link"
+                "link": "/e_books/4169/webstorage_links/20792/to_link"
             }
         ]
     },
     {
-        "id": 4081,
-        "title": "Advanced JavaScript Unleashed",
-        "img": "http://image.banshujiang.cn/4081.jpeg?timestamp=1717237829857",
-        "author": "Yousaf Khan",
+        "id": 4162,
+        "title": "Client-Server Web Apps with JavaScript and Java",
+        "img": "http://image.banshujiang.cn/4162.jpeg?timestamp=1718515538068",
+        "author": "Casimir Saternos",
         "language": "英文",
-        "publishYear": 2024,
+        "publishYear": 2014,
         "programLanguage": "JavaScript",
         "formats": [
             {
                 "fmt": "PDF",
                 "title": "城通网盘",
-                "link": "/e_books/4081/webstorage_links/20463/to_link"
+                "link": "/e_books/4162/webstorage_links/20759/to_link"
             },
             {
                 "fmt": "EPUB",
                 "title": "城通网盘",
-                "link": "/e_books/4081/webstorage_links/20462/to_link"
+                "link": "/e_books/4162/webstorage_links/20757/to_link"
             },
             {
-                "fmt": "CODE",
+                "fmt": "MOBI",
                 "title": "城通网盘",
-                "link": "/e_books/4081/webstorage_links/20461/to_link"
+                "link": "/e_books/4162/webstorage_links/20758/to_link"
             }
         ]
     },
     {
-        "id": 4061,
-        "title": "Node.js in Action",
-        "img": "http://image.banshujiang.cn/4061.jpeg?timestamp=1717197903058",
-        "author": "Mike Cantelon, Marc Harter, T.j. Holowaychuk and Nathan Rajlich",
+        "id": 4147,
+        "title": "Data Visualization with D3.js Cookbook",
+        "img": "http://image.banshujiang.cn/4147.jpeg?timestamp=1718508849939",
+        "author": "Nick Qi Zhu",
         "language": "英文",
         "publishYear": 2013,
         "programLanguage": "JavaScript",
@@ -266,12 +266,12 @@
             {
                 "fmt": "PDF",
                 "title": "城通网盘",
-                "link": "/e_books/4061/webstorage_links/20388/to_link"
+                "link": "/e_books/4147/webstorage_links/20687/to_link"
             },
             {
                 "fmt": "EPUB",
                 "title": "城通网盘",
-                "link": "/e_books/4061/webstorage_links/20387/to_link"
+                "link": "/e_books/4147/webstorage_links/20686/to_link"
             }
         ]
     }

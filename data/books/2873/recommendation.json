@@ -1,5 +1,26 @@
 [
     {
+        "id": 4153,
+        "title": "Learning Apache Karaf",
+        "img": "http://image.banshujiang.cn/4153.jpeg?timestamp=1718512427443",
+        "author": "Johan Edstrom, Jamie Goodyear and Heath Kesler",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4153/webstorage_links/20709/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4153/webstorage_links/20708/to_link"
+            }
+        ]
+    },
+    {
         "id": 3158,
         "title": "Programmer’s Guide to Apache Thrift",
         "img": "http://image.banshujiang.cn/3158.jpeg?timestamp=1668844081680",
@@ -271,22 +292,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/1210/webstorage_links/12933/to_link"
-            }
-        ]
-    },
-    {
-        "id": 273,
-        "title": "ActiveMQ in Action",
-        "img": "https://imagebsj.netlify.app/273.jpeg",
-        "author": "Bruce Snyder, Dejan Bosanac and Rob Davies",
-        "language": "英文",
-        "publishYear": 2011,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/273/webstorage_links/14063/to_link"
             }
         ]
     }

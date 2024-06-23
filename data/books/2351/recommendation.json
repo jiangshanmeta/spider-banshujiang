@@ -1,5 +1,26 @@
 [
     {
+        "id": 4168,
+        "title": "Data Push Apps with HTML5 SSE",
+        "img": "http://image.banshujiang.cn/4168.jpeg?timestamp=1718515981742",
+        "author": "Darren Cook",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "HTML5",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4168/webstorage_links/20789/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4168/webstorage_links/20788/to_link"
+            }
+        ]
+    },
+    {
         "id": 3869,
         "title": "Releasing HTML5 Games for Windows 8",
         "img": "http://image.banshujiang.cn/3869.jpeg?timestamp=1714476497283",
@@ -311,22 +332,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/1596/webstorage_links/12508/to_link"
-            }
-        ]
-    },
-    {
-        "id": 1595,
-        "title": "HTML5 Canvas 游戏开发实战",
-        "img": "https://imagebsj.netlify.app/1595.jpeg",
-        "author": "张路斌",
-        "language": "中文",
-        "publishYear": 2013,
-        "programLanguage": "HTML5",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/1595/webstorage_links/12506/to_link"
             }
         ]
     }

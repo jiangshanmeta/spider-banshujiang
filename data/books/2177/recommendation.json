@@ -1,5 +1,73 @@
 [
     {
+        "id": 4154,
+        "title": "Android Design Patterns",
+        "img": "http://image.banshujiang.cn/4154.jpeg?timestamp=1718512995424",
+        "author": "Greg Nudelman",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4154/webstorage_links/20713/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4154/webstorage_links/20712/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4143,
+        "title": "Android Studio Application Development",
+        "img": "http://image.banshujiang.cn/4143.jpeg?timestamp=1718465257484",
+        "author": "Belén Cruz Zapata",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4143/webstorage_links/20671/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4143/webstorage_links/20670/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4142,
+        "title": "Android Programming: Pushing the Limits",
+        "img": "http://image.banshujiang.cn/4142.jpeg?timestamp=1718464918303",
+        "author": "Erik Hellman",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4142/webstorage_links/20667/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4142/webstorage_links/20665/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4142/webstorage_links/20666/to_link"
+            }
+        ]
+    },
+    {
         "id": 4051,
         "title": "Creating Dynamic UI with Android Fragments",
         "img": "http://image.banshujiang.cn/4051.jpeg?timestamp=1716700883069",
@@ -274,79 +342,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/2178/webstorage_links/9347/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2176,
-        "title": "Android’s Architecture Components",
-        "img": "https://imagebsj.netlify.app/2176.jpeg",
-        "author": "Mark L. Murphy",
-        "language": "英文",
-        "publishYear": 2019,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2176/webstorage_links/7619/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2176/webstorage_links/9353/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/2176/webstorage_links/9352/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2132,
-        "title": "The Busy Coder&#39;s Guide to Android Development",
-        "img": "https://imagebsj.netlify.app/2132.jpeg",
-        "author": "Mark L. Murphy",
-        "language": "英文",
-        "publishYear": 2018,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2132/webstorage_links/8269/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2132/webstorage_links/9409/to_link"
-            }
-        ]
-    },
-    {
-        "id": 1937,
-        "title": "Android High Performance Programming",
-        "img": "https://imagebsj.netlify.app/1937.jpeg",
-        "author": "Enrique López Mañas and Diego Grancini",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/1937/webstorage_links/11514/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/1937/webstorage_links/11515/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/1937/webstorage_links/11516/to_link"
             }
         ]
     }
