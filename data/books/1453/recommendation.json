@@ -21,6 +21,53 @@
         ]
     },
     {
+        "id": 4177,
+        "title": "C陷阱与缺陷",
+        "img": "http://image.banshujiang.cn/4177.jpeg?timestamp=1718526225173",
+        "author": "[美]凯尼格 [译]高巍",
+        "language": "中文",
+        "publishYear": 2008,
+        "programLanguage": "C",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4177/webstorage_links/20832/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4177/webstorage_links/20833/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4176,
+        "title": "C Primer Plus（第6版）",
+        "img": "http://image.banshujiang.cn/4176.jpeg?timestamp=1718525899536",
+        "author": "[美]Stephen Prata [译]姜佑",
+        "language": "中文",
+        "publishYear": 2016,
+        "programLanguage": "C",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4176/webstorage_links/20828/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4176/webstorage_links/20829/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4176/webstorage_links/20827/to_link"
+            }
+        ]
+    },
+    {
         "id": 3826,
         "title": "C Primer Plus 6th Edition",
         "img": "http://image.banshujiang.cn/3826.jpeg?timestamp=1713614036367",
@@ -275,38 +322,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/1917/webstorage_links/11456/to_link"
-            }
-        ]
-    },
-    {
-        "id": 1697,
-        "title": "The C Programming Language 2nd Edition",
-        "img": "https://imagebsj.netlify.app/1697.jpeg",
-        "author": "Brian W. Kernighan and Dennis M. Ritchie",
-        "language": "英文",
-        "publishYear": 1988,
-        "programLanguage": "C",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/1697/webstorage_links/12100/to_link"
-            }
-        ]
-    },
-    {
-        "id": 1642,
-        "title": "Computational Finance Using C and C#",
-        "img": "https://imagebsj.netlify.app/1642.jpeg",
-        "author": "George Levy",
-        "language": "英文",
-        "publishYear": 2008,
-        "programLanguage": "C",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/1642/webstorage_links/11988/to_link"
             }
         ]
     }

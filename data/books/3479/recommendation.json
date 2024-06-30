@@ -1,5 +1,21 @@
 [
     {
+        "id": 4197,
+        "title": "Learning the bash Shell 3rd Edition",
+        "img": "http://image.banshujiang.cn/4197.jpeg?timestamp=1718626825516",
+        "author": "Cameron Newham and Bill Rosenblatt",
+        "language": "英文",
+        "publishYear": 2005,
+        "programLanguage": "Shell Script",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4197/webstorage_links/20939/to_link"
+            }
+        ]
+    },
+    {
         "id": 3169,
         "title": "bash Cookbook 2nd Edition",
         "img": "http://image.banshujiang.cn/3169.jpeg?timestamp=1670941526048",

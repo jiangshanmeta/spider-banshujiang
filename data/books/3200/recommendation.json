@@ -1,5 +1,52 @@
 [
     {
+        "id": 4199,
+        "title": "Machine Learning with R",
+        "img": "http://image.banshujiang.cn/4199.jpeg?timestamp=1718626986663",
+        "author": "Brett Lantz",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4199/webstorage_links/20947/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4199/webstorage_links/20946/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4180,
+        "title": "Introduction to R for Quantitative Finance",
+        "img": "http://image.banshujiang.cn/4180.jpeg?timestamp=1718526700730",
+        "author": "Gergely Daróczi等",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4180/webstorage_links/20851/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4180/webstorage_links/20849/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4180/webstorage_links/20850/to_link"
+            }
+        ]
+    },
+    {
         "id": 4160,
         "title": "Big Data Analytics with R and Hadoop",
         "img": "http://image.banshujiang.cn/4160.jpeg?timestamp=1718514105526",
@@ -290,48 +337,6 @@
                 "fmt": "AZW3",
                 "title": "城通网盘",
                 "link": "/e_books/3226/webstorage_links/17040/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3156,
-        "title": "Practical Data Science with R 2nd Edition",
-        "img": "http://image.banshujiang.cn/3156.jpeg?timestamp=1668843910137",
-        "author": "Nina Zumel and John Mount",
-        "language": "英文",
-        "publishYear": 2019,
-        "programLanguage": "R",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3156/webstorage_links/16724/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3022,
-        "title": "Machine Learning with R, the tidyverse, and mlr",
-        "img": "https://imagebsj.netlify.app/3022.jpeg",
-        "author": "Hefin I. Rhys",
-        "language": "英文",
-        "publishYear": 2020,
-        "programLanguage": "R",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3022/webstorage_links/16117/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3022/webstorage_links/16115/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/3022/webstorage_links/16116/to_link"
             }
         ]
     }

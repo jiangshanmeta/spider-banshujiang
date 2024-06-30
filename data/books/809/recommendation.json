@@ -16,6 +16,74 @@
         ]
     },
     {
+        "id": 4195,
+        "title": "Learning Cocoa with Objective-C 4th Edition",
+        "img": "http://image.banshujiang.cn/4195.jpeg?timestamp=1718626689060",
+        "author": "Jon Manning, Paris Buttfield-Addison and Tim Nugent",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Objective-C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4195/webstorage_links/20933/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4195/webstorage_links/20932/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4181,
+        "title": "iOS Game Development Cookbook",
+        "img": "http://image.banshujiang.cn/4181.jpeg?timestamp=1718526992312",
+        "author": "Jonathon Manning and Paris Buttfield-Addison",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Objective-C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4181/webstorage_links/20857/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4181/webstorage_links/20855/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4181/webstorage_links/20856/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4175,
+        "title": "HTML5 in Action",
+        "img": "http://image.banshujiang.cn/4175.jpeg?timestamp=1718525334777",
+        "author": "Rob Crowther, Joe Lennon, Ash Blue and Greg Wanish",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "HTML5",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4175/webstorage_links/20823/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4175/webstorage_links/20822/to_link"
+            }
+        ]
+    },
+    {
         "id": 4168,
         "title": "Data Push Apps with HTML5 SSE",
         "img": "http://image.banshujiang.cn/4168.jpeg?timestamp=1718515981742",
@@ -264,69 +332,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3843/webstorage_links/19549/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3841,
-        "title": "HTML5 the missing manual 2nd Edition",
-        "img": "http://image.banshujiang.cn/3841.jpeg?timestamp=1713968869460",
-        "author": "Matthew MacDonald",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "HTML5",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3841/webstorage_links/19542/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3841/webstorage_links/19541/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3833,
-        "title": "Developing Windows Store Apps with HTML5 and JavaScript",
-        "img": "http://image.banshujiang.cn/3833.jpeg?timestamp=1713692825107",
-        "author": "Rami Sarieddine",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "HTML5",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3833/webstorage_links/19512/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3833/webstorage_links/19511/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3815,
-        "title": "iOS 7 Programming Fundamentals",
-        "img": "http://image.banshujiang.cn/3815.jpeg?timestamp=1712977153520",
-        "author": "Matt Neuburg",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "Objective-C",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3815/webstorage_links/19440/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3815/webstorage_links/19439/to_link"
             }
         ]
     }

@@ -1,5 +1,73 @@
 [
     {
+        "id": 4206,
+        "title": "Angular JS权威教程",
+        "img": "http://image.banshujiang.cn/4206.jpeg?timestamp=1718630636349",
+        "author": "[美]Ari Lerner [译]赵望野、徐飞、何鹏飞",
+        "language": "中文",
+        "publishYear": 2014,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4206/webstorage_links/20983/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4187,
+        "title": "JavaScript Programming",
+        "img": "http://image.banshujiang.cn/4187.jpeg?timestamp=1718624806141",
+        "author": "Jon Raasch",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4187/webstorage_links/20891/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4187/webstorage_links/20889/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4187/webstorage_links/20890/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4174,
+        "title": "Head First JavaScript Programming",
+        "img": "http://image.banshujiang.cn/4174.jpeg?timestamp=1718525241180",
+        "author": "Eric T. Freeman and Elisabeth Robson",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4174/webstorage_links/20819/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4174/webstorage_links/20817/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4174/webstorage_links/20818/to_link"
+            }
+        ]
+    },
+    {
         "id": 4162,
         "title": "Client-Server Web Apps with JavaScript and Java",
         "img": "http://image.banshujiang.cn/4162.jpeg?timestamp=1718515538068",
@@ -274,69 +342,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3857/webstorage_links/19605/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3853,
-        "title": "Object-Oriented JavaScript 2nd Edition",
-        "img": "http://image.banshujiang.cn/3853.jpeg?timestamp=1714473787523",
-        "author": "Stoyan Stefanov and Kumar Chetan Sharma",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3853/webstorage_links/19590/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3853/webstorage_links/19589/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3852,
-        "title": "Node Web Development 2nd Edition",
-        "img": "http://image.banshujiang.cn/3852.jpeg?timestamp=1714473716008",
-        "author": "David Herron",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3852/webstorage_links/19586/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3852/webstorage_links/19585/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3851,
-        "title": "Node.js the Right Way",
-        "img": "http://image.banshujiang.cn/3851.jpeg?timestamp=1714473556620",
-        "author": "Jim R. Wilson",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3851/webstorage_links/19582/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3851/webstorage_links/19581/to_link"
             }
         ]
     }

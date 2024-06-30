@@ -1,5 +1,31 @@
 [
     {
+        "id": 4201,
+        "title": "“笨办法”学Python（第3版）",
+        "img": "http://image.banshujiang.cn/4201.jpeg?timestamp=1718629738605",
+        "author": "[美]Zed A.Shaw [译]王巍巍",
+        "language": "中文",
+        "publishYear": 2014,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4201/webstorage_links/20955/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4201/webstorage_links/20957/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4201/webstorage_links/20956/to_link"
+            }
+        ]
+    },
+    {
         "id": 4130,
         "title": "Web Scraping with Python 3rd Edition",
         "img": "http://image.banshujiang.cn/4130.jpeg?timestamp=1718457543723",
@@ -311,27 +337,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3917/webstorage_links/19849/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3862,
-        "title": "Python in Practice",
-        "img": "http://image.banshujiang.cn/3862.jpeg?timestamp=1714475682612",
-        "author": "Mark Summerfield",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3862/webstorage_links/19626/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3862/webstorage_links/19625/to_link"
             }
         ]
     }

@@ -1,5 +1,21 @@
 [
     {
+        "id": 4197,
+        "title": "Learning the bash Shell 3rd Edition",
+        "img": "http://image.banshujiang.cn/4197.jpeg?timestamp=1718626825516",
+        "author": "Cameron Newham and Bill Rosenblatt",
+        "language": "英文",
+        "publishYear": 2005,
+        "programLanguage": "Shell Script",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4197/webstorage_links/20939/to_link"
+            }
+        ]
+    },
+    {
         "id": 4098,
         "title": "Linux Pocket Guide 4th Edition",
         "img": "http://image.banshujiang.cn/4098.jpeg?timestamp=1717330352996",
@@ -321,32 +337,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/2861/webstorage_links/10478/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2809,
-        "title": "BPF Performance Tools",
-        "img": "https://imagebsj.netlify.app/2809.jpeg",
-        "author": "Brendan Gregg",
-        "language": "英文",
-        "publishYear": 2019,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2809/webstorage_links/10227/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2809/webstorage_links/10225/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/2809/webstorage_links/10226/to_link"
             }
         ]
     }

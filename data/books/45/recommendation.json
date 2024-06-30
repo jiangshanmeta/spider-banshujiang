@@ -16,6 +16,79 @@
         ]
     },
     {
+        "id": 4205,
+        "title": "Android软件安全与逆向分析",
+        "img": "http://image.banshujiang.cn/4205.jpeg?timestamp=1718630457428",
+        "author": "丰生强",
+        "language": "中文",
+        "publishYear": 2013,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4205/webstorage_links/20980/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4205/webstorage_links/20981/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4205/webstorage_links/20979/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4204,
+        "title": "Android开发艺术探索",
+        "img": "http://image.banshujiang.cn/4204.jpeg?timestamp=1718630247472",
+        "author": "任玉刚",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4204/webstorage_links/20974/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4204/webstorage_links/20975/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4204/webstorage_links/20973/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4175,
+        "title": "HTML5 in Action",
+        "img": "http://image.banshujiang.cn/4175.jpeg?timestamp=1718525334777",
+        "author": "Rob Crowther, Joe Lennon, Ash Blue and Greg Wanish",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "HTML5",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4175/webstorage_links/20823/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4175/webstorage_links/20822/to_link"
+            }
+        ]
+    },
+    {
         "id": 4168,
         "title": "Data Push Apps with HTML5 SSE",
         "img": "http://image.banshujiang.cn/4168.jpeg?timestamp=1718515981742",
@@ -269,69 +342,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3832/webstorage_links/19507/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3823,
-        "title": "Android Application Security Essentials",
-        "img": "http://image.banshujiang.cn/3823.jpeg?timestamp=1713612989622",
-        "author": "Pragati Ogal Rai",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3823/webstorage_links/19472/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3823/webstorage_links/19471/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3814,
-        "title": "HTML5 and CSS3 2nd Edition",
-        "img": "http://image.banshujiang.cn/3814.jpeg?timestamp=1712976771976",
-        "author": "Brian P. Hogan",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "HTML5",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3814/webstorage_links/19436/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3814/webstorage_links/19435/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3804,
-        "title": "Android Development Tools for Eclipse",
-        "img": "http://image.banshujiang.cn/3804.jpeg?timestamp=1712975881397",
-        "author": "Sanjay Shah and Khirulnizam Abd Rahman",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3804/webstorage_links/19396/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3804/webstorage_links/19395/to_link"
             }
         ]
     }

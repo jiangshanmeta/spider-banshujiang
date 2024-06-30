@@ -1,5 +1,21 @@
 [
     {
+        "id": 4207,
+        "title": "Angular权威教程",
+        "img": "http://image.banshujiang.cn/4207.jpeg?timestamp=1718630788026",
+        "author": "[美]Ari Lerner [译]Nice Angular社区",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "TypeScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4207/webstorage_links/20985/to_link"
+            }
+        ]
+    },
+    {
         "id": 4017,
         "title": "Learning Vue",
         "img": "http://image.banshujiang.cn/4017.jpeg?timestamp=1715523859398",

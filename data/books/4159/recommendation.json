@@ -1,5 +1,52 @@
 [
     {
+        "id": 4195,
+        "title": "Learning Cocoa with Objective-C 4th Edition",
+        "img": "http://image.banshujiang.cn/4195.jpeg?timestamp=1718626689060",
+        "author": "Jon Manning, Paris Buttfield-Addison and Tim Nugent",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Objective-C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4195/webstorage_links/20933/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4195/webstorage_links/20932/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4181,
+        "title": "iOS Game Development Cookbook",
+        "img": "http://image.banshujiang.cn/4181.jpeg?timestamp=1718526992312",
+        "author": "Jonathon Manning and Paris Buttfield-Addison",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Objective-C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4181/webstorage_links/20857/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4181/webstorage_links/20855/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4181/webstorage_links/20856/to_link"
+            }
+        ]
+    },
+    {
         "id": 4070,
         "title": "RestKit for iOS",
         "img": "http://image.banshujiang.cn/4070.jpeg?timestamp=1717202784731",
@@ -260,38 +307,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/1659/webstorage_links/12022/to_link"
-            }
-        ]
-    },
-    {
-        "id": 1658,
-        "title": "iPhone &amp; iPad cocos2d 游戏开发实战",
-        "img": "https://imagebsj.netlify.app/1658.jpeg",
-        "author": "Steffen Itterheim 著 同济大学苹果俱乐部 译",
-        "language": "中文",
-        "publishYear": 2012,
-        "programLanguage": "Objective-C",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/1658/webstorage_links/12020/to_link"
-            }
-        ]
-    },
-    {
-        "id": 1655,
-        "title": "iOS 7 Programming Cookbook",
-        "img": "https://imagebsj.netlify.app/1655.jpeg",
-        "author": "Vandad Nahavandipoor",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Objective-C",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/1655/webstorage_links/12014/to_link"
             }
         ]
     }
