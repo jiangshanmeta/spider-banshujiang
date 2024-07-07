@@ -16,6 +16,22 @@
         ]
     },
     {
+        "id": 4223,
+        "title": "Flask Web开发： 基于Python的Web应用开发实战",
+        "img": "http://image.banshujiang.cn/4223.jpeg?timestamp=1718975191413",
+        "author": "[美]Miguel Grinberg [译]安道",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4223/webstorage_links/21073/to_link"
+            }
+        ]
+    },
+    {
         "id": 4201,
         "title": "“笨办法”学Python（第3版）",
         "img": "http://image.banshujiang.cn/4201.jpeg?timestamp=1718629738605",
@@ -306,27 +322,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3967/webstorage_links/20041/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3966,
-        "title": "Django for APIs",
-        "img": "http://image.banshujiang.cn/3966.jpeg?timestamp=1714640341832",
-        "author": "William S. Vincent",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3966/webstorage_links/20038/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3966/webstorage_links/20037/to_link"
             }
         ]
     }

@@ -1,5 +1,21 @@
 [
     {
+        "id": 4223,
+        "title": "Flask Web开发： 基于Python的Web应用开发实战",
+        "img": "http://image.banshujiang.cn/4223.jpeg?timestamp=1718975191413",
+        "author": "[美]Miguel Grinberg [译]安道",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4223/webstorage_links/21073/to_link"
+            }
+        ]
+    },
+    {
         "id": 4201,
         "title": "“笨办法”学Python（第3版）",
         "img": "http://image.banshujiang.cn/4201.jpeg?timestamp=1718629738605",
@@ -311,27 +327,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3936/webstorage_links/19923/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3917,
-        "title": "Learn AI-Assisted Python Programming",
-        "img": "http://image.banshujiang.cn/3917.jpeg?timestamp=1714571230615",
-        "author": "Leo Porter and Daniel Zingaro",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3917/webstorage_links/19850/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3917/webstorage_links/19849/to_link"
             }
         ]
     }

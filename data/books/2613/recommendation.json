@@ -1,5 +1,99 @@
 [
     {
+        "id": 4228,
+        "title": "Go 语言程序设计",
+        "img": "http://image.banshujiang.cn/4228.jpeg?timestamp=1720142679984",
+        "author": "[英]Mark Summerfield [译]许式伟、吕桂华、徐立、何李石",
+        "language": "中文",
+        "publishYear": 2013,
+        "programLanguage": "Go",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4228/webstorage_links/21098/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4228/webstorage_links/21099/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4228/webstorage_links/21097/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4226,
+        "title": "Go Web编程",
+        "img": "http://image.banshujiang.cn/4226.jpeg?timestamp=1718975488013",
+        "author": "[新加坡]郑兆雄 [译]黄健宏",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "Go",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4226/webstorage_links/21086/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4226/webstorage_links/21087/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4226/webstorage_links/21085/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4225,
+        "title": "Go Web编程",
+        "img": "http://image.banshujiang.cn/4225.jpeg?timestamp=1718975377622",
+        "author": "谢孟军",
+        "language": "中文",
+        "publishYear": 2013,
+        "programLanguage": "Go",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4225/webstorage_links/21080/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4225/webstorage_links/21081/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4225/webstorage_links/21079/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4224,
+        "title": "Go语言编程",
+        "img": "http://image.banshujiang.cn/4224.jpeg?timestamp=1718975300782",
+        "author": "许式伟",
+        "language": "中文",
+        "publishYear": 2012,
+        "programLanguage": "Go",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4224/webstorage_links/21075/to_link"
+            }
+        ]
+    },
+    {
         "id": 4016,
         "title": "Learning Go 2nd Edition",
         "img": "http://image.banshujiang.cn/4016.jpeg?timestamp=1715523773106",
@@ -253,80 +347,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/3002/webstorage_links/15518/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2739,
-        "title": "Mastering Go 3rd Edition",
-        "img": "https://imagebsj.netlify.app/2739.jpeg",
-        "author": "Mihalis Tsoukalos",
-        "language": "英文",
-        "publishYear": 2021,
-        "programLanguage": "Go",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2739/webstorage_links/9945/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2739/webstorage_links/9944/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2622,
-        "title": "Mastering Go 2nd Edition",
-        "img": "https://imagebsj.netlify.app/2622.jpeg",
-        "author": "Mihalis Tsoukalos",
-        "language": "英文",
-        "publishYear": 2019,
-        "programLanguage": "Go",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2622/webstorage_links/9136/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2621,
-        "title": "Go Systems Programming",
-        "img": "https://imagebsj.netlify.app/2621.jpeg",
-        "author": "Mihalis Tsoukalos",
-        "language": "英文",
-        "publishYear": 2017,
-        "programLanguage": "Go",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2621/webstorage_links/9133/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2612,
-        "title": "Let&#39;s Go!",
-        "img": "https://imagebsj.netlify.app/2612.jpeg",
-        "author": "Alex Edwards",
-        "language": "英文",
-        "publishYear": 2021,
-        "programLanguage": "Go",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2612/webstorage_links/9111/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2612/webstorage_links/9112/to_link"
             }
         ]
     }

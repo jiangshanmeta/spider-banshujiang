@@ -64,6 +64,79 @@
         ]
     },
     {
+        "id": 4229,
+        "title": "Mastering ElasticSearch",
+        "img": "http://image.banshujiang.cn/4229.jpeg?timestamp=1718976022970",
+        "author": "Rafał Kuć and Marek Rogoziński",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4229/webstorage_links/21103/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4229/webstorage_links/21102/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4222,
+        "title": "Elasticsearch实战",
+        "img": "http://image.banshujiang.cn/4222.jpeg?timestamp=1718975048684",
+        "author": "[美]拉杜•乔戈 [译]黄申",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4222/webstorage_links/21070/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4222/webstorage_links/21071/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4222/webstorage_links/21069/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4221,
+        "title": "Effective Java（第2版）",
+        "img": "http://image.banshujiang.cn/4221.jpeg?timestamp=1718974801712",
+        "author": "[美]Joshua Bloch [译]杨春华、俞黎敏",
+        "language": "中文",
+        "publishYear": 2009,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4221/webstorage_links/21064/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4221/webstorage_links/21065/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4221/webstorage_links/21063/to_link"
+            }
+        ]
+    },
+    {
         "id": 4205,
         "title": "Android软件安全与逆向分析",
         "img": "http://image.banshujiang.cn/4205.jpeg?timestamp=1718630457428",
@@ -284,69 +357,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4154/webstorage_links/20712/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4152,
-        "title": "Java Performance",
-        "img": "http://image.banshujiang.cn/4152.jpeg?timestamp=1718512289943",
-        "author": "Charlie Hunt and Binu John",
-        "language": "英文",
-        "publishYear": 2011,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4152/webstorage_links/20705/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4143,
-        "title": "Android Studio Application Development",
-        "img": "http://image.banshujiang.cn/4143.jpeg?timestamp=1718465257484",
-        "author": "Belén Cruz Zapata",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4143/webstorage_links/20671/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4143/webstorage_links/20670/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4142,
-        "title": "Android Programming: Pushing the Limits",
-        "img": "http://image.banshujiang.cn/4142.jpeg?timestamp=1718464918303",
-        "author": "Erik Hellman",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4142/webstorage_links/20667/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4142/webstorage_links/20665/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4142/webstorage_links/20666/to_link"
             }
         ]
     }
