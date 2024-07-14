@@ -1,5 +1,36 @@
 [
     {
+        "id": 4241,
+        "title": "Programming Windows Store Apps with C#",
+        "img": "http://image.banshujiang.cn/4241.jpeg?timestamp=1719061933942",
+        "author": "Matt Baxter-Reynolds and Iris Classon",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4241/webstorage_links/21155/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4241/webstorage_links/21154/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4237,
+        "title": "Professional C# 5.0 and .NET 4.5.1",
+        "img": "http://image.banshujiang.cn/4237.jpeg?timestamp=1719061544494",
+        "author": "Christian Nagel",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "C#",
+        "formats": []
+    },
+    {
         "id": 4114,
         "title": ".NET in Action 2nd Edition",
         "img": "http://image.banshujiang.cn/4114.jpeg?timestamp=1718111531642",
@@ -275,43 +306,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/3626/webstorage_links/18715/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3566,
-        "title": "Functional Programming with C#",
-        "img": "http://image.banshujiang.cn/3566.jpeg?timestamp=1705121499865",
-        "author": "Simon J. Painter",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "C#",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3566/webstorage_links/18513/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3558,
-        "title": "Microsoft Visual C# Step by Step 10th Edition",
-        "img": "http://image.banshujiang.cn/3558.jpeg?timestamp=1697274353067",
-        "author": "John Sharp",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "C#",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3558/webstorage_links/18493/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3558/webstorage_links/18492/to_link"
             }
         ]
     }

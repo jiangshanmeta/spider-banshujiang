@@ -1,5 +1,31 @@
 [
     {
+        "id": 4232,
+        "title": "MySQL High Availability 2nd Edition",
+        "img": "http://image.banshujiang.cn/4232.jpeg?timestamp=1718976678638",
+        "author": "Charles Bell, Mats Kindahl and Lars Thalmann",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "SQL",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4232/webstorage_links/21119/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4232/webstorage_links/21117/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4232/webstorage_links/21118/to_link"
+            }
+        ]
+    },
+    {
         "id": 4089,
         "title": "MySQL Crash Course 2nd Edition",
         "img": "http://image.banshujiang.cn/4089.jpeg?timestamp=1717323802145",
@@ -266,22 +292,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/1265/webstorage_links/13040/to_link"
-            }
-        ]
-    },
-    {
-        "id": 1153,
-        "title": "高可用MySQL-构建健壮的数据中心",
-        "img": "https://imagebsj.netlify.app/1153.jpeg",
-        "author": "Charles Bell, Mats Kindahl and Lars Thalmann 著 宁青等 译",
-        "language": "中文",
-        "publishYear": 2011,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/1153/webstorage_links/12820/to_link"
             }
         ]
     }

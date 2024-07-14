@@ -1,5 +1,47 @@
 [
     {
+        "id": 4241,
+        "title": "Programming Windows Store Apps with C#",
+        "img": "http://image.banshujiang.cn/4241.jpeg?timestamp=1719061933942",
+        "author": "Matt Baxter-Reynolds and Iris Classon",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4241/webstorage_links/21155/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4241/webstorage_links/21154/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4239,
+        "title": "Programming 3D Applications with HTML5 and WebGL",
+        "img": "http://image.banshujiang.cn/4239.jpeg?timestamp=1719061760658",
+        "author": "Tony Parisi",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "HTML5",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4239/webstorage_links/21145/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4239/webstorage_links/21144/to_link"
+            }
+        ]
+    },
+    {
         "id": 4175,
         "title": "HTML5 in Action",
         "img": "http://image.banshujiang.cn/4175.jpeg?timestamp=1718525334777",
@@ -285,48 +327,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3730/webstorage_links/19104/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3698,
-        "title": "Windows Store App Development",
-        "img": "http://image.banshujiang.cn/3698.jpeg?timestamp=1711705068633",
-        "author": "Pete Brown",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "C#",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3698/webstorage_links/18977/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3698/webstorage_links/18976/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3697,
-        "title": "Windows 8: the missing manual",
-        "img": "http://image.banshujiang.cn/3697.jpeg?timestamp=1711705000225",
-        "author": "David Pogue",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3697/webstorage_links/18973/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3697/webstorage_links/18972/to_link"
             }
         ]
     }

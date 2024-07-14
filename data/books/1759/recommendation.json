@@ -1,5 +1,52 @@
 [
     {
+        "id": 4249,
+        "title": "Speaking JavaScript",
+        "img": "http://image.banshujiang.cn/4249.jpeg?timestamp=1719114777337",
+        "author": "Axel Rauschmayer",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4249/webstorage_links/21199/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4249/webstorage_links/21198/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4247,
+        "title": "Sencha Touch 2 Mobile JavaScript Framework",
+        "img": "http://image.banshujiang.cn/4247.jpeg?timestamp=1719114535562",
+        "author": "John Earl Clark and Bryan P. Johnson",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4247/webstorage_links/21189/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4247/webstorage_links/21187/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4247/webstorage_links/21188/to_link"
+            }
+        ]
+    },
+    {
         "id": 4206,
         "title": "Angular JS权威教程",
         "img": "http://image.banshujiang.cn/4206.jpeg?timestamp=1718630636349",
@@ -310,48 +357,6 @@
                 "fmt": "CODE",
                 "title": "城通网盘",
                 "link": "/e_books/4081/webstorage_links/20461/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4070,
-        "title": "RestKit for iOS",
-        "img": "http://image.banshujiang.cn/4070.jpeg?timestamp=1717202784731",
-        "author": "Taras Kalapun",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "Objective-C",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4070/webstorage_links/20422/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4070/webstorage_links/20421/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4066,
-        "title": "Professional iOS Programming",
-        "img": "http://image.banshujiang.cn/4066.jpeg?timestamp=1717199305174",
-        "author": "Peter van de Put",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "Objective-C",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4066/webstorage_links/20406/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4066/webstorage_links/20405/to_link"
             }
         ]
     }

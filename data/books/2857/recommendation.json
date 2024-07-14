@@ -1,5 +1,31 @@
 [
     {
+        "id": 4232,
+        "title": "MySQL High Availability 2nd Edition",
+        "img": "http://image.banshujiang.cn/4232.jpeg?timestamp=1718976678638",
+        "author": "Charles Bell, Mats Kindahl and Lars Thalmann",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "SQL",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4232/webstorage_links/21119/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4232/webstorage_links/21117/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4232/webstorage_links/21118/to_link"
+            }
+        ]
+    },
+    {
         "id": 4194,
         "title": "Learn SQL Server Administration in a Month of Lunches",
         "img": "http://image.banshujiang.cn/4194.jpeg?timestamp=1718626601103",
@@ -321,27 +347,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/2862/webstorage_links/10482/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2782,
-        "title": "SQL Pocket Guide 4th Edition",
-        "img": "https://imagebsj.netlify.app/2782.jpeg",
-        "author": "Alice Zhao",
-        "language": "英文",
-        "publishYear": 2021,
-        "programLanguage": "SQL",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2782/webstorage_links/10119/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2782/webstorage_links/10118/to_link"
             }
         ]
     }

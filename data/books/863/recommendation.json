@@ -16,6 +16,27 @@
         ]
     },
     {
+        "id": 4239,
+        "title": "Programming 3D Applications with HTML5 and WebGL",
+        "img": "http://image.banshujiang.cn/4239.jpeg?timestamp=1719061760658",
+        "author": "Tony Parisi",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "HTML5",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4239/webstorage_links/21145/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4239/webstorage_links/21144/to_link"
+            }
+        ]
+    },
+    {
         "id": 4195,
         "title": "Learning Cocoa with Objective-C 4th Edition",
         "img": "http://image.banshujiang.cn/4195.jpeg?timestamp=1718626689060",
@@ -311,27 +332,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3848/webstorage_links/19569/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3843,
-        "title": "iPad the missing manual 6th Edition",
-        "img": "http://image.banshujiang.cn/3843.jpeg?timestamp=1713969065489",
-        "author": "J.D. Biersdorfer",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3843/webstorage_links/19550/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3843/webstorage_links/19549/to_link"
             }
         ]
     }

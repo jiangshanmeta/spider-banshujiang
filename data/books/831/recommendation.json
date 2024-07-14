@@ -1,5 +1,36 @@
 [
     {
+        "id": 4241,
+        "title": "Programming Windows Store Apps with C#",
+        "img": "http://image.banshujiang.cn/4241.jpeg?timestamp=1719061933942",
+        "author": "Matt Baxter-Reynolds and Iris Classon",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4241/webstorage_links/21155/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4241/webstorage_links/21154/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4237,
+        "title": "Professional C# 5.0 and .NET 4.5.1",
+        "img": "http://image.banshujiang.cn/4237.jpeg?timestamp=1719061544494",
+        "author": "Christian Nagel",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "C#",
+        "formats": []
+    },
+    {
         "id": 4195,
         "title": "Learning Cocoa with Objective-C 4th Edition",
         "img": "http://image.banshujiang.cn/4195.jpeg?timestamp=1718626689060",
@@ -290,48 +321,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3925/webstorage_links/19879/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3908,
-        "title": "iOS 17 App Development Essentials",
-        "img": "http://image.banshujiang.cn/3908.jpeg?timestamp=1714570396489",
-        "author": "Neil Smyth",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3908/webstorage_links/19814/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3908/webstorage_links/19813/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3896,
-        "title": "Visual Studio 2012 and .NET 4.5 Expert Development Cookbook",
-        "img": "http://image.banshujiang.cn/3896.jpeg?timestamp=1714483179836",
-        "author": "Abhishek Sur",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "C#",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3896/webstorage_links/19762/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3896/webstorage_links/19761/to_link"
             }
         ]
     }

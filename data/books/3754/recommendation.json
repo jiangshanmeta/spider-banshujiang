@@ -165,6 +165,32 @@
         ]
     },
     {
+        "id": 4232,
+        "title": "MySQL High Availability 2nd Edition",
+        "img": "http://image.banshujiang.cn/4232.jpeg?timestamp=1718976678638",
+        "author": "Charles Bell, Mats Kindahl and Lars Thalmann",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "SQL",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4232/webstorage_links/21119/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4232/webstorage_links/21117/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4232/webstorage_links/21118/to_link"
+            }
+        ]
+    },
+    {
         "id": 4161,
         "title": "Building Web Apps with WordPress",
         "img": "http://image.banshujiang.cn/4161.jpeg?timestamp=1718515346829",
@@ -271,22 +297,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3678/webstorage_links/18898/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3598,
-        "title": "PHP Cookbook",
-        "img": "http://image.banshujiang.cn/3598.jpeg?timestamp=1707806670730",
-        "author": "Eric A. Mann",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "PHP",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3598/webstorage_links/18619/to_link"
             }
         ]
     }

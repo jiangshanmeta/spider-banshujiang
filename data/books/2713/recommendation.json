@@ -1,5 +1,52 @@
 [
     {
+        "id": 4249,
+        "title": "Speaking JavaScript",
+        "img": "http://image.banshujiang.cn/4249.jpeg?timestamp=1719114777337",
+        "author": "Axel Rauschmayer",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4249/webstorage_links/21199/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4249/webstorage_links/21198/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4247,
+        "title": "Sencha Touch 2 Mobile JavaScript Framework",
+        "img": "http://image.banshujiang.cn/4247.jpeg?timestamp=1719114535562",
+        "author": "John Earl Clark and Bryan P. Johnson",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4247/webstorage_links/21189/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4247/webstorage_links/21187/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4247/webstorage_links/21188/to_link"
+            }
+        ]
+    },
+    {
         "id": 4206,
         "title": "Angular JS权威教程",
         "img": "http://image.banshujiang.cn/4206.jpeg?timestamp=1718630636349",
@@ -300,48 +347,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3982/webstorage_links/20096/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3894,
-        "title": "Using Node.js for UI Testing",
-        "img": "http://image.banshujiang.cn/3894.jpeg?timestamp=1714483015109",
-        "author": "Pedro Teixeira",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3894/webstorage_links/19754/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3894/webstorage_links/19753/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3865,
-        "title": "RaphaelJS",
-        "img": "http://image.banshujiang.cn/3865.jpeg?timestamp=1714476107420",
-        "author": "Chris Wilson",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3865/webstorage_links/19638/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3865/webstorage_links/19637/to_link"
             }
         ]
     }

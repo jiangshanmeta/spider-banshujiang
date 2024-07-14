@@ -1,5 +1,26 @@
 [
     {
+        "id": 4241,
+        "title": "Programming Windows Store Apps with C#",
+        "img": "http://image.banshujiang.cn/4241.jpeg?timestamp=1719061933942",
+        "author": "Matt Baxter-Reynolds and Iris Classon",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4241/webstorage_links/21155/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4241/webstorage_links/21154/to_link"
+            }
+        ]
+    },
+    {
         "id": 1608,
         "title": "Beginning C# 2008 Objects From Concept to Code",
         "img": "https://imagebsj.netlify.app/1608.jpeg",
@@ -78,6 +99,16 @@
                 "link": "/e_books/750/webstorage_links/15010/to_link"
             }
         ]
+    },
+    {
+        "id": 4237,
+        "title": "Professional C# 5.0 and .NET 4.5.1",
+        "img": "http://image.banshujiang.cn/4237.jpeg?timestamp=1719061544494",
+        "author": "Christian Nagel",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "C#",
+        "formats": []
     },
     {
         "id": 4114,
@@ -255,48 +286,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3926/webstorage_links/19883/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3925,
-        "title": "C# 12 in a Nutshell",
-        "img": "http://image.banshujiang.cn/3925.jpeg?timestamp=1714571822184",
-        "author": "Joseph Albahari",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "C#",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3925/webstorage_links/19880/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3925/webstorage_links/19879/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3898,
-        "title": "Windows 8.1: Out of the Box 2nd Edition",
-        "img": "http://image.banshujiang.cn/3898.jpeg?timestamp=1714483310625",
-        "author": "Mike Halsey",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3898/webstorage_links/19770/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3898/webstorage_links/19769/to_link"
             }
         ]
     }

@@ -208,6 +208,53 @@
         ]
     },
     {
+        "id": 4249,
+        "title": "Speaking JavaScript",
+        "img": "http://image.banshujiang.cn/4249.jpeg?timestamp=1719114777337",
+        "author": "Axel Rauschmayer",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4249/webstorage_links/21199/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4249/webstorage_links/21198/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4247,
+        "title": "Sencha Touch 2 Mobile JavaScript Framework",
+        "img": "http://image.banshujiang.cn/4247.jpeg?timestamp=1719114535562",
+        "author": "John Earl Clark and Bryan P. Johnson",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4247/webstorage_links/21189/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4247/webstorage_links/21187/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4247/webstorage_links/21188/to_link"
+            }
+        ]
+    },
+    {
         "id": 4206,
         "title": "Angular JS权威教程",
         "img": "http://image.banshujiang.cn/4206.jpeg?timestamp=1718630636349",
@@ -220,58 +267,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4206/webstorage_links/20983/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4187,
-        "title": "JavaScript Programming",
-        "img": "http://image.banshujiang.cn/4187.jpeg?timestamp=1718624806141",
-        "author": "Jon Raasch",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4187/webstorage_links/20891/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4187/webstorage_links/20889/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4187/webstorage_links/20890/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4174,
-        "title": "Head First JavaScript Programming",
-        "img": "http://image.banshujiang.cn/4174.jpeg?timestamp=1718525241180",
-        "author": "Eric T. Freeman and Elisabeth Robson",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4174/webstorage_links/20819/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4174/webstorage_links/20817/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4174/webstorage_links/20818/to_link"
             }
         ]
     }

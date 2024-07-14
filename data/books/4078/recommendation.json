@@ -1,5 +1,31 @@
 [
     {
+        "id": 4242,
+        "title": "Python Data Visualization Cookbook",
+        "img": "http://image.banshujiang.cn/4242.jpeg?timestamp=1719062000419",
+        "author": "Igor Milovanović",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4242/webstorage_links/21161/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4242/webstorage_links/21159/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4242/webstorage_links/21160/to_link"
+            }
+        ]
+    },
+    {
         "id": 4223,
         "title": "Flask Web开发： 基于Python的Web应用开发实战",
         "img": "http://image.banshujiang.cn/4223.jpeg?timestamp=1718975191413",
@@ -311,27 +337,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3966/webstorage_links/20037/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3936,
-        "title": "Head First Python 3rd Edition",
-        "img": "http://image.banshujiang.cn/3936.jpeg?timestamp=1714575190278",
-        "author": "Paul Barry",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3936/webstorage_links/19924/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3936/webstorage_links/19923/to_link"
             }
         ]
     }

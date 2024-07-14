@@ -112,6 +112,27 @@
         ]
     },
     {
+        "id": 4241,
+        "title": "Programming Windows Store Apps with C#",
+        "img": "http://image.banshujiang.cn/4241.jpeg?timestamp=1719061933942",
+        "author": "Matt Baxter-Reynolds and Iris Classon",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4241/webstorage_links/21155/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4241/webstorage_links/21154/to_link"
+            }
+        ]
+    },
+    {
         "id": 4088,
         "title": "Learn PowerShell Scripting in a Month of Lunches 2nd Edition",
         "img": "http://image.banshujiang.cn/4088.jpeg?timestamp=1717323640688",
@@ -271,27 +292,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3869/webstorage_links/19653/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3790,
-        "title": "PowerShell Deep Dives",
-        "img": "https://imagebsj.netlify.app/3790.jpeg",
-        "author": "Jeffery Hicks, Richard Siddaway, Oisín Grehan and Aleksandar Nikolic",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "PowerShell",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3790/webstorage_links/19343/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3790/webstorage_links/19342/to_link"
             }
         ]
     }
