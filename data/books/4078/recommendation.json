@@ -1,5 +1,99 @@
 [
     {
+        "id": 4327,
+        "title": "流畅的Python(第2版)",
+        "img": "http://image.banshujiang.cn/4327.jpeg?timestamp=1721311271647",
+        "author": "[巴西]Luciano Ramalho [译]安道",
+        "language": "中文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4327/webstorage_links/21525/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4316,
+        "title": "Python for Finance",
+        "img": "http://image.banshujiang.cn/4316.jpeg?timestamp=1720922889509",
+        "author": "Yves Hilpisch",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4316/webstorage_links/21481/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4316/webstorage_links/21479/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4316/webstorage_links/21480/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4316/webstorage_links/21478/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4311,
+        "title": "Lightweight Django",
+        "img": "http://image.banshujiang.cn/4311.jpeg?timestamp=1720263330361",
+        "author": "Julia Elman and Mark Lavin",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4311/webstorage_links/21452/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4311/webstorage_links/21451/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4262,
+        "title": "Flask Web Development",
+        "img": "http://image.banshujiang.cn/4262.jpeg?timestamp=1719904749458",
+        "author": "Miguel Grinberg",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4262/webstorage_links/21262/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4262/webstorage_links/21260/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4262/webstorage_links/21261/to_link"
+            }
+        ]
+    },
+    {
         "id": 4242,
         "title": "Python Data Visualization Cookbook",
         "img": "http://image.banshujiang.cn/4242.jpeg?timestamp=1719062000419",
@@ -253,90 +347,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3999/webstorage_links/20159/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3993,
-        "title": "OpenAI GPT For Python Developers 2nd Edition",
-        "img": "http://image.banshujiang.cn/3993.jpeg?timestamp=1714644935614",
-        "author": "Aymen El Amri",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3993/webstorage_links/20136/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3993/webstorage_links/20135/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3968,
-        "title": "Django for Professionals",
-        "img": "http://image.banshujiang.cn/3968.jpeg?timestamp=1714640490799",
-        "author": "William S. Vincent",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3968/webstorage_links/20046/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3968/webstorage_links/20045/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3967,
-        "title": "Django for Beginners",
-        "img": "http://image.banshujiang.cn/3967.jpeg?timestamp=1714640408584",
-        "author": "William S. Vincent",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3967/webstorage_links/20042/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3967/webstorage_links/20041/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3966,
-        "title": "Django for APIs",
-        "img": "http://image.banshujiang.cn/3966.jpeg?timestamp=1714640341832",
-        "author": "William S. Vincent",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3966/webstorage_links/20038/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3966/webstorage_links/20037/to_link"
             }
         ]
     }

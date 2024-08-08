@@ -1,5 +1,63 @@
 [
     {
+        "id": 4292,
+        "title": "iOS 6 By Tutorials",
+        "img": "http://image.banshujiang.cn/4292.jpeg?timestamp=1720236619825",
+        "author": "raywenderlich.com Tutorial Team",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Objective-C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4292/webstorage_links/21363/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4291,
+        "title": "iOS 5 By Tutorials 2nd Edition",
+        "img": "http://image.banshujiang.cn/4291.jpeg?timestamp=1720236440490",
+        "author": "raywenderlich.com Tutorial Team",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Objective-C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4291/webstorage_links/21361/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4265,
+        "title": "iPhone the missing manual",
+        "img": "http://image.banshujiang.cn/4265.jpeg?timestamp=1719905239642",
+        "author": "David Pogue and Lesa Snider",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Objective-C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4265/webstorage_links/21280/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4265/webstorage_links/21278/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4265/webstorage_links/21279/to_link"
+            }
+        ]
+    },
+    {
         "id": 4195,
         "title": "Learning Cocoa with Objective-C 4th Edition",
         "img": "http://image.banshujiang.cn/4195.jpeg?timestamp=1718626689060",
@@ -254,54 +312,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/1851/webstorage_links/11788/to_link"
-            }
-        ]
-    },
-    {
-        "id": 1802,
-        "title": "Objective-C 编程之道",
-        "img": "https://imagebsj.netlify.app/1802.jpeg",
-        "author": "Carlo Chung 著 刘威 译",
-        "language": "中文",
-        "publishYear": 2011,
-        "programLanguage": "Objective-C",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/1802/webstorage_links/11658/to_link"
-            }
-        ]
-    },
-    {
-        "id": 1660,
-        "title": "iPhone: The Missing Manual",
-        "img": "https://imagebsj.netlify.app/1660.jpeg",
-        "author": "David Pogue",
-        "language": "英文",
-        "publishYear": 2008,
-        "programLanguage": "Objective-C",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/1660/webstorage_links/12024/to_link"
-            }
-        ]
-    },
-    {
-        "id": 1659,
-        "title": "iPhone 3G Portable Genius",
-        "img": "https://imagebsj.netlify.app/1659.jpeg",
-        "author": "Paul McFedries and David Pabian",
-        "language": "英文",
-        "publishYear": 2008,
-        "programLanguage": "Objective-C",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/1659/webstorage_links/12022/to_link"
             }
         ]
     }

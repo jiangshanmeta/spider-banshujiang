@@ -16,6 +16,90 @@
         ]
     },
     {
+        "id": 4274,
+        "title": "Android基础教程（第4版）",
+        "img": "http://image.banshujiang.cn/4274.jpeg?timestamp=1719919822680",
+        "author": "[美]Ed Burnette [译]袁国忠",
+        "language": "中文",
+        "publishYear": 2016,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4274/webstorage_links/21313/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4271,
+        "title": "Android编程权威指南（第3版）",
+        "img": "http://image.banshujiang.cn/4271.jpeg?timestamp=1719919163278",
+        "author": "[美]Bill Phillips [译]王明发",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4271/webstorage_links/21307/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4270,
+        "title": "Android Hacker’s Handbook",
+        "img": "http://image.banshujiang.cn/4270.jpeg?timestamp=1719918847377",
+        "author": "Joshua J. Drake",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4270/webstorage_links/21305/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4270/webstorage_links/21303/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4270/webstorage_links/21304/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4261,
+        "title": "Efficient Android Threading",
+        "img": "http://image.banshujiang.cn/4261.jpeg?timestamp=1719904628368",
+        "author": "Anders Göransson",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4261/webstorage_links/21256/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4261/webstorage_links/21254/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4261/webstorage_links/21255/to_link"
+            }
+        ]
+    },
+    {
         "id": 4239,
         "title": "Programming 3D Applications with HTML5 and WebGL",
         "img": "http://image.banshujiang.cn/4239.jpeg?timestamp=1719061760658",
@@ -258,90 +342,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3848/webstorage_links/19569/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3845,
-        "title": "Learning Android 2nd Edition",
-        "img": "http://image.banshujiang.cn/3845.jpeg?timestamp=1713969354668",
-        "author": "Marko Gargenta and Masumi Nakamura",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3845/webstorage_links/19558/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3845/webstorage_links/19557/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3842,
-        "title": "Introduction to Android Application Development 4th Edition",
-        "img": "http://image.banshujiang.cn/3842.jpeg?timestamp=1713968971339",
-        "author": "Joseph Annuzzi, Jr. Lauren Darcey and Shane Conder",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3842/webstorage_links/19546/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3842/webstorage_links/19545/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3841,
-        "title": "HTML5 the missing manual 2nd Edition",
-        "img": "http://image.banshujiang.cn/3841.jpeg?timestamp=1713968869460",
-        "author": "Matthew MacDonald",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "HTML5",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3841/webstorage_links/19542/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3841/webstorage_links/19541/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3833,
-        "title": "Developing Windows Store Apps with HTML5 and JavaScript",
-        "img": "http://image.banshujiang.cn/3833.jpeg?timestamp=1713692825107",
-        "author": "Rami Sarieddine",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "HTML5",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3833/webstorage_links/19512/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3833/webstorage_links/19511/to_link"
             }
         ]
     }

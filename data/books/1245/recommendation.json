@@ -85,6 +85,22 @@
         ]
     },
     {
+        "id": 4317,
+        "title": "Ruby Cookbook Early Release 2nd Edition",
+        "img": "http://image.banshujiang.cn/4317.jpeg?timestamp=1720923577229",
+        "author": "Lucas Carlson and Leonard Richardson",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Ruby",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4317/webstorage_links/21483/to_link"
+            }
+        ]
+    },
+    {
         "id": 4104,
         "title": "Learn Enough Ruby To Be Dangerous",
         "img": "http://image.banshujiang.cn/4104.jpeg?timestamp=1717517100941",
@@ -286,32 +302,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/2253/webstorage_links/15619/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2233,
-        "title": "Docker for Rails Developers",
-        "img": "https://imagebsj.netlify.app/2233.jpeg",
-        "author": "Rob Isenberg",
-        "language": "英文",
-        "publishYear": 2019,
-        "programLanguage": "Ruby",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2233/webstorage_links/15593/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2233/webstorage_links/15592/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/2233/webstorage_links/15591/to_link"
             }
         ]
     }

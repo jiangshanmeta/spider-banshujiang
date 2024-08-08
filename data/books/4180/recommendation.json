@@ -1,5 +1,26 @@
 [
     {
+        "id": 4301,
+        "title": "Hands-On Programming with R",
+        "img": "http://image.banshujiang.cn/4301.jpeg?timestamp=1720241384292",
+        "author": "Garrett Grolemund",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4301/webstorage_links/21400/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4301/webstorage_links/21399/to_link"
+            }
+        ]
+    },
+    {
         "id": 4199,
         "title": "Machine Learning with R",
         "img": "http://image.banshujiang.cn/4199.jpeg?timestamp=1718626986663",
@@ -311,27 +332,6 @@
                 "fmt": "AZW3",
                 "title": "城通网盘",
                 "link": "/e_books/3226/webstorage_links/17040/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3200,
-        "title": "Mastering Spark with R",
-        "img": "http://image.banshujiang.cn/3200.jpeg?timestamp=1672470351468",
-        "author": "Javier Luraschi, Kevin Kuo, and Edgar Ruiz",
-        "language": "英文",
-        "publishYear": 2019,
-        "programLanguage": "R",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3200/webstorage_links/16930/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3200/webstorage_links/16929/to_link"
             }
         ]
     }

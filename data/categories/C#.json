@@ -1,5 +1,53 @@
 [
     {
+        "id": 4282,
+        "title": "C#敏捷开发实践",
+        "img": "http://image.banshujiang.cn/4282.jpeg?timestamp=1720096859899",
+        "author": "[英]Gary McLean Hall [译]许顺强",
+        "language": "中文",
+        "publishYear": 2016,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4282/webstorage_links/21329/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4281,
+        "title": "C#经典实例（第4版）",
+        "img": "http://image.banshujiang.cn/4281.jpeg?timestamp=1720096746948",
+        "author": "[美]Jay Hilyard [译]徐敬德",
+        "language": "中文",
+        "publishYear": 2016,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4281/webstorage_links/21327/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4280,
+        "title": "C#并发编程经典实例",
+        "img": "http://image.banshujiang.cn/4280.jpeg?timestamp=1720096626819",
+        "author": "[美]Stephen Cleary [译]相银初",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4280/webstorage_links/21325/to_link"
+            }
+        ]
+    },
+    {
         "id": 4241,
         "title": "Programming Windows Store Apps with C#",
         "img": "http://image.banshujiang.cn/4241.jpeg?timestamp=1719061933942",

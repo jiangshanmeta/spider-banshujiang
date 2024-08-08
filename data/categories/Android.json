@@ -1,5 +1,89 @@
 [
     {
+        "id": 4274,
+        "title": "Android基础教程（第4版）",
+        "img": "http://image.banshujiang.cn/4274.jpeg?timestamp=1719919822680",
+        "author": "[美]Ed Burnette [译]袁国忠",
+        "language": "中文",
+        "publishYear": 2016,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4274/webstorage_links/21313/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4271,
+        "title": "Android编程权威指南（第3版）",
+        "img": "http://image.banshujiang.cn/4271.jpeg?timestamp=1719919163278",
+        "author": "[美]Bill Phillips [译]王明发",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4271/webstorage_links/21307/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4270,
+        "title": "Android Hacker’s Handbook",
+        "img": "http://image.banshujiang.cn/4270.jpeg?timestamp=1719918847377",
+        "author": "Joshua J. Drake",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4270/webstorage_links/21305/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4270/webstorage_links/21303/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4270/webstorage_links/21304/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4261,
+        "title": "Efficient Android Threading",
+        "img": "http://image.banshujiang.cn/4261.jpeg?timestamp=1719904628368",
+        "author": "Anders Göransson",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4261/webstorage_links/21256/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4261/webstorage_links/21254/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4261/webstorage_links/21255/to_link"
+            }
+        ]
+    },
+    {
         "id": 4205,
         "title": "Android软件安全与逆向分析",
         "img": "http://image.banshujiang.cn/4205.jpeg?timestamp=1718630457428",

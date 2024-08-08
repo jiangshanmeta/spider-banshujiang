@@ -1,0 +1,2677 @@
+[
+    {
+        "id": 4326,
+        "title": "Spark机器学习",
+        "img": "http://image.banshujiang.cn/4326.jpeg?timestamp=1721310065443",
+        "author": "[南非]Nick Pentreath [译]蔡立宇 黄章帅 周济民",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4326/webstorage_links/21523/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4203,
+        "title": "AI·未来",
+        "img": "http://image.banshujiang.cn/4203.jpeg?timestamp=1718630129917",
+        "author": "李开复",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4203/webstorage_links/20968/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4203/webstorage_links/20969/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4203/webstorage_links/20967/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4199,
+        "title": "Machine Learning with R",
+        "img": "http://image.banshujiang.cn/4199.jpeg?timestamp=1718626986663",
+        "author": "Brett Lantz",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4199/webstorage_links/20947/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4199/webstorage_links/20946/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4140,
+        "title": "AI极简经济学",
+        "img": "http://image.banshujiang.cn/4140.jpeg?timestamp=1718464469066",
+        "author": "[加]阿杰伊·阿格拉沃尔、乔舒亚·甘斯、阿维·戈德法布 [译]闾佳",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4140/webstorage_links/20656/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4140/webstorage_links/20657/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4140/webstorage_links/20655/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4133,
+        "title": "Programming Large Language Models with Azure Open AI",
+        "img": "http://image.banshujiang.cn/4133.jpeg?timestamp=1718463465019",
+        "author": "Francesco Esposito",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4133/webstorage_links/20631/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4133/webstorage_links/20630/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4131,
+        "title": "AI for Absolute Beginners",
+        "img": "http://image.banshujiang.cn/4131.jpeg?timestamp=1718457650293",
+        "author": "Oliver Theobald",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4131/webstorage_links/20623/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4131/webstorage_links/20622/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4118,
+        "title": "Neural Networks and Deep Learning 2nd Edition",
+        "img": "http://image.banshujiang.cn/4118.jpeg?timestamp=1718112929395",
+        "author": "Charu C. Aggarwal",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4118/webstorage_links/20587/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4118/webstorage_links/20586/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4113,
+        "title": "Math and Architectures of Deep Learning",
+        "img": "http://image.banshujiang.cn/4113.jpeg?timestamp=1718111458437",
+        "author": "Krishnendu Chaudhury",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4113/webstorage_links/20575/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4113/webstorage_links/20574/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4111,
+        "title": "Inside AI",
+        "img": "http://image.banshujiang.cn/4111.jpeg?timestamp=1718111284114",
+        "author": "Akli Adjaoute",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4111/webstorage_links/20569/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4111/webstorage_links/20568/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4095,
+        "title": "AI新生：破解人机共存密码",
+        "img": "http://image.banshujiang.cn/4095.jpeg?timestamp=1717330143560",
+        "author": "[美]斯图尔特·罗素 [译]张羿",
+        "language": "中文",
+        "publishYear": 2022,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4095/webstorage_links/20511/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4094,
+        "title": "人工智能:现代方法（第4版）",
+        "img": "http://image.banshujiang.cn/4094.jpeg?timestamp=1717329907858",
+        "author": "[美]斯图尔特•罗素 彼得•诺维格 [译]",
+        "language": "中文",
+        "publishYear": 2022,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4094/webstorage_links/20509/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4093,
+        "title": "深度学习革命",
+        "img": "http://image.banshujiang.cn/4093.jpeg?timestamp=1717329592803",
+        "author": "[美]凯德·梅茨 [译]桂曙光",
+        "language": "中文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4093/webstorage_links/20507/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4090,
+        "title": "AI-Assisted Programming",
+        "img": "http://image.banshujiang.cn/4090.jpeg?timestamp=1717323872657",
+        "author": "Tom Taulli",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4090/webstorage_links/20497/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4090/webstorage_links/20496/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4085,
+        "title": "Generative AI Art",
+        "img": "http://image.banshujiang.cn/4085.jpeg?timestamp=1717323375502",
+        "author": "Oliver Theobald",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4085/webstorage_links/20479/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4085/webstorage_links/20478/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4077,
+        "title": "写给大家的AI极简史",
+        "img": "http://image.banshujiang.cn/4077.jpeg?timestamp=1717203928055",
+        "author": "[德]托马斯拉姆齐 [译]林若轩",
+        "language": "中文",
+        "publishYear": 2019,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4077/webstorage_links/20448/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4015,
+        "title": "Effective Machine Learning Teams",
+        "img": "http://image.banshujiang.cn/4015.jpeg?timestamp=1715523707235",
+        "author": "David Tan, Ada Leung, and David Colls",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4015/webstorage_links/20220/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4015/webstorage_links/20219/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4009,
+        "title": "Introduction to Generative AI",
+        "img": "http://image.banshujiang.cn/4009.jpeg?timestamp=1715421591264",
+        "author": "Numa Dhamani and Maggie Engler",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4009/webstorage_links/20198/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4001,
+        "title": "Deep Learning for Finance",
+        "img": "http://image.banshujiang.cn/4001.jpeg?timestamp=1714913452504",
+        "author": "Sofien Kaabar",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4001/webstorage_links/20168/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4001/webstorage_links/20167/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3993,
+        "title": "OpenAI GPT For Python Developers 2nd Edition",
+        "img": "http://image.banshujiang.cn/3993.jpeg?timestamp=1714644935614",
+        "author": "Aymen El Amri",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3993/webstorage_links/20136/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3993/webstorage_links/20135/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3983,
+        "title": "Machine Learning Q and AI",
+        "img": "http://image.banshujiang.cn/3983.jpeg?timestamp=1714643925443",
+        "author": "Sebastian Raschka",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3983/webstorage_links/20098/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3980,
+        "title": "The Art of Machine Learning",
+        "img": "http://image.banshujiang.cn/3980.jpeg?timestamp=1714641911220",
+        "author": "Norman Matloff",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3980/webstorage_links/20092/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3958,
+        "title": "Machine Learning with R 4th Edition",
+        "img": "http://image.banshujiang.cn/3958.jpeg?timestamp=1714638980386",
+        "author": "Brett Lantz",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3958/webstorage_links/20006/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3955,
+        "title": "Generative AI with LangChain",
+        "img": "http://image.banshujiang.cn/3955.jpeg?timestamp=1714638768084",
+        "author": "Ben Auffarth",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3955/webstorage_links/19996/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3955/webstorage_links/19995/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3951,
+        "title": "Training Data for Machine Learning",
+        "img": "http://image.banshujiang.cn/3951.jpeg?timestamp=1714638234268",
+        "author": "Anthony Sarkis",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3951/webstorage_links/19980/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3951/webstorage_links/19979/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3945,
+        "title": "Machine Learning Interviews",
+        "img": "http://image.banshujiang.cn/3945.jpeg?timestamp=1714575918310",
+        "author": "Susan Shu Chang",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3945/webstorage_links/19960/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3945/webstorage_links/19959/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3944,
+        "title": "Low-Code AI",
+        "img": "http://image.banshujiang.cn/3944.jpeg?timestamp=1714575845513",
+        "author": "Gwendolyn Stripling and Michael Abel",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3944/webstorage_links/19956/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3944/webstorage_links/19955/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3934,
+        "title": "Generative AI on AWS",
+        "img": "http://image.banshujiang.cn/3934.jpeg?timestamp=1714575049247",
+        "author": "Chris Fregly, Antje Barth and Shelbee Eigenbrode",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3934/webstorage_links/19916/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3934/webstorage_links/19915/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3923,
+        "title": "Architecting Data and Machine Learning Platforms",
+        "img": "http://image.banshujiang.cn/3923.jpeg?timestamp=1714571685881",
+        "author": "Marco Tranquillin, Valliappa Lakshmanan and Firat Tekiner",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3923/webstorage_links/19872/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3923/webstorage_links/19871/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3917,
+        "title": "Learn AI-Assisted Python Programming",
+        "img": "http://image.banshujiang.cn/3917.jpeg?timestamp=1714571230615",
+        "author": "Leo Porter and Daniel Zingaro",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3917/webstorage_links/19850/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3917/webstorage_links/19849/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3913,
+        "title": "Distributed Machine Learning Patterns",
+        "img": "http://image.banshujiang.cn/3913.jpeg?timestamp=1714570951968",
+        "author": "Yuan Tang",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3913/webstorage_links/19834/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3913/webstorage_links/19833/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3807,
+        "title": "Building Machine Learning Systems with Python",
+        "img": "http://image.banshujiang.cn/3807.jpeg?timestamp=1712976198310",
+        "author": "Willi Richert and Luis Pedro Coelho",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3807/webstorage_links/19408/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3807/webstorage_links/19407/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3614,
+        "title": "Modern Generative AI with ChatGPT and OpenAI Models",
+        "img": "http://image.banshujiang.cn/3614.jpeg?timestamp=1708053784318",
+        "author": "Valentina Alto",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3614/webstorage_links/18666/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3614/webstorage_links/18667/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3600,
+        "title": "Probabilistic Machine Learning for Finance and Investing",
+        "img": "http://image.banshujiang.cn/3600.jpeg?timestamp=1707806805729",
+        "author": "Deepak K. Kanungo",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3600/webstorage_links/18623/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3578,
+        "title": "Graph-Powered Analytics and Machine Learning with TigerGraph",
+        "img": "http://image.banshujiang.cn/3578.jpeg?timestamp=1706325011582",
+        "author": "Victor Lee, Phuc Kien Nguyen, and Alexander Thomas",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3578/webstorage_links/18559/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3578/webstorage_links/18558/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3577,
+        "title": "Generative Deep Learning 2nd Edition",
+        "img": "http://image.banshujiang.cn/3577.jpeg?timestamp=1706324935187",
+        "author": "David Foster",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3577/webstorage_links/18555/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3577/webstorage_links/18554/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3575,
+        "title": "Developing Apps with GPT-4 and ChatGPT",
+        "img": "http://image.banshujiang.cn/3575.jpeg?timestamp=1706324206635",
+        "author": "Olivier Caelen and Marie-Alice Blete",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3575/webstorage_links/18546/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3575/webstorage_links/18547/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3548,
+        "title": "How AI Works",
+        "img": "http://image.banshujiang.cn/3548.jpeg?timestamp=1697272823230",
+        "author": "Ronald T. Kneusel",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3548/webstorage_links/18457/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3534,
+        "title": "Evolutionary Deep Learning",
+        "img": "http://image.banshujiang.cn/3534.jpeg?timestamp=1697032513012",
+        "author": "Micheal Lanham",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3534/webstorage_links/18399/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3534/webstorage_links/18398/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3534/webstorage_links/18397/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3533,
+        "title": "Designing Deep Learning Systems",
+        "img": "http://image.banshujiang.cn/3533.jpeg?timestamp=1697032449554",
+        "author": "Chi Wang",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3533/webstorage_links/18391/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3533/webstorage_links/18392/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3533/webstorage_links/18393/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3509,
+        "title": "Privacy-Preserving Machine Learning",
+        "img": "http://image.banshujiang.cn/3509.jpeg?timestamp=1696688471060",
+        "author": "J. Morris Chang",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3509/webstorage_links/18307/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3509/webstorage_links/18305/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3509/webstorage_links/18306/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3507,
+        "title": "Ensemble Methods for Machine Learning",
+        "img": "http://image.banshujiang.cn/3507.jpeg?timestamp=1696688248513",
+        "author": "Gautam Kunapuli",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3507/webstorage_links/18294/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3507/webstorage_links/18293/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3507/webstorage_links/18295/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3496,
+        "title": "Scaling Machine Learning with Spark",
+        "img": "http://image.banshujiang.cn/3496.jpeg?timestamp=1696560385159",
+        "author": "Adi Polak",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3496/webstorage_links/18246/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3496/webstorage_links/18247/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3492,
+        "title": "Regular Expression Puzzles and AI Coding Assistants",
+        "img": "http://image.banshujiang.cn/3492.jpeg?timestamp=1696560096651",
+        "author": "David Q. Mertz",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3492/webstorage_links/18227/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3492/webstorage_links/18225/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3492/webstorage_links/18226/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3484,
+        "title": "AI at the Edge",
+        "img": "http://image.banshujiang.cn/3484.jpeg?timestamp=1696511141310",
+        "author": "Daniel Situnayake and Jenny Plunkett",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3484/webstorage_links/18195/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3412,
+        "title": "Practical Machine Learning with H2O",
+        "img": "http://image.banshujiang.cn/3412.jpeg?timestamp=1681543530930",
+        "author": "Darren Cook",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3412/webstorage_links/17829/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3393,
+        "title": "Introduction to Machine Learning with Python",
+        "img": "http://image.banshujiang.cn/3393.jpeg?timestamp=1677325923722",
+        "author": "Andreas C. Müller and Sarah Guido",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3393/webstorage_links/17751/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3393/webstorage_links/17749/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3393/webstorage_links/17750/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3342,
+        "title": "Practicing Trustworthy Machine Learning",
+        "img": "http://image.banshujiang.cn/3342.jpeg?timestamp=1676702051961",
+        "author": "Yada Pruksachatkun, Matthew McAteer, and Subhabrata Majumdar",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3342/webstorage_links/17539/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3335,
+        "title": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow 3nd Edition",
+        "img": "http://image.banshujiang.cn/3335.jpeg?timestamp=1676694994138",
+        "author": "Aurélien Géron",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3335/webstorage_links/17515/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3335/webstorage_links/17514/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3330,
+        "title": "Essential Math for AI",
+        "img": "http://image.banshujiang.cn/3330.jpeg?timestamp=1676693205453",
+        "author": "Hala Nelson",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3330/webstorage_links/17497/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3316,
+        "title": "Applied Machine Learning and AI for Engineers",
+        "img": "http://image.banshujiang.cn/3316.jpeg?timestamp=1676120526155",
+        "author": "Jeff Prosise",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3316/webstorage_links/17460/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3316/webstorage_links/17461/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3310,
+        "title": "Deep Learning for Natural Language Processing",
+        "img": "http://image.banshujiang.cn/3310.jpeg?timestamp=1676117287836",
+        "author": "Stephan Raaijmakers",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3310/webstorage_links/17447/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3310/webstorage_links/17446/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3286,
+        "title": "TensorFlow Machine Learning Cookbook",
+        "img": "http://image.banshujiang.cn/3286.jpeg?timestamp=1676086208306",
+        "author": "Nick McClure",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3286/webstorage_links/17333/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3286/webstorage_links/17334/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3286/webstorage_links/17335/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3281,
+        "title": "Python Machine Learning 3rd Edition",
+        "img": "http://image.banshujiang.cn/3281.jpeg?timestamp=1676085455815",
+        "author": "Sebastian Raschka and Vahid Mirjalili",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3281/webstorage_links/17303/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3281/webstorage_links/17304/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3281/webstorage_links/17305/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3270,
+        "title": "Machine Learning Algorithms",
+        "img": "http://image.banshujiang.cn/3270.jpeg?timestamp=1675509275766",
+        "author": "Giuseppe Bonaccorso",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3270/webstorage_links/17254/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3270/webstorage_links/17255/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/3270/webstorage_links/17253/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3261,
+        "title": "Deep Learning with TensorFlow 2 and Keras 2nd Edition",
+        "img": "http://image.banshujiang.cn/3261.jpeg?timestamp=1675506369428",
+        "author": "Antonio Gulli, Amita Kapoor and Sujit Pal",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3261/webstorage_links/17202/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3261/webstorage_links/17201/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3261/webstorage_links/17203/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3258,
+        "title": "AI Crash Course",
+        "img": "http://image.banshujiang.cn/3258.jpeg?timestamp=1675262901776",
+        "author": "Hadelin de Ponteves",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3258/webstorage_links/17185/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3258/webstorage_links/17186/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3258/webstorage_links/17187/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3248,
+        "title": "Hands-On Machine Learning with Scikit-Learn and TensorFlow",
+        "img": "http://image.banshujiang.cn/3248.jpeg?timestamp=1674809055265",
+        "author": "Aurélien Géron",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3248/webstorage_links/17132/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3248/webstorage_links/17133/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/3248/webstorage_links/17131/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3247,
+        "title": "Fundamentals of Deep Learning",
+        "img": "http://image.banshujiang.cn/3247.jpeg?timestamp=1674808980745",
+        "author": "Nikhil Buduma",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3247/webstorage_links/17126/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3247/webstorage_links/17127/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3230,
+        "title": "TinyML",
+        "img": "http://image.banshujiang.cn/3230.jpeg?timestamp=1674648493451",
+        "author": "Pete Warden and Daniel Situnayake",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3230/webstorage_links/17059/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3229,
+        "title": "Thoughtful Machine Learning with Python",
+        "img": "http://image.banshujiang.cn/3229.jpeg?timestamp=1674648432734",
+        "author": "Matthew Kirk",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3229/webstorage_links/17056/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3229/webstorage_links/17057/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3198,
+        "title": "Learning TensorFlow",
+        "img": "http://image.banshujiang.cn/3198.jpeg?timestamp=1672470202887",
+        "author": "Tom Hope, Yehezkel S. Resheff, and Itay Lieder",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3198/webstorage_links/16921/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3198/webstorage_links/16922/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3179,
+        "title": "Deep Learning: A Practitioner’s Approach",
+        "img": "http://image.banshujiang.cn/3179.jpeg?timestamp=1672467843356",
+        "author": "Josh Patterson and Adam Gibson",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3179/webstorage_links/16828/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3179/webstorage_links/16827/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/3179/webstorage_links/16826/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3154,
+        "title": "Machine Learning with Tensorflow",
+        "img": "http://image.banshujiang.cn/3154.jpeg?timestamp=1668843735087",
+        "author": "Nishant Shukla",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3154/webstorage_links/16719/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3154/webstorage_links/16720/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3153,
+        "title": "Machine Learning for Business",
+        "img": "http://image.banshujiang.cn/3153.jpeg?timestamp=1668843653669",
+        "author": "Doug Hudgeon and Richard Nichol",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3153/webstorage_links/16716/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3116,
+        "title": "Deep Learning with TensorFlow and Keras 3rd Edition",
+        "img": "https://imagebsj.netlify.app/3116.jpeg",
+        "author": "Amita Kapoor, Antonio Gulli and Sujit Pal",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3116/webstorage_links/16528/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3116/webstorage_links/16527/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3116/webstorage_links/16526/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3112,
+        "title": "TensorFlow in Action",
+        "img": "https://imagebsj.netlify.app/3112.jpeg",
+        "author": "Thushan Ganegedara",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3112/webstorage_links/16504/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3112/webstorage_links/16506/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3112/webstorage_links/16505/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3096,
+        "title": "Lean AI",
+        "img": "https://imagebsj.netlify.app/3096.jpeg",
+        "author": "Lomit Patel",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3096/webstorage_links/16432/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3090,
+        "title": "Building Machine Learning Powered Applications",
+        "img": "https://imagebsj.netlify.app/3090.jpeg",
+        "author": "Emmanuel Ameisen",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3090/webstorage_links/16412/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3090/webstorage_links/16411/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3069,
+        "title": "Deep Learning with JavaScript",
+        "img": "https://imagebsj.netlify.app/3069.jpeg",
+        "author": "Shanqing Cai",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3069/webstorage_links/16301/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3069/webstorage_links/16300/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3069/webstorage_links/16302/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3057,
+        "title": "The AI Organization",
+        "img": "https://imagebsj.netlify.app/3057.jpeg",
+        "author": "David Carmona",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3057/webstorage_links/16248/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3053,
+        "title": "Reliable Machine Learning",
+        "img": "https://imagebsj.netlify.app/3053.jpeg",
+        "author": "Cathy Chen, Niall Richard Murphy, Kranti Parisa, D. Sculley, and Todd Underwood",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3053/webstorage_links/16238/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3053/webstorage_links/16237/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3030,
+        "title": "Natural Language Processing with Python and Spacy",
+        "img": "https://imagebsj.netlify.app/3030.jpeg",
+        "author": "Yuli Vasiliev",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3030/webstorage_links/16149/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3029,
+        "title": "Zero to AI",
+        "img": "https://imagebsj.netlify.app/3029.jpeg",
+        "author": "Gianluca Mauro and Nicolò Valigi",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3029/webstorage_links/16146/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3029/webstorage_links/16147/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3029/webstorage_links/16145/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3025,
+        "title": "Succeeding with AI",
+        "img": "https://imagebsj.netlify.app/3025.jpeg",
+        "author": "Veljko Krunic",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3025/webstorage_links/16127/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3025/webstorage_links/16126/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3022,
+        "title": "Machine Learning with R, the tidyverse, and mlr",
+        "img": "https://imagebsj.netlify.app/3022.jpeg",
+        "author": "Hefin I. Rhys",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3022/webstorage_links/16117/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3022/webstorage_links/16115/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3022/webstorage_links/16116/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3021,
+        "title": "Getting Started with Natural Language Processing",
+        "img": "https://imagebsj.netlify.app/3021.jpeg",
+        "author": "Ekaterina Kochmar",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3021/webstorage_links/16108/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3017,
+        "title": "Deep Reinforcement Learning in Action",
+        "img": "https://imagebsj.netlify.app/3017.jpeg",
+        "author": "Brandon Brown and Alexander Zai",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3017/webstorage_links/16096/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2972,
+        "title": "Machine Learning for Financial Risk Management with Python",
+        "img": "https://imagebsj.netlify.app/2972.jpeg",
+        "author": "Abdullah Karasan",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2972/webstorage_links/10963/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2972/webstorage_links/10962/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/2972/webstorage_links/10961/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2966,
+        "title": "GPT-3",
+        "img": "https://imagebsj.netlify.app/2966.jpeg",
+        "author": "Sandra Kublik and Shubham Saboo",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2966/webstorage_links/10937/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2966/webstorage_links/10936/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2953,
+        "title": "Designing Machine Learning Systems",
+        "img": "https://imagebsj.netlify.app/2953.jpeg",
+        "author": "Chip Huyen",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2953/webstorage_links/10889/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2953/webstorage_links/10888/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2945,
+        "title": "Azure AI Services at Scale for Cloud, Mobile, and Edge",
+        "img": "https://imagebsj.netlify.app/2945.jpeg",
+        "author": "Simon Bisson, Mary Branscombe, Chris Hoder, and Anand Raman",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2945/webstorage_links/10853/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2945/webstorage_links/10852/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2943,
+        "title": "AI-Powered Business Intelligence",
+        "img": "https://imagebsj.netlify.app/2943.jpeg",
+        "author": "Tobias Zwingmann",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2943/webstorage_links/10843/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2943/webstorage_links/10842/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/2943/webstorage_links/10841/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2932,
+        "title": "Interpretable AI",
+        "img": "https://imagebsj.netlify.app/2932.jpeg",
+        "author": "Ajay Thampi",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2932/webstorage_links/10783/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2932/webstorage_links/10782/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/2932/webstorage_links/10781/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2930,
+        "title": "Inside Deep Learning",
+        "img": "https://imagebsj.netlify.app/2930.jpeg",
+        "author": "Edward Raff",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2930/webstorage_links/10773/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2930/webstorage_links/10775/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/2930/webstorage_links/10774/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2923,
+        "title": "Deep Learning with R 2nd Edition",
+        "img": "https://imagebsj.netlify.app/2923.jpeg",
+        "author": "François Chollet with Tomasz Kalinowski and J.J. Allaire",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2923/webstorage_links/10733/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2922,
+        "title": "Deep Learning and the Game of Go",
+        "img": "https://imagebsj.netlify.app/2922.jpeg",
+        "author": "Max Pumperla and Kevin Ferguson",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2922/webstorage_links/10731/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2922/webstorage_links/10730/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2879,
+        "title": "Practical Natural Language Processing",
+        "img": "https://imagebsj.netlify.app/2879.jpeg",
+        "author": "Sowmya Vajjala, Bodhisattwa Majumder, Anuj Gupta, and Harshit Surana",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2879/webstorage_links/10545/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2879/webstorage_links/10544/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2878,
+        "title": "Natural Language Processing with Transformers",
+        "img": "https://imagebsj.netlify.app/2878.jpeg",
+        "author": "Lewis Tunstall, Leandro von Werra, and Thomas Wolf",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2878/webstorage_links/10540/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2878/webstorage_links/10541/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2843,
+        "title": "Analytical Skills for AI and Data Science",
+        "img": "https://imagebsj.netlify.app/2843.jpeg",
+        "author": "Daniel Vaughan",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2843/webstorage_links/10419/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2843/webstorage_links/10418/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2840,
+        "title": "Math for Deep Learning",
+        "img": "https://imagebsj.netlify.app/2840.jpeg",
+        "author": "Ronald T. Kneusel",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2840/webstorage_links/10404/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2840/webstorage_links/10403/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/2840/webstorage_links/10405/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2831,
+        "title": "Machine Learning Engineering in Action",
+        "img": "https://imagebsj.netlify.app/2831.jpeg",
+        "author": "Ben Wilson",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2831/webstorage_links/10351/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2831/webstorage_links/10349/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/2831/webstorage_links/10350/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2821,
+        "title": "Automated Machine Learning in Action",
+        "img": "https://imagebsj.netlify.app/2821.jpeg",
+        "author": "Qingquan Song",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2821/webstorage_links/10289/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2821/webstorage_links/10290/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/2821/webstorage_links/10291/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2748,
+        "title": "AI and Machine Learning for On-Device Development",
+        "img": "https://imagebsj.netlify.app/2748.jpeg",
+        "author": "Laurence Moroney",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2748/webstorage_links/9979/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2748/webstorage_links/9978/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2732,
+        "title": "Machine Learning Bookcamp",
+        "img": "https://imagebsj.netlify.app/2732.jpeg",
+        "author": "Alexey Grigorev",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2732/webstorage_links/9904/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2732/webstorage_links/9905/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/2732/webstorage_links/9903/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2730,
+        "title": "grokking Machine Learning",
+        "img": "https://imagebsj.netlify.app/2730.jpeg",
+        "author": "Luis G. Serrano",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2730/webstorage_links/9893/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2730/webstorage_links/9891/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/2730/webstorage_links/9892/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2729,
+        "title": "Graph-Powered Machine Learning",
+        "img": "https://imagebsj.netlify.app/2729.jpeg",
+        "author": "Alessandro Negro",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2729/webstorage_links/9887/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2729/webstorage_links/9885/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/2729/webstorage_links/9886/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2725,
+        "title": "Deep Learning with Python 2nd Edition",
+        "img": "https://imagebsj.netlify.app/2725.jpeg",
+        "author": "François Chollet",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2725/webstorage_links/9863/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2725/webstorage_links/9862/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/2725/webstorage_links/9861/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2724,
+        "title": "Deep Learning Patterns and Practices",
+        "img": "https://imagebsj.netlify.app/2724.jpeg",
+        "author": "Andrew Ferlitsch",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2724/webstorage_links/9857/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2724/webstorage_links/9856/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/2724/webstorage_links/9855/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2722,
+        "title": "Conversational AI",
+        "img": "https://imagebsj.netlify.app/2722.jpeg",
+        "author": "Andrew R. Freed",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2722/webstorage_links/9845/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2722/webstorage_links/9843/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/2722/webstorage_links/9844/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2719,
+        "title": "Machine Learning",
+        "img": "https://imagebsj.netlify.app/2719.jpeg",
+        "author": "Zhi-Hua Zhou",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2719/webstorage_links/9827/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2719/webstorage_links/9826/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2699,
+        "title": "TensorFlow 2 Pocket Reference",
+        "img": "https://imagebsj.netlify.app/2699.jpeg",
+        "author": "KC Tung",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2699/webstorage_links/9617/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2699/webstorage_links/9618/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2698,
+        "title": "Practical Machine Learning for Computer Vision",
+        "img": "https://imagebsj.netlify.app/2698.jpeg",
+        "author": "Valliappa Lakshmanan, Martin Görner, and Ryan Gillard",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2698/webstorage_links/9615/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2698/webstorage_links/9616/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2694,
+        "title": "Transfer Learning for Natural Language Processing",
+        "img": "https://imagebsj.netlify.app/2694.jpeg",
+        "author": "Paul Azunre",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2694/webstorage_links/9606/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2694/webstorage_links/9608/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/2694/webstorage_links/9607/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2686,
+        "title": "Artificial Intelligence A Modern Approach 4th Edition",
+        "img": "https://imagebsj.netlify.app/2686.jpeg",
+        "author": "Ming-Wei Chang",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2686/webstorage_links/9571/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2657,
+        "title": "Human-in-the-Loop Machine Learning",
+        "img": "https://imagebsj.netlify.app/2657.jpeg",
+        "author": "Robert (munro) Monarch",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2657/webstorage_links/9443/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2657/webstorage_links/9445/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/2657/webstorage_links/9444/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2647,
+        "title": "Recommender System with Machine Learning and Artificial Intelligence",
+        "img": "https://imagebsj.netlify.app/2647.jpeg",
+        "author": "Sachi Nandan Mohanty, Jyotir Moy Chatterjee, Sarika Jain, Ahmed A. Elngar and Priya Gupta",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2647/webstorage_links/9303/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2627,
+        "title": "Learning TensorFlow.js",
+        "img": "https://imagebsj.netlify.app/2627.jpeg",
+        "author": "Gant Laborde",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2627/webstorage_links/9203/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2627/webstorage_links/9204/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2624,
+        "title": "Applied Natural Language Processing in the Enterprise",
+        "img": "https://imagebsj.netlify.app/2624.jpeg",
+        "author": "Ankur A. Patel and Ajay Uppili Arasanipalai",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2624/webstorage_links/9145/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2624/webstorage_links/9146/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2623,
+        "title": "AI-First Healthcare",
+        "img": "https://imagebsj.netlify.app/2623.jpeg",
+        "author": "Kerrie L. Holley and Siupo Becker, M.D.",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2623/webstorage_links/9140/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2623/webstorage_links/9139/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2608,
+        "title": "Deep Learning",
+        "img": "https://imagebsj.netlify.app/2608.jpeg",
+        "author": "Andrew Glassner",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2608/webstorage_links/9100/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2608/webstorage_links/9101/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2593,
+        "title": "The AI Ladder",
+        "img": "https://imagebsj.netlify.app/2593.jpeg",
+        "author": "Rob Thomas and Paul Zikopoulos",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2593/webstorage_links/9028/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2593/webstorage_links/9029/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2584,
+        "title": "Practical Deep Learning for Cloud, Mobile, and Edge",
+        "img": "https://imagebsj.netlify.app/2584.jpeg",
+        "author": "Anirudh Koul, Siddha Ganju, and Meher Kasam",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2584/webstorage_links/9042/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2584/webstorage_links/9043/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2582,
+        "title": "Natural Language Processing with Spark NLP",
+        "img": "https://imagebsj.netlify.app/2582.jpeg",
+        "author": "Alex Thomas",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2582/webstorage_links/9045/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2578,
+        "title": "Machine Learning Design Patterns",
+        "img": "https://imagebsj.netlify.app/2578.jpeg",
+        "author": "Valliappa Lakshmanan, Sara Robinson, and Michael Munn",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2578/webstorage_links/8971/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2573,
+        "title": "Kubeflow for Machine Learning",
+        "img": "https://imagebsj.netlify.app/2573.jpeg",
+        "author": "Trevor Grant, Holden Karau, Boris Lublinsky, Richard Liu and Ilan Filonenko",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2573/webstorage_links/8979/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2567,
+        "title": "Deep Learning for Coders with fastai and PyTorch",
+        "img": "https://imagebsj.netlify.app/2567.jpeg",
+        "author": "Jeremy Howard and Sylvain Gugger",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2567/webstorage_links/8945/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2567/webstorage_links/8946/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2561,
+        "title": "Building Machine Learning Pipelines",
+        "img": "https://imagebsj.netlify.app/2561.jpeg",
+        "author": "Hannes Hapke and Catherine Nelson",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2561/webstorage_links/8936/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2561/webstorage_links/8937/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2556,
+        "title": "Artificial Intelligence in Finance",
+        "img": "https://imagebsj.netlify.app/2556.jpeg",
+        "author": "Yves Hilpisch",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2556/webstorage_links/8913/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2556/webstorage_links/8914/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2554,
+        "title": "Practical Artificial Intelligence with Swift",
+        "img": "https://imagebsj.netlify.app/2554.jpeg",
+        "author": "Mars Geldard, Jonathon Manning, Paris Buttfield-Addison and Tim Nugent",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2554/webstorage_links/8911/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2550,
+        "title": "AI and Machine Learning for Coders",
+        "img": "https://imagebsj.netlify.app/2550.jpeg",
+        "author": "Laurence Moroney",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2550/webstorage_links/8895/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2541,
+        "title": "Probabilistic Deep Learning",
+        "img": "https://imagebsj.netlify.app/2541.jpeg",
+        "author": "Oliver Dürr, Beate Sick with Elvis Murina",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2541/webstorage_links/8874/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2541/webstorage_links/8876/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/2541/webstorage_links/8875/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2534,
+        "title": "grokking Artificial Intelligence Algorithms",
+        "img": "https://imagebsj.netlify.app/2534.jpeg",
+        "author": "Rishal Hurbans",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2534/webstorage_links/8855/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2534/webstorage_links/8857/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/2534/webstorage_links/8856/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2532,
+        "title": "Deep Learning with PyTorch Manning",
+        "img": "https://imagebsj.netlify.app/2532.jpeg",
+        "author": "Eli Stevens, Luca Antiga and Thomas Viehmann",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2532/webstorage_links/8851/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2532/webstorage_links/8853/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/2532/webstorage_links/8852/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2508,
+        "title": "Deep Learning for Vision Systems",
+        "img": "https://imagebsj.netlify.app/2508.jpeg",
+        "author": "Mohamed Elgendy",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2508/webstorage_links/8691/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2508/webstorage_links/8693/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/2508/webstorage_links/8692/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2506,
+        "title": "AI as a Service",
+        "img": "https://imagebsj.netlify.app/2506.jpeg",
+        "author": "Peter Elger and Eóin Shanaghy",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2506/webstorage_links/8687/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2506/webstorage_links/8689/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/2506/webstorage_links/8688/to_link"
+            }
+        ]
+    }
+]

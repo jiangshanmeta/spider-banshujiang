@@ -64,6 +64,22 @@
         ]
     },
     {
+        "id": 4295,
+        "title": "21st Century C 2nd Edition",
+        "img": "http://image.banshujiang.cn/4295.jpeg?timestamp=1720240158960",
+        "author": "Ben Klemens",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4295/webstorage_links/21373/to_link"
+            }
+        ]
+    },
+    {
         "id": 4219,
         "title": "C语言接口与实现：创建可重用软件的技术",
         "img": "http://image.banshujiang.cn/4219.jpeg?timestamp=1718974528677",
@@ -311,27 +327,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3703/webstorage_links/18996/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3687,
-        "title": "Understanding and Using C Pointers",
-        "img": "http://image.banshujiang.cn/3687.jpeg?timestamp=1711699263766",
-        "author": "Richard Reese",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "C",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3687/webstorage_links/18933/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3687/webstorage_links/18932/to_link"
             }
         ]
     }

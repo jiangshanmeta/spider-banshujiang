@@ -1,5 +1,21 @@
 [
     {
+        "id": 4295,
+        "title": "21st Century C 2nd Edition",
+        "img": "http://image.banshujiang.cn/4295.jpeg?timestamp=1720240158960",
+        "author": "Ben Klemens",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4295/webstorage_links/21373/to_link"
+            }
+        ]
+    },
+    {
         "id": 4219,
         "title": "C语言接口与实现：创建可重用软件的技术",
         "img": "http://image.banshujiang.cn/4219.jpeg?timestamp=1718974528677",
@@ -326,32 +342,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/2636/webstorage_links/9221/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2500,
-        "title": "Effective C",
-        "img": "https://imagebsj.netlify.app/2500.jpeg",
-        "author": "Robert C. Seacord",
-        "language": "英文",
-        "publishYear": 2020,
-        "programLanguage": "C",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2500/webstorage_links/16053/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2500/webstorage_links/16052/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/2500/webstorage_links/16051/to_link"
             }
         ]
     }

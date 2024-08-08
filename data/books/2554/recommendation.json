@@ -1,5 +1,188 @@
 [
     {
+        "id": 4326,
+        "title": "Spark机器学习",
+        "img": "http://image.banshujiang.cn/4326.jpeg?timestamp=1721310065443",
+        "author": "[南非]Nick Pentreath [译]蔡立宇 黄章帅 周济民",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4326/webstorage_links/21523/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4322,
+        "title": "Swift by Tutorials",
+        "img": "http://image.banshujiang.cn/4322.jpeg?timestamp=1721304809129",
+        "author": "raywenderlich.com Tutorial Team",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4322/webstorage_links/21511/to_link"
+            },
+            {
+                "fmt": "CODE",
+                "title": "城通网盘",
+                "link": "/e_books/4322/webstorage_links/21510/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4315,
+        "title": "Programming iOS 8 5th Edition",
+        "img": "http://image.banshujiang.cn/4315.jpeg?timestamp=1720264409455",
+        "author": "Matt Neuburg",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4315/webstorage_links/21473/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4315/webstorage_links/21471/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4315/webstorage_links/21472/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4315/webstorage_links/21470/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4293,
+        "title": "iOS 8 by Tutorials",
+        "img": "http://image.banshujiang.cn/4293.jpeg?timestamp=1720236797275",
+        "author": "raywenderlich.com Tutorial Team",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4293/webstorage_links/21366/to_link"
+            },
+            {
+                "fmt": "CODE",
+                "title": "城通网盘",
+                "link": "/e_books/4293/webstorage_links/21367/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4290,
+        "title": "Core Data by Tutorials: iOS8 and Swift Edition",
+        "img": "http://image.banshujiang.cn/4290.jpeg?timestamp=1720097983227",
+        "author": "Aaron Douglas, Saul Mora, Matthew Morey and Pietro Rea",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4290/webstorage_links/21359/to_link"
+            },
+            {
+                "fmt": "CODE",
+                "title": "城通网盘",
+                "link": "/e_books/4290/webstorage_links/21358/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4203,
+        "title": "AI·未来",
+        "img": "http://image.banshujiang.cn/4203.jpeg?timestamp=1718630129917",
+        "author": "李开复",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4203/webstorage_links/20968/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4203/webstorage_links/20969/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4203/webstorage_links/20967/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4199,
+        "title": "Machine Learning with R",
+        "img": "http://image.banshujiang.cn/4199.jpeg?timestamp=1718626986663",
+        "author": "Brett Lantz",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4199/webstorage_links/20947/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4199/webstorage_links/20946/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4140,
+        "title": "AI极简经济学",
+        "img": "http://image.banshujiang.cn/4140.jpeg?timestamp=1718464469066",
+        "author": "[加]阿杰伊·阿格拉沃尔、乔舒亚·甘斯、阿维·戈德法布 [译]闾佳",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4140/webstorage_links/20656/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4140/webstorage_links/20657/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4140/webstorage_links/20655/to_link"
+            }
+        ]
+    },
+    {
         "id": 4136,
         "title": "SwiftUI Apprentice 2nd Edition",
         "img": "http://image.banshujiang.cn/4136.jpeg?timestamp=1718463868851",
@@ -21,317 +204,139 @@
         ]
     },
     {
-        "id": 3956,
-        "title": "iOS 17 Programming for Beginners 8th Edition",
-        "img": "http://image.banshujiang.cn/3956.jpeg?timestamp=1714638839904",
-        "author": "Ahmad Sahar",
+        "id": 4133,
+        "title": "Programming Large Language Models with Azure Open AI",
+        "img": "http://image.banshujiang.cn/4133.jpeg?timestamp=1718463465019",
+        "author": "Francesco Esposito",
         "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "Swift",
+        "publishYear": 2024,
+        "programLanguage": "",
         "formats": [
             {
                 "fmt": "PDF",
                 "title": "城通网盘",
-                "link": "/e_books/3956/webstorage_links/20000/to_link"
+                "link": "/e_books/4133/webstorage_links/20631/to_link"
             },
             {
                 "fmt": "EPUB",
                 "title": "城通网盘",
-                "link": "/e_books/3956/webstorage_links/19999/to_link"
+                "link": "/e_books/4133/webstorage_links/20630/to_link"
             }
         ]
     },
     {
-        "id": 3908,
-        "title": "iOS 17 App Development Essentials",
-        "img": "http://image.banshujiang.cn/3908.jpeg?timestamp=1714570396489",
-        "author": "Neil Smyth",
+        "id": 4131,
+        "title": "AI for Absolute Beginners",
+        "img": "http://image.banshujiang.cn/4131.jpeg?timestamp=1718457650293",
+        "author": "Oliver Theobald",
         "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "Swift",
+        "publishYear": 2024,
+        "programLanguage": "",
         "formats": [
             {
                 "fmt": "PDF",
                 "title": "城通网盘",
-                "link": "/e_books/3908/webstorage_links/19814/to_link"
+                "link": "/e_books/4131/webstorage_links/20623/to_link"
             },
             {
                 "fmt": "EPUB",
                 "title": "城通网盘",
-                "link": "/e_books/3908/webstorage_links/19813/to_link"
+                "link": "/e_books/4131/webstorage_links/20622/to_link"
             }
         ]
     },
     {
-        "id": 3623,
-        "title": "SwiftUI Animations by Tutorials",
-        "img": "http://image.banshujiang.cn/3623.jpeg?timestamp=1708772434058",
-        "author": "Irina Galata &amp; Bill Morefield",
+        "id": 4118,
+        "title": "Neural Networks and Deep Learning 2nd Edition",
+        "img": "http://image.banshujiang.cn/4118.jpeg?timestamp=1718112929395",
+        "author": "Charu C. Aggarwal",
         "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4118/webstorage_links/20587/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4118/webstorage_links/20586/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4113,
+        "title": "Math and Architectures of Deep Learning",
+        "img": "http://image.banshujiang.cn/4113.jpeg?timestamp=1718111458437",
+        "author": "Krishnendu Chaudhury",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4113/webstorage_links/20575/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4113/webstorage_links/20574/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4111,
+        "title": "Inside AI",
+        "img": "http://image.banshujiang.cn/4111.jpeg?timestamp=1718111284114",
+        "author": "Akli Adjaoute",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4111/webstorage_links/20569/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4111/webstorage_links/20568/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4095,
+        "title": "AI新生：破解人机共存密码",
+        "img": "http://image.banshujiang.cn/4095.jpeg?timestamp=1717330143560",
+        "author": "[美]斯图尔特·罗素 [译]张羿",
+        "language": "中文",
         "publishYear": 2022,
-        "programLanguage": "Swift",
+        "programLanguage": "",
         "formats": [
             {
                 "fmt": "PDF",
                 "title": "城通网盘",
-                "link": "/e_books/3623/webstorage_links/18703/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3623/webstorage_links/18702/to_link"
+                "link": "/e_books/4095/webstorage_links/20511/to_link"
             }
         ]
     },
     {
-        "id": 3618,
-        "title": "Push Notifications by Tutorials 4th Edition",
-        "img": "http://image.banshujiang.cn/3618.jpeg?timestamp=1708054143788",
-        "author": "Scott Grosch",
-        "language": "英文",
+        "id": 4094,
+        "title": "人工智能:现代方法（第4版）",
+        "img": "http://image.banshujiang.cn/4094.jpeg?timestamp=1717329907858",
+        "author": "[美]斯图尔特•罗素 彼得•诺维格 [译]",
+        "language": "中文",
         "publishYear": 2022,
-        "programLanguage": "Swift",
+        "programLanguage": "",
         "formats": [
             {
                 "fmt": "PDF",
                 "title": "城通网盘",
-                "link": "/e_books/3618/webstorage_links/18687/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3618/webstorage_links/18686/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3559,
-        "title": "Modern Concurrency in Swift 2nd Edition",
-        "img": "http://image.banshujiang.cn/3559.jpeg?timestamp=1697274441182",
-        "author": "Marin Todorov",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3559/webstorage_links/18497/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3559/webstorage_links/18496/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3500,
-        "title": "SwiftUI Essentials iOS 16 Edition",
-        "img": "http://image.banshujiang.cn/3500.jpeg?timestamp=1696560670634",
-        "author": "",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3500/webstorage_links/18263/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3500/webstorage_links/18262/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3482,
-        "title": "iOS 16 App Development Essentials UIKit Edition",
-        "img": "http://image.banshujiang.cn/3482.jpeg?timestamp=1696510994983",
-        "author": "",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3482/webstorage_links/18186/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3482/webstorage_links/18187/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3476,
-        "title": "Swift Apprentice",
-        "img": "http://image.banshujiang.cn/3476.jpeg?timestamp=1696506533400",
-        "author": "Janie Clayton",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3476/webstorage_links/18159/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3449,
-        "title": "Mastering Swift 3 - Linux",
-        "img": "http://image.banshujiang.cn/3449.jpeg?timestamp=1691892039701",
-        "author": "Jon Hoffman",
-        "language": "英文",
-        "publishYear": 2017,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3449/webstorage_links/18010/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3449/webstorage_links/18009/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/3449/webstorage_links/18011/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3438,
-        "title": "iOS 10 Programming for Beginners",
-        "img": "http://image.banshujiang.cn/3438.jpeg?timestamp=1686968768234",
-        "author": "Craig Clayton",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3438/webstorage_links/17947/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3438/webstorage_links/17948/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/3438/webstorage_links/17949/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3424,
-        "title": "Swift Development for the Apple Watch",
-        "img": "http://image.banshujiang.cn/3424.jpeg?timestamp=1686457171825",
-        "author": "Jon Manning and Paris Buttfield-Addison",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3424/webstorage_links/17873/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3424/webstorage_links/17872/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3416,
-        "title": "Programming iOS 10 7th Edition",
-        "img": "http://image.banshujiang.cn/3416.jpeg?timestamp=1681544166216",
-        "author": "Matt Neuburg",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3416/webstorage_links/17842/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3416/webstorage_links/17843/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3405,
-        "title": "Learning Swift 2nd Edition",
-        "img": "http://image.banshujiang.cn/3405.jpeg?timestamp=1681021583194",
-        "author": "Jon Manning, Paris Buttfield-Addison, and Tim Nugent",
-        "language": "英文",
-        "publishYear": 2017,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3405/webstorage_links/17796/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3405/webstorage_links/17797/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3395,
-        "title": "iOS 10 Swift Programming Cookbook",
-        "img": "http://image.banshujiang.cn/3395.jpeg?timestamp=1677326118624",
-        "author": "Vandad Nahavandipoor",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3395/webstorage_links/17757/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3394,
-        "title": "iOS 10 Programming Fundamentals with Swift 3rd Edition",
-        "img": "http://image.banshujiang.cn/3394.jpeg?timestamp=1677326042838",
-        "author": "Matt Neuburg",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3394/webstorage_links/17755/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3394/webstorage_links/17754/to_link"
+                "link": "/e_books/4094/webstorage_links/20509/to_link"
             }
         ]
     }

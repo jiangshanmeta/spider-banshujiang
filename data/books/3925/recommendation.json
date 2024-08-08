@@ -1,5 +1,53 @@
 [
     {
+        "id": 4282,
+        "title": "C#敏捷开发实践",
+        "img": "http://image.banshujiang.cn/4282.jpeg?timestamp=1720096859899",
+        "author": "[英]Gary McLean Hall [译]许顺强",
+        "language": "中文",
+        "publishYear": 2016,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4282/webstorage_links/21329/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4281,
+        "title": "C#经典实例（第4版）",
+        "img": "http://image.banshujiang.cn/4281.jpeg?timestamp=1720096746948",
+        "author": "[美]Jay Hilyard [译]徐敬德",
+        "language": "中文",
+        "publishYear": 2016,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4281/webstorage_links/21327/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4280,
+        "title": "C#并发编程经典实例",
+        "img": "http://image.banshujiang.cn/4280.jpeg?timestamp=1720096626819",
+        "author": "[美]Stephen Cleary [译]相银初",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4280/webstorage_links/21325/to_link"
+            }
+        ]
+    },
+    {
         "id": 4241,
         "title": "Programming Windows Store Apps with C#",
         "img": "http://image.banshujiang.cn/4241.jpeg?timestamp=1719061933942",
@@ -248,59 +296,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3698/webstorage_links/18976/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3686,
-        "title": "The Art of Unit Testing with Examples in .NET",
-        "img": "http://image.banshujiang.cn/3686.jpeg?timestamp=1711699204408",
-        "author": "Roy Osherove",
-        "language": "英文",
-        "publishYear": 2009,
-        "programLanguage": "C#",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3686/webstorage_links/18929/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3626,
-        "title": "The C# Type System",
-        "img": "http://image.banshujiang.cn/3626.jpeg?timestamp=1708773359023",
-        "author": "Steve Love",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "C#",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3626/webstorage_links/18714/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/3626/webstorage_links/18715/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3566,
-        "title": "Functional Programming with C#",
-        "img": "http://image.banshujiang.cn/3566.jpeg?timestamp=1705121499865",
-        "author": "Simon J. Painter",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "C#",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3566/webstorage_links/18513/to_link"
             }
         ]
     }

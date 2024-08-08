@@ -1,5 +1,99 @@
 [
     {
+        "id": 4322,
+        "title": "Swift by Tutorials",
+        "img": "http://image.banshujiang.cn/4322.jpeg?timestamp=1721304809129",
+        "author": "raywenderlich.com Tutorial Team",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4322/webstorage_links/21511/to_link"
+            },
+            {
+                "fmt": "CODE",
+                "title": "城通网盘",
+                "link": "/e_books/4322/webstorage_links/21510/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4315,
+        "title": "Programming iOS 8 5th Edition",
+        "img": "http://image.banshujiang.cn/4315.jpeg?timestamp=1720264409455",
+        "author": "Matt Neuburg",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4315/webstorage_links/21473/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4315/webstorage_links/21471/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4315/webstorage_links/21472/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4315/webstorage_links/21470/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4293,
+        "title": "iOS 8 by Tutorials",
+        "img": "http://image.banshujiang.cn/4293.jpeg?timestamp=1720236797275",
+        "author": "raywenderlich.com Tutorial Team",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4293/webstorage_links/21366/to_link"
+            },
+            {
+                "fmt": "CODE",
+                "title": "城通网盘",
+                "link": "/e_books/4293/webstorage_links/21367/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4290,
+        "title": "Core Data by Tutorials: iOS8 and Swift Edition",
+        "img": "http://image.banshujiang.cn/4290.jpeg?timestamp=1720097983227",
+        "author": "Aaron Douglas, Saul Mora, Matthew Morey and Pietro Rea",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4290/webstorage_links/21359/to_link"
+            },
+            {
+                "fmt": "CODE",
+                "title": "城通网盘",
+                "link": "/e_books/4290/webstorage_links/21358/to_link"
+            }
+        ]
+    },
+    {
         "id": 4136,
         "title": "SwiftUI Apprentice 2nd Edition",
         "img": "http://image.banshujiang.cn/4136.jpeg?timestamp=1718463868851",
@@ -243,95 +337,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/3395/webstorage_links/17757/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3394,
-        "title": "iOS 10 Programming Fundamentals with Swift 3rd Edition",
-        "img": "http://image.banshujiang.cn/3394.jpeg?timestamp=1677326042838",
-        "author": "Matt Neuburg",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3394/webstorage_links/17755/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3394/webstorage_links/17754/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3371,
-        "title": "iOS Programming: The Big Nerd Ranch Guide",
-        "img": "http://image.banshujiang.cn/3371.jpeg?timestamp=1677310592390",
-        "author": "Christian Keur and Aaron Hillegass",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3371/webstorage_links/17662/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3371/webstorage_links/17663/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3367,
-        "title": "iOS 10 by Tutorials",
-        "img": "http://image.banshujiang.cn/3367.jpeg?timestamp=1677297178073",
-        "author": "Sam Davies, Jeff Rames, &amp; Rich Turton",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3367/webstorage_links/17626/to_link"
-            },
-            {
-                "fmt": "CODE",
-                "title": "城通网盘",
-                "link": "/e_books/3367/webstorage_links/17627/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3300,
-        "title": "SwiftUI by Tutorials",
-        "img": "http://image.banshujiang.cn/3300.jpeg?timestamp=1676087998370",
-        "author": "Antonio Bello, Phil Łaszkowicz, Bill Morefield &amp; Audrey Tam",
-        "language": "英文",
-        "publishYear": 2019,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "CODE",
-                "title": "城通网盘",
-                "link": "/e_books/3300/webstorage_links/17411/to_link"
-            },
-            {
-                "fmt": "PDF",
-                "title": "百度网盘",
-                "link": "/e_books/3300/webstorage_links/17410/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "百度网盘",
-                "link": "/e_books/3300/webstorage_links/17409/to_link"
             }
         ]
     }

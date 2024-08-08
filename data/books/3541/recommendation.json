@@ -138,180 +138,180 @@
         ]
     },
     {
-        "id": 4242,
-        "title": "Python Data Visualization Cookbook",
-        "img": "http://image.banshujiang.cn/4242.jpeg?timestamp=1719062000419",
-        "author": "Igor Milovanović",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4242/webstorage_links/21161/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4242/webstorage_links/21159/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4242/webstorage_links/21160/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4223,
-        "title": "Flask Web开发： 基于Python的Web应用开发实战",
-        "img": "http://image.banshujiang.cn/4223.jpeg?timestamp=1718975191413",
-        "author": "[美]Miguel Grinberg [译]安道",
+        "id": 4327,
+        "title": "流畅的Python(第2版)",
+        "img": "http://image.banshujiang.cn/4327.jpeg?timestamp=1721311271647",
+        "author": "[巴西]Luciano Ramalho [译]安道",
         "language": "中文",
-        "publishYear": 2015,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4223/webstorage_links/21073/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4201,
-        "title": "“笨办法”学Python（第3版）",
-        "img": "http://image.banshujiang.cn/4201.jpeg?timestamp=1718629738605",
-        "author": "[美]Zed A.Shaw [译]王巍巍",
-        "language": "中文",
-        "publishYear": 2014,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4201/webstorage_links/20955/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4201/webstorage_links/20957/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4201/webstorage_links/20956/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4195,
-        "title": "Learning Cocoa with Objective-C 4th Edition",
-        "img": "http://image.banshujiang.cn/4195.jpeg?timestamp=1718626689060",
-        "author": "Jon Manning, Paris Buttfield-Addison and Tim Nugent",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Objective-C",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4195/webstorage_links/20933/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4195/webstorage_links/20932/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4181,
-        "title": "iOS Game Development Cookbook",
-        "img": "http://image.banshujiang.cn/4181.jpeg?timestamp=1718526992312",
-        "author": "Jonathon Manning and Paris Buttfield-Addison",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Objective-C",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4181/webstorage_links/20857/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4181/webstorage_links/20855/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4181/webstorage_links/20856/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4159,
-        "title": "Beginning iOS Programming",
-        "img": "http://image.banshujiang.cn/4159.jpeg?timestamp=1718514031016",
-        "author": "Nick Harris",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Objective-C",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4159/webstorage_links/20741/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4159/webstorage_links/20740/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4136,
-        "title": "SwiftUI Apprentice 2nd Edition",
-        "img": "http://image.banshujiang.cn/4136.jpeg?timestamp=1718463868851",
-        "author": "Audrey Tam and Caroline Begbie",
-        "language": "英文",
         "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4327/webstorage_links/21525/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4322,
+        "title": "Swift by Tutorials",
+        "img": "http://image.banshujiang.cn/4322.jpeg?timestamp=1721304809129",
+        "author": "raywenderlich.com Tutorial Team",
+        "language": "英文",
+        "publishYear": 2014,
         "programLanguage": "Swift",
         "formats": [
             {
                 "fmt": "PDF",
                 "title": "城通网盘",
-                "link": "/e_books/4136/webstorage_links/20641/to_link"
+                "link": "/e_books/4322/webstorage_links/21511/to_link"
             },
             {
-                "fmt": "EPUB",
+                "fmt": "CODE",
                 "title": "城通网盘",
-                "link": "/e_books/4136/webstorage_links/20640/to_link"
+                "link": "/e_books/4322/webstorage_links/21510/to_link"
             }
         ]
     },
     {
-        "id": 4130,
-        "title": "Web Scraping with Python 3rd Edition",
-        "img": "http://image.banshujiang.cn/4130.jpeg?timestamp=1718457543723",
-        "author": "Ryan Mitchell",
+        "id": 4316,
+        "title": "Python for Finance",
+        "img": "http://image.banshujiang.cn/4316.jpeg?timestamp=1720922889509",
+        "author": "Yves Hilpisch",
         "language": "英文",
-        "publishYear": 2024,
+        "publishYear": 2014,
         "programLanguage": "Python",
         "formats": [
             {
                 "fmt": "PDF",
                 "title": "城通网盘",
-                "link": "/e_books/4130/webstorage_links/20619/to_link"
+                "link": "/e_books/4316/webstorage_links/21481/to_link"
             },
             {
                 "fmt": "EPUB",
                 "title": "城通网盘",
-                "link": "/e_books/4130/webstorage_links/20618/to_link"
+                "link": "/e_books/4316/webstorage_links/21479/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4316/webstorage_links/21480/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4316/webstorage_links/21478/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4315,
+        "title": "Programming iOS 8 5th Edition",
+        "img": "http://image.banshujiang.cn/4315.jpeg?timestamp=1720264409455",
+        "author": "Matt Neuburg",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4315/webstorage_links/21473/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4315/webstorage_links/21471/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4315/webstorage_links/21472/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4315/webstorage_links/21470/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4311,
+        "title": "Lightweight Django",
+        "img": "http://image.banshujiang.cn/4311.jpeg?timestamp=1720263330361",
+        "author": "Julia Elman and Mark Lavin",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4311/webstorage_links/21452/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4311/webstorage_links/21451/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4294,
+        "title": "iOS Games by Tutorials 2nd Edition",
+        "img": "http://image.banshujiang.cn/4294.jpeg?timestamp=1720238539036",
+        "author": "raywenderlich.com Tutorial Team",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4294/webstorage_links/21371/to_link"
+            },
+            {
+                "fmt": "CODE",
+                "title": "城通网盘",
+                "link": "/e_books/4294/webstorage_links/21370/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4293,
+        "title": "iOS 8 by Tutorials",
+        "img": "http://image.banshujiang.cn/4293.jpeg?timestamp=1720236797275",
+        "author": "raywenderlich.com Tutorial Team",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4293/webstorage_links/21366/to_link"
+            },
+            {
+                "fmt": "CODE",
+                "title": "城通网盘",
+                "link": "/e_books/4293/webstorage_links/21367/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4292,
+        "title": "iOS 6 By Tutorials",
+        "img": "http://image.banshujiang.cn/4292.jpeg?timestamp=1720236619825",
+        "author": "raywenderlich.com Tutorial Team",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Objective-C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4292/webstorage_links/21363/to_link"
             }
         ]
     }

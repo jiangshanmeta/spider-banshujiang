@@ -1,5 +1,89 @@
 [
     {
+        "id": 4274,
+        "title": "Android基础教程（第4版）",
+        "img": "http://image.banshujiang.cn/4274.jpeg?timestamp=1719919822680",
+        "author": "[美]Ed Burnette [译]袁国忠",
+        "language": "中文",
+        "publishYear": 2016,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4274/webstorage_links/21313/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4271,
+        "title": "Android编程权威指南（第3版）",
+        "img": "http://image.banshujiang.cn/4271.jpeg?timestamp=1719919163278",
+        "author": "[美]Bill Phillips [译]王明发",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4271/webstorage_links/21307/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4270,
+        "title": "Android Hacker’s Handbook",
+        "img": "http://image.banshujiang.cn/4270.jpeg?timestamp=1719918847377",
+        "author": "Joshua J. Drake",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4270/webstorage_links/21305/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4270/webstorage_links/21303/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4270/webstorage_links/21304/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4261,
+        "title": "Efficient Android Threading",
+        "img": "http://image.banshujiang.cn/4261.jpeg?timestamp=1719904628368",
+        "author": "Anders Göransson",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4261/webstorage_links/21256/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4261/webstorage_links/21254/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4261/webstorage_links/21255/to_link"
+            }
+        ]
+    },
+    {
         "id": 4205,
         "title": "Android软件安全与逆向分析",
         "img": "http://image.banshujiang.cn/4205.jpeg?timestamp=1718630457428",
@@ -263,90 +347,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3702/webstorage_links/18992/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3653,
-        "title": "Embedded Android",
-        "img": "http://image.banshujiang.cn/3653.jpeg?timestamp=1709954126691",
-        "author": "Karim Yaghmour",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3653/webstorage_links/18813/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3653/webstorage_links/18812/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3641,
-        "title": "50 Android Hacks",
-        "img": "http://image.banshujiang.cn/3641.jpeg?timestamp=1709951083166",
-        "author": "Carlos Sessa",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3641/webstorage_links/18769/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3641/webstorage_links/18768/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3187,
-        "title": "Head First Android Development 2nd Edition",
-        "img": "http://image.banshujiang.cn/3187.jpeg?timestamp=1672468865468",
-        "author": "Dawn Griffiths",
-        "language": "英文",
-        "publishYear": 2017,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3187/webstorage_links/16869/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3187/webstorage_links/16870/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/3187/webstorage_links/16868/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2281,
-        "title": "RxJava for Android Developers",
-        "img": "https://imagebsj.netlify.app/2281.jpeg",
-        "author": "Timo Tuominen",
-        "language": "英文",
-        "publishYear": 2019,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2281/webstorage_links/15664/to_link"
             }
         ]
     }

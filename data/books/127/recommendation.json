@@ -32,6 +32,79 @@
         ]
     },
     {
+        "id": 4318,
+        "title": "WordPress: the missing manual 2nd Edition",
+        "img": "http://image.banshujiang.cn/4318.jpeg?timestamp=1720924817079",
+        "author": "Matthew MacDonald",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "PHP",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4318/webstorage_links/21489/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4318/webstorage_links/21487/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4318/webstorage_links/21488/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4314,
+        "title": "PHP Cookbook 3rd Edition",
+        "img": "http://image.banshujiang.cn/4314.jpeg?timestamp=1720264467996",
+        "author": "David Sklar and Adam Trachtenberg",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "PHP",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4314/webstorage_links/21465/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4314/webstorage_links/21463/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4314/webstorage_links/21464/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4267,
+        "title": "Learning PHP, MySQL, JavaScript, CSS &amp; HTML5 3nd Edition",
+        "img": "http://image.banshujiang.cn/4267.jpeg?timestamp=1719918558759",
+        "author": "Robin Nixon",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "PHP",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4267/webstorage_links/21287/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4267/webstorage_links/21288/to_link"
+            }
+        ]
+    },
+    {
         "id": 4161,
         "title": "Building Web Apps with WordPress",
         "img": "http://image.banshujiang.cn/4161.jpeg?timestamp=1718515346829",
@@ -264,69 +337,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/3456/webstorage_links/18052/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3441,
-        "title": "Learning PHP 7 High Performance",
-        "img": "http://image.banshujiang.cn/3441.jpeg?timestamp=1691891052902",
-        "author": "Altaf Hussain",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "PHP",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3441/webstorage_links/17966/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3441/webstorage_links/17965/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3277,
-        "title": "PHP 7 Data Structures and Algorithms",
-        "img": "http://image.banshujiang.cn/3277.jpeg?timestamp=1675570591329",
-        "author": "Mizanur Rahman",
-        "language": "英文",
-        "publishYear": 2017,
-        "programLanguage": "PHP",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3277/webstorage_links/17287/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/3277/webstorage_links/17286/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3052,
-        "title": "Programming PHP 4th Edition",
-        "img": "https://imagebsj.netlify.app/3052.jpeg",
-        "author": "Kevin Tatroe and Peter MacIntyre",
-        "language": "英文",
-        "publishYear": 2020,
-        "programLanguage": "PHP",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3052/webstorage_links/16233/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3052/webstorage_links/16234/to_link"
             }
         ]
     }

@@ -1,0 +1,307 @@
+[
+    {
+        "id": 4281,
+        "title": "C#经典实例（第4版）",
+        "img": "http://image.banshujiang.cn/4281.jpeg?timestamp=1720096746948",
+        "author": "[美]Jay Hilyard [译]徐敬德",
+        "language": "中文",
+        "publishYear": 2016,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4281/webstorage_links/21327/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4280,
+        "title": "C#并发编程经典实例",
+        "img": "http://image.banshujiang.cn/4280.jpeg?timestamp=1720096626819",
+        "author": "[美]Stephen Cleary [译]相银初",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4280/webstorage_links/21325/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4241,
+        "title": "Programming Windows Store Apps with C#",
+        "img": "http://image.banshujiang.cn/4241.jpeg?timestamp=1719061933942",
+        "author": "Matt Baxter-Reynolds and Iris Classon",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4241/webstorage_links/21155/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4241/webstorage_links/21154/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4237,
+        "title": "Professional C# 5.0 and .NET 4.5.1",
+        "img": "http://image.banshujiang.cn/4237.jpeg?timestamp=1719061544494",
+        "author": "Christian Nagel",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "C#",
+        "formats": []
+    },
+    {
+        "id": 4114,
+        "title": ".NET in Action 2nd Edition",
+        "img": "http://image.banshujiang.cn/4114.jpeg?timestamp=1718111531642",
+        "author": "Dustin Metzgar",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4114/webstorage_links/20577/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4082,
+        "title": "Clean Architecture with .NET",
+        "img": "http://image.banshujiang.cn/4082.jpeg?timestamp=1717238207513",
+        "author": "Dino Esposito",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4082/webstorage_links/20467/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4082/webstorage_links/20466/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4074,
+        "title": "The Art of Unit Testing with Examples in C# 2nd Edition",
+        "img": "http://image.banshujiang.cn/4074.jpeg?timestamp=1717203257243",
+        "author": "Roy Osherove",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4074/webstorage_links/20438/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4074/webstorage_links/20437/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3970,
+        "title": "Essential C# 12.0",
+        "img": "http://image.banshujiang.cn/3970.jpeg?timestamp=1714640723093",
+        "author": "Mark Michaelis",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3970/webstorage_links/20052/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3970/webstorage_links/20051/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3953,
+        "title": "C# 12 and .NET 8 – Modern Cross-Platform Development Fundamentals 8th Edition",
+        "img": "http://image.banshujiang.cn/3953.jpeg?timestamp=1714638439032",
+        "author": "Mark J. Price",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3953/webstorage_links/19988/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3953/webstorage_links/19987/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3926,
+        "title": "C# 12 Pocket Reference",
+        "img": "http://image.banshujiang.cn/3926.jpeg?timestamp=1714571885240",
+        "author": "Joseph Albahari and Ben Albahari",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3926/webstorage_links/19884/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3926/webstorage_links/19883/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3925,
+        "title": "C# 12 in a Nutshell",
+        "img": "http://image.banshujiang.cn/3925.jpeg?timestamp=1714571822184",
+        "author": "Joseph Albahari",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3925/webstorage_links/19880/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3925/webstorage_links/19879/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3896,
+        "title": "Visual Studio 2012 and .NET 4.5 Expert Development Cookbook",
+        "img": "http://image.banshujiang.cn/3896.jpeg?timestamp=1714483179836",
+        "author": "Abhishek Sur",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3896/webstorage_links/19762/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3896/webstorage_links/19761/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3801,
+        "title": ".NET 4.5 Parallel Extensions Cookbook",
+        "img": "http://image.banshujiang.cn/3801.jpeg?timestamp=1712975169894",
+        "author": "Bryan Freeman",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3801/webstorage_links/19384/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3752,
+        "title": "C# in Depth 3rd Edition",
+        "img": "http://image.banshujiang.cn/3752.jpeg?timestamp=1712398407780",
+        "author": "Jon Skeet",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3752/webstorage_links/19191/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3752/webstorage_links/19190/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3726,
+        "title": "Head First C# 3rd Edition",
+        "img": "http://image.banshujiang.cn/3726.jpeg?timestamp=1711719997389",
+        "author": "Andrew Stellman and Jennifer Greene",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3726/webstorage_links/19089/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3726/webstorage_links/19088/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3698,
+        "title": "Windows Store App Development",
+        "img": "http://image.banshujiang.cn/3698.jpeg?timestamp=1711705068633",
+        "author": "Pete Brown",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3698/webstorage_links/18977/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3698/webstorage_links/18976/to_link"
+            }
+        ]
+    }
+]

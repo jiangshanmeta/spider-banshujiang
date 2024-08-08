@@ -1,5 +1,131 @@
 [
     {
+        "id": 3069,
+        "title": "Deep Learning with JavaScript",
+        "img": "https://imagebsj.netlify.app/3069.jpeg",
+        "author": "Shanqing Cai",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3069/webstorage_links/16301/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3069/webstorage_links/16300/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3069/webstorage_links/16302/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4326,
+        "title": "Spark机器学习",
+        "img": "http://image.banshujiang.cn/4326.jpeg?timestamp=1721310065443",
+        "author": "[南非]Nick Pentreath [译]蔡立宇 黄章帅 周济民",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4326/webstorage_links/21523/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4321,
+        "title": "Node Cookbook 2nd Edition",
+        "img": "http://image.banshujiang.cn/4321.jpeg?timestamp=1721302965095",
+        "author": "David Mark Clements",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4321/webstorage_links/21507/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4321/webstorage_links/21505/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4321/webstorage_links/21506/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4302,
+        "title": "Hands-On Sencha Touch 2",
+        "img": "http://image.banshujiang.cn/4302.jpeg?timestamp=1720241637251",
+        "author": "Lee Boonstra",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4302/webstorage_links/21406/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4302/webstorage_links/21404/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4302/webstorage_links/21405/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4296,
+        "title": "AngularJS: Up And Running",
+        "img": "http://image.banshujiang.cn/4296.jpeg?timestamp=1720240242973",
+        "author": "Shyam Seshadri and Brad Green",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4296/webstorage_links/21375/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4255,
+        "title": "同构JavaScript应用开发",
+        "img": "http://image.banshujiang.cn/4255.jpeg?timestamp=1719121623115",
+        "author": "[美]Jason Strimpel、Maxime Najim [译]张俊达 ",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4255/webstorage_links/21228/to_link"
+            }
+        ]
+    },
+    {
         "id": 4249,
         "title": "Speaking JavaScript",
         "img": "http://image.banshujiang.cn/4249.jpeg?timestamp=1719114777337",
@@ -59,6 +185,53 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4206/webstorage_links/20983/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4203,
+        "title": "AI·未来",
+        "img": "http://image.banshujiang.cn/4203.jpeg?timestamp=1718630129917",
+        "author": "李开复",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4203/webstorage_links/20968/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4203/webstorage_links/20969/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4203/webstorage_links/20967/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4199,
+        "title": "Machine Learning with R",
+        "img": "http://image.banshujiang.cn/4199.jpeg?timestamp=1718626986663",
+        "author": "Brett Lantz",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4199/webstorage_links/20947/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4199/webstorage_links/20946/to_link"
             }
         ]
     },
@@ -179,174 +352,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4147/webstorage_links/20686/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4146,
-        "title": "Data Visualization with d3.js",
-        "img": "http://image.banshujiang.cn/4146.jpeg?timestamp=1718506164439",
-        "author": "Swizec Teller",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4146/webstorage_links/20683/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4146/webstorage_links/20682/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4139,
-        "title": "The Road to React The React.js in JavaScript Book (2024 Edition)",
-        "img": "http://image.banshujiang.cn/4139.jpeg?timestamp=1718464258928",
-        "author": "Robin Wieruch",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4139/webstorage_links/20651/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4139/webstorage_links/20650/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4102,
-        "title": "Learn Enough Javascript To Be Dangerous",
-        "img": "http://image.banshujiang.cn/4102.jpeg?timestamp=1717516943398",
-        "author": "Michael Hartl",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4102/webstorage_links/20537/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4102/webstorage_links/20536/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4081,
-        "title": "Advanced JavaScript Unleashed",
-        "img": "http://image.banshujiang.cn/4081.jpeg?timestamp=1717237829857",
-        "author": "Yousaf Khan",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4081/webstorage_links/20463/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4081/webstorage_links/20462/to_link"
-            },
-            {
-                "fmt": "CODE",
-                "title": "城通网盘",
-                "link": "/e_books/4081/webstorage_links/20461/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4061,
-        "title": "Node.js in Action",
-        "img": "http://image.banshujiang.cn/4061.jpeg?timestamp=1717197903058",
-        "author": "Mike Cantelon, Marc Harter, T.j. Holowaychuk and Nathan Rajlich",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4061/webstorage_links/20388/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4061/webstorage_links/20387/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4013,
-        "title": "The Art of Unit Testing 3rd Edition",
-        "img": "http://image.banshujiang.cn/4013.jpeg?timestamp=1715523558170",
-        "author": "Roy Osherove",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4013/webstorage_links/20212/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4013/webstorage_links/20211/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4002,
-        "title": "Fluent React",
-        "img": "http://image.banshujiang.cn/4002.jpeg?timestamp=1714913571465",
-        "author": "Tejas Kumar",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4002/webstorage_links/20172/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4002/webstorage_links/20171/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3982,
-        "title": "Javascript Crash Course",
-        "img": "http://image.banshujiang.cn/3982.jpeg?timestamp=1714643194251",
-        "author": "Nick Morgan",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3982/webstorage_links/20096/to_link"
             }
         ]
     }

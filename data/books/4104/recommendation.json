@@ -1,5 +1,21 @@
 [
     {
+        "id": 4317,
+        "title": "Ruby Cookbook Early Release 2nd Edition",
+        "img": "http://image.banshujiang.cn/4317.jpeg?timestamp=1720923577229",
+        "author": "Lucas Carlson and Leonard Richardson",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Ruby",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4317/webstorage_links/21483/to_link"
+            }
+        ]
+    },
+    {
         "id": 4036,
         "title": "Ruby on Rails Tutorial 7th Edition",
         "img": "http://image.banshujiang.cn/4036.jpeg?timestamp=1715950043170",
@@ -301,22 +317,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/1918/webstorage_links/11458/to_link"
-            }
-        ]
-    },
-    {
-        "id": 1890,
-        "title": "Rails 4 Application Development HOTSHOT",
-        "img": "https://imagebsj.netlify.app/1890.jpeg",
-        "author": "Saurabh Bhatia",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Ruby",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/1890/webstorage_links/11884/to_link"
             }
         ]
     }

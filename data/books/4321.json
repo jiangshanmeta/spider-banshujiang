@@ -1,0 +1,26 @@
+{
+    "id": 4321,
+    "title": "Node Cookbook 2nd Edition",
+    "img": "http://image.banshujiang.cn/4321.jpeg?timestamp=1721302965095",
+    "author": "David Mark Clements",
+    "language": "英文",
+    "publishYear": 2014,
+    "programLanguage": "JavaScript",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/4321/webstorage_links/21507/to_link"
+        },
+        {
+            "fmt": "EPUB",
+            "title": "城通网盘",
+            "link": "/e_books/4321/webstorage_links/21505/to_link"
+        },
+        {
+            "fmt": "MOBI",
+            "title": "城通网盘",
+            "link": "/e_books/4321/webstorage_links/21506/to_link"
+        }
+    ]
+}
