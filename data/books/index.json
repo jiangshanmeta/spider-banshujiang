@@ -81211,5 +81211,100 @@
                 "link": "/e_books/4327/webstorage_links/21525/to_link"
             }
         ]
+    },
+    {
+        "id": 4328,
+        "title": "Spark快速大数据分析",
+        "img": "http://image.banshujiang.cn/4328.jpeg?timestamp=1721311370247",
+        "author": "[美] Holden Karau [美] Andy Konwinski [美] Patrick Wendell [加] Matei Zaharia [译] 王道远",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4328/webstorage_links/21527/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4329,
+        "title": "代码之外的功夫： 程序员精进之路",
+        "img": "http://image.banshujiang.cn/4329.jpeg?timestamp=1721311608594",
+        "author": "[美]Gregory T. Brown [译]李志",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4329/webstorage_links/21529/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4330,
+        "title": "精通Python设计模式",
+        "img": "http://image.banshujiang.cn/4330.jpeg?timestamp=1721311735973",
+        "author": "[荷]Sakis Kasampalis [译]夏永锋",
+        "language": "中文",
+        "publishYear": 2016,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4330/webstorage_links/21531/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4331,
+        "title": "流畅的Python",
+        "img": "http://image.banshujiang.cn/4331.jpeg?timestamp=1721390795562",
+        "author": "[巴西]Luciano Ramalho [译]安道、吴珂",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4331/webstorage_links/21533/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4332,
+        "title": "漫画算法: 小灰的算法之旅",
+        "img": "http://image.banshujiang.cn/4332.jpeg?timestamp=1721390958376",
+        "author": "魏梦舒",
+        "language": "中文",
+        "publishYear": 2019,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4332/webstorage_links/21541/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4332/webstorage_links/21539/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4332/webstorage_links/21540/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4332/webstorage_links/21538/to_link"
+            }
+        ]
     }
 ]

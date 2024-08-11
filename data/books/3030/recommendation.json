@@ -235,6 +235,38 @@
         ]
     },
     {
+        "id": 4331,
+        "title": "流畅的Python",
+        "img": "http://image.banshujiang.cn/4331.jpeg?timestamp=1721390795562",
+        "author": "[巴西]Luciano Ramalho [译]安道、吴珂",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4331/webstorage_links/21533/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4330,
+        "title": "精通Python设计模式",
+        "img": "http://image.banshujiang.cn/4330.jpeg?timestamp=1721311735973",
+        "author": "[荷]Sakis Kasampalis [译]夏永锋",
+        "language": "中文",
+        "publishYear": 2016,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4330/webstorage_links/21531/to_link"
+            }
+        ]
+    },
+    {
         "id": 4327,
         "title": "流畅的Python(第2版)",
         "img": "http://image.banshujiang.cn/4327.jpeg?timestamp=1721311271647",
@@ -315,58 +347,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4311/webstorage_links/21451/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4262,
-        "title": "Flask Web Development",
-        "img": "http://image.banshujiang.cn/4262.jpeg?timestamp=1719904749458",
-        "author": "Miguel Grinberg",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4262/webstorage_links/21262/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4262/webstorage_links/21260/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4262/webstorage_links/21261/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4242,
-        "title": "Python Data Visualization Cookbook",
-        "img": "http://image.banshujiang.cn/4242.jpeg?timestamp=1719062000419",
-        "author": "Igor Milovanović",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4242/webstorage_links/21161/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4242/webstorage_links/21159/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4242/webstorage_links/21160/to_link"
             }
         ]
     }
