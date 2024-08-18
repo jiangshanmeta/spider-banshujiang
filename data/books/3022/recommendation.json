@@ -53,6 +53,27 @@
         ]
     },
     {
+        "id": 4350,
+        "title": "Deep Learning at Scale",
+        "img": "http://image.banshujiang.cn/4350.jpeg?timestamp=1721447260801",
+        "author": "Suneeta Mall",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4350/webstorage_links/21595/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4350/webstorage_links/21594/to_link"
+            }
+        ]
+    },
+    {
         "id": 4326,
         "title": "Spark机器学习",
         "img": "http://image.banshujiang.cn/4326.jpeg?timestamp=1721310065443",
@@ -311,22 +332,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4111/webstorage_links/20568/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4095,
-        "title": "AI新生：破解人机共存密码",
-        "img": "http://image.banshujiang.cn/4095.jpeg?timestamp=1717330143560",
-        "author": "[美]斯图尔特·罗素 [译]张羿",
-        "language": "中文",
-        "publishYear": 2022,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4095/webstorage_links/20511/to_link"
             }
         ]
     }

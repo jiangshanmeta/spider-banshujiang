@@ -235,6 +235,27 @@
         ]
     },
     {
+        "id": 4350,
+        "title": "Deep Learning at Scale",
+        "img": "http://image.banshujiang.cn/4350.jpeg?timestamp=1721447260801",
+        "author": "Suneeta Mall",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4350/webstorage_links/21595/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4350/webstorage_links/21594/to_link"
+            }
+        ]
+    },
+    {
         "id": 4331,
         "title": "流畅的Python",
         "img": "http://image.banshujiang.cn/4331.jpeg?timestamp=1721390795562",
@@ -326,27 +347,6 @@
                 "fmt": "AZW3",
                 "title": "城通网盘",
                 "link": "/e_books/4316/webstorage_links/21478/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4311,
-        "title": "Lightweight Django",
-        "img": "http://image.banshujiang.cn/4311.jpeg?timestamp=1720263330361",
-        "author": "Julia Elman and Mark Lavin",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4311/webstorage_links/21452/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4311/webstorage_links/21451/to_link"
             }
         ]
     }

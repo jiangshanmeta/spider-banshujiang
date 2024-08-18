@@ -1,5 +1,26 @@
 [
     {
+        "id": 4350,
+        "title": "Deep Learning at Scale",
+        "img": "http://image.banshujiang.cn/4350.jpeg?timestamp=1721447260801",
+        "author": "Suneeta Mall",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4350/webstorage_links/21595/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4350/webstorage_links/21594/to_link"
+            }
+        ]
+    },
+    {
         "id": 4326,
         "title": "Spark机器学习",
         "img": "http://image.banshujiang.cn/4326.jpeg?timestamp=1721310065443",
@@ -296,22 +317,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4077/webstorage_links/20448/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4009,
-        "title": "Introduction to Generative AI",
-        "img": "http://image.banshujiang.cn/4009.jpeg?timestamp=1715421591264",
-        "author": "Numa Dhamani and Maggie Engler",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4009/webstorage_links/20198/to_link"
             }
         ]
     }

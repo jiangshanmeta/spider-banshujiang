@@ -81306,5 +81306,380 @@
                 "link": "/e_books/4332/webstorage_links/21538/to_link"
             }
         ]
+    },
+    {
+        "id": 4333,
+        "title": "鲜活的数据: 数据可视化指南",
+        "img": "http://image.banshujiang.cn/4333.jpeg?timestamp=1721391100217",
+        "author": "[美]Nathan Yau [译]向怡宁",
+        "language": "中文",
+        "publishYear": 2012,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4333/webstorage_links/21543/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4334,
+        "title": "响应式Web设计: HTML5和CSS3实战",
+        "img": "http://image.banshujiang.cn/4334.jpeg?timestamp=1721391276085",
+        "author": "[英]Ben Frain [译]王永强",
+        "language": "中文",
+        "publishYear": 2013,
+        "programLanguage": "HTML5",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4334/webstorage_links/21545/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4335,
+        "title": "响应式Web设计: HTML5和CSS3实战(第2版)",
+        "img": "http://image.banshujiang.cn/4335.jpeg?timestamp=1721391398001",
+        "author": "[美]Ben Frain [译]奇舞团",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "HTML5",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4335/webstorage_links/21547/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4336,
+        "title": "写给大家看的设计书(第4版)",
+        "img": "http://image.banshujiang.cn/4336.jpeg?timestamp=1721391525393",
+        "author": "[美]Robin Williams [译]苏金国、李盼",
+        "language": "中文",
+        "publishYear": 2016,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4336/webstorage_links/21549/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4337,
+        "title": "写给大家看的项目管理书(第2版)",
+        "img": "http://image.banshujiang.cn/4337.jpeg?timestamp=1721391626531",
+        "author": "[美]Gregory M. Horine [译]陈彦辛",
+        "language": "中文",
+        "publishYear": 2011,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4337/webstorage_links/21551/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4338,
+        "title": "API Design for C++ 2nd Edition",
+        "img": "http://image.banshujiang.cn/4338.jpeg?timestamp=1721391815202",
+        "author": "Martin Reddy",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4338/webstorage_links/21553/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4339,
+        "title": "Qwik in Action",
+        "img": "http://image.banshujiang.cn/4339.jpeg?timestamp=1721394185335",
+        "author": "Giorgio Boa",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4339/webstorage_links/21559/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4339/webstorage_links/21558/to_link"
+            },
+            {
+                "fmt": "CODE",
+                "title": "城通网盘",
+                "link": "/e_books/4339/webstorage_links/21557/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4340,
+        "title": "Engineering Secure Devices",
+        "img": "http://image.banshujiang.cn/4340.jpeg?timestamp=1721394287318",
+        "author": "Dominik Merli",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4340/webstorage_links/21561/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4341,
+        "title": "Flutter Apprentice 4th Edition",
+        "img": "http://image.banshujiang.cn/4341.jpeg?timestamp=1721394474701",
+        "author": "Kevin David Moore, Vincent Ngo, Stef Patterson and Alejandro Ulate Fallas",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4341/webstorage_links/21565/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4341/webstorage_links/21564/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4342,
+        "title": "Istio and Envoy 内幕",
+        "img": "http://image.banshujiang.cn/4342.jpeg?timestamp=1721394848812",
+        "author": "Mark Zhu",
+        "language": "中文",
+        "publishYear": 2022,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4342/webstorage_links/21567/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4343,
+        "title": "JVM Performance Engineering",
+        "img": "http://image.banshujiang.cn/4343.jpeg?timestamp=1721394960784",
+        "author": "Monica Beckwith",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4343/webstorage_links/21571/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4343/webstorage_links/21570/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4344,
+        "title": "Kotlin Multiplatform by Tutorials 2nd Edition",
+        "img": "http://image.banshujiang.cn/4344.jpeg?timestamp=1721395142744",
+        "author": "Kevin D. Moore, Carlos Mota and Saeed Taheri",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Kotlin",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4344/webstorage_links/21575/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4344/webstorage_links/21574/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4345,
+        "title": "Think Like a Software Engineering Manager",
+        "img": "http://image.banshujiang.cn/4345.jpeg?timestamp=1721395691340",
+        "author": "Akanksha Gupta",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4345/webstorage_links/21577/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4346,
+        "title": "Metal by Tutorials 4th Edition",
+        "img": "http://image.banshujiang.cn/4346.jpeg?timestamp=1721395769247",
+        "author": "Caroline Begbie &amp; Marius Horga",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4346/webstorage_links/21579/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4347,
+        "title": "Augmented Analytics",
+        "img": "http://image.banshujiang.cn/4347.jpeg?timestamp=1721395834172",
+        "author": "Willi Weber and Tobias Zwingmann",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4347/webstorage_links/21583/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4347/webstorage_links/21582/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4348,
+        "title": "Certified Kubernetes Application Developer (CKAD) Study Guide 2nd Edition",
+        "img": "http://image.banshujiang.cn/4348.jpeg?timestamp=1721447062578",
+        "author": "Benjamin Muschko",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4348/webstorage_links/21587/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4348/webstorage_links/21586/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4349,
+        "title": "Data Modeling with Microsoft Power BI",
+        "img": "http://image.banshujiang.cn/4349.jpeg?timestamp=1721447191918",
+        "author": "Markus Ehrenmueller-Jensen",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4349/webstorage_links/21591/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4349/webstorage_links/21590/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4350,
+        "title": "Deep Learning at Scale",
+        "img": "http://image.banshujiang.cn/4350.jpeg?timestamp=1721447260801",
+        "author": "Suneeta Mall",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4350/webstorage_links/21595/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4350/webstorage_links/21594/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4351,
+        "title": "Hands-On Differential Privacy",
+        "img": "http://image.banshujiang.cn/4351.jpeg?timestamp=1721447428354",
+        "author": "Ethan Cowan, Michael Shoemate and Mayana Pereira",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4351/webstorage_links/21599/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4351/webstorage_links/21598/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4352,
+        "title": "Kubernetes and Cloud Native Associate (KCNA) Study Guide",
+        "img": "http://image.banshujiang.cn/4352.jpeg?timestamp=1721447489373",
+        "author": "Adrián González Sánchez and Jorge Valenzuela Jiménez",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4352/webstorage_links/21603/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4352/webstorage_links/21602/to_link"
+            }
+        ]
     }
 ]

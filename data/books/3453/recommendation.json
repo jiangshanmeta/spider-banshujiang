@@ -1,5 +1,47 @@
 [
     {
+        "id": 4352,
+        "title": "Kubernetes and Cloud Native Associate (KCNA) Study Guide",
+        "img": "http://image.banshujiang.cn/4352.jpeg?timestamp=1721447489373",
+        "author": "Adrián González Sánchez and Jorge Valenzuela Jiménez",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4352/webstorage_links/21603/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4352/webstorage_links/21602/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4348,
+        "title": "Certified Kubernetes Application Developer (CKAD) Study Guide 2nd Edition",
+        "img": "http://image.banshujiang.cn/4348.jpeg?timestamp=1721447062578",
+        "author": "Benjamin Muschko",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4348/webstorage_links/21587/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4348/webstorage_links/21586/to_link"
+            }
+        ]
+    },
+    {
         "id": 4220,
         "title": "Docker技术入门与实战（第2版）",
         "img": "http://image.banshujiang.cn/4220.jpeg?timestamp=1718974611340",
@@ -280,48 +322,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/3402/webstorage_links/17783/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3360,
-        "title": "The Kubernetes Book 2022 Edition",
-        "img": "http://image.banshujiang.cn/3360.jpeg?timestamp=1676705194143",
-        "author": "Nigel Poulton",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3360/webstorage_links/17597/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3360/webstorage_links/17596/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3357,
-        "title": "Quick Start Kubernetes 2022 Edition",
-        "img": "http://image.banshujiang.cn/3357.jpeg?timestamp=1676704925149",
-        "author": "Nigel Poulton",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3357/webstorage_links/17584/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3357/webstorage_links/17585/to_link"
             }
         ]
     }

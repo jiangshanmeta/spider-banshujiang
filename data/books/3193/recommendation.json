@@ -1,5 +1,26 @@
 [
     {
+        "id": 4344,
+        "title": "Kotlin Multiplatform by Tutorials 2nd Edition",
+        "img": "http://image.banshujiang.cn/4344.jpeg?timestamp=1721395142744",
+        "author": "Kevin D. Moore, Carlos Mota and Saeed Taheri",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Kotlin",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4344/webstorage_links/21575/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4344/webstorage_links/21574/to_link"
+            }
+        ]
+    },
+    {
         "id": 3624,
         "title": "The Android Malware Handbook",
         "img": "http://image.banshujiang.cn/3624.jpeg?timestamp=1708773203662",
@@ -316,22 +337,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/2904/webstorage_links/10647/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2903,
-        "title": "Android App Distribution",
-        "img": "https://imagebsj.netlify.app/2903.jpeg",
-        "author": "Fuad Kamal and Evana Margain Puig",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "Kotlin",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2903/webstorage_links/10645/to_link"
             }
         ]
     }

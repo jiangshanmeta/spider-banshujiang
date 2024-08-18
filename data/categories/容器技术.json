@@ -1,5 +1,47 @@
 [
     {
+        "id": 4352,
+        "title": "Kubernetes and Cloud Native Associate (KCNA) Study Guide",
+        "img": "http://image.banshujiang.cn/4352.jpeg?timestamp=1721447489373",
+        "author": "Adrián González Sánchez and Jorge Valenzuela Jiménez",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4352/webstorage_links/21603/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4352/webstorage_links/21602/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4348,
+        "title": "Certified Kubernetes Application Developer (CKAD) Study Guide 2nd Edition",
+        "img": "http://image.banshujiang.cn/4348.jpeg?timestamp=1721447062578",
+        "author": "Benjamin Muschko",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4348/webstorage_links/21587/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4348/webstorage_links/21586/to_link"
+            }
+        ]
+    },
+    {
         "id": 4220,
         "title": "Docker技术入门与实战（第2版）",
         "img": "http://image.banshujiang.cn/4220.jpeg?timestamp=1718974611340",

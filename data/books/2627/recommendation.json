@@ -26,6 +26,27 @@
         ]
     },
     {
+        "id": 4350,
+        "title": "Deep Learning at Scale",
+        "img": "http://image.banshujiang.cn/4350.jpeg?timestamp=1721447260801",
+        "author": "Suneeta Mall",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4350/webstorage_links/21595/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4350/webstorage_links/21594/to_link"
+            }
+        ]
+    },
+    {
         "id": 4326,
         "title": "Spark机器学习",
         "img": "http://image.banshujiang.cn/4326.jpeg?timestamp=1721310065443",
@@ -331,27 +352,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/4162/webstorage_links/20758/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4147,
-        "title": "Data Visualization with D3.js Cookbook",
-        "img": "http://image.banshujiang.cn/4147.jpeg?timestamp=1718508849939",
-        "author": "Nick Qi Zhu",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4147/webstorage_links/20687/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4147/webstorage_links/20686/to_link"
             }
         ]
     }
