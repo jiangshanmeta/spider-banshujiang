@@ -1,5 +1,31 @@
 [
     {
+        "id": 4353,
+        "title": "深入理解Java虚拟机：JVM高级特性与最佳实践(第3版)",
+        "img": "http://image.banshujiang.cn/4353.jpeg?timestamp=1721447719858",
+        "author": "周志明",
+        "language": "中文",
+        "publishYear": 2019,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4353/webstorage_links/21614/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4353/webstorage_links/21606/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4353/webstorage_links/21607/to_link"
+            }
+        ]
+    },
+    {
         "id": 4308,
         "title": "Just Hibernate",
         "img": "http://image.banshujiang.cn/4308.jpeg?timestamp=1720253091389",
@@ -336,32 +362,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4229/webstorage_links/21102/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4221,
-        "title": "Effective Java（第2版）",
-        "img": "http://image.banshujiang.cn/4221.jpeg?timestamp=1718974801712",
-        "author": "[美]Joshua Bloch [译]杨春华、俞黎敏",
-        "language": "中文",
-        "publishYear": 2009,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4221/webstorage_links/21064/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4221/webstorage_links/21065/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4221/webstorage_links/21063/to_link"
             }
         ]
     }

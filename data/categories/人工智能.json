@@ -1,5 +1,79 @@
 [
     {
+        "id": 4370,
+        "title": "TensorFlow深度学习",
+        "img": "http://image.banshujiang.cn/4370.jpeg?timestamp=1721473560627",
+        "author": "[意]Giancarlo Zaccone [孟加拉]Md. Rezaul Karim [埃及]Ahmed Menshawy [译]李志",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4370/webstorage_links/21677/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4361,
+        "title": "Mastering NLP from Foundations to LLMs",
+        "img": "http://image.banshujiang.cn/4361.jpeg?timestamp=1721469781572",
+        "author": "Lior Gazit and Meysam Ghaffari",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4361/webstorage_links/21641/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4361/webstorage_links/21640/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4359,
+        "title": "Prompt Engineering for Generative AI",
+        "img": "http://image.banshujiang.cn/4359.jpeg?timestamp=1721469613711",
+        "author": "James Phoenix and Mike Taylor",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4359/webstorage_links/21633/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4359/webstorage_links/21632/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4355,
+        "title": "这就是ChatGPT",
+        "img": "http://image.banshujiang.cn/4355.jpeg?timestamp=1721448219560",
+        "author": "[美]Stephen Wolfram [译]WOLFRAM传媒汉化小组",
+        "language": "中文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4355/webstorage_links/21617/to_link"
+            }
+        ]
+    },
+    {
         "id": 4350,
         "title": "Deep Learning at Scale",
         "img": "http://image.banshujiang.cn/4350.jpeg?timestamp=1721447260801",

@@ -101,6 +101,27 @@
         ]
     },
     {
+        "id": 4358,
+        "title": "Programming C# 12",
+        "img": "http://image.banshujiang.cn/4358.jpeg?timestamp=1721468440016",
+        "author": "Ian Griffiths",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4358/webstorage_links/21627/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4358/webstorage_links/21626/to_link"
+            }
+        ]
+    },
+    {
         "id": 4282,
         "title": "C#敏捷开发实践",
         "img": "http://image.banshujiang.cn/4282.jpeg?timestamp=1720096859899",
@@ -250,27 +271,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4045/webstorage_links/20327/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3978,
-        "title": "Windows 11 for Enterprise Administrators 2nd Edition",
-        "img": "http://image.banshujiang.cn/3978.jpeg?timestamp=1714641717225",
-        "author": "Manuel Singer",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3978/webstorage_links/20086/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3978/webstorage_links/20085/to_link"
             }
         ]
     }

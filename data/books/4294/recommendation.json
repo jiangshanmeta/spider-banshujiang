@@ -1,5 +1,31 @@
 [
     {
+        "id": 4366,
+        "title": "iOS编程基础：Swift、Xcode和Cocoa入门指南",
+        "img": "http://image.banshujiang.cn/4366.jpeg?timestamp=1721472827531",
+        "author": "[美]Matt Neuburg [译]张龙",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4366/webstorage_links/21664/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4366/webstorage_links/21665/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4366/webstorage_links/21663/to_link"
+            }
+        ]
+    },
+    {
         "id": 4322,
         "title": "Swift by Tutorials",
         "img": "http://image.banshujiang.cn/4322.jpeg?timestamp=1721304809129",
@@ -321,27 +347,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3908/webstorage_links/19813/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3881,
-        "title": "Test iOS Apps with UI Automation",
-        "img": "http://image.banshujiang.cn/3881.jpeg?timestamp=1714480672955",
-        "author": "Jonathan Penn",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3881/webstorage_links/19702/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3881/webstorage_links/19701/to_link"
             }
         ]
     }

@@ -1,5 +1,31 @@
 [
     {
+        "id": 4367,
+        "title": "Kali Linux渗透测试的艺术",
+        "img": "http://image.banshujiang.cn/4367.jpeg?timestamp=1721472975710",
+        "author": "[英]Lee Allen、Shakeel Ali [印尼]Tedi Heriyanto [译]Archer",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4367/webstorage_links/21670/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4367/webstorage_links/21671/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4367/webstorage_links/21669/to_link"
+            }
+        ]
+    },
+    {
         "id": 4098,
         "title": "Linux Pocket Guide 4th Edition",
         "img": "http://image.banshujiang.cn/4098.jpeg?timestamp=1717330352996",
@@ -326,32 +352,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/2769/webstorage_links/10064/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2520,
-        "title": "How Linux Works 3rd Edition",
-        "img": "https://imagebsj.netlify.app/2520.jpeg",
-        "author": "Brian Ward",
-        "language": "英文",
-        "publishYear": 2021,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2520/webstorage_links/8791/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2520/webstorage_links/8793/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/2520/webstorage_links/8792/to_link"
             }
         ]
     }

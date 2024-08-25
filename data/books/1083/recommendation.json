@@ -16,6 +16,43 @@
         ]
     },
     {
+        "id": 4372,
+        "title": "Web 安全开发指南",
+        "img": "http://image.banshujiang.cn/4372.jpeg?timestamp=1722048516936",
+        "author": "[美]John Paul Mueller [译]温正东",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4372/webstorage_links/21681/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4360,
+        "title": "Think Python 3rd Edition",
+        "img": "http://image.banshujiang.cn/4360.jpeg?timestamp=1721469719909",
+        "author": "Allen B. Downey",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4360/webstorage_links/21637/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4360/webstorage_links/21636/to_link"
+            }
+        ]
+    },
+    {
         "id": 4331,
         "title": "流畅的Python",
         "img": "http://image.banshujiang.cn/4331.jpeg?timestamp=1721390795562",
@@ -285,48 +322,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4078/webstorage_links/20450/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4068,
-        "title": "Python Pocket Reference 5th Edition",
-        "img": "http://image.banshujiang.cn/4068.jpeg?timestamp=1717199493263",
-        "author": "Mark Lutz",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4068/webstorage_links/20414/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4068/webstorage_links/20413/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4034,
-        "title": "Python Testing with pytest 2nd Edition",
-        "img": "http://image.banshujiang.cn/4034.jpeg?timestamp=1715949725622",
-        "author": "Brian Okken",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4034/webstorage_links/20292/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4034/webstorage_links/20291/to_link"
             }
         ]
     }

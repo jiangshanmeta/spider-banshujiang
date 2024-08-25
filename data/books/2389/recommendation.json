@@ -1,5 +1,31 @@
 [
     {
+        "id": 4366,
+        "title": "iOS编程基础：Swift、Xcode和Cocoa入门指南",
+        "img": "http://image.banshujiang.cn/4366.jpeg?timestamp=1721472827531",
+        "author": "[美]Matt Neuburg [译]张龙",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4366/webstorage_links/21664/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4366/webstorage_links/21665/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4366/webstorage_links/21663/to_link"
+            }
+        ]
+    },
+    {
         "id": 4322,
         "title": "Swift by Tutorials",
         "img": "http://image.banshujiang.cn/4322.jpeg?timestamp=1721304809129",
@@ -321,27 +347,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4053/webstorage_links/20357/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3908,
-        "title": "iOS 17 App Development Essentials",
-        "img": "http://image.banshujiang.cn/3908.jpeg?timestamp=1714570396489",
-        "author": "Neil Smyth",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3908/webstorage_links/19814/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3908/webstorage_links/19813/to_link"
             }
         ]
     }

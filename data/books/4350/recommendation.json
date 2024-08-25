@@ -1,5 +1,79 @@
 [
     {
+        "id": 4370,
+        "title": "TensorFlow深度学习",
+        "img": "http://image.banshujiang.cn/4370.jpeg?timestamp=1721473560627",
+        "author": "[意]Giancarlo Zaccone [孟加拉]Md. Rezaul Karim [埃及]Ahmed Menshawy [译]李志",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4370/webstorage_links/21677/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4361,
+        "title": "Mastering NLP from Foundations to LLMs",
+        "img": "http://image.banshujiang.cn/4361.jpeg?timestamp=1721469781572",
+        "author": "Lior Gazit and Meysam Ghaffari",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4361/webstorage_links/21641/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4361/webstorage_links/21640/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4359,
+        "title": "Prompt Engineering for Generative AI",
+        "img": "http://image.banshujiang.cn/4359.jpeg?timestamp=1721469613711",
+        "author": "James Phoenix and Mike Taylor",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4359/webstorage_links/21633/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4359/webstorage_links/21632/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4355,
+        "title": "这就是ChatGPT",
+        "img": "http://image.banshujiang.cn/4355.jpeg?timestamp=1721448219560",
+        "author": "[美]Stephen Wolfram [译]WOLFRAM传媒汉化小组",
+        "language": "中文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4355/webstorage_links/21617/to_link"
+            }
+        ]
+    },
+    {
         "id": 4326,
         "title": "Spark机器学习",
         "img": "http://image.banshujiang.cn/4326.jpeg?timestamp=1721310065443",
@@ -238,85 +312,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4093/webstorage_links/20507/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4090,
-        "title": "AI-Assisted Programming",
-        "img": "http://image.banshujiang.cn/4090.jpeg?timestamp=1717323872657",
-        "author": "Tom Taulli",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4090/webstorage_links/20497/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4090/webstorage_links/20496/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4085,
-        "title": "Generative AI Art",
-        "img": "http://image.banshujiang.cn/4085.jpeg?timestamp=1717323375502",
-        "author": "Oliver Theobald",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4085/webstorage_links/20479/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4085/webstorage_links/20478/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4077,
-        "title": "写给大家的AI极简史",
-        "img": "http://image.banshujiang.cn/4077.jpeg?timestamp=1717203928055",
-        "author": "[德]托马斯拉姆齐 [译]林若轩",
-        "language": "中文",
-        "publishYear": 2019,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4077/webstorage_links/20448/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4015,
-        "title": "Effective Machine Learning Teams",
-        "img": "http://image.banshujiang.cn/4015.jpeg?timestamp=1715523707235",
-        "author": "David Tan, Ada Leung, and David Colls",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4015/webstorage_links/20220/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4015/webstorage_links/20219/to_link"
             }
         ]
     }

@@ -1,5 +1,57 @@
 [
     {
+        "id": 4367,
+        "title": "Kali Linux渗透测试的艺术",
+        "img": "http://image.banshujiang.cn/4367.jpeg?timestamp=1721472975710",
+        "author": "[英]Lee Allen、Shakeel Ali [印尼]Tedi Heriyanto [译]Archer",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4367/webstorage_links/21670/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4367/webstorage_links/21671/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4367/webstorage_links/21669/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4366,
+        "title": "iOS编程基础：Swift、Xcode和Cocoa入门指南",
+        "img": "http://image.banshujiang.cn/4366.jpeg?timestamp=1721472827531",
+        "author": "[美]Matt Neuburg [译]张龙",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4366/webstorage_links/21664/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4366/webstorage_links/21665/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4366/webstorage_links/21663/to_link"
+            }
+        ]
+    },
+    {
         "id": 4322,
         "title": "Swift by Tutorials",
         "img": "http://image.banshujiang.cn/4322.jpeg?timestamp=1721304809129",
@@ -290,43 +342,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3500/webstorage_links/18262/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3482,
-        "title": "iOS 16 App Development Essentials UIKit Edition",
-        "img": "http://image.banshujiang.cn/3482.jpeg?timestamp=1696510994983",
-        "author": "",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3482/webstorage_links/18186/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3482/webstorage_links/18187/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3476,
-        "title": "Swift Apprentice",
-        "img": "http://image.banshujiang.cn/3476.jpeg?timestamp=1696506533400",
-        "author": "Janie Clayton",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3476/webstorage_links/18159/to_link"
             }
         ]
     }

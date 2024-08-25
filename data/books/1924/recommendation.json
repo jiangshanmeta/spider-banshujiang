@@ -1,5 +1,21 @@
 [
     {
+        "id": 4372,
+        "title": "Web 安全开发指南",
+        "img": "http://image.banshujiang.cn/4372.jpeg?timestamp=1722048516936",
+        "author": "[美]John Paul Mueller [译]温正东",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4372/webstorage_links/21681/to_link"
+            }
+        ]
+    },
+    {
         "id": 4286,
         "title": "CSS重构：样式表性能调优",
         "img": "http://image.banshujiang.cn/4286.jpeg?timestamp=1720097321062",
@@ -306,27 +322,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/2841/webstorage_links/10410/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2807,
-        "title": "Agile Web Development with Rails 6",
-        "img": "https://imagebsj.netlify.app/2807.jpeg",
-        "author": "Sam Ruby",
-        "language": "英文",
-        "publishYear": 2020,
-        "programLanguage": "Ruby",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2807/webstorage_links/10217/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2807/webstorage_links/10216/to_link"
             }
         ]
     }

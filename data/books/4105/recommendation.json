@@ -1,5 +1,26 @@
 [
     {
+        "id": 4360,
+        "title": "Think Python 3rd Edition",
+        "img": "http://image.banshujiang.cn/4360.jpeg?timestamp=1721469719909",
+        "author": "Allen B. Downey",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4360/webstorage_links/21637/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4360/webstorage_links/21636/to_link"
+            }
+        ]
+    },
+    {
         "id": 4331,
         "title": "流畅的Python",
         "img": "http://image.banshujiang.cn/4331.jpeg?timestamp=1721390795562",
@@ -311,27 +332,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4027/webstorage_links/20263/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4003,
-        "title": "Hands-On Entity Resolution",
-        "img": "http://image.banshujiang.cn/4003.jpeg?timestamp=1714913915403",
-        "author": "Michael Shearer",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4003/webstorage_links/20176/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4003/webstorage_links/20175/to_link"
             }
         ]
     }

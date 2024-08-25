@@ -48,6 +48,32 @@
         ]
     },
     {
+        "id": 4353,
+        "title": "深入理解Java虚拟机：JVM高级特性与最佳实践(第3版)",
+        "img": "http://image.banshujiang.cn/4353.jpeg?timestamp=1721447719858",
+        "author": "周志明",
+        "language": "中文",
+        "publishYear": 2019,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4353/webstorage_links/21614/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4353/webstorage_links/21606/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4353/webstorage_links/21607/to_link"
+            }
+        ]
+    },
+    {
         "id": 4308,
         "title": "Just Hibernate",
         "img": "http://image.banshujiang.cn/4308.jpeg?timestamp=1720253091389",
@@ -321,27 +347,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/4250/webstorage_links/21204/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4238,
-        "title": "Professional Java for Web Applications",
-        "img": "http://image.banshujiang.cn/4238.jpeg?timestamp=1719061647687",
-        "author": "Nicholas S. Williams",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4238/webstorage_links/21141/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4238/webstorage_links/21140/to_link"
             }
         ]
     }

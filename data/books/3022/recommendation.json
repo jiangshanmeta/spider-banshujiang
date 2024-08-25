@@ -53,6 +53,80 @@
         ]
     },
     {
+        "id": 4370,
+        "title": "TensorFlow深度学习",
+        "img": "http://image.banshujiang.cn/4370.jpeg?timestamp=1721473560627",
+        "author": "[意]Giancarlo Zaccone [孟加拉]Md. Rezaul Karim [埃及]Ahmed Menshawy [译]李志",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4370/webstorage_links/21677/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4361,
+        "title": "Mastering NLP from Foundations to LLMs",
+        "img": "http://image.banshujiang.cn/4361.jpeg?timestamp=1721469781572",
+        "author": "Lior Gazit and Meysam Ghaffari",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4361/webstorage_links/21641/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4361/webstorage_links/21640/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4359,
+        "title": "Prompt Engineering for Generative AI",
+        "img": "http://image.banshujiang.cn/4359.jpeg?timestamp=1721469613711",
+        "author": "James Phoenix and Mike Taylor",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4359/webstorage_links/21633/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4359/webstorage_links/21632/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4355,
+        "title": "这就是ChatGPT",
+        "img": "http://image.banshujiang.cn/4355.jpeg?timestamp=1721448219560",
+        "author": "[美]Stephen Wolfram [译]WOLFRAM传媒汉化小组",
+        "language": "中文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4355/webstorage_links/21617/to_link"
+            }
+        ]
+    },
+    {
         "id": 4350,
         "title": "Deep Learning at Scale",
         "img": "http://image.banshujiang.cn/4350.jpeg?timestamp=1721447260801",
@@ -248,90 +322,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4133/webstorage_links/20630/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4131,
-        "title": "AI for Absolute Beginners",
-        "img": "http://image.banshujiang.cn/4131.jpeg?timestamp=1718457650293",
-        "author": "Oliver Theobald",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4131/webstorage_links/20623/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4131/webstorage_links/20622/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4118,
-        "title": "Neural Networks and Deep Learning 2nd Edition",
-        "img": "http://image.banshujiang.cn/4118.jpeg?timestamp=1718112929395",
-        "author": "Charu C. Aggarwal",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4118/webstorage_links/20587/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4118/webstorage_links/20586/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4113,
-        "title": "Math and Architectures of Deep Learning",
-        "img": "http://image.banshujiang.cn/4113.jpeg?timestamp=1718111458437",
-        "author": "Krishnendu Chaudhury",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4113/webstorage_links/20575/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4113/webstorage_links/20574/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4111,
-        "title": "Inside AI",
-        "img": "http://image.banshujiang.cn/4111.jpeg?timestamp=1718111284114",
-        "author": "Akli Adjaoute",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4111/webstorage_links/20569/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4111/webstorage_links/20568/to_link"
             }
         ]
     }

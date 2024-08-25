@@ -81681,5 +81681,420 @@
                 "link": "/e_books/4352/webstorage_links/21602/to_link"
             }
         ]
+    },
+    {
+        "id": 4353,
+        "title": "深入理解Java虚拟机：JVM高级特性与最佳实践(第3版)",
+        "img": "http://image.banshujiang.cn/4353.jpeg?timestamp=1721447719858",
+        "author": "周志明",
+        "language": "中文",
+        "publishYear": 2019,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4353/webstorage_links/21614/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4353/webstorage_links/21606/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4353/webstorage_links/21607/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4354,
+        "title": "领域驱动设计: 软件核心复杂性应对之道",
+        "img": "http://image.banshujiang.cn/4354.jpeg?timestamp=1721447924667",
+        "author": "[美]Eric Evans [译]赵俐、盛海艳、刘霞",
+        "language": "中文",
+        "publishYear": 2016,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4354/webstorage_links/21612/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4354/webstorage_links/21613/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4354/webstorage_links/21611/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4355,
+        "title": "这就是ChatGPT",
+        "img": "http://image.banshujiang.cn/4355.jpeg?timestamp=1721448219560",
+        "author": "[美]Stephen Wolfram [译]WOLFRAM传媒汉化小组",
+        "language": "中文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4355/webstorage_links/21617/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4356,
+        "title": "Leading Effective Engineering Teams",
+        "img": "http://image.banshujiang.cn/4356.jpeg?timestamp=1721468310103",
+        "author": "Addy Osmani",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4356/webstorage_links/21621/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4356/webstorage_links/21620/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4357,
+        "title": "Making Futures Work",
+        "img": "http://image.banshujiang.cn/4357.jpeg?timestamp=1721468386235",
+        "author": "Phil Balagtas",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4357/webstorage_links/21623/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4357/webstorage_links/21622/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4358,
+        "title": "Programming C# 12",
+        "img": "http://image.banshujiang.cn/4358.jpeg?timestamp=1721468440016",
+        "author": "Ian Griffiths",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4358/webstorage_links/21627/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4358/webstorage_links/21626/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4359,
+        "title": "Prompt Engineering for Generative AI",
+        "img": "http://image.banshujiang.cn/4359.jpeg?timestamp=1721469613711",
+        "author": "James Phoenix and Mike Taylor",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4359/webstorage_links/21633/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4359/webstorage_links/21632/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4360,
+        "title": "Think Python 3rd Edition",
+        "img": "http://image.banshujiang.cn/4360.jpeg?timestamp=1721469719909",
+        "author": "Allen B. Downey",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4360/webstorage_links/21637/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4360/webstorage_links/21636/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4361,
+        "title": "Mastering NLP from Foundations to LLMs",
+        "img": "http://image.banshujiang.cn/4361.jpeg?timestamp=1721469781572",
+        "author": "Lior Gazit and Meysam Ghaffari",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4361/webstorage_links/21641/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4361/webstorage_links/21640/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4362,
+        "title": "The Book of Batch Scripting",
+        "img": "http://image.banshujiang.cn/4362.jpeg?timestamp=1721469856104",
+        "author": "Jack McLarney",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4362/webstorage_links/21643/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4363,
+        "title": "The Reign of Botnets",
+        "img": "http://image.banshujiang.cn/4363.jpeg?timestamp=1721469915713",
+        "author": "David Sénécal",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4363/webstorage_links/21647/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4363/webstorage_links/21646/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4364,
+        "title": "Hadoop构建数据仓库实践",
+        "img": "http://image.banshujiang.cn/4364.jpeg?timestamp=1721472431330",
+        "author": "王雪迎",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4364/webstorage_links/21652/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4364/webstorage_links/21653/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4364/webstorage_links/21651/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4365,
+        "title": "Hive编程指南",
+        "img": "http://image.banshujiang.cn/4365.jpeg?timestamp=1721472581838",
+        "author": "[美]Edward Capriolo、Dean Wampler、Jason Rutherglen [译]曹坤",
+        "language": "中文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4365/webstorage_links/21658/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4365/webstorage_links/21659/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4365/webstorage_links/21657/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4366,
+        "title": "iOS编程基础：Swift、Xcode和Cocoa入门指南",
+        "img": "http://image.banshujiang.cn/4366.jpeg?timestamp=1721472827531",
+        "author": "[美]Matt Neuburg [译]张龙",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4366/webstorage_links/21664/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4366/webstorage_links/21665/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4366/webstorage_links/21663/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4367,
+        "title": "Kali Linux渗透测试的艺术",
+        "img": "http://image.banshujiang.cn/4367.jpeg?timestamp=1721472975710",
+        "author": "[英]Lee Allen、Shakeel Ali [印尼]Tedi Heriyanto [译]Archer",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4367/webstorage_links/21670/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4367/webstorage_links/21671/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4367/webstorage_links/21669/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4368,
+        "title": "SQL必知必会(第4版)",
+        "img": "http://image.banshujiang.cn/4368.jpeg?timestamp=1721473104848",
+        "author": "[美]Ben Forta [译]钟鸣、刘晓霞",
+        "language": "中文",
+        "publishYear": 2014,
+        "programLanguage": "SQL",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4368/webstorage_links/21673/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4369,
+        "title": "TCP Sockets编程",
+        "img": "http://image.banshujiang.cn/4369.jpeg?timestamp=1721473420090",
+        "author": "[加]Jesse Storimer [译]门佳",
+        "language": "中文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4369/webstorage_links/21675/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4370,
+        "title": "TensorFlow深度学习",
+        "img": "http://image.banshujiang.cn/4370.jpeg?timestamp=1721473560627",
+        "author": "[意]Giancarlo Zaccone [孟加拉]Md. Rezaul Karim [埃及]Ahmed Menshawy [译]李志",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4370/webstorage_links/21677/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4371,
+        "title": "UX设计师要懂工业设计",
+        "img": "http://image.banshujiang.cn/4371.jpeg?timestamp=1721490007177",
+        "author": "[美]Simon King Kuen Chang [译]潘婧 花敏 缪梦雯",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4371/webstorage_links/21679/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4372,
+        "title": "Web 安全开发指南",
+        "img": "http://image.banshujiang.cn/4372.jpeg?timestamp=1722048516936",
+        "author": "[美]John Paul Mueller [译]温正东",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4372/webstorage_links/21681/to_link"
+            }
+        ]
     }
 ]

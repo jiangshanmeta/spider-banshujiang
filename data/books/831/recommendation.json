@@ -1,5 +1,52 @@
 [
     {
+        "id": 4366,
+        "title": "iOS编程基础：Swift、Xcode和Cocoa入门指南",
+        "img": "http://image.banshujiang.cn/4366.jpeg?timestamp=1721472827531",
+        "author": "[美]Matt Neuburg [译]张龙",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4366/webstorage_links/21664/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4366/webstorage_links/21665/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4366/webstorage_links/21663/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4358,
+        "title": "Programming C# 12",
+        "img": "http://image.banshujiang.cn/4358.jpeg?timestamp=1721468440016",
+        "author": "Ian Griffiths",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4358/webstorage_links/21627/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4358/webstorage_links/21626/to_link"
+            }
+        ]
+    },
+    {
         "id": 4322,
         "title": "Swift by Tutorials",
         "img": "http://image.banshujiang.cn/4322.jpeg?timestamp=1721304809129",
@@ -269,53 +316,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4195/webstorage_links/20932/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4181,
-        "title": "iOS Game Development Cookbook",
-        "img": "http://image.banshujiang.cn/4181.jpeg?timestamp=1718526992312",
-        "author": "Jonathon Manning and Paris Buttfield-Addison",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Objective-C",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4181/webstorage_links/20857/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4181/webstorage_links/20855/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4181/webstorage_links/20856/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4159,
-        "title": "Beginning iOS Programming",
-        "img": "http://image.banshujiang.cn/4159.jpeg?timestamp=1718514031016",
-        "author": "Nick Harris",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Objective-C",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4159/webstorage_links/20741/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4159/webstorage_links/20740/to_link"
             }
         ]
     }

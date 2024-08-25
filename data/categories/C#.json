@@ -1,5 +1,26 @@
 [
     {
+        "id": 4358,
+        "title": "Programming C# 12",
+        "img": "http://image.banshujiang.cn/4358.jpeg?timestamp=1721468440016",
+        "author": "Ian Griffiths",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4358/webstorage_links/21627/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4358/webstorage_links/21626/to_link"
+            }
+        ]
+    },
+    {
         "id": 4282,
         "title": "C#敏捷开发实践",
         "img": "http://image.banshujiang.cn/4282.jpeg?timestamp=1720096859899",

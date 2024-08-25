@@ -1,5 +1,21 @@
 [
     {
+        "id": 4368,
+        "title": "SQL必知必会(第4版)",
+        "img": "http://image.banshujiang.cn/4368.jpeg?timestamp=1721473104848",
+        "author": "[美]Ben Forta [译]钟鸣、刘晓霞",
+        "language": "中文",
+        "publishYear": 2014,
+        "programLanguage": "SQL",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4368/webstorage_links/21673/to_link"
+            }
+        ]
+    },
+    {
         "id": 4232,
         "title": "MySQL High Availability 2nd Edition",
         "img": "http://image.banshujiang.cn/4232.jpeg?timestamp=1718976678638",
@@ -316,32 +332,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/2988/webstorage_links/11032/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2987,
-        "title": "SQL in a Nutshell 4th Edition",
-        "img": "https://imagebsj.netlify.app/2987.jpeg",
-        "author": "Kevin Kline, Regine O. Obe, and Leo S. Hsu",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "SQL",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2987/webstorage_links/11029/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2987/webstorage_links/11027/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/2987/webstorage_links/11028/to_link"
             }
         ]
     }

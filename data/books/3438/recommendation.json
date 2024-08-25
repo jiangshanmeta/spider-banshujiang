@@ -1,5 +1,31 @@
 [
     {
+        "id": 4366,
+        "title": "iOS编程基础：Swift、Xcode和Cocoa入门指南",
+        "img": "http://image.banshujiang.cn/4366.jpeg?timestamp=1721472827531",
+        "author": "[美]Matt Neuburg [译]张龙",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4366/webstorage_links/21664/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4366/webstorage_links/21665/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4366/webstorage_links/21663/to_link"
+            }
+        ]
+    },
+    {
         "id": 4322,
         "title": "Swift by Tutorials",
         "img": "http://image.banshujiang.cn/4322.jpeg?timestamp=1721304809129",
@@ -316,22 +342,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3405/webstorage_links/17797/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3395,
-        "title": "iOS 10 Swift Programming Cookbook",
-        "img": "http://image.banshujiang.cn/3395.jpeg?timestamp=1677326118624",
-        "author": "Vandad Nahavandipoor",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3395/webstorage_links/17757/to_link"
             }
         ]
     }

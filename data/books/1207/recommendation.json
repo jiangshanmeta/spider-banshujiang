@@ -85,6 +85,22 @@
         ]
     },
     {
+        "id": 4372,
+        "title": "Web 安全开发指南",
+        "img": "http://image.banshujiang.cn/4372.jpeg?timestamp=1722048516936",
+        "author": "[美]John Paul Mueller [译]温正东",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4372/webstorage_links/21681/to_link"
+            }
+        ]
+    },
+    {
         "id": 4317,
         "title": "Ruby Cookbook Early Release 2nd Edition",
         "img": "http://image.banshujiang.cn/4317.jpeg?timestamp=1720923577229",
@@ -286,22 +302,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/2310/webstorage_links/15713/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2253,
-        "title": "The Well-Grounded Rubyist 3rd Edition",
-        "img": "https://imagebsj.netlify.app/2253.jpeg",
-        "author": "David A. Black Joseph Leo III",
-        "language": "英文",
-        "publishYear": 2019,
-        "programLanguage": "Ruby",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2253/webstorage_links/15619/to_link"
             }
         ]
     }

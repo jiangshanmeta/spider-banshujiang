@@ -225,6 +225,101 @@
         ]
     },
     {
+        "id": 4370,
+        "title": "TensorFlow深度学习",
+        "img": "http://image.banshujiang.cn/4370.jpeg?timestamp=1721473560627",
+        "author": "[意]Giancarlo Zaccone [孟加拉]Md. Rezaul Karim [埃及]Ahmed Menshawy [译]李志",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4370/webstorage_links/21677/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4361,
+        "title": "Mastering NLP from Foundations to LLMs",
+        "img": "http://image.banshujiang.cn/4361.jpeg?timestamp=1721469781572",
+        "author": "Lior Gazit and Meysam Ghaffari",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4361/webstorage_links/21641/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4361/webstorage_links/21640/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4360,
+        "title": "Think Python 3rd Edition",
+        "img": "http://image.banshujiang.cn/4360.jpeg?timestamp=1721469719909",
+        "author": "Allen B. Downey",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4360/webstorage_links/21637/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4360/webstorage_links/21636/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4359,
+        "title": "Prompt Engineering for Generative AI",
+        "img": "http://image.banshujiang.cn/4359.jpeg?timestamp=1721469613711",
+        "author": "James Phoenix and Mike Taylor",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4359/webstorage_links/21633/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4359/webstorage_links/21632/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4355,
+        "title": "这就是ChatGPT",
+        "img": "http://image.banshujiang.cn/4355.jpeg?timestamp=1721448219560",
+        "author": "[美]Stephen Wolfram [译]WOLFRAM传媒汉化小组",
+        "language": "中文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4355/webstorage_links/21617/to_link"
+            }
+        ]
+    },
+    {
         "id": 4350,
         "title": "Deep Learning at Scale",
         "img": "http://image.banshujiang.cn/4350.jpeg?timestamp=1721447260801",
@@ -242,101 +337,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4350/webstorage_links/21594/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4331,
-        "title": "流畅的Python",
-        "img": "http://image.banshujiang.cn/4331.jpeg?timestamp=1721390795562",
-        "author": "[巴西]Luciano Ramalho [译]安道、吴珂",
-        "language": "中文",
-        "publishYear": 2017,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4331/webstorage_links/21533/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4330,
-        "title": "精通Python设计模式",
-        "img": "http://image.banshujiang.cn/4330.jpeg?timestamp=1721311735973",
-        "author": "[荷]Sakis Kasampalis [译]夏永锋",
-        "language": "中文",
-        "publishYear": 2016,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4330/webstorage_links/21531/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4327,
-        "title": "流畅的Python(第2版)",
-        "img": "http://image.banshujiang.cn/4327.jpeg?timestamp=1721311271647",
-        "author": "[巴西]Luciano Ramalho [译]安道",
-        "language": "中文",
-        "publishYear": 2023,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4327/webstorage_links/21525/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4326,
-        "title": "Spark机器学习",
-        "img": "http://image.banshujiang.cn/4326.jpeg?timestamp=1721310065443",
-        "author": "[南非]Nick Pentreath [译]蔡立宇 黄章帅 周济民",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4326/webstorage_links/21523/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4316,
-        "title": "Python for Finance",
-        "img": "http://image.banshujiang.cn/4316.jpeg?timestamp=1720922889509",
-        "author": "Yves Hilpisch",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4316/webstorage_links/21481/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4316/webstorage_links/21479/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4316/webstorage_links/21480/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4316/webstorage_links/21478/to_link"
             }
         ]
     }

@@ -64,6 +64,48 @@
         ]
     },
     {
+        "id": 4372,
+        "title": "Web 安全开发指南",
+        "img": "http://image.banshujiang.cn/4372.jpeg?timestamp=1722048516936",
+        "author": "[美]John Paul Mueller [译]温正东",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4372/webstorage_links/21681/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4353,
+        "title": "深入理解Java虚拟机：JVM高级特性与最佳实践(第3版)",
+        "img": "http://image.banshujiang.cn/4353.jpeg?timestamp=1721447719858",
+        "author": "周志明",
+        "language": "中文",
+        "publishYear": 2019,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4353/webstorage_links/21614/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4353/webstorage_links/21606/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4353/webstorage_links/21607/to_link"
+            }
+        ]
+    },
+    {
         "id": 4308,
         "title": "Just Hibernate",
         "img": "http://image.banshujiang.cn/4308.jpeg?timestamp=1720253091389",
@@ -285,58 +327,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/4253/webstorage_links/21220/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4252,
-        "title": "Netty权威指南",
-        "img": "http://image.banshujiang.cn/4252.jpeg?timestamp=1719120876260",
-        "author": "李林锋",
-        "language": "中文",
-        "publishYear": 2014,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4252/webstorage_links/21215/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4252/webstorage_links/21216/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4252/webstorage_links/21214/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4250,
-        "title": "Spring Security 3.x Cookbook",
-        "img": "http://image.banshujiang.cn/4250.jpeg?timestamp=1719114869910",
-        "author": "Anjana Mankale",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4250/webstorage_links/21205/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4250/webstorage_links/21203/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4250/webstorage_links/21204/to_link"
             }
         ]
     }

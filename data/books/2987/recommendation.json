@@ -1,5 +1,21 @@
 [
     {
+        "id": 4368,
+        "title": "SQL必知必会(第4版)",
+        "img": "http://image.banshujiang.cn/4368.jpeg?timestamp=1721473104848",
+        "author": "[美]Ben Forta [译]钟鸣、刘晓霞",
+        "language": "中文",
+        "publishYear": 2014,
+        "programLanguage": "SQL",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4368/webstorage_links/21673/to_link"
+            }
+        ]
+    },
+    {
         "id": 4232,
         "title": "MySQL High Availability 2nd Edition",
         "img": "http://image.banshujiang.cn/4232.jpeg?timestamp=1718976678638",
@@ -321,22 +337,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/2862/webstorage_links/10482/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2857,
-        "title": "Practical SQL 2nd Edition",
-        "img": "https://imagebsj.netlify.app/2857.jpeg",
-        "author": "Anthony DeBarros",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "SQL",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2857/webstorage_links/10465/to_link"
             }
         ]
     }
