@@ -48,6 +48,27 @@
         ]
     },
     {
+        "id": 4396,
+        "title": "Java 8 in Action: Lambdas, streams, and functional-style programming",
+        "img": "http://image.banshujiang.cn/4396.jpeg?timestamp=1722070951972",
+        "author": "Raoul-gabriel Urma, Mario Fusco and Alan Mycroft",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4396/webstorage_links/21749/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4396/webstorage_links/21748/to_link"
+            }
+        ]
+    },
+    {
         "id": 4353,
         "title": "深入理解Java虚拟机：JVM高级特性与最佳实践(第3版)",
         "img": "http://image.banshujiang.cn/4353.jpeg?timestamp=1721447719858",
@@ -321,32 +342,6 @@
                 "fmt": "AZW3",
                 "title": "城通网盘",
                 "link": "/e_books/4252/webstorage_links/21214/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4250,
-        "title": "Spring Security 3.x Cookbook",
-        "img": "http://image.banshujiang.cn/4250.jpeg?timestamp=1719114869910",
-        "author": "Anjana Mankale",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4250/webstorage_links/21205/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4250/webstorage_links/21203/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4250/webstorage_links/21204/to_link"
             }
         ]
     }

@@ -1,5 +1,26 @@
 [
     {
+        "id": 4398,
+        "title": "Node.js in Practice",
+        "img": "http://image.banshujiang.cn/4398.jpeg?timestamp=1722071305765",
+        "author": "Alex Young and Marc Harter",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4398/webstorage_links/21757/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4398/webstorage_links/21756/to_link"
+            }
+        ]
+    },
+    {
         "id": 4321,
         "title": "Node Cookbook 2nd Edition",
         "img": "http://image.banshujiang.cn/4321.jpeg?timestamp=1721302965095",

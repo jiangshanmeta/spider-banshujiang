@@ -138,6 +138,79 @@
         ]
     },
     {
+        "id": 4407,
+        "title": "iOS应用逆向工程(第2版)",
+        "img": "http://image.banshujiang.cn/4407.jpeg?timestamp=1722256171781",
+        "author": "沙梓社、吴航",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4407/webstorage_links/21800/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4407/webstorage_links/21801/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4407/webstorage_links/21799/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4390,
+        "title": "Barcodes with iOS",
+        "img": "http://image.banshujiang.cn/4390.jpeg?timestamp=1722053509808",
+        "author": "Oliver Drobnik",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Objective-C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4390/webstorage_links/21725/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4390/webstorage_links/21724/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4376,
+        "title": "跟老齐学Python: 从入门到精通",
+        "img": "http://image.banshujiang.cn/4376.jpeg?timestamp=1722049964782",
+        "author": "齐伟",
+        "language": "中文",
+        "publishYear": 2016,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4376/webstorage_links/21692/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4376/webstorage_links/21693/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4376/webstorage_links/21691/to_link"
+            }
+        ]
+    },
+    {
         "id": 4366,
         "title": "iOS编程基础：Swift、Xcode和Cocoa入门指南",
         "img": "http://image.banshujiang.cn/4366.jpeg?timestamp=1721472827531",
@@ -229,89 +302,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4327/webstorage_links/21525/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4322,
-        "title": "Swift by Tutorials",
-        "img": "http://image.banshujiang.cn/4322.jpeg?timestamp=1721304809129",
-        "author": "raywenderlich.com Tutorial Team",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4322/webstorage_links/21511/to_link"
-            },
-            {
-                "fmt": "CODE",
-                "title": "城通网盘",
-                "link": "/e_books/4322/webstorage_links/21510/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4316,
-        "title": "Python for Finance",
-        "img": "http://image.banshujiang.cn/4316.jpeg?timestamp=1720922889509",
-        "author": "Yves Hilpisch",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4316/webstorage_links/21481/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4316/webstorage_links/21479/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4316/webstorage_links/21480/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4316/webstorage_links/21478/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4315,
-        "title": "Programming iOS 8 5th Edition",
-        "img": "http://image.banshujiang.cn/4315.jpeg?timestamp=1720264409455",
-        "author": "Matt Neuburg",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4315/webstorage_links/21473/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4315/webstorage_links/21471/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4315/webstorage_links/21472/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4315/webstorage_links/21470/to_link"
             }
         ]
     }

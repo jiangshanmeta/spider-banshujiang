@@ -1,5 +1,26 @@
 [
     {
+        "id": 4393,
+        "title": "F# Deep Dives",
+        "img": "http://image.banshujiang.cn/4393.jpeg?timestamp=1722069204273",
+        "author": "Tomas Petricek and Phillip Trelford",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "F#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4393/webstorage_links/21737/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4393/webstorage_links/21736/to_link"
+            }
+        ]
+    },
+    {
         "id": 3433,
         "title": "F# 4.0 Design Patterns",
         "img": "http://image.banshujiang.cn/3433.jpeg?timestamp=1686966753373",

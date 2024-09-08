@@ -16,6 +16,27 @@
         ]
     },
     {
+        "id": 4396,
+        "title": "Java 8 in Action: Lambdas, streams, and functional-style programming",
+        "img": "http://image.banshujiang.cn/4396.jpeg?timestamp=1722070951972",
+        "author": "Raoul-gabriel Urma, Mario Fusco and Alan Mycroft",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4396/webstorage_links/21749/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4396/webstorage_links/21748/to_link"
+            }
+        ]
+    },
+    {
         "id": 4353,
         "title": "深入理解Java虚拟机：JVM高级特性与最佳实践(第3版)",
         "img": "http://image.banshujiang.cn/4353.jpeg?timestamp=1721447719858",
@@ -336,27 +357,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4238/webstorage_links/21140/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4235,
-        "title": "Play for Java: Covers Play 2",
-        "img": "http://image.banshujiang.cn/4235.jpeg?timestamp=1719051574295",
-        "author": "Nicolas Leroux and Sietse De Kaper",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4235/webstorage_links/21131/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4235/webstorage_links/21130/to_link"
             }
         ]
     }

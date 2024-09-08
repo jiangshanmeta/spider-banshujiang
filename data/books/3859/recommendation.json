@@ -85,6 +85,27 @@
         ]
     },
     {
+        "id": 4390,
+        "title": "Barcodes with iOS",
+        "img": "http://image.banshujiang.cn/4390.jpeg?timestamp=1722053509808",
+        "author": "Oliver Drobnik",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Objective-C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4390/webstorage_links/21725/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4390/webstorage_links/21724/to_link"
+            }
+        ]
+    },
+    {
         "id": 4292,
         "title": "iOS 6 By Tutorials",
         "img": "http://image.banshujiang.cn/4292.jpeg?timestamp=1720236619825",
@@ -291,27 +312,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3860/webstorage_links/19617/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3854,
-        "title": "OS X Mavericks the missing manual",
-        "img": "http://image.banshujiang.cn/3854.jpeg?timestamp=1714474146905",
-        "author": "David Pogue",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3854/webstorage_links/19594/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3854/webstorage_links/19593/to_link"
             }
         ]
     }

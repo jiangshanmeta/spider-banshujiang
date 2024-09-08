@@ -1,5 +1,31 @@
 [
     {
+        "id": 4405,
+        "title": "HTML5应用开发实践指南",
+        "img": "http://image.banshujiang.cn/4405.jpeg?timestamp=1722136778501",
+        "author": "[美]Kessin Z. [译]陈升想、汪奋进",
+        "language": "中文",
+        "publishYear": 2013,
+        "programLanguage": "HTML5",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4405/webstorage_links/21792/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4405/webstorage_links/21793/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4405/webstorage_links/21791/to_link"
+            }
+        ]
+    },
+    {
         "id": 4334,
         "title": "响应式Web设计: HTML5和CSS3实战",
         "img": "http://image.banshujiang.cn/4334.jpeg?timestamp=1721391276085",
@@ -316,32 +342,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3061/webstorage_links/16270/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3059,
-        "title": "Responsive Web Design with HTML5 and CSS 3rd Edition",
-        "img": "https://imagebsj.netlify.app/3059.jpeg",
-        "author": "Ben Frain",
-        "language": "英文",
-        "publishYear": 2020,
-        "programLanguage": "HTML5",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3059/webstorage_links/16256/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3059/webstorage_links/16257/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/3059/webstorage_links/16258/to_link"
             }
         ]
     }

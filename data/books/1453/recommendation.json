@@ -21,6 +21,22 @@
         ]
     },
     {
+        "id": 4377,
+        "title": "嗨翻C语言",
+        "img": "http://image.banshujiang.cn/4377.jpeg?timestamp=1722050081538",
+        "author": "[美]David Griffiths、Dawn Griffiths [译]程亦超",
+        "language": "中文",
+        "publishYear": 2013,
+        "programLanguage": "C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4377/webstorage_links/21695/to_link"
+            }
+        ]
+    },
+    {
         "id": 4295,
         "title": "21st Century C 2nd Edition",
         "img": "http://image.banshujiang.cn/4295.jpeg?timestamp=1720240158960",
@@ -321,32 +337,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/3302/webstorage_links/17417/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3077,
-        "title": "Modern C",
-        "img": "https://imagebsj.netlify.app/3077.jpeg",
-        "author": "Jens Gustedt",
-        "language": "英文",
-        "publishYear": 2019,
-        "programLanguage": "C",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3077/webstorage_links/16354/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3077/webstorage_links/16352/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/3077/webstorage_links/16353/to_link"
             }
         ]
     }

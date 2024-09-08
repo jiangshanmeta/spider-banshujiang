@@ -1,5 +1,52 @@
 [
     {
+        "id": 4407,
+        "title": "iOS应用逆向工程(第2版)",
+        "img": "http://image.banshujiang.cn/4407.jpeg?timestamp=1722256171781",
+        "author": "沙梓社、吴航",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4407/webstorage_links/21800/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4407/webstorage_links/21801/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4407/webstorage_links/21799/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4390,
+        "title": "Barcodes with iOS",
+        "img": "http://image.banshujiang.cn/4390.jpeg?timestamp=1722053509808",
+        "author": "Oliver Drobnik",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Objective-C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4390/webstorage_links/21725/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4390/webstorage_links/21724/to_link"
+            }
+        ]
+    },
+    {
         "id": 4366,
         "title": "iOS编程基础：Swift、Xcode和Cocoa入门指南",
         "img": "http://image.banshujiang.cn/4366.jpeg?timestamp=1721472827531",
@@ -305,48 +352,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4070/webstorage_links/20421/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4066,
-        "title": "Professional iOS Programming",
-        "img": "http://image.banshujiang.cn/4066.jpeg?timestamp=1717199305174",
-        "author": "Peter van de Put",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "Objective-C",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4066/webstorage_links/20406/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4066/webstorage_links/20405/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4053,
-        "title": "Head First iPhone and iPad Development 3rd Edition",
-        "img": "http://image.banshujiang.cn/4053.jpeg?timestamp=1716701801839",
-        "author": "Tracey Pilone and Dan Pilone",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "Objective-C",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4053/webstorage_links/20358/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4053/webstorage_links/20357/to_link"
             }
         ]
     }

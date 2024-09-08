@@ -16,6 +16,79 @@
         ]
     },
     {
+        "id": 4407,
+        "title": "iOS应用逆向工程(第2版)",
+        "img": "http://image.banshujiang.cn/4407.jpeg?timestamp=1722256171781",
+        "author": "沙梓社、吴航",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4407/webstorage_links/21800/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4407/webstorage_links/21801/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4407/webstorage_links/21799/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4405,
+        "title": "HTML5应用开发实践指南",
+        "img": "http://image.banshujiang.cn/4405.jpeg?timestamp=1722136778501",
+        "author": "[美]Kessin Z. [译]陈升想、汪奋进",
+        "language": "中文",
+        "publishYear": 2013,
+        "programLanguage": "HTML5",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4405/webstorage_links/21792/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4405/webstorage_links/21793/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4405/webstorage_links/21791/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4390,
+        "title": "Barcodes with iOS",
+        "img": "http://image.banshujiang.cn/4390.jpeg?timestamp=1722053509808",
+        "author": "Oliver Drobnik",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Objective-C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4390/webstorage_links/21725/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4390/webstorage_links/21724/to_link"
+            }
+        ]
+    },
+    {
         "id": 4366,
         "title": "iOS编程基础：Swift、Xcode和Cocoa入门指南",
         "img": "http://image.banshujiang.cn/4366.jpeg?timestamp=1721472827531",
@@ -264,74 +337,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4239/webstorage_links/21144/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4195,
-        "title": "Learning Cocoa with Objective-C 4th Edition",
-        "img": "http://image.banshujiang.cn/4195.jpeg?timestamp=1718626689060",
-        "author": "Jon Manning, Paris Buttfield-Addison and Tim Nugent",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Objective-C",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4195/webstorage_links/20933/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4195/webstorage_links/20932/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4181,
-        "title": "iOS Game Development Cookbook",
-        "img": "http://image.banshujiang.cn/4181.jpeg?timestamp=1718526992312",
-        "author": "Jonathon Manning and Paris Buttfield-Addison",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Objective-C",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4181/webstorage_links/20857/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4181/webstorage_links/20855/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4181/webstorage_links/20856/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4175,
-        "title": "HTML5 in Action",
-        "img": "http://image.banshujiang.cn/4175.jpeg?timestamp=1718525334777",
-        "author": "Rob Crowther, Joe Lennon, Ash Blue and Greg Wanish",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "HTML5",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4175/webstorage_links/20823/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4175/webstorage_links/20822/to_link"
             }
         ]
     }

@@ -1,5 +1,21 @@
 [
     {
+        "id": 4387,
+        "title": "学习R",
+        "img": "http://image.banshujiang.cn/4387.jpeg?timestamp=1722052138566",
+        "author": "[美]Richard Cotton [译]刘军",
+        "language": "中文",
+        "publishYear": 2014,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4387/webstorage_links/21715/to_link"
+            }
+        ]
+    },
+    {
         "id": 4301,
         "title": "Hands-On Programming with R",
         "img": "http://image.banshujiang.cn/4301.jpeg?timestamp=1720241384292",

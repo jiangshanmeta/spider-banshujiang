@@ -32,6 +32,59 @@
         ]
     },
     {
+        "id": 4389,
+        "title": "ArcGIS Web Development",
+        "img": "http://image.banshujiang.cn/4389.jpeg?timestamp=1722053439587",
+        "author": "Rene Rubalcava",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4389/webstorage_links/21721/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4389/webstorage_links/21720/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4374,
+        "title": "Web性能权威指南",
+        "img": "http://image.banshujiang.cn/4374.jpeg?timestamp=1722049475744",
+        "author": "[美]Ilya Grigorik [译]李松峰",
+        "language": "中文",
+        "publishYear": 2014,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4374/webstorage_links/21685/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4373,
+        "title": "Web开发权威指南",
+        "img": "http://image.banshujiang.cn/4373.jpeg?timestamp=1722049385348",
+        "author": "[美]Chris Aquino、Todd Gandee [译]奇舞团",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4373/webstorage_links/21683/to_link"
+            }
+        ]
+    },
+    {
         "id": 4372,
         "title": "Web 安全开发指南",
         "img": "http://image.banshujiang.cn/4372.jpeg?timestamp=1722048516936",
@@ -264,69 +317,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3470/webstorage_links/18129/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3467,
-        "title": "Spring MVC Beginner&#39;s Guide 2nd Edition",
-        "img": "http://image.banshujiang.cn/3467.jpeg?timestamp=1696339196193",
-        "author": "Amuthan Ganeshan",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3467/webstorage_links/18111/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3458,
-        "title": "PHP 7: Real World Application Development",
-        "img": "http://image.banshujiang.cn/3458.jpeg?timestamp=1693645940123",
-        "author": "Doug Bierer",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "PHP",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3458/webstorage_links/18062/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3458/webstorage_links/18061/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/3458/webstorage_links/18063/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3457,
-        "title": "PHP 7 Programming Cookbook",
-        "img": "http://image.banshujiang.cn/3457.jpeg?timestamp=1693645696056",
-        "author": "Doug Bierer",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "PHP",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3457/webstorage_links/18056/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3457/webstorage_links/18057/to_link"
             }
         ]
     }

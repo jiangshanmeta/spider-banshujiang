@@ -64,6 +64,80 @@
         ]
     },
     {
+        "id": 4396,
+        "title": "Java 8 in Action: Lambdas, streams, and functional-style programming",
+        "img": "http://image.banshujiang.cn/4396.jpeg?timestamp=1722070951972",
+        "author": "Raoul-gabriel Urma, Mario Fusco and Alan Mycroft",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4396/webstorage_links/21749/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4396/webstorage_links/21748/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4389,
+        "title": "ArcGIS Web Development",
+        "img": "http://image.banshujiang.cn/4389.jpeg?timestamp=1722053439587",
+        "author": "Rene Rubalcava",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4389/webstorage_links/21721/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4389/webstorage_links/21720/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4374,
+        "title": "Web性能权威指南",
+        "img": "http://image.banshujiang.cn/4374.jpeg?timestamp=1722049475744",
+        "author": "[美]Ilya Grigorik [译]李松峰",
+        "language": "中文",
+        "publishYear": 2014,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4374/webstorage_links/21685/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4373,
+        "title": "Web开发权威指南",
+        "img": "http://image.banshujiang.cn/4373.jpeg?timestamp=1722049385348",
+        "author": "[美]Chris Aquino、Todd Gandee [译]奇舞团",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4373/webstorage_links/21683/to_link"
+            }
+        ]
+    },
+    {
         "id": 4372,
         "title": "Web 安全开发指南",
         "img": "http://image.banshujiang.cn/4372.jpeg?timestamp=1722048516936",
@@ -233,100 +307,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4271/webstorage_links/21307/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4270,
-        "title": "Android Hacker’s Handbook",
-        "img": "http://image.banshujiang.cn/4270.jpeg?timestamp=1719918847377",
-        "author": "Joshua J. Drake",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4270/webstorage_links/21305/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4270/webstorage_links/21303/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4270/webstorage_links/21304/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4266,
-        "title": "Java 8 Lambdas",
-        "img": "http://image.banshujiang.cn/4266.jpeg?timestamp=1719905299354",
-        "author": "Richard Warburton",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4266/webstorage_links/21284/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4266/webstorage_links/21283/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4261,
-        "title": "Efficient Android Threading",
-        "img": "http://image.banshujiang.cn/4261.jpeg?timestamp=1719904628368",
-        "author": "Anders Göransson",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4261/webstorage_links/21256/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4261/webstorage_links/21254/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4261/webstorage_links/21255/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4253,
-        "title": "Netty实战",
-        "img": "http://image.banshujiang.cn/4253.jpeg?timestamp=1719121037189",
-        "author": "[美]Norman Maurer、Marvin Allen Wolfthal [译]何品",
-        "language": "中文",
-        "publishYear": 2017,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4253/webstorage_links/21219/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4253/webstorage_links/21220/to_link"
             }
         ]
     }

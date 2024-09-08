@@ -208,70 +208,60 @@
         ]
     },
     {
-        "id": 4372,
-        "title": "Web 安全开发指南",
-        "img": "http://image.banshujiang.cn/4372.jpeg?timestamp=1722048516936",
-        "author": "[美]John Paul Mueller [译]温正东",
-        "language": "中文",
-        "publishYear": 2017,
+        "id": 4398,
+        "title": "Node.js in Practice",
+        "img": "http://image.banshujiang.cn/4398.jpeg?timestamp=1722071305765",
+        "author": "Alex Young and Marc Harter",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4398/webstorage_links/21757/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4398/webstorage_links/21756/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4389,
+        "title": "ArcGIS Web Development",
+        "img": "http://image.banshujiang.cn/4389.jpeg?timestamp=1722053439587",
+        "author": "Rene Rubalcava",
+        "language": "英文",
+        "publishYear": 2014,
         "programLanguage": "",
         "formats": [
             {
                 "fmt": "PDF",
                 "title": "城通网盘",
-                "link": "/e_books/4372/webstorage_links/21681/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4321,
-        "title": "Node Cookbook 2nd Edition",
-        "img": "http://image.banshujiang.cn/4321.jpeg?timestamp=1721302965095",
-        "author": "David Mark Clements",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4321/webstorage_links/21507/to_link"
+                "link": "/e_books/4389/webstorage_links/21721/to_link"
             },
             {
                 "fmt": "EPUB",
                 "title": "城通网盘",
-                "link": "/e_books/4321/webstorage_links/21505/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4321/webstorage_links/21506/to_link"
+                "link": "/e_books/4389/webstorage_links/21720/to_link"
             }
         ]
     },
     {
-        "id": 4302,
-        "title": "Hands-On Sencha Touch 2",
-        "img": "http://image.banshujiang.cn/4302.jpeg?timestamp=1720241637251",
-        "author": "Lee Boonstra",
-        "language": "英文",
+        "id": 4374,
+        "title": "Web性能权威指南",
+        "img": "http://image.banshujiang.cn/4374.jpeg?timestamp=1722049475744",
+        "author": "[美]Ilya Grigorik [译]李松峰",
+        "language": "中文",
         "publishYear": 2014,
-        "programLanguage": "JavaScript",
+        "programLanguage": "",
         "formats": [
             {
                 "fmt": "PDF",
                 "title": "城通网盘",
-                "link": "/e_books/4302/webstorage_links/21406/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4302/webstorage_links/21404/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4302/webstorage_links/21405/to_link"
+                "link": "/e_books/4374/webstorage_links/21685/to_link"
             }
         ]
     }

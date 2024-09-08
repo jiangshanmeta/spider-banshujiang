@@ -1,5 +1,26 @@
 [
     {
+        "id": 4399,
+        "title": "PowerShell in Depth 2nd Edition",
+        "img": "http://image.banshujiang.cn/4399.jpeg?timestamp=1722074495548",
+        "author": "Don Jones, Jeffery Hicks and Richard Siddaway",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "PowerShell",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4399/webstorage_links/21761/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4399/webstorage_links/21760/to_link"
+            }
+        ]
+    },
+    {
         "id": 4088,
         "title": "Learn PowerShell Scripting in a Month of Lunches 2nd Edition",
         "img": "http://image.banshujiang.cn/4088.jpeg?timestamp=1717323640688",
@@ -291,22 +312,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/201/webstorage_links/13919/to_link"
-            }
-        ]
-    },
-    {
-        "id": 158,
-        "title": "PowerShell and WMI",
-        "img": "https://imagebsj.netlify.app/158.jpeg",
-        "author": "Richard Siddaway",
-        "language": "英文",
-        "publishYear": 2012,
-        "programLanguage": "PowerShell",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/158/webstorage_links/13833/to_link"
             }
         ]
     }

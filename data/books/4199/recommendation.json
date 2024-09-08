@@ -58,6 +58,22 @@
         ]
     },
     {
+        "id": 4387,
+        "title": "学习R",
+        "img": "http://image.banshujiang.cn/4387.jpeg?timestamp=1722052138566",
+        "author": "[美]Richard Cotton [译]刘军",
+        "language": "中文",
+        "publishYear": 2014,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4387/webstorage_links/21715/to_link"
+            }
+        ]
+    },
+    {
         "id": 4370,
         "title": "TensorFlow深度学习",
         "img": "http://image.banshujiang.cn/4370.jpeg?timestamp=1721473560627",
@@ -306,27 +322,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4135/webstorage_links/20637/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4133,
-        "title": "Programming Large Language Models with Azure Open AI",
-        "img": "http://image.banshujiang.cn/4133.jpeg?timestamp=1718463465019",
-        "author": "Francesco Esposito",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4133/webstorage_links/20631/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4133/webstorage_links/20630/to_link"
             }
         ]
     }

@@ -1,0 +1,338 @@
+[
+    {
+        "id": 4301,
+        "title": "Hands-On Programming with R",
+        "img": "http://image.banshujiang.cn/4301.jpeg?timestamp=1720241384292",
+        "author": "Garrett Grolemund",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4301/webstorage_links/21400/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4301/webstorage_links/21399/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4199,
+        "title": "Machine Learning with R",
+        "img": "http://image.banshujiang.cn/4199.jpeg?timestamp=1718626986663",
+        "author": "Brett Lantz",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4199/webstorage_links/20947/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4199/webstorage_links/20946/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4180,
+        "title": "Introduction to R for Quantitative Finance",
+        "img": "http://image.banshujiang.cn/4180.jpeg?timestamp=1718526700730",
+        "author": "Gergely Daróczi等",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4180/webstorage_links/20851/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4180/webstorage_links/20849/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4180/webstorage_links/20850/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4160,
+        "title": "Big Data Analytics with R and Hadoop",
+        "img": "http://image.banshujiang.cn/4160.jpeg?timestamp=1718514105526",
+        "author": "Vignesh Prajapati",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4160/webstorage_links/20747/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4160/webstorage_links/20745/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4160/webstorage_links/20746/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4135,
+        "title": "R for The Rest of Us: a Statistics-free Introduction",
+        "img": "http://image.banshujiang.cn/4135.jpeg?timestamp=1718463688525",
+        "author": "David Keyes",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4135/webstorage_links/20637/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3958,
+        "title": "Machine Learning with R 4th Edition",
+        "img": "http://image.banshujiang.cn/3958.jpeg?timestamp=1714638980386",
+        "author": "Brett Lantz",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3958/webstorage_links/20006/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3864,
+        "title": "R Statistical Application Development by Example Beginner&#39;s Guide",
+        "img": "http://image.banshujiang.cn/3864.jpeg?timestamp=1714476031236",
+        "author": "Prabhanjan Narayanachar Tattar",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3864/webstorage_links/19634/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3864/webstorage_links/19633/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3768,
+        "title": "Learning R",
+        "img": "https://imagebsj.netlify.app/3768.jpeg",
+        "author": "Richard Cotton",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3768/webstorage_links/19255/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3768/webstorage_links/19254/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3627,
+        "title": "The Shape of Data",
+        "img": "http://image.banshujiang.cn/3627.jpeg?timestamp=1708773444639",
+        "author": "Colleen M. Farrelly and Yaé Ulrich Gaba",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3627/webstorage_links/18717/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3603,
+        "title": "R Packages 2nd Edition",
+        "img": "http://image.banshujiang.cn/3603.jpeg?timestamp=1708052346407",
+        "author": "Hadley Wickham and Jennifer Bryan",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3603/webstorage_links/18633/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3602,
+        "title": "R for Data Science 2nd Edition",
+        "img": "http://image.banshujiang.cn/3602.jpeg?timestamp=1708052265040",
+        "author": "Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3602/webstorage_links/18631/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3602/webstorage_links/18630/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3552,
+        "title": "R in Action 3rd Edition",
+        "img": "http://image.banshujiang.cn/3552.jpeg?timestamp=1697273899623",
+        "author": "Robert I. Kabacoff",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3552/webstorage_links/18471/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3552/webstorage_links/18470/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3477,
+        "title": "The Book of R",
+        "img": "http://image.banshujiang.cn/3477.jpeg?timestamp=1696506646279",
+        "author": "Tilman M. Davies",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3477/webstorage_links/18162/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3477/webstorage_links/18163/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3450,
+        "title": "Mastering Text Mining with R",
+        "img": "http://image.banshujiang.cn/3450.jpeg?timestamp=1691892118461",
+        "author": "Ashish Kumar and Avinash Paul",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3450/webstorage_links/18016/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3450/webstorage_links/18015/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3450/webstorage_links/18017/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3419,
+        "title": "R for Data Science",
+        "img": "http://image.banshujiang.cn/3419.jpeg?timestamp=1681545686424",
+        "author": "Hadley Wickham and Garrett Grolemund",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3419/webstorage_links/17853/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3283,
+        "title": "R Data Structures and Algorithms",
+        "img": "http://image.banshujiang.cn/3283.jpeg?timestamp=1676086016970",
+        "author": "Dr. PKS Prakash and Achyutuni Sri Krishna Rao",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3283/webstorage_links/17319/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3283/webstorage_links/17317/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3283/webstorage_links/17318/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/3283/webstorage_links/17316/to_link"
+            }
+        ]
+    }
+]

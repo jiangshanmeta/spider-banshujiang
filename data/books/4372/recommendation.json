@@ -1,5 +1,58 @@
 [
     {
+        "id": 4389,
+        "title": "ArcGIS Web Development",
+        "img": "http://image.banshujiang.cn/4389.jpeg?timestamp=1722053439587",
+        "author": "Rene Rubalcava",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4389/webstorage_links/21721/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4389/webstorage_links/21720/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4374,
+        "title": "Web性能权威指南",
+        "img": "http://image.banshujiang.cn/4374.jpeg?timestamp=1722049475744",
+        "author": "[美]Ilya Grigorik [译]李松峰",
+        "language": "中文",
+        "publishYear": 2014,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4374/webstorage_links/21685/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4373,
+        "title": "Web开发权威指南",
+        "img": "http://image.banshujiang.cn/4373.jpeg?timestamp=1722049385348",
+        "author": "[美]Chris Aquino、Todd Gandee [译]奇舞团",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4373/webstorage_links/21683/to_link"
+            }
+        ]
+    },
+    {
         "id": 3467,
         "title": "Spring MVC Beginner&#39;s Guide 2nd Edition",
         "img": "http://image.banshujiang.cn/3467.jpeg?timestamp=1696339196193",
@@ -219,54 +272,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/1245/webstorage_links/13002/to_link"
-            }
-        ]
-    },
-    {
-        "id": 1212,
-        "title": "Mastering AngularJS Directives",
-        "img": "https://imagebsj.netlify.app/1212.jpeg",
-        "author": "Josh Kurz",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/1212/webstorage_links/12937/to_link"
-            }
-        ]
-    },
-    {
-        "id": 1211,
-        "title": "AngularJS Directives",
-        "img": "https://imagebsj.netlify.app/1211.jpeg",
-        "author": "Alex Vanston",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/1211/webstorage_links/12935/to_link"
-            }
-        ]
-    },
-    {
-        "id": 1207,
-        "title": "Agile Web Development with Rails 4",
-        "img": "https://imagebsj.netlify.app/1207.jpeg",
-        "author": "Sam Ruby, Dave Thomas and David Heinemeier Hansson",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "Ruby",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/1207/webstorage_links/12927/to_link"
             }
         ]
     }

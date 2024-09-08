@@ -16,6 +16,85 @@
         ]
     },
     {
+        "id": 4389,
+        "title": "ArcGIS Web Development",
+        "img": "http://image.banshujiang.cn/4389.jpeg?timestamp=1722053439587",
+        "author": "Rene Rubalcava",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4389/webstorage_links/21721/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4389/webstorage_links/21720/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4376,
+        "title": "跟老齐学Python: 从入门到精通",
+        "img": "http://image.banshujiang.cn/4376.jpeg?timestamp=1722049964782",
+        "author": "齐伟",
+        "language": "中文",
+        "publishYear": 2016,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4376/webstorage_links/21692/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4376/webstorage_links/21693/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4376/webstorage_links/21691/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4374,
+        "title": "Web性能权威指南",
+        "img": "http://image.banshujiang.cn/4374.jpeg?timestamp=1722049475744",
+        "author": "[美]Ilya Grigorik [译]李松峰",
+        "language": "中文",
+        "publishYear": 2014,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4374/webstorage_links/21685/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4373,
+        "title": "Web开发权威指南",
+        "img": "http://image.banshujiang.cn/4373.jpeg?timestamp=1722049385348",
+        "author": "[美]Chris Aquino、Todd Gandee [译]奇舞团",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4373/webstorage_links/21683/to_link"
+            }
+        ]
+    },
+    {
         "id": 4372,
         "title": "Web 安全开发指南",
         "img": "http://image.banshujiang.cn/4372.jpeg?timestamp=1722048516936",
@@ -243,85 +322,6 @@
                 "fmt": "AZW3",
                 "title": "城通网盘",
                 "link": "/e_books/4201/webstorage_links/20956/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4130,
-        "title": "Web Scraping with Python 3rd Edition",
-        "img": "http://image.banshujiang.cn/4130.jpeg?timestamp=1718457543723",
-        "author": "Ryan Mitchell",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4130/webstorage_links/20619/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4130/webstorage_links/20618/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4105,
-        "title": "Learn Python The Hard Way 5th Edition",
-        "img": "http://image.banshujiang.cn/4105.jpeg?timestamp=1717517186496",
-        "author": "Zed A. Shaw",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4105/webstorage_links/20549/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4105/webstorage_links/20548/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4103,
-        "title": "Learn Enough Python To Be Dangerous",
-        "img": "http://image.banshujiang.cn/4103.jpeg?timestamp=1717517029441",
-        "author": "Michael Hartl",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4103/webstorage_links/20541/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4103/webstorage_links/20540/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4078,
-        "title": "编写高质量代码：改善Python代码的91个建议",
-        "img": "http://image.banshujiang.cn/4078.jpeg?timestamp=1717204092516",
-        "author": "张颖 赖勇浩",
-        "language": "中文",
-        "publishYear": 2014,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4078/webstorage_links/20450/to_link"
             }
         ]
     }

@@ -64,6 +64,27 @@
         ]
     },
     {
+        "id": 4390,
+        "title": "Barcodes with iOS",
+        "img": "http://image.banshujiang.cn/4390.jpeg?timestamp=1722053509808",
+        "author": "Oliver Drobnik",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Objective-C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4390/webstorage_links/21725/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4390/webstorage_links/21724/to_link"
+            }
+        ]
+    },
+    {
         "id": 4292,
         "title": "iOS 6 By Tutorials",
         "img": "http://image.banshujiang.cn/4292.jpeg?timestamp=1720236619825",
@@ -291,27 +312,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3859/webstorage_links/19613/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3815,
-        "title": "iOS 7 Programming Fundamentals",
-        "img": "http://image.banshujiang.cn/3815.jpeg?timestamp=1712977153520",
-        "author": "Matt Neuburg",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "Objective-C",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3815/webstorage_links/19440/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3815/webstorage_links/19439/to_link"
             }
         ]
     }

@@ -1,5 +1,31 @@
 [
     {
+        "id": 4376,
+        "title": "跟老齐学Python: 从入门到精通",
+        "img": "http://image.banshujiang.cn/4376.jpeg?timestamp=1722049964782",
+        "author": "齐伟",
+        "language": "中文",
+        "publishYear": 2016,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4376/webstorage_links/21692/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4376/webstorage_links/21693/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4376/webstorage_links/21691/to_link"
+            }
+        ]
+    },
+    {
         "id": 4360,
         "title": "Think Python 3rd Edition",
         "img": "http://image.banshujiang.cn/4360.jpeg?timestamp=1721469719909",
@@ -301,27 +327,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4034/webstorage_links/20291/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4027,
-        "title": "Bayesian Analysis with Python 3rd Edition",
-        "img": "http://image.banshujiang.cn/4027.jpeg?timestamp=1715948787258",
-        "author": "Osvaldo Martin",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4027/webstorage_links/20264/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4027/webstorage_links/20263/to_link"
             }
         ]
     }

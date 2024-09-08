@@ -143,6 +143,53 @@
         ]
     },
     {
+        "id": 4407,
+        "title": "iOS应用逆向工程(第2版)",
+        "img": "http://image.banshujiang.cn/4407.jpeg?timestamp=1722256171781",
+        "author": "沙梓社、吴航",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4407/webstorage_links/21800/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4407/webstorage_links/21801/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4407/webstorage_links/21799/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4390,
+        "title": "Barcodes with iOS",
+        "img": "http://image.banshujiang.cn/4390.jpeg?timestamp=1722053509808",
+        "author": "Oliver Drobnik",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Objective-C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4390/webstorage_links/21725/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4390/webstorage_links/21724/to_link"
+            }
+        ]
+    },
+    {
         "id": 4366,
         "title": "iOS编程基础：Swift、Xcode和Cocoa入门指南",
         "img": "http://image.banshujiang.cn/4366.jpeg?timestamp=1721472827531",
@@ -275,43 +322,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4292/webstorage_links/21363/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4291,
-        "title": "iOS 5 By Tutorials 2nd Edition",
-        "img": "http://image.banshujiang.cn/4291.jpeg?timestamp=1720236440490",
-        "author": "raywenderlich.com Tutorial Team",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "Objective-C",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4291/webstorage_links/21361/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4290,
-        "title": "Core Data by Tutorials: iOS8 and Swift Edition",
-        "img": "http://image.banshujiang.cn/4290.jpeg?timestamp=1720097983227",
-        "author": "Aaron Douglas, Saul Mora, Matthew Morey and Pietro Rea",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4290/webstorage_links/21359/to_link"
-            },
-            {
-                "fmt": "CODE",
-                "title": "城通网盘",
-                "link": "/e_books/4290/webstorage_links/21358/to_link"
             }
         ]
     }

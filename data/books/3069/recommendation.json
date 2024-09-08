@@ -21,6 +21,27 @@
         ]
     },
     {
+        "id": 4398,
+        "title": "Node.js in Practice",
+        "img": "http://image.banshujiang.cn/4398.jpeg?timestamp=1722071305765",
+        "author": "Alex Young and Marc Harter",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4398/webstorage_links/21757/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4398/webstorage_links/21756/to_link"
+            }
+        ]
+    },
+    {
         "id": 4370,
         "title": "TensorFlow深度学习",
         "img": "http://image.banshujiang.cn/4370.jpeg?timestamp=1721473560627",
@@ -301,27 +322,6 @@
                 "fmt": "AZW3",
                 "title": "城通网盘",
                 "link": "/e_books/4203/webstorage_links/20967/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4199,
-        "title": "Machine Learning with R",
-        "img": "http://image.banshujiang.cn/4199.jpeg?timestamp=1718626986663",
-        "author": "Brett Lantz",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "R",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4199/webstorage_links/20947/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4199/webstorage_links/20946/to_link"
             }
         ]
     }

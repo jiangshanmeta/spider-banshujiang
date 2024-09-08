@@ -64,6 +64,22 @@
         ]
     },
     {
+        "id": 4377,
+        "title": "嗨翻C语言",
+        "img": "http://image.banshujiang.cn/4377.jpeg?timestamp=1722050081538",
+        "author": "[美]David Griffiths、Dawn Griffiths [译]程亦超",
+        "language": "中文",
+        "publishYear": 2013,
+        "programLanguage": "C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4377/webstorage_links/21695/to_link"
+            }
+        ]
+    },
+    {
         "id": 4295,
         "title": "21st Century C 2nd Edition",
         "img": "http://image.banshujiang.cn/4295.jpeg?timestamp=1720240158960",
@@ -306,27 +322,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/3751/webstorage_links/19187/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3703,
-        "title": "C Programming for Arduino",
-        "img": "http://image.banshujiang.cn/3703.jpeg?timestamp=1711717441548",
-        "author": "Julien Bayle",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "C",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3703/webstorage_links/18997/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3703/webstorage_links/18996/to_link"
             }
         ]
     }

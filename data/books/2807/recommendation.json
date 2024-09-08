@@ -80,6 +80,59 @@
         ]
     },
     {
+        "id": 4389,
+        "title": "ArcGIS Web Development",
+        "img": "http://image.banshujiang.cn/4389.jpeg?timestamp=1722053439587",
+        "author": "Rene Rubalcava",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4389/webstorage_links/21721/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4389/webstorage_links/21720/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4374,
+        "title": "Web性能权威指南",
+        "img": "http://image.banshujiang.cn/4374.jpeg?timestamp=1722049475744",
+        "author": "[美]Ilya Grigorik [译]李松峰",
+        "language": "中文",
+        "publishYear": 2014,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4374/webstorage_links/21685/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4373,
+        "title": "Web开发权威指南",
+        "img": "http://image.banshujiang.cn/4373.jpeg?timestamp=1722049385348",
+        "author": "[美]Chris Aquino、Todd Gandee [译]奇舞团",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4373/webstorage_links/21683/to_link"
+            }
+        ]
+    },
+    {
         "id": 4372,
         "title": "Web 安全开发指南",
         "img": "http://image.banshujiang.cn/4372.jpeg?timestamp=1722048516936",
@@ -229,74 +282,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/3467/webstorage_links/18111/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3105,
-        "title": "Ruby on Rails Tutorial 6th Edition",
-        "img": "https://imagebsj.netlify.app/3105.jpeg",
-        "author": "Michael Hartl",
-        "language": "英文",
-        "publishYear": 2020,
-        "programLanguage": "Ruby",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3105/webstorage_links/16470/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2617,
-        "title": "Modern Front-End Development for Rails",
-        "img": "https://imagebsj.netlify.app/2617.jpeg",
-        "author": "Noel Rappin",
-        "language": "英文",
-        "publishYear": 2021,
-        "programLanguage": "Ruby",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2617/webstorage_links/9122/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2617/webstorage_links/9124/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/2617/webstorage_links/9123/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2310,
-        "title": "Ruby Performance Optimization",
-        "img": "https://imagebsj.netlify.app/2310.jpeg",
-        "author": "Alexander Dymo",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "Ruby",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2310/webstorage_links/15714/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2310/webstorage_links/15712/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/2310/webstorage_links/15713/to_link"
             }
         ]
     }

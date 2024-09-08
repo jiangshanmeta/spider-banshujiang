@@ -1,5 +1,21 @@
 [
     {
+        "id": 4378,
+        "title": "精通Linux(第2版)",
+        "img": "http://image.banshujiang.cn/4378.jpeg?timestamp=1722050451790",
+        "author": "[美]Brian Ward [译]姜南、袁志鹏",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4378/webstorage_links/21697/to_link"
+            }
+        ]
+    },
+    {
         "id": 4367,
         "title": "Kali Linux渗透测试的艺术",
         "img": "http://image.banshujiang.cn/4367.jpeg?timestamp=1721472975710",
@@ -321,27 +337,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3516/webstorage_links/18325/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3500,
-        "title": "SwiftUI Essentials iOS 16 Edition",
-        "img": "http://image.banshujiang.cn/3500.jpeg?timestamp=1696560670634",
-        "author": "",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3500/webstorage_links/18263/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3500/webstorage_links/18262/to_link"
             }
         ]
     }

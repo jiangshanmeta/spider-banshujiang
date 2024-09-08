@@ -230,6 +230,32 @@
         ]
     },
     {
+        "id": 4376,
+        "title": "跟老齐学Python: 从入门到精通",
+        "img": "http://image.banshujiang.cn/4376.jpeg?timestamp=1722049964782",
+        "author": "齐伟",
+        "language": "中文",
+        "publishYear": 2016,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4376/webstorage_links/21692/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4376/webstorage_links/21693/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4376/webstorage_links/21691/to_link"
+            }
+        ]
+    },
+    {
         "id": 4370,
         "title": "TensorFlow深度学习",
         "img": "http://image.banshujiang.cn/4370.jpeg?timestamp=1721473560627",
@@ -321,27 +347,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4355/webstorage_links/21617/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4350,
-        "title": "Deep Learning at Scale",
-        "img": "http://image.banshujiang.cn/4350.jpeg?timestamp=1721447260801",
-        "author": "Suneeta Mall",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4350/webstorage_links/21595/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4350/webstorage_links/21594/to_link"
             }
         ]
     }
