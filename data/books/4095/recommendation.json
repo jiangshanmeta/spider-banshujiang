@@ -1,5 +1,37 @@
 [
     {
+        "id": 4418,
+        "title": "Python深度学习",
+        "img": "http://image.banshujiang.cn/4418.jpeg?timestamp=1722765846602",
+        "author": "[美]弗朗索瓦·肖莱 [译]张亮",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4418/webstorage_links/21829/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4417,
+        "title": "NLTK基础教程: 用NTLK和Python库构建机器学习应用",
+        "img": "http://image.banshujiang.cn/4417.jpeg?timestamp=1722765758795",
+        "author": "[印度]Nitin Hardeniya [译]凌杰",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4417/webstorage_links/21827/to_link"
+            }
+        ]
+    },
+    {
         "id": 4370,
         "title": "TensorFlow深度学习",
         "img": "http://image.banshujiang.cn/4370.jpeg?timestamp=1721473560627",
@@ -285,38 +317,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4111/webstorage_links/20568/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4094,
-        "title": "人工智能:现代方法（第4版）",
-        "img": "http://image.banshujiang.cn/4094.jpeg?timestamp=1717329907858",
-        "author": "[美]斯图尔特•罗素 彼得•诺维格 [译]",
-        "language": "中文",
-        "publishYear": 2022,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4094/webstorage_links/20509/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4093,
-        "title": "深度学习革命",
-        "img": "http://image.banshujiang.cn/4093.jpeg?timestamp=1717329592803",
-        "author": "[美]凯德·梅茨 [译]桂曙光",
-        "language": "中文",
-        "publishYear": 2023,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4093/webstorage_links/20507/to_link"
             }
         ]
     }

@@ -1,5 +1,26 @@
 [
     {
+        "id": 4448,
+        "title": "Developing Web Apps with Haskell and Yesod 2nd Edition",
+        "img": "http://image.banshujiang.cn/4448.jpeg?timestamp=1723641944748",
+        "author": "Michael Snoyman",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Haskell",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4448/webstorage_links/21929/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4448/webstorage_links/21928/to_link"
+            }
+        ]
+    },
+    {
         "id": 3784,
         "title": "Parallel and Concurrent Programming in Haskell",
         "img": "https://imagebsj.netlify.app/3784.jpeg",

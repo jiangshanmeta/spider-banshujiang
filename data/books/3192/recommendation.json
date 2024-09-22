@@ -1,5 +1,90 @@
 [
     {
+        "id": 4445,
+        "title": "Cython",
+        "img": "http://image.banshujiang.cn/4445.jpeg?timestamp=1723641730620",
+        "author": "Kurt W. Smith",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4445/webstorage_links/21917/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4445/webstorage_links/21916/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4429,
+        "title": "Flask Web开发: 基于Python的Web应用开发实战",
+        "img": "http://image.banshujiang.cn/4429.jpeg?timestamp=1723343837786",
+        "author": "[美]Miguel Grinberg [译]安道",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4429/webstorage_links/21857/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4424,
+        "title": "Django 基础教程",
+        "img": "http://image.banshujiang.cn/4424.jpeg?timestamp=1723030860931",
+        "author": "Leif Azzopardi &amp; David Maxwell [译]安道",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4424/webstorage_links/21847/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4418,
+        "title": "Python深度学习",
+        "img": "http://image.banshujiang.cn/4418.jpeg?timestamp=1722765846602",
+        "author": "[美]弗朗索瓦·肖莱 [译]张亮",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4418/webstorage_links/21829/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4417,
+        "title": "NLTK基础教程: 用NTLK和Python库构建机器学习应用",
+        "img": "http://image.banshujiang.cn/4417.jpeg?timestamp=1722765758795",
+        "author": "[印度]Nitin Hardeniya [译]凌杰",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4417/webstorage_links/21827/to_link"
+            }
+        ]
+    },
+    {
         "id": 4376,
         "title": "跟老齐学Python: 从入门到精通",
         "img": "http://image.banshujiang.cn/4376.jpeg?timestamp=1722049964782",
@@ -237,106 +322,6 @@
                 "fmt": "AZW3",
                 "title": "城通网盘",
                 "link": "/e_books/4201/webstorage_links/20956/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4130,
-        "title": "Web Scraping with Python 3rd Edition",
-        "img": "http://image.banshujiang.cn/4130.jpeg?timestamp=1718457543723",
-        "author": "Ryan Mitchell",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4130/webstorage_links/20619/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4130/webstorage_links/20618/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4105,
-        "title": "Learn Python The Hard Way 5th Edition",
-        "img": "http://image.banshujiang.cn/4105.jpeg?timestamp=1717517186496",
-        "author": "Zed A. Shaw",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4105/webstorage_links/20549/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4105/webstorage_links/20548/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4103,
-        "title": "Learn Enough Python To Be Dangerous",
-        "img": "http://image.banshujiang.cn/4103.jpeg?timestamp=1717517029441",
-        "author": "Michael Hartl",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4103/webstorage_links/20541/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4103/webstorage_links/20540/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4078,
-        "title": "编写高质量代码：改善Python代码的91个建议",
-        "img": "http://image.banshujiang.cn/4078.jpeg?timestamp=1717204092516",
-        "author": "张颖 赖勇浩",
-        "language": "中文",
-        "publishYear": 2014,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4078/webstorage_links/20450/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4068,
-        "title": "Python Pocket Reference 5th Edition",
-        "img": "http://image.banshujiang.cn/4068.jpeg?timestamp=1717199493263",
-        "author": "Mark Lutz",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4068/webstorage_links/20414/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4068/webstorage_links/20413/to_link"
             }
         ]
     }

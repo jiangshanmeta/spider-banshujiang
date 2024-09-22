@@ -1,5 +1,37 @@
 [
     {
+        "id": 4418,
+        "title": "Python深度学习",
+        "img": "http://image.banshujiang.cn/4418.jpeg?timestamp=1722765846602",
+        "author": "[美]弗朗索瓦·肖莱 [译]张亮",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4418/webstorage_links/21829/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4417,
+        "title": "NLTK基础教程: 用NTLK和Python库构建机器学习应用",
+        "img": "http://image.banshujiang.cn/4417.jpeg?timestamp=1722765758795",
+        "author": "[印度]Nitin Hardeniya [译]凌杰",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4417/webstorage_links/21827/to_link"
+            }
+        ]
+    },
+    {
         "id": 4370,
         "title": "TensorFlow深度学习",
         "img": "http://image.banshujiang.cn/4370.jpeg?timestamp=1721473560627",
@@ -300,48 +332,6 @@
                 "fmt": "AZW3",
                 "title": "城通网盘",
                 "link": "/e_books/4140/webstorage_links/20655/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4136,
-        "title": "SwiftUI Apprentice 2nd Edition",
-        "img": "http://image.banshujiang.cn/4136.jpeg?timestamp=1718463868851",
-        "author": "Audrey Tam and Caroline Begbie",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4136/webstorage_links/20641/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4136/webstorage_links/20640/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4133,
-        "title": "Programming Large Language Models with Azure Open AI",
-        "img": "http://image.banshujiang.cn/4133.jpeg?timestamp=1718463465019",
-        "author": "Francesco Esposito",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4133/webstorage_links/20631/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4133/webstorage_links/20630/to_link"
             }
         ]
     }

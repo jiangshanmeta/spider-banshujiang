@@ -16,6 +16,22 @@
         ]
     },
     {
+        "id": 4437,
+        "title": "HTML5秘籍(第2版)",
+        "img": "http://image.banshujiang.cn/4437.jpeg?timestamp=1723344864209",
+        "author": "[美]Matthew MacDonald [译]李松峰、朱巍、刘帅",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "HTML5",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4437/webstorage_links/21873/to_link"
+            }
+        ]
+    },
+    {
         "id": 4407,
         "title": "iOS应用逆向工程(第2版)",
         "img": "http://image.banshujiang.cn/4407.jpeg?timestamp=1722256171781",
@@ -316,27 +332,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/4265/webstorage_links/21279/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4239,
-        "title": "Programming 3D Applications with HTML5 and WebGL",
-        "img": "http://image.banshujiang.cn/4239.jpeg?timestamp=1719061760658",
-        "author": "Tony Parisi",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "HTML5",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4239/webstorage_links/21145/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4239/webstorage_links/21144/to_link"
             }
         ]
     }

@@ -85,6 +85,38 @@
         ]
     },
     {
+        "id": 4429,
+        "title": "Flask Web开发: 基于Python的Web应用开发实战",
+        "img": "http://image.banshujiang.cn/4429.jpeg?timestamp=1723343837786",
+        "author": "[美]Miguel Grinberg [译]安道",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4429/webstorage_links/21857/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4428,
+        "title": "Ext JS实战(第2版)",
+        "img": "http://image.banshujiang.cn/4428.jpeg?timestamp=1723343708723",
+        "author": "[ 美]Jesus Garcia、 Grgur Grisogono、Jacob K. Andresen [译]卢雄飞、田雷鹏、郜忠富",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4428/webstorage_links/21855/to_link"
+            }
+        ]
+    },
+    {
         "id": 4389,
         "title": "ArcGIS Web Development",
         "img": "http://image.banshujiang.cn/4389.jpeg?timestamp=1722053439587",
@@ -250,43 +282,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3560/webstorage_links/18500/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3521,
-        "title": "Agile Web Development with Rails 7",
-        "img": "http://image.banshujiang.cn/3521.jpeg?timestamp=1696770038701",
-        "author": "Sam Ruby",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "Ruby",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3521/webstorage_links/18343/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3521/webstorage_links/18342/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3467,
-        "title": "Spring MVC Beginner&#39;s Guide 2nd Edition",
-        "img": "http://image.banshujiang.cn/3467.jpeg?timestamp=1696339196193",
-        "author": "Amuthan Ganeshan",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3467/webstorage_links/18111/to_link"
             }
         ]
     }

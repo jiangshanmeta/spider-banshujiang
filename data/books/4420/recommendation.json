@@ -1,0 +1,150 @@
+[
+    {
+        "id": 4312,
+        "title": "Mastering Bitcoin",
+        "img": "http://image.banshujiang.cn/4312.jpeg?timestamp=1720263394819",
+        "author": "Andreas M. Antonopoulos",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4312/webstorage_links/21454/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4080,
+        "title": "图说区块链",
+        "img": "http://image.banshujiang.cn/4080.jpeg?timestamp=1717204444921",
+        "author": "徐明星 田颖 李霁月",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4080/webstorage_links/20454/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3960,
+        "title": "Mastering Blockchain 4th Edition",
+        "img": "http://image.banshujiang.cn/3960.jpeg?timestamp=1714639157182",
+        "author": "Imran Bashir",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3960/webstorage_links/20014/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3960/webstorage_links/20013/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3947,
+        "title": "Mastering Bitcoin 3rd Edition",
+        "img": "http://image.banshujiang.cn/3947.jpeg?timestamp=1714576042093",
+        "author": "Andreas M. Antonopoulos and David A. Harding",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": []
+    },
+    {
+        "id": 3485,
+        "title": "Blockchain Tethered AI",
+        "img": "http://image.banshujiang.cn/3485.jpeg?timestamp=1696511206256",
+        "author": "Karen Kilroy, Lynn Riley, and Deepak Bhatta",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3485/webstorage_links/18199/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3485/webstorage_links/18198/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2962,
+        "title": "Kubernetes Security and Observability",
+        "img": "https://imagebsj.netlify.app/2962.jpeg",
+        "author": "Brendan Creane and Amit Gupta",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2962/webstorage_links/10927/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2463,
+        "title": "Mastering Blockchain",
+        "img": "https://imagebsj.netlify.app/2463.jpeg",
+        "author": "Lorne Lantz and Daniel Cawrey",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2463/webstorage_links/15981/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2428,
+        "title": "Blockchain in Action",
+        "img": "https://imagebsj.netlify.app/2428.jpeg",
+        "author": "Bina Ramamurthy",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2428/webstorage_links/15923/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2107,
+        "title": "Mastering Blockchain 2nd Edition",
+        "img": "https://imagebsj.netlify.app/2107.jpeg",
+        "author": "Imran Bashir",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2107/webstorage_links/9757/to_link"
+            }
+        ]
+    }
+]

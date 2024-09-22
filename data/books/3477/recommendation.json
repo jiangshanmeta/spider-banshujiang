@@ -1,5 +1,21 @@
 [
     {
+        "id": 4423,
+        "title": "R数据科学",
+        "img": "http://image.banshujiang.cn/4423.jpeg?timestamp=1722771010047",
+        "author": "[新西兰]哈德利· 威克姆 [美]加勒特· 格罗勒芒德 [译]陈光欣",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4423/webstorage_links/21845/to_link"
+            }
+        ]
+    },
+    {
         "id": 4387,
         "title": "学习R",
         "img": "http://image.banshujiang.cn/4387.jpeg?timestamp=1722052138566",
@@ -296,37 +312,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/3419/webstorage_links/17853/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3283,
-        "title": "R Data Structures and Algorithms",
-        "img": "http://image.banshujiang.cn/3283.jpeg?timestamp=1676086016970",
-        "author": "Dr. PKS Prakash and Achyutuni Sri Krishna Rao",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "R",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3283/webstorage_links/17319/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3283/webstorage_links/17317/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/3283/webstorage_links/17318/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/3283/webstorage_links/17316/to_link"
             }
         ]
     }

@@ -82876,5 +82876,775 @@
                 "link": "/e_books/4412/webstorage_links/21817/to_link"
             }
         ]
+    },
+    {
+        "id": 4413,
+        "title": "DevOps实践指南",
+        "img": "http://image.banshujiang.cn/4413.jpeg?timestamp=1722257299485",
+        "author": "[美]Gene Kim、Jez Humble、Patrick Debois、John Willis [译]刘征、王磊、马博文、曾朝京",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4413/webstorage_links/21819/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4414,
+        "title": "Docker开发指南",
+        "img": "http://image.banshujiang.cn/4414.jpeg?timestamp=1722257396142",
+        "author": "[英]Adrian Mouat [译]黄彦邦",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4414/webstorage_links/21821/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4415,
+        "title": "JavaScript基础教程(第9版)",
+        "img": "http://image.banshujiang.cn/4415.jpeg?timestamp=1722257602785",
+        "author": "[美]Dori Smith、Tom Negrino [译]陈建瓯、柳靖",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4415/webstorage_links/21823/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4416,
+        "title": "JSON必知必会",
+        "img": "http://image.banshujiang.cn/4416.jpeg?timestamp=1722645588095",
+        "author": "[美]Lindsay Bassett [译]魏嘉汛",
+        "language": "中文",
+        "publishYear": 2016,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4416/webstorage_links/21825/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4417,
+        "title": "NLTK基础教程: 用NTLK和Python库构建机器学习应用",
+        "img": "http://image.banshujiang.cn/4417.jpeg?timestamp=1722765758795",
+        "author": "[印度]Nitin Hardeniya [译]凌杰",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4417/webstorage_links/21827/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4418,
+        "title": "Python深度学习",
+        "img": "http://image.banshujiang.cn/4418.jpeg?timestamp=1722765846602",
+        "author": "[美]弗朗索瓦·肖莱 [译]张亮",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4418/webstorage_links/21829/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4419,
+        "title": "Automating Microsoft Azure Infrastructure Services",
+        "img": "http://image.banshujiang.cn/4419.jpeg?timestamp=1722765973945",
+        "author": "Michael Washam",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4419/webstorage_links/21833/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4419/webstorage_links/21832/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4420,
+        "title": "Blockchain: Blueprint for a New Economy",
+        "img": "http://image.banshujiang.cn/4420.jpeg?timestamp=1722770713782",
+        "author": "Melanie Swan",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4420/webstorage_links/21837/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4420/webstorage_links/21836/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4421,
+        "title": "Building Applications with iBeacon",
+        "img": "http://image.banshujiang.cn/4421.jpeg?timestamp=1722770807273",
+        "author": "Matthew S. Gast",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4421/webstorage_links/21841/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4421/webstorage_links/21840/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4422,
+        "title": "React Native开发指南",
+        "img": "http://image.banshujiang.cn/4422.jpeg?timestamp=1722770902361",
+        "author": "[美] Bonnie Eisenman [译]黄为伟",
+        "language": "中文",
+        "publishYear": 2016,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4422/webstorage_links/21843/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4423,
+        "title": "R数据科学",
+        "img": "http://image.banshujiang.cn/4423.jpeg?timestamp=1722771010047",
+        "author": "[新西兰]哈德利· 威克姆 [美]加勒特· 格罗勒芒德 [译]陈光欣",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4423/webstorage_links/21845/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4424,
+        "title": "Django 基础教程",
+        "img": "http://image.banshujiang.cn/4424.jpeg?timestamp=1723030860931",
+        "author": "Leif Azzopardi &amp; David Maxwell [译]安道",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4424/webstorage_links/21847/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4425,
+        "title": "Docker经典实例",
+        "img": "http://image.banshujiang.cn/4425.jpeg?timestamp=1723210311559",
+        "author": "[美]Sébastien Goasguen [译]刘斌",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4425/webstorage_links/21849/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4426,
+        "title": "Elasticsearch服务器开发(第2版)",
+        "img": "http://image.banshujiang.cn/4426.jpeg?timestamp=1723210555297",
+        "author": "[波]Rafał Kuć Marek Rogoziński [译]蔡建斌",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4426/webstorage_links/21851/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4427,
+        "title": "Erlang/OTP并发编程实战",
+        "img": "http://image.banshujiang.cn/4427.jpeg?timestamp=1723210688596",
+        "author": "[美]Martin Logan [美] Eric Merritt [瑞典] Richard Carlsson [译]连城",
+        "language": "中文",
+        "publishYear": 2012,
+        "programLanguage": "Erlang",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4427/webstorage_links/21853/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4428,
+        "title": "Ext JS实战(第2版)",
+        "img": "http://image.banshujiang.cn/4428.jpeg?timestamp=1723343708723",
+        "author": "[ 美]Jesus Garcia、 Grgur Grisogono、Jacob K. Andresen [译]卢雄飞、田雷鹏、郜忠富",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4428/webstorage_links/21855/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4429,
+        "title": "Flask Web开发: 基于Python的Web应用开发实战",
+        "img": "http://image.banshujiang.cn/4429.jpeg?timestamp=1723343837786",
+        "author": "[美]Miguel Grinberg [译]安道",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4429/webstorage_links/21857/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4430,
+        "title": "Flink基础教程",
+        "img": "http://image.banshujiang.cn/4430.jpeg?timestamp=1723344046889",
+        "author": "[美]埃伦· 弗里德曼 [希]科斯塔斯· 宙马斯 [译]王绍翾",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4430/webstorage_links/21859/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4431,
+        "title": "GitHub入门与实践",
+        "img": "http://image.banshujiang.cn/4431.jpeg?timestamp=1723344135996",
+        "author": "[日]大塚弘记 [译]支鹏浩、刘斌",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4431/webstorage_links/21861/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4432,
+        "title": "Git团队协作",
+        "img": "http://image.banshujiang.cn/4432.jpeg?timestamp=1723344216301",
+        "author": "[加]Emma Jane Hogbin Westby [译]童仲毅",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4432/webstorage_links/21863/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4433,
+        "title": "Hadoop深度学习",
+        "img": "http://image.banshujiang.cn/4433.jpeg?timestamp=1723344397558",
+        "author": "[印]迪帕延 • 德夫 [译]范东来、赵运枫、封强",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4433/webstorage_links/21865/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4434,
+        "title": "Hadoop数据分析",
+        "img": "http://image.banshujiang.cn/4434.jpeg?timestamp=1723344537529",
+        "author": "[美] Benjamin Bengfort、Jenny Kim [译]王纯超",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4434/webstorage_links/21867/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4435,
+        "title": "Hadoop应用架构",
+        "img": "http://image.banshujiang.cn/4435.jpeg?timestamp=1723344641134",
+        "author": "[美]Mark Grover、Ted Malaska、Jonathan Seidman、Gwen Shapira [译]郭文超",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4435/webstorage_links/21869/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4436,
+        "title": "Head First JavaScript 程序设计",
+        "img": "http://image.banshujiang.cn/4436.jpeg?timestamp=1723344758378",
+        "author": "[美] Eric T. Freeman、Elisabeth Robson [译]袁国忠",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4436/webstorage_links/21871/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4437,
+        "title": "HTML5秘籍(第2版)",
+        "img": "http://image.banshujiang.cn/4437.jpeg?timestamp=1723344864209",
+        "author": "[美]Matthew MacDonald [译]李松峰、朱巍、刘帅",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "HTML5",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4437/webstorage_links/21873/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4438,
+        "title": "Java EE开发的颠覆者：Spring Boot实战",
+        "img": "http://image.banshujiang.cn/4438.jpeg?timestamp=1723345008221",
+        "author": "汪云飞",
+        "language": "中文",
+        "publishYear": 2016,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4438/webstorage_links/21878/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4438/webstorage_links/21879/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4438/webstorage_links/21877/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4439,
+        "title": "JavaScript DOM编程艺术(第2版)",
+        "img": "http://image.banshujiang.cn/4439.jpeg?timestamp=1723345163627",
+        "author": "[英]Jeremy Keith [加]Jeffrey Sambells [译]杨涛、王建桥、杨晓云等",
+        "language": "中文",
+        "publishYear": 2011,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4439/webstorage_links/21884/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4439/webstorage_links/21885/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4439/webstorage_links/21883/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4440,
+        "title": "Kubernetes进阶实战",
+        "img": "http://image.banshujiang.cn/4440.jpeg?timestamp=1723345301857",
+        "author": "马永亮",
+        "language": "中文",
+        "publishYear": 2019,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4440/webstorage_links/21890/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4440/webstorage_links/21891/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4440/webstorage_links/21889/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4441,
+        "title": "Linux程序设计(第4版)",
+        "img": "http://image.banshujiang.cn/4441.jpeg?timestamp=1723641013399",
+        "author": "[英]Neil Matthew、Richard Stones [译]陈健、宋健建",
+        "language": "中文",
+        "publishYear": 2010,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4441/webstorage_links/21896/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4441/webstorage_links/21897/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4441/webstorage_links/21895/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4442,
+        "title": "LLVM Cookbook",
+        "img": "http://image.banshujiang.cn/4442.jpeg?timestamp=1723641276146",
+        "author": "[印]Pandey,M.、Sarda,S. [译]王欢明",
+        "language": "中文",
+        "publishYear": 2016,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4442/webstorage_links/21902/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4442/webstorage_links/21903/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4442/webstorage_links/21901/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4443,
+        "title": "Building Microservices",
+        "img": "http://image.banshujiang.cn/4443.jpeg?timestamp=1723641346269",
+        "author": "Sam Newman",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4443/webstorage_links/21911/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4443/webstorage_links/21909/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4443/webstorage_links/21910/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4443/webstorage_links/21908/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4444,
+        "title": "Customizing Chef",
+        "img": "http://image.banshujiang.cn/4444.jpeg?timestamp=1723641425282",
+        "author": "Jon Cowie",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4444/webstorage_links/21913/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4445,
+        "title": "Cython",
+        "img": "http://image.banshujiang.cn/4445.jpeg?timestamp=1723641730620",
+        "author": "Kurt W. Smith",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4445/webstorage_links/21917/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4445/webstorage_links/21916/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4446,
+        "title": "Designing and Developing for Google Glass",
+        "img": "http://image.banshujiang.cn/4446.jpeg?timestamp=1723641799347",
+        "author": "Allen Firstenberg and Jason Salas",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4446/webstorage_links/21921/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4446/webstorage_links/21920/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4447,
+        "title": "Designing for Performance",
+        "img": "http://image.banshujiang.cn/4447.jpeg?timestamp=1723641867088",
+        "author": "Lara Callender Hogan",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4447/webstorage_links/21925/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4447/webstorage_links/21924/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4448,
+        "title": "Developing Web Apps with Haskell and Yesod 2nd Edition",
+        "img": "http://image.banshujiang.cn/4448.jpeg?timestamp=1723641944748",
+        "author": "Michael Snoyman",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Haskell",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4448/webstorage_links/21929/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4448/webstorage_links/21928/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4449,
+        "title": "Dreamweaver CC the missing manual 2nd Editiioin",
+        "img": "http://image.banshujiang.cn/4449.jpeg?timestamp=1723642021784",
+        "author": "David Sawyer McFarland and Chris Grover",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4449/webstorage_links/21933/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4449/webstorage_links/21932/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4450,
+        "title": "Elasticsearch: The Definitive Guide",
+        "img": "http://image.banshujiang.cn/4450.jpeg?timestamp=1723642088722",
+        "author": "Clinton Gormley and Zachary Tong",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4450/webstorage_links/21937/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4450/webstorage_links/21936/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4451,
+        "title": "Enyo: Up and Running 2nd Edition",
+        "img": "http://image.banshujiang.cn/4451.jpeg?timestamp=1723642209264",
+        "author": "Roy Sutton",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4451/webstorage_links/21945/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4451/webstorage_links/21943/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4451/webstorage_links/21944/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4451/webstorage_links/21942/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4452,
+        "title": "eXist",
+        "img": "http://image.banshujiang.cn/4452.jpeg?timestamp=1723642376222",
+        "author": "Erik Siegel and Adam Retter",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4452/webstorage_links/21949/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4452/webstorage_links/21948/to_link"
+            }
+        ]
     }
 ]

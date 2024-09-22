@@ -53,6 +53,54 @@
         ]
     },
     {
+        "id": 4423,
+        "title": "R数据科学",
+        "img": "http://image.banshujiang.cn/4423.jpeg?timestamp=1722771010047",
+        "author": "[新西兰]哈德利· 威克姆 [美]加勒特· 格罗勒芒德 [译]陈光欣",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4423/webstorage_links/21845/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4418,
+        "title": "Python深度学习",
+        "img": "http://image.banshujiang.cn/4418.jpeg?timestamp=1722765846602",
+        "author": "[美]弗朗索瓦·肖莱 [译]张亮",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4418/webstorage_links/21829/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4417,
+        "title": "NLTK基础教程: 用NTLK和Python库构建机器学习应用",
+        "img": "http://image.banshujiang.cn/4417.jpeg?timestamp=1722765758795",
+        "author": "[印度]Nitin Hardeniya [译]凌杰",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4417/webstorage_links/21827/to_link"
+            }
+        ]
+    },
+    {
         "id": 4387,
         "title": "学习R",
         "img": "http://image.banshujiang.cn/4387.jpeg?timestamp=1722052138566",
@@ -249,74 +297,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/4180/webstorage_links/20850/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4160,
-        "title": "Big Data Analytics with R and Hadoop",
-        "img": "http://image.banshujiang.cn/4160.jpeg?timestamp=1718514105526",
-        "author": "Vignesh Prajapati",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "R",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4160/webstorage_links/20747/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4160/webstorage_links/20745/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4160/webstorage_links/20746/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4140,
-        "title": "AI极简经济学",
-        "img": "http://image.banshujiang.cn/4140.jpeg?timestamp=1718464469066",
-        "author": "[加]阿杰伊·阿格拉沃尔、乔舒亚·甘斯、阿维·戈德法布 [译]闾佳",
-        "language": "中文",
-        "publishYear": 2018,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4140/webstorage_links/20656/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4140/webstorage_links/20657/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4140/webstorage_links/20655/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4135,
-        "title": "R for The Rest of Us: a Statistics-free Introduction",
-        "img": "http://image.banshujiang.cn/4135.jpeg?timestamp=1718463688525",
-        "author": "David Keyes",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "R",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4135/webstorage_links/20637/to_link"
             }
         ]
     }

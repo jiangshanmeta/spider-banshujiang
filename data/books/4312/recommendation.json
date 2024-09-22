@@ -1,5 +1,26 @@
 [
     {
+        "id": 4420,
+        "title": "Blockchain: Blueprint for a New Economy",
+        "img": "http://image.banshujiang.cn/4420.jpeg?timestamp=1722770713782",
+        "author": "Melanie Swan",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4420/webstorage_links/21837/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4420/webstorage_links/21836/to_link"
+            }
+        ]
+    },
+    {
         "id": 4080,
         "title": "图说区块链",
         "img": "http://image.banshujiang.cn/4080.jpeg?timestamp=1717204444921",

@@ -1,0 +1,283 @@
+[
+    {
+        "id": 2214,
+        "title": "High Performance Django",
+        "img": "https://imagebsj.netlify.app/2214.jpeg",
+        "author": "Peter Baumgartner and Yann Malet",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2214/webstorage_links/15564/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1083,
+        "title": "Django Web开发指南",
+        "img": "https://imagebsj.netlify.app/1083.jpeg",
+        "author": "Jeff Forcier, Paul Bissex and Wesley Chun",
+        "language": "中文",
+        "publishYear": 2009,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1083/webstorage_links/13505/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4445,
+        "title": "Cython",
+        "img": "http://image.banshujiang.cn/4445.jpeg?timestamp=1723641730620",
+        "author": "Kurt W. Smith",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4445/webstorage_links/21917/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4445/webstorage_links/21916/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4428,
+        "title": "Ext JS实战(第2版)",
+        "img": "http://image.banshujiang.cn/4428.jpeg?timestamp=1723343708723",
+        "author": "[ 美]Jesus Garcia、 Grgur Grisogono、Jacob K. Andresen [译]卢雄飞、田雷鹏、郜忠富",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4428/webstorage_links/21855/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4424,
+        "title": "Django 基础教程",
+        "img": "http://image.banshujiang.cn/4424.jpeg?timestamp=1723030860931",
+        "author": "Leif Azzopardi &amp; David Maxwell [译]安道",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4424/webstorage_links/21847/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4418,
+        "title": "Python深度学习",
+        "img": "http://image.banshujiang.cn/4418.jpeg?timestamp=1722765846602",
+        "author": "[美]弗朗索瓦·肖莱 [译]张亮",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4418/webstorage_links/21829/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4417,
+        "title": "NLTK基础教程: 用NTLK和Python库构建机器学习应用",
+        "img": "http://image.banshujiang.cn/4417.jpeg?timestamp=1722765758795",
+        "author": "[印度]Nitin Hardeniya [译]凌杰",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4417/webstorage_links/21827/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4389,
+        "title": "ArcGIS Web Development",
+        "img": "http://image.banshujiang.cn/4389.jpeg?timestamp=1722053439587",
+        "author": "Rene Rubalcava",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4389/webstorage_links/21721/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4389/webstorage_links/21720/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4376,
+        "title": "跟老齐学Python: 从入门到精通",
+        "img": "http://image.banshujiang.cn/4376.jpeg?timestamp=1722049964782",
+        "author": "齐伟",
+        "language": "中文",
+        "publishYear": 2016,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4376/webstorage_links/21692/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4376/webstorage_links/21693/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4376/webstorage_links/21691/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4374,
+        "title": "Web性能权威指南",
+        "img": "http://image.banshujiang.cn/4374.jpeg?timestamp=1722049475744",
+        "author": "[美]Ilya Grigorik [译]李松峰",
+        "language": "中文",
+        "publishYear": 2014,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4374/webstorage_links/21685/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4373,
+        "title": "Web开发权威指南",
+        "img": "http://image.banshujiang.cn/4373.jpeg?timestamp=1722049385348",
+        "author": "[美]Chris Aquino、Todd Gandee [译]奇舞团",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4373/webstorage_links/21683/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4372,
+        "title": "Web 安全开发指南",
+        "img": "http://image.banshujiang.cn/4372.jpeg?timestamp=1722048516936",
+        "author": "[美]John Paul Mueller [译]温正东",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4372/webstorage_links/21681/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4360,
+        "title": "Think Python 3rd Edition",
+        "img": "http://image.banshujiang.cn/4360.jpeg?timestamp=1721469719909",
+        "author": "Allen B. Downey",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4360/webstorage_links/21637/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4360/webstorage_links/21636/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4331,
+        "title": "流畅的Python",
+        "img": "http://image.banshujiang.cn/4331.jpeg?timestamp=1721390795562",
+        "author": "[巴西]Luciano Ramalho [译]安道、吴珂",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4331/webstorage_links/21533/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4330,
+        "title": "精通Python设计模式",
+        "img": "http://image.banshujiang.cn/4330.jpeg?timestamp=1721311735973",
+        "author": "[荷]Sakis Kasampalis [译]夏永锋",
+        "language": "中文",
+        "publishYear": 2016,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4330/webstorage_links/21531/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4327,
+        "title": "流畅的Python(第2版)",
+        "img": "http://image.banshujiang.cn/4327.jpeg?timestamp=1721311271647",
+        "author": "[巴西]Luciano Ramalho [译]安道",
+        "language": "中文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4327/webstorage_links/21525/to_link"
+            }
+        ]
+    }
+]

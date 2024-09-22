@@ -1,5 +1,21 @@
 [
     {
+        "id": 4428,
+        "title": "Ext JS实战(第2版)",
+        "img": "http://image.banshujiang.cn/4428.jpeg?timestamp=1723343708723",
+        "author": "[ 美]Jesus Garcia、 Grgur Grisogono、Jacob K. Andresen [译]卢雄飞、田雷鹏、郜忠富",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4428/webstorage_links/21855/to_link"
+            }
+        ]
+    },
+    {
         "id": 1573,
         "title": "Full Stack Web Development with Backbone.js",
         "img": "https://imagebsj.netlify.app/1573.jpeg",
@@ -208,60 +224,44 @@
         ]
     },
     {
-        "id": 4398,
-        "title": "Node.js in Practice",
-        "img": "http://image.banshujiang.cn/4398.jpeg?timestamp=1722071305765",
-        "author": "Alex Young and Marc Harter",
-        "language": "英文",
-        "publishYear": 2014,
+        "id": 4439,
+        "title": "JavaScript DOM编程艺术(第2版)",
+        "img": "http://image.banshujiang.cn/4439.jpeg?timestamp=1723345163627",
+        "author": "[英]Jeremy Keith [加]Jeffrey Sambells [译]杨涛、王建桥、杨晓云等",
+        "language": "中文",
+        "publishYear": 2011,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4439/webstorage_links/21884/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4439/webstorage_links/21885/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4439/webstorage_links/21883/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4436,
+        "title": "Head First JavaScript 程序设计",
+        "img": "http://image.banshujiang.cn/4436.jpeg?timestamp=1723344758378",
+        "author": "[美] Eric T. Freeman、Elisabeth Robson [译]袁国忠",
+        "language": "中文",
+        "publishYear": 2017,
         "programLanguage": "JavaScript",
         "formats": [
             {
                 "fmt": "PDF",
                 "title": "城通网盘",
-                "link": "/e_books/4398/webstorage_links/21757/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4398/webstorage_links/21756/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4389,
-        "title": "ArcGIS Web Development",
-        "img": "http://image.banshujiang.cn/4389.jpeg?timestamp=1722053439587",
-        "author": "Rene Rubalcava",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4389/webstorage_links/21721/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4389/webstorage_links/21720/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4374,
-        "title": "Web性能权威指南",
-        "img": "http://image.banshujiang.cn/4374.jpeg?timestamp=1722049475744",
-        "author": "[美]Ilya Grigorik [译]李松峰",
-        "language": "中文",
-        "publishYear": 2014,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4374/webstorage_links/21685/to_link"
+                "link": "/e_books/4436/webstorage_links/21871/to_link"
             }
         ]
     }

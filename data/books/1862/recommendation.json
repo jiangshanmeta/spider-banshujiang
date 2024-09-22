@@ -32,6 +32,38 @@
         ]
     },
     {
+        "id": 4429,
+        "title": "Flask Web开发: 基于Python的Web应用开发实战",
+        "img": "http://image.banshujiang.cn/4429.jpeg?timestamp=1723343837786",
+        "author": "[美]Miguel Grinberg [译]安道",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4429/webstorage_links/21857/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4428,
+        "title": "Ext JS实战(第2版)",
+        "img": "http://image.banshujiang.cn/4428.jpeg?timestamp=1723343708723",
+        "author": "[ 美]Jesus Garcia、 Grgur Grisogono、Jacob K. Andresen [译]卢雄飞、田雷鹏、郜忠富",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4428/webstorage_links/21855/to_link"
+            }
+        ]
+    },
+    {
         "id": 4389,
         "title": "ArcGIS Web Development",
         "img": "http://image.banshujiang.cn/4389.jpeg?timestamp=1722053439587",
@@ -280,43 +312,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3678/webstorage_links/18898/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3598,
-        "title": "PHP Cookbook",
-        "img": "http://image.banshujiang.cn/3598.jpeg?timestamp=1707806670730",
-        "author": "Eric A. Mann",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "PHP",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3598/webstorage_links/18619/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3470,
-        "title": "PHP for the Web 5th Edition",
-        "img": "http://image.banshujiang.cn/3470.jpeg?timestamp=1696339491171",
-        "author": "Larry Ullman",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "PHP",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3470/webstorage_links/18128/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3470/webstorage_links/18129/to_link"
             }
         ]
     }

@@ -1,5 +1,31 @@
 [
     {
+        "id": 4441,
+        "title": "Linux程序设计(第4版)",
+        "img": "http://image.banshujiang.cn/4441.jpeg?timestamp=1723641013399",
+        "author": "[英]Neil Matthew、Richard Stones [译]陈健、宋健建",
+        "language": "中文",
+        "publishYear": 2010,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4441/webstorage_links/21896/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4441/webstorage_links/21897/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4441/webstorage_links/21895/to_link"
+            }
+        ]
+    },
+    {
         "id": 4378,
         "title": "精通Linux(第2版)",
         "img": "http://image.banshujiang.cn/4378.jpeg?timestamp=1722050451790",
@@ -321,32 +347,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/2809/webstorage_links/10226/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2788,
-        "title": "Practical Linux Forensics",
-        "img": "https://imagebsj.netlify.app/2788.jpeg",
-        "author": "Bruce Nikkel",
-        "language": "英文",
-        "publishYear": 2021,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2788/webstorage_links/10142/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2788/webstorage_links/10141/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/2788/webstorage_links/10143/to_link"
             }
         ]
     }
