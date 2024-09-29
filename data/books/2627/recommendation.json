@@ -26,6 +26,53 @@
         ]
     },
     {
+        "id": 4461,
+        "title": "Knockout.js",
+        "img": "http://image.banshujiang.cn/4461.jpeg?timestamp=1723874843611",
+        "author": "Jamie Munro",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4461/webstorage_links/21989/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4461/webstorage_links/21988/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4460,
+        "title": "JavaScript Cookbook 2nd Edition",
+        "img": "http://image.banshujiang.cn/4460.jpeg?timestamp=1723872468851",
+        "author": "Shelley Powers",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4460/webstorage_links/21985/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4460/webstorage_links/21983/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4460/webstorage_links/21984/to_link"
+            }
+        ]
+    },
+    {
         "id": 4439,
         "title": "JavaScript DOM编程艺术(第2版)",
         "img": "http://image.banshujiang.cn/4439.jpeg?timestamp=1723345163627",
@@ -260,48 +307,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4350/webstorage_links/21594/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4326,
-        "title": "Spark机器学习",
-        "img": "http://image.banshujiang.cn/4326.jpeg?timestamp=1721310065443",
-        "author": "[南非]Nick Pentreath [译]蔡立宇 黄章帅 周济民",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4326/webstorage_links/21523/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4321,
-        "title": "Node Cookbook 2nd Edition",
-        "img": "http://image.banshujiang.cn/4321.jpeg?timestamp=1721302965095",
-        "author": "David Mark Clements",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4321/webstorage_links/21507/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4321/webstorage_links/21505/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4321/webstorage_links/21506/to_link"
             }
         ]
     }

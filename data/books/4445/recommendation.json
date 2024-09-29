@@ -1,5 +1,26 @@
 [
     {
+        "id": 4457,
+        "title": "Introducing Python",
+        "img": "http://image.banshujiang.cn/4457.jpeg?timestamp=1723869675345",
+        "author": "Bill Lubanovic",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4457/webstorage_links/21967/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4457/webstorage_links/21966/to_link"
+            }
+        ]
+    },
+    {
         "id": 4429,
         "title": "Flask Web开发: 基于Python的Web应用开发实战",
         "img": "http://image.banshujiang.cn/4429.jpeg?timestamp=1723343837786",
@@ -301,27 +322,6 @@
                 "fmt": "AZW3",
                 "title": "城通网盘",
                 "link": "/e_books/4201/webstorage_links/20956/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4130,
-        "title": "Web Scraping with Python 3rd Edition",
-        "img": "http://image.banshujiang.cn/4130.jpeg?timestamp=1718457543723",
-        "author": "Ryan Mitchell",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4130/webstorage_links/20619/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4130/webstorage_links/20618/to_link"
             }
         ]
     }

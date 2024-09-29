@@ -224,44 +224,44 @@
         ]
     },
     {
-        "id": 4439,
-        "title": "JavaScript DOM编程艺术(第2版)",
-        "img": "http://image.banshujiang.cn/4439.jpeg?timestamp=1723345163627",
-        "author": "[英]Jeremy Keith [加]Jeffrey Sambells [译]杨涛、王建桥、杨晓云等",
-        "language": "中文",
-        "publishYear": 2011,
-        "programLanguage": "JavaScript",
+        "id": 4463,
+        "title": "Learning PHP, MySQL &amp; JavaScript 4th Editiion",
+        "img": "http://image.banshujiang.cn/4463.jpeg?timestamp=1723875148984",
+        "author": "Robin Nixon",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "PHP",
         "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4463/webstorage_links/21999/to_link"
+            },
             {
                 "fmt": "EPUB",
                 "title": "城通网盘",
-                "link": "/e_books/4439/webstorage_links/21884/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4439/webstorage_links/21885/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4439/webstorage_links/21883/to_link"
+                "link": "/e_books/4463/webstorage_links/21998/to_link"
             }
         ]
     },
     {
-        "id": 4436,
-        "title": "Head First JavaScript 程序设计",
-        "img": "http://image.banshujiang.cn/4436.jpeg?timestamp=1723344758378",
-        "author": "[美] Eric T. Freeman、Elisabeth Robson [译]袁国忠",
-        "language": "中文",
-        "publishYear": 2017,
+        "id": 4461,
+        "title": "Knockout.js",
+        "img": "http://image.banshujiang.cn/4461.jpeg?timestamp=1723874843611",
+        "author": "Jamie Munro",
+        "language": "英文",
+        "publishYear": 2014,
         "programLanguage": "JavaScript",
         "formats": [
             {
                 "fmt": "PDF",
                 "title": "城通网盘",
-                "link": "/e_books/4436/webstorage_links/21871/to_link"
+                "link": "/e_books/4461/webstorage_links/21989/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4461/webstorage_links/21988/to_link"
             }
         ]
     }

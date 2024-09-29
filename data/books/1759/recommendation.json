@@ -1,5 +1,115 @@
 [
     {
+        "id": 4472,
+        "title": "Swift Development with Cocoa",
+        "img": "http://image.banshujiang.cn/4472.jpeg?timestamp=1723945187035",
+        "author": "Jonathon Manning, Paris Buttfield-Addison, and Tim Nugent",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4472/webstorage_links/22035/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4472/webstorage_links/22034/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4461,
+        "title": "Knockout.js",
+        "img": "http://image.banshujiang.cn/4461.jpeg?timestamp=1723874843611",
+        "author": "Jamie Munro",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4461/webstorage_links/21989/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4461/webstorage_links/21988/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4460,
+        "title": "JavaScript Cookbook 2nd Edition",
+        "img": "http://image.banshujiang.cn/4460.jpeg?timestamp=1723872468851",
+        "author": "Shelley Powers",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4460/webstorage_links/21985/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4460/webstorage_links/21983/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4460/webstorage_links/21984/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4458,
+        "title": "iOS 8 Swift Programming Cookbook",
+        "img": "http://image.banshujiang.cn/4458.jpeg?timestamp=1723872072952",
+        "author": "Vandad Nahavandipoor",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4458/webstorage_links/21971/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4458/webstorage_links/21970/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4456,
+        "title": "Introducing iOS 8",
+        "img": "http://image.banshujiang.cn/4456.jpeg?timestamp=1723865864084",
+        "author": "Steve Derico",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4456/webstorage_links/21963/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4456/webstorage_links/21962/to_link"
+            }
+        ]
+    },
+    {
         "id": 4439,
         "title": "JavaScript DOM编程艺术(第2版)",
         "img": "http://image.banshujiang.cn/4439.jpeg?timestamp=1723345163627",
@@ -227,121 +337,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/4321/webstorage_links/21506/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4315,
-        "title": "Programming iOS 8 5th Edition",
-        "img": "http://image.banshujiang.cn/4315.jpeg?timestamp=1720264409455",
-        "author": "Matt Neuburg",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4315/webstorage_links/21473/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4315/webstorage_links/21471/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4315/webstorage_links/21472/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4315/webstorage_links/21470/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4302,
-        "title": "Hands-On Sencha Touch 2",
-        "img": "http://image.banshujiang.cn/4302.jpeg?timestamp=1720241637251",
-        "author": "Lee Boonstra",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4302/webstorage_links/21406/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4302/webstorage_links/21404/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4302/webstorage_links/21405/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4296,
-        "title": "AngularJS: Up And Running",
-        "img": "http://image.banshujiang.cn/4296.jpeg?timestamp=1720240242973",
-        "author": "Shyam Seshadri and Brad Green",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4296/webstorage_links/21375/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4294,
-        "title": "iOS Games by Tutorials 2nd Edition",
-        "img": "http://image.banshujiang.cn/4294.jpeg?timestamp=1720238539036",
-        "author": "raywenderlich.com Tutorial Team",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4294/webstorage_links/21371/to_link"
-            },
-            {
-                "fmt": "CODE",
-                "title": "城通网盘",
-                "link": "/e_books/4294/webstorage_links/21370/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4293,
-        "title": "iOS 8 by Tutorials",
-        "img": "http://image.banshujiang.cn/4293.jpeg?timestamp=1720236797275",
-        "author": "raywenderlich.com Tutorial Team",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4293/webstorage_links/21366/to_link"
-            },
-            {
-                "fmt": "CODE",
-                "title": "城通网盘",
-                "link": "/e_books/4293/webstorage_links/21367/to_link"
             }
         ]
     }

@@ -1,5 +1,47 @@
 [
     {
+        "id": 4470,
+        "title": "Programming Scala 2nd Edition",
+        "img": "http://image.banshujiang.cn/4470.jpeg?timestamp=1723876304610",
+        "author": "Dean Wampler and Alex Payne",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Scala",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4470/webstorage_links/22029/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4470/webstorage_links/22028/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4464,
+        "title": "Learning Scala",
+        "img": "http://image.banshujiang.cn/4464.jpeg?timestamp=1723875254682",
+        "author": "Jason Swartz",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Scala",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4464/webstorage_links/22003/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4464/webstorage_links/22002/to_link"
+            }
+        ]
+    },
+    {
         "id": 3873,
         "title": "Scala Cookbook",
         "img": "http://image.banshujiang.cn/3873.jpeg?timestamp=1714478720515",

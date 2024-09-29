@@ -83646,5 +83646,440 @@
                 "link": "/e_books/4452/webstorage_links/21948/to_link"
             }
         ]
+    },
+    {
+        "id": 4453,
+        "title": "Google Compute Engine",
+        "img": "http://image.banshujiang.cn/4453.jpeg?timestamp=1723865461393",
+        "author": "Marc Cohen, Kathryn Hurley, and Paul Newson",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4453/webstorage_links/21953/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4453/webstorage_links/21952/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4454,
+        "title": "High Performance Responsive Design",
+        "img": "http://image.banshujiang.cn/4454.jpeg?timestamp=1723865704591",
+        "author": "Tom Barker",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4454/webstorage_links/21955/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4455,
+        "title": "Introducing GitHub",
+        "img": "http://image.banshujiang.cn/4455.jpeg?timestamp=1723865786028",
+        "author": "Peter Bell and Brent Beer",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4455/webstorage_links/21959/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4455/webstorage_links/21958/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4456,
+        "title": "Introducing iOS 8",
+        "img": "http://image.banshujiang.cn/4456.jpeg?timestamp=1723865864084",
+        "author": "Steve Derico",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4456/webstorage_links/21963/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4456/webstorage_links/21962/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4457,
+        "title": "Introducing Python",
+        "img": "http://image.banshujiang.cn/4457.jpeg?timestamp=1723869675345",
+        "author": "Bill Lubanovic",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4457/webstorage_links/21967/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4457/webstorage_links/21966/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4458,
+        "title": "iOS 8 Swift Programming Cookbook",
+        "img": "http://image.banshujiang.cn/4458.jpeg?timestamp=1723872072952",
+        "author": "Vandad Nahavandipoor",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4458/webstorage_links/21971/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4458/webstorage_links/21970/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4459,
+        "title": "iPad: The Missing Manual 7th Edition",
+        "img": "http://image.banshujiang.cn/4459.jpeg?timestamp=1723872356577",
+        "author": "David Pogue",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4459/webstorage_links/21979/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4459/webstorage_links/21977/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4459/webstorage_links/21978/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4459/webstorage_links/21976/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4460,
+        "title": "JavaScript Cookbook 2nd Edition",
+        "img": "http://image.banshujiang.cn/4460.jpeg?timestamp=1723872468851",
+        "author": "Shelley Powers",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4460/webstorage_links/21985/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4460/webstorage_links/21983/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4460/webstorage_links/21984/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4461,
+        "title": "Knockout.js",
+        "img": "http://image.banshujiang.cn/4461.jpeg?timestamp=1723874843611",
+        "author": "Jamie Munro",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4461/webstorage_links/21989/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4461/webstorage_links/21988/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4462,
+        "title": "Learning Agile",
+        "img": "http://image.banshujiang.cn/4462.jpeg?timestamp=1723874984997",
+        "author": "Andrew Stellman and Jennifer Greene",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4462/webstorage_links/21995/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4462/webstorage_links/21993/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4462/webstorage_links/21994/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4463,
+        "title": "Learning PHP, MySQL &amp; JavaScript 4th Editiion",
+        "img": "http://image.banshujiang.cn/4463.jpeg?timestamp=1723875148984",
+        "author": "Robin Nixon",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "PHP",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4463/webstorage_links/21999/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4463/webstorage_links/21998/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4464,
+        "title": "Learning Scala",
+        "img": "http://image.banshujiang.cn/4464.jpeg?timestamp=1723875254682",
+        "author": "Jason Swartz",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Scala",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4464/webstorage_links/22003/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4464/webstorage_links/22002/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4465,
+        "title": "Learning Spark",
+        "img": "http://image.banshujiang.cn/4465.jpeg?timestamp=1723875319851",
+        "author": "Holden Karau, Andy Konwinski, Patrick Wendell, and Matei Zaharia",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4465/webstorage_links/22009/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4465/webstorage_links/22007/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4465/webstorage_links/22008/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4466,
+        "title": "Modern PHP",
+        "img": "http://image.banshujiang.cn/4466.jpeg?timestamp=1723875424632",
+        "author": "Josh Lockhart",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "PHP",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4466/webstorage_links/22013/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4466/webstorage_links/22012/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4467,
+        "title": "OSX Yosemite: The Missing Manual",
+        "img": "http://image.banshujiang.cn/4467.jpeg?timestamp=1723875952088",
+        "author": "David Pogue",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4467/webstorage_links/22017/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4467/webstorage_links/22016/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4468,
+        "title": "PostgreSQL: Up and Running 2nd Edition",
+        "img": "http://image.banshujiang.cn/4468.jpeg?timestamp=1723876148211",
+        "author": "Regina O. Obe and Leo S. Hsu",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4468/webstorage_links/22021/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4468/webstorage_links/22020/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4469,
+        "title": "Programming Chrome Apps",
+        "img": "http://image.banshujiang.cn/4469.jpeg?timestamp=1723876229945",
+        "author": "Marc Rochkind",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4469/webstorage_links/22025/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4469/webstorage_links/22024/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4470,
+        "title": "Programming Scala 2nd Edition",
+        "img": "http://image.banshujiang.cn/4470.jpeg?timestamp=1723876304610",
+        "author": "Dean Wampler and Alex Payne",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Scala",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4470/webstorage_links/22029/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4470/webstorage_links/22028/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4471,
+        "title": "Social eCommerce",
+        "img": "http://image.banshujiang.cn/4471.jpeg?timestamp=1723945099201",
+        "author": "Stephan Spencer, Jimmy Harding, and Jennifer Sheahan",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4471/webstorage_links/22031/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4472,
+        "title": "Swift Development with Cocoa",
+        "img": "http://image.banshujiang.cn/4472.jpeg?timestamp=1723945187035",
+        "author": "Jonathon Manning, Paris Buttfield-Addison, and Tim Nugent",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4472/webstorage_links/22035/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4472/webstorage_links/22034/to_link"
+            }
+        ]
     }
 ]

@@ -1,5 +1,68 @@
 [
     {
+        "id": 4472,
+        "title": "Swift Development with Cocoa",
+        "img": "http://image.banshujiang.cn/4472.jpeg?timestamp=1723945187035",
+        "author": "Jonathon Manning, Paris Buttfield-Addison, and Tim Nugent",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4472/webstorage_links/22035/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4472/webstorage_links/22034/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4458,
+        "title": "iOS 8 Swift Programming Cookbook",
+        "img": "http://image.banshujiang.cn/4458.jpeg?timestamp=1723872072952",
+        "author": "Vandad Nahavandipoor",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4458/webstorage_links/21971/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4458/webstorage_links/21970/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4456,
+        "title": "Introducing iOS 8",
+        "img": "http://image.banshujiang.cn/4456.jpeg?timestamp=1723865864084",
+        "author": "Steve Derico",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4456/webstorage_links/21963/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4456/webstorage_links/21962/to_link"
+            }
+        ]
+    },
+    {
         "id": 4407,
         "title": "iOS应用逆向工程(第2版)",
         "img": "http://image.banshujiang.cn/4407.jpeg?timestamp=1722256171781",
@@ -269,69 +332,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4281/webstorage_links/21327/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4280,
-        "title": "C#并发编程经典实例",
-        "img": "http://image.banshujiang.cn/4280.jpeg?timestamp=1720096626819",
-        "author": "[美]Stephen Cleary [译]相银初",
-        "language": "中文",
-        "publishYear": 2015,
-        "programLanguage": "C#",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4280/webstorage_links/21325/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4265,
-        "title": "iPhone the missing manual",
-        "img": "http://image.banshujiang.cn/4265.jpeg?timestamp=1719905239642",
-        "author": "David Pogue and Lesa Snider",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Objective-C",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4265/webstorage_links/21280/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4265/webstorage_links/21278/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4265/webstorage_links/21279/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4241,
-        "title": "Programming Windows Store Apps with C#",
-        "img": "http://image.banshujiang.cn/4241.jpeg?timestamp=1719061933942",
-        "author": "Matt Baxter-Reynolds and Iris Classon",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "C#",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4241/webstorage_links/21155/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4241/webstorage_links/21154/to_link"
             }
         ]
     }
