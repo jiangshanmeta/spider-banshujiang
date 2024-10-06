@@ -32,6 +32,127 @@
         ]
     },
     {
+        "id": 4492,
+        "title": "Selenium 2自动化测试实战：基于Python语言",
+        "img": "http://image.banshujiang.cn/4492.jpeg?timestamp=1724469095452",
+        "author": "虫师",
+        "language": "中文",
+        "publishYear": 2016,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4492/webstorage_links/22122/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4492/webstorage_links/22123/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4492/webstorage_links/22121/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4487,
+        "title": "Full Stack JavaScript Development with MEAN",
+        "img": "http://image.banshujiang.cn/4487.jpeg?timestamp=1723950583814",
+        "author": "Adam Bretz and Colin J. Ihrig",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4487/webstorage_links/22095/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4487/webstorage_links/22093/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4487/webstorage_links/22094/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4487/webstorage_links/22092/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4486,
+        "title": "Python机器学习实践指南",
+        "img": "http://image.banshujiang.cn/4486.jpeg?timestamp=1723950482532",
+        "author": "[美]Alexander T. Combs [译]黄申",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4486/webstorage_links/22087/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4485,
+        "title": "Python机器学习经典实例",
+        "img": "http://image.banshujiang.cn/4485.jpeg?timestamp=1723950348200",
+        "author": "[美]Prateek Joshi [译]陶俊杰、陈小莉",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4485/webstorage_links/22085/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4484,
+        "title": "Python机器学习基础教程",
+        "img": "http://image.banshujiang.cn/4484.jpeg?timestamp=1723950193033",
+        "author": "[德]Andreas C. Müller [美]Sarah Guido [译]张亮",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4484/webstorage_links/22083/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4481,
+        "title": "MEAN Web Development",
+        "img": "http://image.banshujiang.cn/4481.jpeg?timestamp=1723949786288",
+        "author": "Amos Q. Haviv",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4481/webstorage_links/22071/to_link"
+            }
+        ]
+    },
+    {
         "id": 4463,
         "title": "Learning PHP, MySQL &amp; JavaScript 4th Editiion",
         "img": "http://image.banshujiang.cn/4463.jpeg?timestamp=1723875148984",
@@ -176,117 +297,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4389/webstorage_links/21720/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4376,
-        "title": "跟老齐学Python: 从入门到精通",
-        "img": "http://image.banshujiang.cn/4376.jpeg?timestamp=1722049964782",
-        "author": "齐伟",
-        "language": "中文",
-        "publishYear": 2016,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4376/webstorage_links/21692/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4376/webstorage_links/21693/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4376/webstorage_links/21691/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4374,
-        "title": "Web性能权威指南",
-        "img": "http://image.banshujiang.cn/4374.jpeg?timestamp=1722049475744",
-        "author": "[美]Ilya Grigorik [译]李松峰",
-        "language": "中文",
-        "publishYear": 2014,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4374/webstorage_links/21685/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4373,
-        "title": "Web开发权威指南",
-        "img": "http://image.banshujiang.cn/4373.jpeg?timestamp=1722049385348",
-        "author": "[美]Chris Aquino、Todd Gandee [译]奇舞团",
-        "language": "中文",
-        "publishYear": 2017,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4373/webstorage_links/21683/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4372,
-        "title": "Web 安全开发指南",
-        "img": "http://image.banshujiang.cn/4372.jpeg?timestamp=1722048516936",
-        "author": "[美]John Paul Mueller [译]温正东",
-        "language": "中文",
-        "publishYear": 2017,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4372/webstorage_links/21681/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4360,
-        "title": "Think Python 3rd Edition",
-        "img": "http://image.banshujiang.cn/4360.jpeg?timestamp=1721469719909",
-        "author": "Allen B. Downey",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4360/webstorage_links/21637/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4360/webstorage_links/21636/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4331,
-        "title": "流畅的Python",
-        "img": "http://image.banshujiang.cn/4331.jpeg?timestamp=1721390795562",
-        "author": "[巴西]Luciano Ramalho [译]安道、吴珂",
-        "language": "中文",
-        "publishYear": 2017,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4331/webstorage_links/21533/to_link"
             }
         ]
     }

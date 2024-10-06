@@ -85,6 +85,53 @@
         ]
     },
     {
+        "id": 4487,
+        "title": "Full Stack JavaScript Development with MEAN",
+        "img": "http://image.banshujiang.cn/4487.jpeg?timestamp=1723950583814",
+        "author": "Adam Bretz and Colin J. Ihrig",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4487/webstorage_links/22095/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4487/webstorage_links/22093/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4487/webstorage_links/22094/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4487/webstorage_links/22092/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4481,
+        "title": "MEAN Web Development",
+        "img": "http://image.banshujiang.cn/4481.jpeg?timestamp=1723949786288",
+        "author": "Amos Q. Haviv",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4481/webstorage_links/22071/to_link"
+            }
+        ]
+    },
+    {
         "id": 4463,
         "title": "Learning PHP, MySQL &amp; JavaScript 4th Editiion",
         "img": "http://image.banshujiang.cn/4463.jpeg?timestamp=1723875148984",
@@ -240,48 +287,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4104/webstorage_links/20544/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4036,
-        "title": "Ruby on Rails Tutorial 7th Edition",
-        "img": "http://image.banshujiang.cn/4036.jpeg?timestamp=1715950043170",
-        "author": "Michael Hartl",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "Ruby",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4036/webstorage_links/20298/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4036/webstorage_links/20297/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3744,
-        "title": "BeginningRails 4 3rd Edition",
-        "img": "http://image.banshujiang.cn/3744.jpeg?timestamp=1712323977169",
-        "author": "Adam Gamble, Clovers Carneiro Jr. and Rida Al Barazi",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "Ruby",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3744/webstorage_links/19161/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3744/webstorage_links/19160/to_link"
             }
         ]
     }

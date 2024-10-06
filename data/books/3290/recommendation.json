@@ -1,5 +1,31 @@
 [
     {
+        "id": 4483,
+        "title": "PostgreSQL即学即用(第3版)",
+        "img": "http://image.banshujiang.cn/4483.jpeg?timestamp=1723950066532",
+        "author": "[美]瑞金娜 • 奥贝、利奥 • 徐 [译]丁奇鹏",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4483/webstorage_links/22081/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4483/webstorage_links/22080/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4483/webstorage_links/22079/to_link"
+            }
+        ]
+    },
+    {
         "id": 4468,
         "title": "PostgreSQL: Up and Running 2nd Edition",
         "img": "http://image.banshujiang.cn/4468.jpeg?timestamp=1723876148211",

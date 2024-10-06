@@ -1,5 +1,52 @@
 [
     {
+        "id": 4487,
+        "title": "Full Stack JavaScript Development with MEAN",
+        "img": "http://image.banshujiang.cn/4487.jpeg?timestamp=1723950583814",
+        "author": "Adam Bretz and Colin J. Ihrig",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4487/webstorage_links/22095/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4487/webstorage_links/22093/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4487/webstorage_links/22094/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4487/webstorage_links/22092/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4481,
+        "title": "MEAN Web Development",
+        "img": "http://image.banshujiang.cn/4481.jpeg?timestamp=1723949786288",
+        "author": "Amos Q. Haviv",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4481/webstorage_links/22071/to_link"
+            }
+        ]
+    },
+    {
         "id": 4428,
         "title": "Ext JS实战(第2版)",
         "img": "http://image.banshujiang.cn/4428.jpeg?timestamp=1723343708723",
@@ -220,48 +267,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/128/webstorage_links/13773/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4463,
-        "title": "Learning PHP, MySQL &amp; JavaScript 4th Editiion",
-        "img": "http://image.banshujiang.cn/4463.jpeg?timestamp=1723875148984",
-        "author": "Robin Nixon",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "PHP",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4463/webstorage_links/21999/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4463/webstorage_links/21998/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4461,
-        "title": "Knockout.js",
-        "img": "http://image.banshujiang.cn/4461.jpeg?timestamp=1723874843611",
-        "author": "Jamie Munro",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4461/webstorage_links/21989/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4461/webstorage_links/21988/to_link"
             }
         ]
     }

@@ -1,5 +1,78 @@
 [
     {
+        "id": 4487,
+        "title": "Full Stack JavaScript Development with MEAN",
+        "img": "http://image.banshujiang.cn/4487.jpeg?timestamp=1723950583814",
+        "author": "Adam Bretz and Colin J. Ihrig",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4487/webstorage_links/22095/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4487/webstorage_links/22093/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4487/webstorage_links/22094/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4487/webstorage_links/22092/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4481,
+        "title": "MEAN Web Development",
+        "img": "http://image.banshujiang.cn/4481.jpeg?timestamp=1723949786288",
+        "author": "Amos Q. Haviv",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4481/webstorage_links/22071/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4480,
+        "title": "You Don’t Know JS: Types &amp; Grammar",
+        "img": "http://image.banshujiang.cn/4480.jpeg?timestamp=1723949663774",
+        "author": "Kyle Simpson",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4480/webstorage_links/22069/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4480/webstorage_links/22067/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4480/webstorage_links/22068/to_link"
+            }
+        ]
+    },
+    {
         "id": 4461,
         "title": "Knockout.js",
         "img": "http://image.banshujiang.cn/4461.jpeg?timestamp=1723874843611",
@@ -259,74 +332,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4249/webstorage_links/21198/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4247,
-        "title": "Sencha Touch 2 Mobile JavaScript Framework",
-        "img": "http://image.banshujiang.cn/4247.jpeg?timestamp=1719114535562",
-        "author": "John Earl Clark and Bryan P. Johnson",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4247/webstorage_links/21189/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4247/webstorage_links/21187/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4247/webstorage_links/21188/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4206,
-        "title": "Angular JS权威教程",
-        "img": "http://image.banshujiang.cn/4206.jpeg?timestamp=1718630636349",
-        "author": "[美]Ari Lerner [译]赵望野、徐飞、何鹏飞",
-        "language": "中文",
-        "publishYear": 2014,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4206/webstorage_links/20983/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4174,
-        "title": "Head First JavaScript Programming",
-        "img": "http://image.banshujiang.cn/4174.jpeg?timestamp=1718525241180",
-        "author": "Eric T. Freeman and Elisabeth Robson",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4174/webstorage_links/20819/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4174/webstorage_links/20817/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4174/webstorage_links/20818/to_link"
             }
         ]
     }

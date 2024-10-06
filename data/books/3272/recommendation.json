@@ -1,5 +1,52 @@
 [
     {
+        "id": 4490,
+        "title": "Linux多线程服务端编程：使用muduo C++网络库",
+        "img": "http://image.banshujiang.cn/4490.jpeg?timestamp=1728110768945",
+        "author": "陈硕",
+        "language": "中文",
+        "publishYear": 2013,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4490/webstorage_links/22110/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4490/webstorage_links/22111/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4490/webstorage_links/22109/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4489,
+        "title": "Linux Bash编程与脚本应用实战",
+        "img": "http://image.banshujiang.cn/4489.jpeg?timestamp=1723955491187",
+        "author": "马玉军、郝军",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "Shell Script",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4489/webstorage_links/22105/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4489/webstorage_links/22104/to_link"
+            }
+        ]
+    },
+    {
         "id": 4441,
         "title": "Linux程序设计(第4版)",
         "img": "http://image.banshujiang.cn/4441.jpeg?timestamp=1723641013399",
@@ -305,53 +352,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/2870/webstorage_links/10510/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2861,
-        "title": "Efficient Linux at the Command Line",
-        "img": "https://imagebsj.netlify.app/2861.jpeg",
-        "author": "Daniel J. Barrett",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2861/webstorage_links/10479/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2861/webstorage_links/10478/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2809,
-        "title": "BPF Performance Tools",
-        "img": "https://imagebsj.netlify.app/2809.jpeg",
-        "author": "Brendan Gregg",
-        "language": "英文",
-        "publishYear": 2019,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2809/webstorage_links/10227/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2809/webstorage_links/10225/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/2809/webstorage_links/10226/to_link"
             }
         ]
     }

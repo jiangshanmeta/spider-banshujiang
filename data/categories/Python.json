@@ -1,5 +1,79 @@
 [
     {
+        "id": 4492,
+        "title": "Selenium 2自动化测试实战：基于Python语言",
+        "img": "http://image.banshujiang.cn/4492.jpeg?timestamp=1724469095452",
+        "author": "虫师",
+        "language": "中文",
+        "publishYear": 2016,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4492/webstorage_links/22122/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4492/webstorage_links/22123/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4492/webstorage_links/22121/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4486,
+        "title": "Python机器学习实践指南",
+        "img": "http://image.banshujiang.cn/4486.jpeg?timestamp=1723950482532",
+        "author": "[美]Alexander T. Combs [译]黄申",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4486/webstorage_links/22087/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4485,
+        "title": "Python机器学习经典实例",
+        "img": "http://image.banshujiang.cn/4485.jpeg?timestamp=1723950348200",
+        "author": "[美]Prateek Joshi [译]陶俊杰、陈小莉",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4485/webstorage_links/22085/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4484,
+        "title": "Python机器学习基础教程",
+        "img": "http://image.banshujiang.cn/4484.jpeg?timestamp=1723950193033",
+        "author": "[德]Andreas C. Müller [美]Sarah Guido [译]张亮",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4484/webstorage_links/22083/to_link"
+            }
+        ]
+    },
+    {
         "id": 4457,
         "title": "Introducing Python",
         "img": "http://image.banshujiang.cn/4457.jpeg?timestamp=1723869675345",

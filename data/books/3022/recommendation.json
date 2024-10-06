@@ -53,6 +53,80 @@
         ]
     },
     {
+        "id": 4486,
+        "title": "Python机器学习实践指南",
+        "img": "http://image.banshujiang.cn/4486.jpeg?timestamp=1723950482532",
+        "author": "[美]Alexander T. Combs [译]黄申",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4486/webstorage_links/22087/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4485,
+        "title": "Python机器学习经典实例",
+        "img": "http://image.banshujiang.cn/4485.jpeg?timestamp=1723950348200",
+        "author": "[美]Prateek Joshi [译]陶俊杰、陈小莉",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4485/webstorage_links/22085/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4484,
+        "title": "Python机器学习基础教程",
+        "img": "http://image.banshujiang.cn/4484.jpeg?timestamp=1723950193033",
+        "author": "[德]Andreas C. Müller [美]Sarah Guido [译]张亮",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4484/webstorage_links/22083/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4477,
+        "title": "Thoughtful Machine Learning",
+        "img": "http://image.banshujiang.cn/4477.jpeg?timestamp=1723947816190",
+        "author": "Matthew Kirk",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4477/webstorage_links/22055/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4477/webstorage_links/22054/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4477/webstorage_links/22053/to_link"
+            }
+        ]
+    },
+    {
         "id": 4423,
         "title": "R数据科学",
         "img": "http://image.banshujiang.cn/4423.jpeg?timestamp=1722771010047",
@@ -208,95 +282,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4350/webstorage_links/21594/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4326,
-        "title": "Spark机器学习",
-        "img": "http://image.banshujiang.cn/4326.jpeg?timestamp=1721310065443",
-        "author": "[南非]Nick Pentreath [译]蔡立宇 黄章帅 周济民",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4326/webstorage_links/21523/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4301,
-        "title": "Hands-On Programming with R",
-        "img": "http://image.banshujiang.cn/4301.jpeg?timestamp=1720241384292",
-        "author": "Garrett Grolemund",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "R",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4301/webstorage_links/21400/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4301/webstorage_links/21399/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4203,
-        "title": "AI·未来",
-        "img": "http://image.banshujiang.cn/4203.jpeg?timestamp=1718630129917",
-        "author": "李开复",
-        "language": "中文",
-        "publishYear": 2018,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4203/webstorage_links/20968/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4203/webstorage_links/20969/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4203/webstorage_links/20967/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4180,
-        "title": "Introduction to R for Quantitative Finance",
-        "img": "http://image.banshujiang.cn/4180.jpeg?timestamp=1718526700730",
-        "author": "Gergely Daróczi等",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "R",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4180/webstorage_links/20851/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4180/webstorage_links/20849/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4180/webstorage_links/20850/to_link"
             }
         ]
     }

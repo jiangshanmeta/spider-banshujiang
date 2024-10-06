@@ -84081,5 +84081,445 @@
                 "link": "/e_books/4472/webstorage_links/22034/to_link"
             }
         ]
+    },
+    {
+        "id": 4473,
+        "title": "Swift Pocket Reference",
+        "img": "http://image.banshujiang.cn/4473.jpeg?timestamp=1723945260751",
+        "author": "Anthony Gray",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4473/webstorage_links/22039/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4473/webstorage_links/22038/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4474,
+        "title": "Switching to the Mac: The Missing Manual Yosemite Edition",
+        "img": "http://image.banshujiang.cn/4474.jpeg?timestamp=1727659320863",
+        "author": "David Pogue",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4474/webstorage_links/22041/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4475,
+        "title": "The Art of Application Performance Testing 2nd Edition",
+        "img": "http://image.banshujiang.cn/4475.jpeg?timestamp=1723945974312",
+        "author": "Ian Molyneaux",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4475/webstorage_links/22043/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4476,
+        "title": "The Uncertain Web",
+        "img": "http://image.banshujiang.cn/4476.jpeg?timestamp=1723946290671",
+        "author": "Rob Larsen",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4476/webstorage_links/22049/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4476/webstorage_links/22047/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4476/webstorage_links/22048/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4477,
+        "title": "Thoughtful Machine Learning",
+        "img": "http://image.banshujiang.cn/4477.jpeg?timestamp=1723947816190",
+        "author": "Matthew Kirk",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4477/webstorage_links/22055/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4477/webstorage_links/22054/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4477/webstorage_links/22053/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4478,
+        "title": "Time Series Databases",
+        "img": "http://image.banshujiang.cn/4478.jpeg?timestamp=1723947883423",
+        "author": "Ted Dunning and Ellen Friedman",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4478/webstorage_links/22059/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4478/webstorage_links/22058/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4479,
+        "title": "Understanding Context",
+        "img": "http://image.banshujiang.cn/4479.jpeg?timestamp=1723948237277",
+        "author": "Andrew Hinton",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4479/webstorage_links/22063/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4479/webstorage_links/22062/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4480,
+        "title": "You Don’t Know JS: Types &amp; Grammar",
+        "img": "http://image.banshujiang.cn/4480.jpeg?timestamp=1723949663774",
+        "author": "Kyle Simpson",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4480/webstorage_links/22069/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4480/webstorage_links/22067/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4480/webstorage_links/22068/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4481,
+        "title": "MEAN Web Development",
+        "img": "http://image.banshujiang.cn/4481.jpeg?timestamp=1723949786288",
+        "author": "Amos Q. Haviv",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4481/webstorage_links/22071/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4482,
+        "title": "Play Framework Essentials",
+        "img": "http://image.banshujiang.cn/4482.jpeg?timestamp=1723949882673",
+        "author": "Julien Richard-Foy",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4482/webstorage_links/22075/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4482/webstorage_links/22074/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4483,
+        "title": "PostgreSQL即学即用(第3版)",
+        "img": "http://image.banshujiang.cn/4483.jpeg?timestamp=1723950066532",
+        "author": "[美]瑞金娜 • 奥贝、利奥 • 徐 [译]丁奇鹏",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4483/webstorage_links/22081/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4483/webstorage_links/22080/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4483/webstorage_links/22079/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4484,
+        "title": "Python机器学习基础教程",
+        "img": "http://image.banshujiang.cn/4484.jpeg?timestamp=1723950193033",
+        "author": "[德]Andreas C. Müller [美]Sarah Guido [译]张亮",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4484/webstorage_links/22083/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4485,
+        "title": "Python机器学习经典实例",
+        "img": "http://image.banshujiang.cn/4485.jpeg?timestamp=1723950348200",
+        "author": "[美]Prateek Joshi [译]陶俊杰、陈小莉",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4485/webstorage_links/22085/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4486,
+        "title": "Python机器学习实践指南",
+        "img": "http://image.banshujiang.cn/4486.jpeg?timestamp=1723950482532",
+        "author": "[美]Alexander T. Combs [译]黄申",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4486/webstorage_links/22087/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4487,
+        "title": "Full Stack JavaScript Development with MEAN",
+        "img": "http://image.banshujiang.cn/4487.jpeg?timestamp=1723950583814",
+        "author": "Adam Bretz and Colin J. Ihrig",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4487/webstorage_links/22095/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4487/webstorage_links/22093/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4487/webstorage_links/22094/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4487/webstorage_links/22092/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4488,
+        "title": "Java入门经典(第7版)",
+        "img": "http://image.banshujiang.cn/4488.jpeg?timestamp=1723955295348",
+        "author": "[美]Rogers Cadenhead [译]郝记生",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4488/webstorage_links/22100/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4488/webstorage_links/22101/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4488/webstorage_links/22099/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4489,
+        "title": "Linux Bash编程与脚本应用实战",
+        "img": "http://image.banshujiang.cn/4489.jpeg?timestamp=1723955491187",
+        "author": "马玉军、郝军",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "Shell Script",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4489/webstorage_links/22105/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4489/webstorage_links/22104/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4490,
+        "title": "Linux多线程服务端编程：使用muduo C++网络库",
+        "img": "http://image.banshujiang.cn/4490.jpeg?timestamp=1728110768945",
+        "author": "陈硕",
+        "language": "中文",
+        "publishYear": 2013,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4490/webstorage_links/22110/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4490/webstorage_links/22111/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4490/webstorage_links/22109/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4491,
+        "title": "SAP后勤模块实施攻略",
+        "img": "http://image.banshujiang.cn/4491.jpeg?timestamp=1724468906959",
+        "author": "乐立骏",
+        "language": "中文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4491/webstorage_links/22116/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4491/webstorage_links/22117/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4491/webstorage_links/22115/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4492,
+        "title": "Selenium 2自动化测试实战：基于Python语言",
+        "img": "http://image.banshujiang.cn/4492.jpeg?timestamp=1724469095452",
+        "author": "虫师",
+        "language": "中文",
+        "publishYear": 2016,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4492/webstorage_links/22122/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4492/webstorage_links/22123/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4492/webstorage_links/22121/to_link"
+            }
+        ]
     }
 ]

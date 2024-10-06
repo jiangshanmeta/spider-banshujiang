@@ -1,5 +1,26 @@
 [
     {
+        "id": 4473,
+        "title": "Swift Pocket Reference",
+        "img": "http://image.banshujiang.cn/4473.jpeg?timestamp=1723945260751",
+        "author": "Anthony Gray",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4473/webstorage_links/22039/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4473/webstorage_links/22038/to_link"
+            }
+        ]
+    },
+    {
         "id": 4472,
         "title": "Swift Development with Cocoa",
         "img": "http://image.banshujiang.cn/4472.jpeg?timestamp=1723945187035",
@@ -316,22 +337,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4282/webstorage_links/21329/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4281,
-        "title": "C#经典实例（第4版）",
-        "img": "http://image.banshujiang.cn/4281.jpeg?timestamp=1720096746948",
-        "author": "[美]Jay Hilyard [译]徐敬德",
-        "language": "中文",
-        "publishYear": 2016,
-        "programLanguage": "C#",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4281/webstorage_links/21327/to_link"
             }
         ]
     }

@@ -1,5 +1,21 @@
 [
     {
+        "id": 4474,
+        "title": "Switching to the Mac: The Missing Manual Yosemite Edition",
+        "img": "http://image.banshujiang.cn/4474.jpeg?timestamp=1727659320863",
+        "author": "David Pogue",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4474/webstorage_links/22041/to_link"
+            }
+        ]
+    },
+    {
         "id": 3859,
         "title": "Programming in Objective-C 6th Edition",
         "img": "http://image.banshujiang.cn/3859.jpeg?timestamp=1714475329685",
@@ -266,22 +282,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/719/webstorage_links/14950/to_link"
-            }
-        ]
-    },
-    {
-        "id": 676,
-        "title": "Concurrent Programming in Mac OS X and iOS",
-        "img": "https://imagebsj.netlify.app/676.jpeg",
-        "author": "Vandad Nahavandipoor",
-        "language": "英文",
-        "publishYear": 2011,
-        "programLanguage": "Objective-C",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/676/webstorage_links/14864/to_link"
             }
         ]
     }

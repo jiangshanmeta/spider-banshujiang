@@ -143,6 +143,43 @@
         ]
     },
     {
+        "id": 4474,
+        "title": "Switching to the Mac: The Missing Manual Yosemite Edition",
+        "img": "http://image.banshujiang.cn/4474.jpeg?timestamp=1727659320863",
+        "author": "David Pogue",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4474/webstorage_links/22041/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4473,
+        "title": "Swift Pocket Reference",
+        "img": "http://image.banshujiang.cn/4473.jpeg?timestamp=1723945260751",
+        "author": "Anthony Gray",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4473/webstorage_links/22039/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4473/webstorage_links/22038/to_link"
+            }
+        ]
+    },
+    {
         "id": 4472,
         "title": "Swift Development with Cocoa",
         "img": "http://image.banshujiang.cn/4472.jpeg?timestamp=1723945187035",
@@ -275,58 +312,6 @@
                 "fmt": "AZW3",
                 "title": "城通网盘",
                 "link": "/e_books/4366/webstorage_links/21663/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4322,
-        "title": "Swift by Tutorials",
-        "img": "http://image.banshujiang.cn/4322.jpeg?timestamp=1721304809129",
-        "author": "raywenderlich.com Tutorial Team",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4322/webstorage_links/21511/to_link"
-            },
-            {
-                "fmt": "CODE",
-                "title": "城通网盘",
-                "link": "/e_books/4322/webstorage_links/21510/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4315,
-        "title": "Programming iOS 8 5th Edition",
-        "img": "http://image.banshujiang.cn/4315.jpeg?timestamp=1720264409455",
-        "author": "Matt Neuburg",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4315/webstorage_links/21473/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4315/webstorage_links/21471/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4315/webstorage_links/21472/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4315/webstorage_links/21470/to_link"
             }
         ]
     }

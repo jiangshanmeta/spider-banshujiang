@@ -64,6 +64,100 @@
         ]
     },
     {
+        "id": 4488,
+        "title": "Java入门经典(第7版)",
+        "img": "http://image.banshujiang.cn/4488.jpeg?timestamp=1723955295348",
+        "author": "[美]Rogers Cadenhead [译]郝记生",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4488/webstorage_links/22100/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4488/webstorage_links/22101/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4488/webstorage_links/22099/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4487,
+        "title": "Full Stack JavaScript Development with MEAN",
+        "img": "http://image.banshujiang.cn/4487.jpeg?timestamp=1723950583814",
+        "author": "Adam Bretz and Colin J. Ihrig",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4487/webstorage_links/22095/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4487/webstorage_links/22093/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4487/webstorage_links/22094/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4487/webstorage_links/22092/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4482,
+        "title": "Play Framework Essentials",
+        "img": "http://image.banshujiang.cn/4482.jpeg?timestamp=1723949882673",
+        "author": "Julien Richard-Foy",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4482/webstorage_links/22075/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4482/webstorage_links/22074/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4481,
+        "title": "MEAN Web Development",
+        "img": "http://image.banshujiang.cn/4481.jpeg?timestamp=1723949786288",
+        "author": "Amos Q. Haviv",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4481/webstorage_links/22071/to_link"
+            }
+        ]
+    },
+    {
         "id": 4463,
         "title": "Learning PHP, MySQL &amp; JavaScript 4th Editiion",
         "img": "http://image.banshujiang.cn/4463.jpeg?timestamp=1723875148984",
@@ -218,90 +312,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4374/webstorage_links/21685/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4373,
-        "title": "Web开发权威指南",
-        "img": "http://image.banshujiang.cn/4373.jpeg?timestamp=1722049385348",
-        "author": "[美]Chris Aquino、Todd Gandee [译]奇舞团",
-        "language": "中文",
-        "publishYear": 2017,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4373/webstorage_links/21683/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4372,
-        "title": "Web 安全开发指南",
-        "img": "http://image.banshujiang.cn/4372.jpeg?timestamp=1722048516936",
-        "author": "[美]John Paul Mueller [译]温正东",
-        "language": "中文",
-        "publishYear": 2017,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4372/webstorage_links/21681/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4353,
-        "title": "深入理解Java虚拟机：JVM高级特性与最佳实践(第3版)",
-        "img": "http://image.banshujiang.cn/4353.jpeg?timestamp=1721447719858",
-        "author": "周志明",
-        "language": "中文",
-        "publishYear": 2019,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4353/webstorage_links/21614/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4353/webstorage_links/21606/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4353/webstorage_links/21607/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4308,
-        "title": "Just Hibernate",
-        "img": "http://image.banshujiang.cn/4308.jpeg?timestamp=1720253091389",
-        "author": "Madhusudhan Konda",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4308/webstorage_links/21438/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4308/webstorage_links/21436/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4308/webstorage_links/21437/to_link"
             }
         ]
     }

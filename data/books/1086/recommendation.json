@@ -1,5 +1,26 @@
 [
     {
+        "id": 4473,
+        "title": "Swift Pocket Reference",
+        "img": "http://image.banshujiang.cn/4473.jpeg?timestamp=1723945260751",
+        "author": "Anthony Gray",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4473/webstorage_links/22039/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4473/webstorage_links/22038/to_link"
+            }
+        ]
+    },
+    {
         "id": 4472,
         "title": "Swift Development with Cocoa",
         "img": "http://image.banshujiang.cn/4472.jpeg?timestamp=1723945187035",
@@ -321,27 +342,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/4265/webstorage_links/21279/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4195,
-        "title": "Learning Cocoa with Objective-C 4th Edition",
-        "img": "http://image.banshujiang.cn/4195.jpeg?timestamp=1718626689060",
-        "author": "Jon Manning, Paris Buttfield-Addison and Tim Nugent",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Objective-C",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4195/webstorage_links/20933/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4195/webstorage_links/20932/to_link"
             }
         ]
     }

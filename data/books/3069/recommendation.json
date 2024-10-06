@@ -21,6 +21,153 @@
         ]
     },
     {
+        "id": 4487,
+        "title": "Full Stack JavaScript Development with MEAN",
+        "img": "http://image.banshujiang.cn/4487.jpeg?timestamp=1723950583814",
+        "author": "Adam Bretz and Colin J. Ihrig",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4487/webstorage_links/22095/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4487/webstorage_links/22093/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4487/webstorage_links/22094/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4487/webstorage_links/22092/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4486,
+        "title": "Python机器学习实践指南",
+        "img": "http://image.banshujiang.cn/4486.jpeg?timestamp=1723950482532",
+        "author": "[美]Alexander T. Combs [译]黄申",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4486/webstorage_links/22087/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4485,
+        "title": "Python机器学习经典实例",
+        "img": "http://image.banshujiang.cn/4485.jpeg?timestamp=1723950348200",
+        "author": "[美]Prateek Joshi [译]陶俊杰、陈小莉",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4485/webstorage_links/22085/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4484,
+        "title": "Python机器学习基础教程",
+        "img": "http://image.banshujiang.cn/4484.jpeg?timestamp=1723950193033",
+        "author": "[德]Andreas C. Müller [美]Sarah Guido [译]张亮",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4484/webstorage_links/22083/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4481,
+        "title": "MEAN Web Development",
+        "img": "http://image.banshujiang.cn/4481.jpeg?timestamp=1723949786288",
+        "author": "Amos Q. Haviv",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4481/webstorage_links/22071/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4480,
+        "title": "You Don’t Know JS: Types &amp; Grammar",
+        "img": "http://image.banshujiang.cn/4480.jpeg?timestamp=1723949663774",
+        "author": "Kyle Simpson",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4480/webstorage_links/22069/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4480/webstorage_links/22067/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4480/webstorage_links/22068/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4477,
+        "title": "Thoughtful Machine Learning",
+        "img": "http://image.banshujiang.cn/4477.jpeg?timestamp=1723947816190",
+        "author": "Matthew Kirk",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4477/webstorage_links/22055/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4477/webstorage_links/22054/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4477/webstorage_links/22053/to_link"
+            }
+        ]
+    },
+    {
         "id": 4461,
         "title": "Knockout.js",
         "img": "http://image.banshujiang.cn/4461.jpeg?timestamp=1723874843611",
@@ -170,138 +317,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4417/webstorage_links/21827/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4415,
-        "title": "JavaScript基础教程(第9版)",
-        "img": "http://image.banshujiang.cn/4415.jpeg?timestamp=1722257602785",
-        "author": "[美]Dori Smith、Tom Negrino [译]陈建瓯、柳靖",
-        "language": "中文",
-        "publishYear": 2015,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4415/webstorage_links/21823/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4398,
-        "title": "Node.js in Practice",
-        "img": "http://image.banshujiang.cn/4398.jpeg?timestamp=1722071305765",
-        "author": "Alex Young and Marc Harter",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4398/webstorage_links/21757/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4398/webstorage_links/21756/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4370,
-        "title": "TensorFlow深度学习",
-        "img": "http://image.banshujiang.cn/4370.jpeg?timestamp=1721473560627",
-        "author": "[意]Giancarlo Zaccone [孟加拉]Md. Rezaul Karim [埃及]Ahmed Menshawy [译]李志",
-        "language": "中文",
-        "publishYear": 2018,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4370/webstorage_links/21677/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4361,
-        "title": "Mastering NLP from Foundations to LLMs",
-        "img": "http://image.banshujiang.cn/4361.jpeg?timestamp=1721469781572",
-        "author": "Lior Gazit and Meysam Ghaffari",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4361/webstorage_links/21641/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4361/webstorage_links/21640/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4359,
-        "title": "Prompt Engineering for Generative AI",
-        "img": "http://image.banshujiang.cn/4359.jpeg?timestamp=1721469613711",
-        "author": "James Phoenix and Mike Taylor",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4359/webstorage_links/21633/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4359/webstorage_links/21632/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4355,
-        "title": "这就是ChatGPT",
-        "img": "http://image.banshujiang.cn/4355.jpeg?timestamp=1721448219560",
-        "author": "[美]Stephen Wolfram [译]WOLFRAM传媒汉化小组",
-        "language": "中文",
-        "publishYear": 2023,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4355/webstorage_links/21617/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4350,
-        "title": "Deep Learning at Scale",
-        "img": "http://image.banshujiang.cn/4350.jpeg?timestamp=1721447260801",
-        "author": "Suneeta Mall",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4350/webstorage_links/21595/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4350/webstorage_links/21594/to_link"
             }
         ]
     }

@@ -1,0 +1,343 @@
+[
+    {
+        "id": 4485,
+        "title": "Python机器学习经典实例",
+        "img": "http://image.banshujiang.cn/4485.jpeg?timestamp=1723950348200",
+        "author": "[美]Prateek Joshi [译]陶俊杰、陈小莉",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4485/webstorage_links/22085/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4484,
+        "title": "Python机器学习基础教程",
+        "img": "http://image.banshujiang.cn/4484.jpeg?timestamp=1723950193033",
+        "author": "[德]Andreas C. Müller [美]Sarah Guido [译]张亮",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4484/webstorage_links/22083/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4418,
+        "title": "Python深度学习",
+        "img": "http://image.banshujiang.cn/4418.jpeg?timestamp=1722765846602",
+        "author": "[美]弗朗索瓦·肖莱 [译]张亮",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4418/webstorage_links/21829/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4417,
+        "title": "NLTK基础教程: 用NTLK和Python库构建机器学习应用",
+        "img": "http://image.banshujiang.cn/4417.jpeg?timestamp=1722765758795",
+        "author": "[印度]Nitin Hardeniya [译]凌杰",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4417/webstorage_links/21827/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4001,
+        "title": "Deep Learning for Finance",
+        "img": "http://image.banshujiang.cn/4001.jpeg?timestamp=1714913452504",
+        "author": "Sofien Kaabar",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4001/webstorage_links/20168/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4001/webstorage_links/20167/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3993,
+        "title": "OpenAI GPT For Python Developers 2nd Edition",
+        "img": "http://image.banshujiang.cn/3993.jpeg?timestamp=1714644935614",
+        "author": "Aymen El Amri",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3993/webstorage_links/20136/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3993/webstorage_links/20135/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3917,
+        "title": "Learn AI-Assisted Python Programming",
+        "img": "http://image.banshujiang.cn/3917.jpeg?timestamp=1714571230615",
+        "author": "Leo Porter and Daniel Zingaro",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3917/webstorage_links/19850/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3917/webstorage_links/19849/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3807,
+        "title": "Building Machine Learning Systems with Python",
+        "img": "http://image.banshujiang.cn/3807.jpeg?timestamp=1712976198310",
+        "author": "Willi Richert and Luis Pedro Coelho",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3807/webstorage_links/19408/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3807/webstorage_links/19407/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3393,
+        "title": "Introduction to Machine Learning with Python",
+        "img": "http://image.banshujiang.cn/3393.jpeg?timestamp=1677325923722",
+        "author": "Andreas C. Müller and Sarah Guido",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3393/webstorage_links/17751/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3393/webstorage_links/17749/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3393/webstorage_links/17750/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3281,
+        "title": "Python Machine Learning 3rd Edition",
+        "img": "http://image.banshujiang.cn/3281.jpeg?timestamp=1676085455815",
+        "author": "Sebastian Raschka and Vahid Mirjalili",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3281/webstorage_links/17303/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3281/webstorage_links/17304/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3281/webstorage_links/17305/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3229,
+        "title": "Thoughtful Machine Learning with Python",
+        "img": "http://image.banshujiang.cn/3229.jpeg?timestamp=1674648432734",
+        "author": "Matthew Kirk",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3229/webstorage_links/17056/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3229/webstorage_links/17057/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3030,
+        "title": "Natural Language Processing with Python and Spacy",
+        "img": "https://imagebsj.netlify.app/3030.jpeg",
+        "author": "Yuli Vasiliev",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3030/webstorage_links/16149/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2972,
+        "title": "Machine Learning for Financial Risk Management with Python",
+        "img": "https://imagebsj.netlify.app/2972.jpeg",
+        "author": "Abdullah Karasan",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2972/webstorage_links/10963/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2972/webstorage_links/10962/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/2972/webstorage_links/10961/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2725,
+        "title": "Deep Learning with Python 2nd Edition",
+        "img": "https://imagebsj.netlify.app/2725.jpeg",
+        "author": "François Chollet",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2725/webstorage_links/9863/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2725/webstorage_links/9862/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/2725/webstorage_links/9861/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2541,
+        "title": "Probabilistic Deep Learning",
+        "img": "https://imagebsj.netlify.app/2541.jpeg",
+        "author": "Oliver Dürr, Beate Sick with Elvis Murina",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2541/webstorage_links/8874/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2541/webstorage_links/8876/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/2541/webstorage_links/8875/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4492,
+        "title": "Selenium 2自动化测试实战：基于Python语言",
+        "img": "http://image.banshujiang.cn/4492.jpeg?timestamp=1724469095452",
+        "author": "虫师",
+        "language": "中文",
+        "publishYear": 2016,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4492/webstorage_links/22122/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4492/webstorage_links/22123/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4492/webstorage_links/22121/to_link"
+            }
+        ]
+    }
+]

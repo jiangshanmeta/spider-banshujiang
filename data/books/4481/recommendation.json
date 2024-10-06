@@ -1,0 +1,273 @@
+[
+    {
+        "id": 4487,
+        "title": "Full Stack JavaScript Development with MEAN",
+        "img": "http://image.banshujiang.cn/4487.jpeg?timestamp=1723950583814",
+        "author": "Adam Bretz and Colin J. Ihrig",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4487/webstorage_links/22095/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4487/webstorage_links/22093/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4487/webstorage_links/22094/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4487/webstorage_links/22092/to_link"
+            }
+        ]
+    },
+    {
+        "id": 128,
+        "title": "Building Node Applications with MongoDB and Backbone",
+        "img": "https://imagebsj.netlify.app/128.jpeg",
+        "author": "Mike Wilson",
+        "language": "英文",
+        "publishYear": 2012,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/128/webstorage_links/13773/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4428,
+        "title": "Ext JS实战(第2版)",
+        "img": "http://image.banshujiang.cn/4428.jpeg?timestamp=1723343708723",
+        "author": "[ 美]Jesus Garcia、 Grgur Grisogono、Jacob K. Andresen [译]卢雄飞、田雷鹏、郜忠富",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4428/webstorage_links/21855/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1593,
+        "title": "Highcharts Cookbook",
+        "img": "https://imagebsj.netlify.app/1593.jpeg",
+        "author": "Nicholas Terwoord",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1593/webstorage_links/12502/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1573,
+        "title": "Full Stack Web Development with Backbone.js",
+        "img": "https://imagebsj.netlify.app/1573.jpeg",
+        "author": "Patrick Mulder",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1573/webstorage_links/12462/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1467,
+        "title": "ng-book: The Complete Book on AngularJS",
+        "img": "https://imagebsj.netlify.app/1467.jpeg",
+        "author": "Ari Lerner",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1467/webstorage_links/13438/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1328,
+        "title": "jQuery2 Recipes: A Problem-Solution Approach",
+        "img": "https://imagebsj.netlify.app/1328.jpeg",
+        "author": "Arun K. Pande",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1328/webstorage_links/13164/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1212,
+        "title": "Mastering AngularJS Directives",
+        "img": "https://imagebsj.netlify.app/1212.jpeg",
+        "author": "Josh Kurz",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1212/webstorage_links/12937/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1211,
+        "title": "AngularJS Directives",
+        "img": "https://imagebsj.netlify.app/1211.jpeg",
+        "author": "Alex Vanston",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1211/webstorage_links/12935/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1206,
+        "title": "Backbone Tutorials: Beginner, Intermediate and Advanced",
+        "img": "https://imagebsj.netlify.app/1206.jpeg",
+        "author": "Thomas Davis",
+        "language": "英文",
+        "publishYear": 2012,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1206/webstorage_links/12925/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1203,
+        "title": "AngularJS Services",
+        "img": "https://imagebsj.netlify.app/1203.jpeg",
+        "author": "Jim Lavin",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1203/webstorage_links/12919/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1202,
+        "title": "AngularJS Essentials",
+        "img": "https://imagebsj.netlify.app/1202.jpeg",
+        "author": "Rodrigo Branas",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1202/webstorage_links/12917/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1201,
+        "title": "AngularJS权威教程",
+        "img": "https://imagebsj.netlify.app/1201.jpeg",
+        "author": "Ari Lerner 著 赵望野 徐飞 何鹏飞 译",
+        "language": "中文",
+        "publishYear": 2014,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1201/webstorage_links/12915/to_link"
+            }
+        ]
+    },
+    {
+        "id": 946,
+        "title": "Dependency Injection with AngularJS",
+        "img": "https://imagebsj.netlify.app/946.jpeg",
+        "author": "Alex Knol",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/946/webstorage_links/15406/to_link"
+            }
+        ]
+    },
+    {
+        "id": 945,
+        "title": "Mastering Web Application Development with AngularJS",
+        "img": "https://imagebsj.netlify.app/945.jpeg",
+        "author": "Pawel Kozlowski and Peter Bacon Darwin",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/945/webstorage_links/15404/to_link"
+            }
+        ]
+    },
+    {
+        "id": 941,
+        "title": "AngularJS",
+        "img": "https://imagebsj.netlify.app/941.jpeg",
+        "author": "Brad Green and Shyam Seshadri",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/941/webstorage_links/15396/to_link"
+            }
+        ]
+    }
+]

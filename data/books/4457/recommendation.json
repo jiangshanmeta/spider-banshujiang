@@ -1,5 +1,79 @@
 [
     {
+        "id": 4492,
+        "title": "Selenium 2自动化测试实战：基于Python语言",
+        "img": "http://image.banshujiang.cn/4492.jpeg?timestamp=1724469095452",
+        "author": "虫师",
+        "language": "中文",
+        "publishYear": 2016,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4492/webstorage_links/22122/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4492/webstorage_links/22123/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4492/webstorage_links/22121/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4486,
+        "title": "Python机器学习实践指南",
+        "img": "http://image.banshujiang.cn/4486.jpeg?timestamp=1723950482532",
+        "author": "[美]Alexander T. Combs [译]黄申",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4486/webstorage_links/22087/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4485,
+        "title": "Python机器学习经典实例",
+        "img": "http://image.banshujiang.cn/4485.jpeg?timestamp=1723950348200",
+        "author": "[美]Prateek Joshi [译]陶俊杰、陈小莉",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4485/webstorage_links/22085/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4484,
+        "title": "Python机器学习基础教程",
+        "img": "http://image.banshujiang.cn/4484.jpeg?timestamp=1723950193033",
+        "author": "[德]Andreas C. Müller [美]Sarah Guido [译]张亮",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4484/webstorage_links/22083/to_link"
+            }
+        ]
+    },
+    {
         "id": 4445,
         "title": "Cython",
         "img": "http://image.banshujiang.cn/4445.jpeg?timestamp=1723641730620",
@@ -228,100 +302,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4311/webstorage_links/21451/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4262,
-        "title": "Flask Web Development",
-        "img": "http://image.banshujiang.cn/4262.jpeg?timestamp=1719904749458",
-        "author": "Miguel Grinberg",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4262/webstorage_links/21262/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4262/webstorage_links/21260/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4262/webstorage_links/21261/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4242,
-        "title": "Python Data Visualization Cookbook",
-        "img": "http://image.banshujiang.cn/4242.jpeg?timestamp=1719062000419",
-        "author": "Igor Milovanović",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4242/webstorage_links/21161/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4242/webstorage_links/21159/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4242/webstorage_links/21160/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4223,
-        "title": "Flask Web开发： 基于Python的Web应用开发实战",
-        "img": "http://image.banshujiang.cn/4223.jpeg?timestamp=1718975191413",
-        "author": "[美]Miguel Grinberg [译]安道",
-        "language": "中文",
-        "publishYear": 2015,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4223/webstorage_links/21073/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4201,
-        "title": "“笨办法”学Python（第3版）",
-        "img": "http://image.banshujiang.cn/4201.jpeg?timestamp=1718629738605",
-        "author": "[美]Zed A.Shaw [译]王巍巍",
-        "language": "中文",
-        "publishYear": 2014,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4201/webstorage_links/20955/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4201/webstorage_links/20957/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4201/webstorage_links/20956/to_link"
             }
         ]
     }

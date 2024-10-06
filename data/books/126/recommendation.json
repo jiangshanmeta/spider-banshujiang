@@ -53,6 +53,53 @@
         ]
     },
     {
+        "id": 4488,
+        "title": "Java入门经典(第7版)",
+        "img": "http://image.banshujiang.cn/4488.jpeg?timestamp=1723955295348",
+        "author": "[美]Rogers Cadenhead [译]郝记生",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4488/webstorage_links/22100/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4488/webstorage_links/22101/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4488/webstorage_links/22099/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4482,
+        "title": "Play Framework Essentials",
+        "img": "http://image.banshujiang.cn/4482.jpeg?timestamp=1723949882673",
+        "author": "Julien Richard-Foy",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4482/webstorage_links/22075/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4482/webstorage_links/22074/to_link"
+            }
+        ]
+    },
+    {
         "id": 4450,
         "title": "Elasticsearch: The Definitive Guide",
         "img": "http://image.banshujiang.cn/4450.jpeg?timestamp=1723642088722",
@@ -300,53 +347,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/4270/webstorage_links/21304/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4266,
-        "title": "Java 8 Lambdas",
-        "img": "http://image.banshujiang.cn/4266.jpeg?timestamp=1719905299354",
-        "author": "Richard Warburton",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4266/webstorage_links/21284/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4266/webstorage_links/21283/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4261,
-        "title": "Efficient Android Threading",
-        "img": "http://image.banshujiang.cn/4261.jpeg?timestamp=1719904628368",
-        "author": "Anders Göransson",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4261/webstorage_links/21256/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4261/webstorage_links/21254/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4261/webstorage_links/21255/to_link"
             }
         ]
     }

@@ -1,5 +1,79 @@
 [
     {
+        "id": 4486,
+        "title": "Python机器学习实践指南",
+        "img": "http://image.banshujiang.cn/4486.jpeg?timestamp=1723950482532",
+        "author": "[美]Alexander T. Combs [译]黄申",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4486/webstorage_links/22087/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4485,
+        "title": "Python机器学习经典实例",
+        "img": "http://image.banshujiang.cn/4485.jpeg?timestamp=1723950348200",
+        "author": "[美]Prateek Joshi [译]陶俊杰、陈小莉",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4485/webstorage_links/22085/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4484,
+        "title": "Python机器学习基础教程",
+        "img": "http://image.banshujiang.cn/4484.jpeg?timestamp=1723950193033",
+        "author": "[德]Andreas C. Müller [美]Sarah Guido [译]张亮",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4484/webstorage_links/22083/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4477,
+        "title": "Thoughtful Machine Learning",
+        "img": "http://image.banshujiang.cn/4477.jpeg?timestamp=1723947816190",
+        "author": "Matthew Kirk",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4477/webstorage_links/22055/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4477/webstorage_links/22054/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4477/webstorage_links/22053/to_link"
+            }
+        ]
+    },
+    {
         "id": 4418,
         "title": "Python深度学习",
         "img": "http://image.banshujiang.cn/4418.jpeg?timestamp=1722765846602",
@@ -233,90 +307,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4133/webstorage_links/20630/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4131,
-        "title": "AI for Absolute Beginners",
-        "img": "http://image.banshujiang.cn/4131.jpeg?timestamp=1718457650293",
-        "author": "Oliver Theobald",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4131/webstorage_links/20623/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4131/webstorage_links/20622/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4118,
-        "title": "Neural Networks and Deep Learning 2nd Edition",
-        "img": "http://image.banshujiang.cn/4118.jpeg?timestamp=1718112929395",
-        "author": "Charu C. Aggarwal",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4118/webstorage_links/20587/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4118/webstorage_links/20586/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4113,
-        "title": "Math and Architectures of Deep Learning",
-        "img": "http://image.banshujiang.cn/4113.jpeg?timestamp=1718111458437",
-        "author": "Krishnendu Chaudhury",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4113/webstorage_links/20575/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4113/webstorage_links/20574/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4111,
-        "title": "Inside AI",
-        "img": "http://image.banshujiang.cn/4111.jpeg?timestamp=1718111284114",
-        "author": "Akli Adjaoute",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4111/webstorage_links/20569/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4111/webstorage_links/20568/to_link"
             }
         ]
     }
