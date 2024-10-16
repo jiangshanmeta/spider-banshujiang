@@ -1,5 +1,31 @@
 [
     {
+        "id": 4505,
+        "title": "Easy Laravel 5",
+        "img": "http://image.banshujiang.cn/4505.jpeg?timestamp=1725188404283",
+        "author": "W. Jason Gilmore",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "PHP",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4505/webstorage_links/22181/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4505/webstorage_links/22179/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4505/webstorage_links/22180/to_link"
+            }
+        ]
+    },
+    {
         "id": 4487,
         "title": "Full Stack JavaScript Development with MEAN",
         "img": "http://image.banshujiang.cn/4487.jpeg?timestamp=1723950583814",
@@ -281,27 +307,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/4167/webstorage_links/20784/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3710,
-        "title": "CSS Text",
-        "img": "http://image.banshujiang.cn/3710.jpeg?timestamp=1711718270718",
-        "author": "Eric A. Meyer",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "CSS",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3710/webstorage_links/19025/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3710/webstorage_links/19024/to_link"
             }
         ]
     }

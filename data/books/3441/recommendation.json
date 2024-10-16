@@ -1,5 +1,31 @@
 [
     {
+        "id": 4505,
+        "title": "Easy Laravel 5",
+        "img": "http://image.banshujiang.cn/4505.jpeg?timestamp=1725188404283",
+        "author": "W. Jason Gilmore",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "PHP",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4505/webstorage_links/22181/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4505/webstorage_links/22179/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4505/webstorage_links/22180/to_link"
+            }
+        ]
+    },
+    {
         "id": 4466,
         "title": "Modern PHP",
         "img": "http://image.banshujiang.cn/4466.jpeg?timestamp=1723875424632",
@@ -331,27 +357,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/3456/webstorage_links/18052/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3277,
-        "title": "PHP 7 Data Structures and Algorithms",
-        "img": "http://image.banshujiang.cn/3277.jpeg?timestamp=1675570591329",
-        "author": "Mizanur Rahman",
-        "language": "英文",
-        "publishYear": 2017,
-        "programLanguage": "PHP",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3277/webstorage_links/17287/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/3277/webstorage_links/17286/to_link"
             }
         ]
     }

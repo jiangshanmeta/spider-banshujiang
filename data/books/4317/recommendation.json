@@ -1,5 +1,21 @@
 [
     {
+        "id": 4520,
+        "title": "Rails 4 in Action",
+        "img": "http://image.banshujiang.cn/4520.jpeg?timestamp=1727836143814",
+        "author": "Ryan Bigg, Yehuda Katz, Steve Klabnik and Rebecca Skinner",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Ruby",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4520/webstorage_links/22247/to_link"
+            }
+        ]
+    },
+    {
         "id": 4104,
         "title": "Learn Enough Ruby To Be Dangerous",
         "img": "http://image.banshujiang.cn/4104.jpeg?timestamp=1717517100941",
@@ -306,22 +322,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/2020/webstorage_links/11142/to_link"
-            }
-        ]
-    },
-    {
-        "id": 1918,
-        "title": "Ruby on Rails Enterprise Application Development, Plan, Program, Extend",
-        "img": "https://imagebsj.netlify.app/1918.jpeg",
-        "author": "Elliot Smith and Rob Nichols",
-        "language": "英文",
-        "publishYear": 2007,
-        "programLanguage": "Ruby",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/1918/webstorage_links/11458/to_link"
             }
         ]
     }

@@ -1,5 +1,31 @@
 [
     {
+        "id": 4495,
+        "title": "Unix内核源码剖析",
+        "img": "http://image.banshujiang.cn/4495.jpeg?timestamp=1724469529212",
+        "author": "[日]青柳隆宏 [译]殷中翔",
+        "language": "中文",
+        "publishYear": 2014,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4495/webstorage_links/22138/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4495/webstorage_links/22139/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4495/webstorage_links/22137/to_link"
+            }
+        ]
+    },
+    {
         "id": 3822,
         "title": "Advanced UNIX Programming 2nd Edition",
         "img": "http://image.banshujiang.cn/3822.jpeg?timestamp=1713604454544",

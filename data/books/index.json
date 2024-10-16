@@ -84521,5 +84521,727 @@
                 "link": "/e_books/4492/webstorage_links/22121/to_link"
             }
         ]
+    },
+    {
+        "id": 4493,
+        "title": "Spring Cloud微服务实战",
+        "img": "http://image.banshujiang.cn/4493.jpeg?timestamp=1724469261859",
+        "author": "翟永超",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4493/webstorage_links/22128/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4493/webstorage_links/22129/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4493/webstorage_links/22127/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4494,
+        "title": "TensorFlow实战",
+        "img": "http://image.banshujiang.cn/4494.jpeg?timestamp=1724469402034",
+        "author": "黄文坚、唐源",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4494/webstorage_links/22133/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4494/webstorage_links/22132/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4495,
+        "title": "Unix内核源码剖析",
+        "img": "http://image.banshujiang.cn/4495.jpeg?timestamp=1724469529212",
+        "author": "[日]青柳隆宏 [译]殷中翔",
+        "language": "中文",
+        "publishYear": 2014,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4495/webstorage_links/22138/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4495/webstorage_links/22139/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4495/webstorage_links/22137/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4496,
+        "title": "计算广告：互联网商业变现的市场与技术",
+        "img": "http://image.banshujiang.cn/4496.jpeg?timestamp=1724469738639",
+        "author": "刘鹏、王超",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4496/webstorage_links/22147/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4496/webstorage_links/22145/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4496/webstorage_links/22146/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4496/webstorage_links/22144/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4497,
+        "title": "计算机网络(第7版)",
+        "img": "http://image.banshujiang.cn/4497.jpeg?timestamp=1724469853281",
+        "author": "谢希仁",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4497/webstorage_links/22152/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4497/webstorage_links/22153/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4497/webstorage_links/22151/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4498,
+        "title": "无界面交互：潜移默化的UX设计方略",
+        "img": "http://image.banshujiang.cn/4498.jpeg?timestamp=1724470233195",
+        "author": "[美]Golden Krishna [译]杨名",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4498/webstorage_links/22155/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4499,
+        "title": "系统化思维导论",
+        "img": "http://image.banshujiang.cn/4499.jpeg?timestamp=1728722637438",
+        "author": "[美]杰拉尔德· 温伯格 [译]王海鹏",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4499/webstorage_links/22157/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4500,
+        "title": "深入理解计算机网络",
+        "img": "http://image.banshujiang.cn/4500.jpeg?timestamp=1724470465481",
+        "author": "王达",
+        "language": "中文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4500/webstorage_links/22162/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4500/webstorage_links/22163/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4500/webstorage_links/22161/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4501,
+        "title": "Starting out with C++: early objects 8th Edition",
+        "img": "http://image.banshujiang.cn/4501.jpeg?timestamp=1725187824124",
+        "author": "Tony Gaddis, Judy Walters and Godfrey",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4501/webstorage_links/22165/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4502,
+        "title": "Starting out with C++: from control structures through objects 8th Edition",
+        "img": "http://image.banshujiang.cn/4502.jpeg?timestamp=1725187967497",
+        "author": "Tony Gaddis",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4502/webstorage_links/22167/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4503,
+        "title": "Core Data by Tutorials 2nd Edition",
+        "img": "http://image.banshujiang.cn/4503.jpeg?timestamp=1725188115009",
+        "author": "Aaron Douglas, Saul Mora, Matthew Morey and Pietro Rea",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4503/webstorage_links/22171/to_link"
+            },
+            {
+                "fmt": "CODE",
+                "title": "城通网盘",
+                "link": "/e_books/4503/webstorage_links/22170/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4504,
+        "title": "Data Visualization with JavaScript",
+        "img": "http://image.banshujiang.cn/4504.jpeg?timestamp=1725188269980",
+        "author": "Stephen A. Thomas",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4504/webstorage_links/22175/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4504/webstorage_links/22174/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4505,
+        "title": "Easy Laravel 5",
+        "img": "http://image.banshujiang.cn/4505.jpeg?timestamp=1725188404283",
+        "author": "W. Jason Gilmore",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "PHP",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4505/webstorage_links/22181/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4505/webstorage_links/22179/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4505/webstorage_links/22180/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4506,
+        "title": "How Linux Works 2nd Edition",
+        "img": "http://image.banshujiang.cn/4506.jpeg?timestamp=1727832117952",
+        "author": "Brian Ward",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4506/webstorage_links/22185/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4506/webstorage_links/22184/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4507,
+        "title": "iOS Animations by Tutorials 2nd Edition",
+        "img": "http://image.banshujiang.cn/4507.jpeg?timestamp=1727832395171",
+        "author": "Marin Todorov",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4507/webstorage_links/22189/to_link"
+            },
+            {
+                "fmt": "CODE",
+                "title": "城通网盘",
+                "link": "/e_books/4507/webstorage_links/22188/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4508,
+        "title": "Agile Metrics in Action",
+        "img": "http://image.banshujiang.cn/4508.jpeg?timestamp=1727832492619",
+        "author": "Christopher W. H. Davis",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4508/webstorage_links/22195/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4508/webstorage_links/22193/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4508/webstorage_links/22194/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4509,
+        "title": "AngularJS in Action",
+        "img": "http://image.banshujiang.cn/4509.jpeg?timestamp=1727832708774",
+        "author": "Lukas Ruebbelke",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4509/webstorage_links/22201/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4509/webstorage_links/22199/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4509/webstorage_links/22200/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4510,
+        "title": "Big Data",
+        "img": "http://image.banshujiang.cn/4510.jpeg?timestamp=1727832890397",
+        "author": "Nathan Marz",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4510/webstorage_links/22207/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4510/webstorage_links/22205/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4510/webstorage_links/22206/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4511,
+        "title": "D3.js in Action",
+        "img": "http://image.banshujiang.cn/4511.jpeg?timestamp=1727833001073",
+        "author": "Elijah Meeks",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4511/webstorage_links/22213/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4511/webstorage_links/22212/to_link"
+            },
+            {
+                "fmt": "CODE",
+                "title": "城通网盘",
+                "link": "/e_books/4511/webstorage_links/22211/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4512,
+        "title": "Grails in Action 2nd Edition",
+        "img": "http://image.banshujiang.cn/4512.jpeg?timestamp=1727833277901",
+        "author": "Glen Smith, Peter Ledbrook",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Groovy",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4512/webstorage_links/22219/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4512/webstorage_links/22217/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4512/webstorage_links/22218/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4513,
+        "title": "Hadoop in Practice 2nd Edition",
+        "img": "http://image.banshujiang.cn/4513.jpeg?timestamp=1727834110777",
+        "author": "Alex Holmes",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4513/webstorage_links/22223/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4513/webstorage_links/22222/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4514,
+        "title": "JavaScript Application Design",
+        "img": "http://image.banshujiang.cn/4514.jpeg?timestamp=1727834223981",
+        "author": "Nicolas Bevacqua",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4514/webstorage_links/22227/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4514/webstorage_links/22226/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4515,
+        "title": "jQuery in Action 3rd Edition",
+        "img": "http://image.banshujiang.cn/4515.jpeg?timestamp=1727834319698",
+        "author": "Bear Bibeault, Yehuda Katz and Aurelio De Rosa",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4515/webstorage_links/22229/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4516,
+        "title": "Learn Git in a Month of Lunches",
+        "img": "http://image.banshujiang.cn/4516.jpeg?timestamp=1727835416556",
+        "author": "Rick Umali",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4516/webstorage_links/22231/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4517,
+        "title": "OCP Java SE 7 Programmer II Certification Guide",
+        "img": "http://image.banshujiang.cn/4517.jpeg?timestamp=1727835797045",
+        "author": "Mala Gupta",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4517/webstorage_links/22233/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4518,
+        "title": "Oculus Rift in Action",
+        "img": "http://image.banshujiang.cn/4518.jpeg?timestamp=1727835884994",
+        "author": "Bradley Austin Davis, Karen Bryla and Phillips Alexander Benton",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4518/webstorage_links/22239/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4518/webstorage_links/22237/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4518/webstorage_links/22238/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4519,
+        "title": "R in Action 2nd Edition",
+        "img": "http://image.banshujiang.cn/4519.jpeg?timestamp=1727835970550",
+        "author": "Robert I. Kabacoff",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4519/webstorage_links/22245/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4519/webstorage_links/22243/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4519/webstorage_links/22244/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4520,
+        "title": "Rails 4 in Action",
+        "img": "http://image.banshujiang.cn/4520.jpeg?timestamp=1727836143814",
+        "author": "Ryan Bigg, Yehuda Katz, Steve Klabnik and Rebecca Skinner",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Ruby",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4520/webstorage_links/22247/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4521,
+        "title": "Software Development Metrics",
+        "img": "http://image.banshujiang.cn/4521.jpeg?timestamp=1727836333394",
+        "author": "David Nicolette",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4521/webstorage_links/22253/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4521/webstorage_links/22251/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4521/webstorage_links/22252/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4522,
+        "title": "Storm Applied",
+        "img": "http://image.banshujiang.cn/4522.jpeg?timestamp=1727836781781",
+        "author": "Sean T. Allen, Matthew Jankowski and Peter Pathirana",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4522/webstorage_links/22259/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4522/webstorage_links/22257/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4522/webstorage_links/22258/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4523,
+        "title": "Unity in Action",
+        "img": "http://image.banshujiang.cn/4523.jpeg?timestamp=1727836863521",
+        "author": "Joseph Hocking",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4523/webstorage_links/22265/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4523/webstorage_links/22263/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4523/webstorage_links/22264/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4524,
+        "title": "MEAN Machine",
+        "img": "http://image.banshujiang.cn/4524.jpeg?timestamp=1727872749217",
+        "author": "Chris Sevilleja and Holly Lloyd",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4524/webstorage_links/22271/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4524/webstorage_links/22269/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4524/webstorage_links/22270/to_link"
+            }
+        ]
     }
 ]

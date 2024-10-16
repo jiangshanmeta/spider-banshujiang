@@ -1,5 +1,68 @@
 [
     {
+        "id": 4507,
+        "title": "iOS Animations by Tutorials 2nd Edition",
+        "img": "http://image.banshujiang.cn/4507.jpeg?timestamp=1727832395171",
+        "author": "Marin Todorov",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4507/webstorage_links/22189/to_link"
+            },
+            {
+                "fmt": "CODE",
+                "title": "城通网盘",
+                "link": "/e_books/4507/webstorage_links/22188/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4503,
+        "title": "Core Data by Tutorials 2nd Edition",
+        "img": "http://image.banshujiang.cn/4503.jpeg?timestamp=1725188115009",
+        "author": "Aaron Douglas, Saul Mora, Matthew Morey and Pietro Rea",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4503/webstorage_links/22171/to_link"
+            },
+            {
+                "fmt": "CODE",
+                "title": "城通网盘",
+                "link": "/e_books/4503/webstorage_links/22170/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4494,
+        "title": "TensorFlow实战",
+        "img": "http://image.banshujiang.cn/4494.jpeg?timestamp=1724469402034",
+        "author": "黄文坚、唐源",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4494/webstorage_links/22133/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4494/webstorage_links/22132/to_link"
+            }
+        ]
+    },
+    {
         "id": 4486,
         "title": "Python机器学习实践指南",
         "img": "http://image.banshujiang.cn/4486.jpeg?timestamp=1723950482532",
@@ -249,64 +312,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4361/webstorage_links/21640/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4359,
-        "title": "Prompt Engineering for Generative AI",
-        "img": "http://image.banshujiang.cn/4359.jpeg?timestamp=1721469613711",
-        "author": "James Phoenix and Mike Taylor",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4359/webstorage_links/21633/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4359/webstorage_links/21632/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4355,
-        "title": "这就是ChatGPT",
-        "img": "http://image.banshujiang.cn/4355.jpeg?timestamp=1721448219560",
-        "author": "[美]Stephen Wolfram [译]WOLFRAM传媒汉化小组",
-        "language": "中文",
-        "publishYear": 2023,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4355/webstorage_links/21617/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4350,
-        "title": "Deep Learning at Scale",
-        "img": "http://image.banshujiang.cn/4350.jpeg?timestamp=1721447260801",
-        "author": "Suneeta Mall",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4350/webstorage_links/21595/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4350/webstorage_links/21594/to_link"
             }
         ]
     }

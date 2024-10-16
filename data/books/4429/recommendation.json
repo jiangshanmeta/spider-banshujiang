@@ -32,6 +32,32 @@
         ]
     },
     {
+        "id": 4505,
+        "title": "Easy Laravel 5",
+        "img": "http://image.banshujiang.cn/4505.jpeg?timestamp=1725188404283",
+        "author": "W. Jason Gilmore",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "PHP",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4505/webstorage_links/22181/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4505/webstorage_links/22179/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4505/webstorage_links/22180/to_link"
+            }
+        ]
+    },
+    {
         "id": 4492,
         "title": "Selenium 2自动化测试实战：基于Python语言",
         "img": "http://image.banshujiang.cn/4492.jpeg?timestamp=1724469095452",
@@ -276,27 +302,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4417/webstorage_links/21827/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4389,
-        "title": "ArcGIS Web Development",
-        "img": "http://image.banshujiang.cn/4389.jpeg?timestamp=1722053439587",
-        "author": "Rene Rubalcava",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4389/webstorage_links/21721/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4389/webstorage_links/21720/to_link"
             }
         ]
     }

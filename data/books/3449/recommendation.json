@@ -1,5 +1,68 @@
 [
     {
+        "id": 4507,
+        "title": "iOS Animations by Tutorials 2nd Edition",
+        "img": "http://image.banshujiang.cn/4507.jpeg?timestamp=1727832395171",
+        "author": "Marin Todorov",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4507/webstorage_links/22189/to_link"
+            },
+            {
+                "fmt": "CODE",
+                "title": "城通网盘",
+                "link": "/e_books/4507/webstorage_links/22188/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4506,
+        "title": "How Linux Works 2nd Edition",
+        "img": "http://image.banshujiang.cn/4506.jpeg?timestamp=1727832117952",
+        "author": "Brian Ward",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4506/webstorage_links/22185/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4506/webstorage_links/22184/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4503,
+        "title": "Core Data by Tutorials 2nd Edition",
+        "img": "http://image.banshujiang.cn/4503.jpeg?timestamp=1725188115009",
+        "author": "Aaron Douglas, Saul Mora, Matthew Morey and Pietro Rea",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4503/webstorage_links/22171/to_link"
+            },
+            {
+                "fmt": "CODE",
+                "title": "城通网盘",
+                "link": "/e_books/4503/webstorage_links/22170/to_link"
+            }
+        ]
+    },
+    {
         "id": 4490,
         "title": "Linux多线程服务端编程：使用muduo C++网络库",
         "img": "http://image.banshujiang.cn/4490.jpeg?timestamp=1728110768945",
@@ -294,64 +357,6 @@
                 "fmt": "CODE",
                 "title": "城通网盘",
                 "link": "/e_books/4293/webstorage_links/21367/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4290,
-        "title": "Core Data by Tutorials: iOS8 and Swift Edition",
-        "img": "http://image.banshujiang.cn/4290.jpeg?timestamp=1720097983227",
-        "author": "Aaron Douglas, Saul Mora, Matthew Morey and Pietro Rea",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4290/webstorage_links/21359/to_link"
-            },
-            {
-                "fmt": "CODE",
-                "title": "城通网盘",
-                "link": "/e_books/4290/webstorage_links/21358/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4136,
-        "title": "SwiftUI Apprentice 2nd Edition",
-        "img": "http://image.banshujiang.cn/4136.jpeg?timestamp=1718463868851",
-        "author": "Audrey Tam and Caroline Begbie",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4136/webstorage_links/20641/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4136/webstorage_links/20640/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4098,
-        "title": "Linux Pocket Guide 4th Edition",
-        "img": "http://image.banshujiang.cn/4098.jpeg?timestamp=1717330352996",
-        "author": "Daniel J. Barrett",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4098/webstorage_links/20521/to_link"
             }
         ]
     }

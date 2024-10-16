@@ -1,5 +1,31 @@
 [
     {
+        "id": 4519,
+        "title": "R in Action 2nd Edition",
+        "img": "http://image.banshujiang.cn/4519.jpeg?timestamp=1727835970550",
+        "author": "Robert I. Kabacoff",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4519/webstorage_links/22245/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4519/webstorage_links/22243/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4519/webstorage_links/22244/to_link"
+            }
+        ]
+    },
+    {
         "id": 4423,
         "title": "R数据科学",
         "img": "http://image.banshujiang.cn/4423.jpeg?timestamp=1722771010047",
@@ -296,22 +322,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/3450/webstorage_links/18017/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3419,
-        "title": "R for Data Science",
-        "img": "http://image.banshujiang.cn/3419.jpeg?timestamp=1681545686424",
-        "author": "Hadley Wickham and Garrett Grolemund",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "R",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3419/webstorage_links/17853/to_link"
             }
         ]
     }

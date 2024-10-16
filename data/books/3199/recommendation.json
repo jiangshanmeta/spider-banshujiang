@@ -1,5 +1,26 @@
 [
     {
+        "id": 4506,
+        "title": "How Linux Works 2nd Edition",
+        "img": "http://image.banshujiang.cn/4506.jpeg?timestamp=1727832117952",
+        "author": "Brian Ward",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4506/webstorage_links/22185/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4506/webstorage_links/22184/to_link"
+            }
+        ]
+    },
+    {
         "id": 4490,
         "title": "Linux多线程服务端编程：使用muduo C++网络库",
         "img": "http://image.banshujiang.cn/4490.jpeg?timestamp=1728110768945",
@@ -331,27 +352,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/3014/webstorage_links/16089/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2870,
-        "title": "Learning Modern Linux",
-        "img": "https://imagebsj.netlify.app/2870.jpeg",
-        "author": "Michael Hausenblas",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2870/webstorage_links/10511/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2870/webstorage_links/10510/to_link"
             }
         ]
     }

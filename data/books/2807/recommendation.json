@@ -80,6 +80,48 @@
         ]
     },
     {
+        "id": 4520,
+        "title": "Rails 4 in Action",
+        "img": "http://image.banshujiang.cn/4520.jpeg?timestamp=1727836143814",
+        "author": "Ryan Bigg, Yehuda Katz, Steve Klabnik and Rebecca Skinner",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Ruby",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4520/webstorage_links/22247/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4505,
+        "title": "Easy Laravel 5",
+        "img": "http://image.banshujiang.cn/4505.jpeg?timestamp=1725188404283",
+        "author": "W. Jason Gilmore",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "PHP",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4505/webstorage_links/22181/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4505/webstorage_links/22179/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4505/webstorage_links/22180/to_link"
+            }
+        ]
+    },
+    {
         "id": 4487,
         "title": "Full Stack JavaScript Development with MEAN",
         "img": "http://image.banshujiang.cn/4487.jpeg?timestamp=1723950583814",
@@ -245,43 +287,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4372/webstorage_links/21681/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4317,
-        "title": "Ruby Cookbook Early Release 2nd Edition",
-        "img": "http://image.banshujiang.cn/4317.jpeg?timestamp=1720923577229",
-        "author": "Lucas Carlson and Leonard Richardson",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Ruby",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4317/webstorage_links/21483/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4104,
-        "title": "Learn Enough Ruby To Be Dangerous",
-        "img": "http://image.banshujiang.cn/4104.jpeg?timestamp=1717517100941",
-        "author": "Michael Hartl",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "Ruby",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4104/webstorage_links/20545/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4104/webstorage_links/20544/to_link"
             }
         ]
     }

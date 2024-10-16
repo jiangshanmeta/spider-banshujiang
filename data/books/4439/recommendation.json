@@ -1,5 +1,141 @@
 [
     {
+        "id": 4524,
+        "title": "MEAN Machine",
+        "img": "http://image.banshujiang.cn/4524.jpeg?timestamp=1727872749217",
+        "author": "Chris Sevilleja and Holly Lloyd",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4524/webstorage_links/22271/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4524/webstorage_links/22269/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4524/webstorage_links/22270/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4515,
+        "title": "jQuery in Action 3rd Edition",
+        "img": "http://image.banshujiang.cn/4515.jpeg?timestamp=1727834319698",
+        "author": "Bear Bibeault, Yehuda Katz and Aurelio De Rosa",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4515/webstorage_links/22229/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4514,
+        "title": "JavaScript Application Design",
+        "img": "http://image.banshujiang.cn/4514.jpeg?timestamp=1727834223981",
+        "author": "Nicolas Bevacqua",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4514/webstorage_links/22227/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4514/webstorage_links/22226/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4511,
+        "title": "D3.js in Action",
+        "img": "http://image.banshujiang.cn/4511.jpeg?timestamp=1727833001073",
+        "author": "Elijah Meeks",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4511/webstorage_links/22213/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4511/webstorage_links/22212/to_link"
+            },
+            {
+                "fmt": "CODE",
+                "title": "城通网盘",
+                "link": "/e_books/4511/webstorage_links/22211/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4509,
+        "title": "AngularJS in Action",
+        "img": "http://image.banshujiang.cn/4509.jpeg?timestamp=1727832708774",
+        "author": "Lukas Ruebbelke",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4509/webstorage_links/22201/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4509/webstorage_links/22199/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4509/webstorage_links/22200/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4504,
+        "title": "Data Visualization with JavaScript",
+        "img": "http://image.banshujiang.cn/4504.jpeg?timestamp=1725188269980",
+        "author": "Stephen A. Thomas",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4504/webstorage_links/22175/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4504/webstorage_links/22174/to_link"
+            }
+        ]
+    },
+    {
         "id": 4487,
         "title": "Full Stack JavaScript Development with MEAN",
         "img": "http://image.banshujiang.cn/4487.jpeg?timestamp=1723950583814",
@@ -201,137 +337,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4398/webstorage_links/21756/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4321,
-        "title": "Node Cookbook 2nd Edition",
-        "img": "http://image.banshujiang.cn/4321.jpeg?timestamp=1721302965095",
-        "author": "David Mark Clements",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4321/webstorage_links/21507/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4321/webstorage_links/21505/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4321/webstorage_links/21506/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4302,
-        "title": "Hands-On Sencha Touch 2",
-        "img": "http://image.banshujiang.cn/4302.jpeg?timestamp=1720241637251",
-        "author": "Lee Boonstra",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4302/webstorage_links/21406/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4302/webstorage_links/21404/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4302/webstorage_links/21405/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4296,
-        "title": "AngularJS: Up And Running",
-        "img": "http://image.banshujiang.cn/4296.jpeg?timestamp=1720240242973",
-        "author": "Shyam Seshadri and Brad Green",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4296/webstorage_links/21375/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4255,
-        "title": "同构JavaScript应用开发",
-        "img": "http://image.banshujiang.cn/4255.jpeg?timestamp=1719121623115",
-        "author": "[美]Jason Strimpel、Maxime Najim [译]张俊达 ",
-        "language": "中文",
-        "publishYear": 2017,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4255/webstorage_links/21228/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4249,
-        "title": "Speaking JavaScript",
-        "img": "http://image.banshujiang.cn/4249.jpeg?timestamp=1719114777337",
-        "author": "Axel Rauschmayer",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4249/webstorage_links/21199/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4249/webstorage_links/21198/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4247,
-        "title": "Sencha Touch 2 Mobile JavaScript Framework",
-        "img": "http://image.banshujiang.cn/4247.jpeg?timestamp=1719114535562",
-        "author": "John Earl Clark and Bryan P. Johnson",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4247/webstorage_links/21189/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4247/webstorage_links/21187/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4247/webstorage_links/21188/to_link"
             }
         ]
     }

@@ -138,6 +138,48 @@
         ]
     },
     {
+        "id": 4507,
+        "title": "iOS Animations by Tutorials 2nd Edition",
+        "img": "http://image.banshujiang.cn/4507.jpeg?timestamp=1727832395171",
+        "author": "Marin Todorov",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4507/webstorage_links/22189/to_link"
+            },
+            {
+                "fmt": "CODE",
+                "title": "城通网盘",
+                "link": "/e_books/4507/webstorage_links/22188/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4503,
+        "title": "Core Data by Tutorials 2nd Edition",
+        "img": "http://image.banshujiang.cn/4503.jpeg?timestamp=1725188115009",
+        "author": "Aaron Douglas, Saul Mora, Matthew Morey and Pietro Rea",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4503/webstorage_links/22171/to_link"
+            },
+            {
+                "fmt": "CODE",
+                "title": "城通网盘",
+                "link": "/e_books/4503/webstorage_links/22170/to_link"
+            }
+        ]
+    },
+    {
         "id": 4492,
         "title": "Selenium 2自动化测试实战：基于Python语言",
         "img": "http://image.banshujiang.cn/4492.jpeg?timestamp=1724469095452",
@@ -245,48 +287,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4473/webstorage_links/22038/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4472,
-        "title": "Swift Development with Cocoa",
-        "img": "http://image.banshujiang.cn/4472.jpeg?timestamp=1723945187035",
-        "author": "Jonathon Manning, Paris Buttfield-Addison, and Tim Nugent",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4472/webstorage_links/22035/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4472/webstorage_links/22034/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4458,
-        "title": "iOS 8 Swift Programming Cookbook",
-        "img": "http://image.banshujiang.cn/4458.jpeg?timestamp=1723872072952",
-        "author": "Vandad Nahavandipoor",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4458/webstorage_links/21971/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4458/webstorage_links/21970/to_link"
             }
         ]
     }

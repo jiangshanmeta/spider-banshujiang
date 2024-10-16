@@ -53,6 +53,53 @@
         ]
     },
     {
+        "id": 4519,
+        "title": "R in Action 2nd Edition",
+        "img": "http://image.banshujiang.cn/4519.jpeg?timestamp=1727835970550",
+        "author": "Robert I. Kabacoff",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4519/webstorage_links/22245/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4519/webstorage_links/22243/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4519/webstorage_links/22244/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4494,
+        "title": "TensorFlow实战",
+        "img": "http://image.banshujiang.cn/4494.jpeg?timestamp=1724469402034",
+        "author": "黄文坚、唐源",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4494/webstorage_links/22133/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4494/webstorage_links/22132/to_link"
+            }
+        ]
+    },
+    {
         "id": 4486,
         "title": "Python机器学习实践指南",
         "img": "http://image.banshujiang.cn/4486.jpeg?timestamp=1723950482532",
@@ -245,43 +292,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4359/webstorage_links/21632/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4355,
-        "title": "这就是ChatGPT",
-        "img": "http://image.banshujiang.cn/4355.jpeg?timestamp=1721448219560",
-        "author": "[美]Stephen Wolfram [译]WOLFRAM传媒汉化小组",
-        "language": "中文",
-        "publishYear": 2023,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4355/webstorage_links/21617/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4350,
-        "title": "Deep Learning at Scale",
-        "img": "http://image.banshujiang.cn/4350.jpeg?timestamp=1721447260801",
-        "author": "Suneeta Mall",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4350/webstorage_links/21595/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4350/webstorage_links/21594/to_link"
             }
         ]
     }

@@ -207,6 +207,32 @@
         ]
     },
     {
+        "id": 4505,
+        "title": "Easy Laravel 5",
+        "img": "http://image.banshujiang.cn/4505.jpeg?timestamp=1725188404283",
+        "author": "W. Jason Gilmore",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "PHP",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4505/webstorage_links/22181/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4505/webstorage_links/22179/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4505/webstorage_links/22180/to_link"
+            }
+        ]
+    },
+    {
         "id": 4466,
         "title": "Modern PHP",
         "img": "http://image.banshujiang.cn/4466.jpeg?timestamp=1723875424632",
@@ -276,32 +302,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/4314/webstorage_links/21464/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4232,
-        "title": "MySQL High Availability 2nd Edition",
-        "img": "http://image.banshujiang.cn/4232.jpeg?timestamp=1718976678638",
-        "author": "Charles Bell, Mats Kindahl and Lars Thalmann",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "SQL",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4232/webstorage_links/21119/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4232/webstorage_links/21117/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4232/webstorage_links/21118/to_link"
             }
         ]
     }

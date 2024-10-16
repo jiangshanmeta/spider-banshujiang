@@ -305,28 +305,23 @@
         ]
     },
     {
-        "id": 4492,
-        "title": "Selenium 2自动化测试实战：基于Python语言",
-        "img": "http://image.banshujiang.cn/4492.jpeg?timestamp=1724469095452",
-        "author": "虫师",
+        "id": 4494,
+        "title": "TensorFlow实战",
+        "img": "http://image.banshujiang.cn/4494.jpeg?timestamp=1724469402034",
+        "author": "黄文坚、唐源",
         "language": "中文",
-        "publishYear": 2016,
-        "programLanguage": "Python",
+        "publishYear": 2017,
+        "programLanguage": "",
         "formats": [
             {
                 "fmt": "EPUB",
                 "title": "城通网盘",
-                "link": "/e_books/4492/webstorage_links/22122/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4492/webstorage_links/22123/to_link"
+                "link": "/e_books/4494/webstorage_links/22133/to_link"
             },
             {
                 "fmt": "AZW3",
                 "title": "城通网盘",
-                "link": "/e_books/4492/webstorage_links/22121/to_link"
+                "link": "/e_books/4494/webstorage_links/22132/to_link"
             }
         ]
     }

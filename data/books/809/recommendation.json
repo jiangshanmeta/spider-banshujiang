@@ -16,6 +16,48 @@
         ]
     },
     {
+        "id": 4507,
+        "title": "iOS Animations by Tutorials 2nd Edition",
+        "img": "http://image.banshujiang.cn/4507.jpeg?timestamp=1727832395171",
+        "author": "Marin Todorov",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4507/webstorage_links/22189/to_link"
+            },
+            {
+                "fmt": "CODE",
+                "title": "城通网盘",
+                "link": "/e_books/4507/webstorage_links/22188/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4503,
+        "title": "Core Data by Tutorials 2nd Edition",
+        "img": "http://image.banshujiang.cn/4503.jpeg?timestamp=1725188115009",
+        "author": "Aaron Douglas, Saul Mora, Matthew Morey and Pietro Rea",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4503/webstorage_links/22171/to_link"
+            },
+            {
+                "fmt": "CODE",
+                "title": "城通网盘",
+                "link": "/e_books/4503/webstorage_links/22170/to_link"
+            }
+        ]
+    },
+    {
         "id": 4473,
         "title": "Swift Pocket Reference",
         "img": "http://image.banshujiang.cn/4473.jpeg?timestamp=1723945260751",
@@ -295,48 +337,6 @@
                 "fmt": "AZW3",
                 "title": "城通网盘",
                 "link": "/e_books/4315/webstorage_links/21470/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4294,
-        "title": "iOS Games by Tutorials 2nd Edition",
-        "img": "http://image.banshujiang.cn/4294.jpeg?timestamp=1720238539036",
-        "author": "raywenderlich.com Tutorial Team",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4294/webstorage_links/21371/to_link"
-            },
-            {
-                "fmt": "CODE",
-                "title": "城通网盘",
-                "link": "/e_books/4294/webstorage_links/21370/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4293,
-        "title": "iOS 8 by Tutorials",
-        "img": "http://image.banshujiang.cn/4293.jpeg?timestamp=1720236797275",
-        "author": "raywenderlich.com Tutorial Team",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4293/webstorage_links/21366/to_link"
-            },
-            {
-                "fmt": "CODE",
-                "title": "城通网盘",
-                "link": "/e_books/4293/webstorage_links/21367/to_link"
             }
         ]
     }

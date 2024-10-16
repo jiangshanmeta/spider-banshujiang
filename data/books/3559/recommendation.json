@@ -16,6 +16,48 @@
         ]
     },
     {
+        "id": 4507,
+        "title": "iOS Animations by Tutorials 2nd Edition",
+        "img": "http://image.banshujiang.cn/4507.jpeg?timestamp=1727832395171",
+        "author": "Marin Todorov",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4507/webstorage_links/22189/to_link"
+            },
+            {
+                "fmt": "CODE",
+                "title": "城通网盘",
+                "link": "/e_books/4507/webstorage_links/22188/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4503,
+        "title": "Core Data by Tutorials 2nd Edition",
+        "img": "http://image.banshujiang.cn/4503.jpeg?timestamp=1725188115009",
+        "author": "Aaron Douglas, Saul Mora, Matthew Morey and Pietro Rea",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4503/webstorage_links/22171/to_link"
+            },
+            {
+                "fmt": "CODE",
+                "title": "城通网盘",
+                "link": "/e_books/4503/webstorage_links/22170/to_link"
+            }
+        ]
+    },
+    {
         "id": 4473,
         "title": "Swift Pocket Reference",
         "img": "http://image.banshujiang.cn/4473.jpeg?timestamp=1723945260751",
@@ -300,48 +342,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3618/webstorage_links/18686/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3541,
-        "title": "Advanced Apple Debugging &amp; Reverse Engineering",
-        "img": "http://image.banshujiang.cn/3541.jpeg?timestamp=1697273649437",
-        "author": "Walter Tyree",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3541/webstorage_links/18434/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3541/webstorage_links/18435/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3500,
-        "title": "SwiftUI Essentials iOS 16 Edition",
-        "img": "http://image.banshujiang.cn/3500.jpeg?timestamp=1696560670634",
-        "author": "",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3500/webstorage_links/18263/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3500/webstorage_links/18262/to_link"
             }
         ]
     }
