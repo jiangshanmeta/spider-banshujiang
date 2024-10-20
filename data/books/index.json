@@ -85243,5 +85243,193 @@
                 "link": "/e_books/4524/webstorage_links/22270/to_link"
             }
         ]
+    },
+    {
+        "id": 4525,
+        "title": "Metaprogramming Elixir",
+        "img": "http://image.banshujiang.cn/4525.jpeg?timestamp=1727872836571",
+        "author": "Chris McCord",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Elixir",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4525/webstorage_links/22277/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4525/webstorage_links/22276/to_link"
+            },
+            {
+                "fmt": "CODE",
+                "title": "城通网盘",
+                "link": "/e_books/4525/webstorage_links/22275/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4526,
+        "title": "Make: 21st Century Robot",
+        "img": "http://image.banshujiang.cn/4526.jpeg?timestamp=1727872974182",
+        "author": "Brian David Johnson",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4526/webstorage_links/22283/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4526/webstorage_links/22281/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4526/webstorage_links/22282/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4527,
+        "title": "Abusing the Internet of Things",
+        "img": "http://image.banshujiang.cn/4527.jpeg?timestamp=1727873084589",
+        "author": "Nitesh Dhanjani",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4527/webstorage_links/22287/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4527/webstorage_links/22286/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4528,
+        "title": "Accumulo: Application Development, Table Design, and Best Practices",
+        "img": "http://image.banshujiang.cn/4528.jpeg?timestamp=1729214852437",
+        "author": "Aaron Cordova, Billie Rinaldi and Michael Wall",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4528/webstorage_links/22293/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4528/webstorage_links/22291/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4528/webstorage_links/22292/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4529,
+        "title": "Algorithms in a Nutshell 2E 2nd Edition Early Release",
+        "img": "http://image.banshujiang.cn/4529.jpeg?timestamp=1727873336388",
+        "author": "George T. Heineman, Gary Pollice, and Stanley Selkow",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4529/webstorage_links/22299/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4529/webstorage_links/22297/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4529/webstorage_links/22298/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4530,
+        "title": "Ansible: Up and Running",
+        "img": "http://image.banshujiang.cn/4530.jpeg?timestamp=1727873400270",
+        "author": "Lorin Hochstein",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4530/webstorage_links/22303/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4530/webstorage_links/22302/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4531,
+        "title": "Apache Oozie",
+        "img": "http://image.banshujiang.cn/4531.jpeg?timestamp=1727873488185",
+        "author": "Mohammad Kamrul Islam &amp; Aravind Srinivasan",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4531/webstorage_links/22309/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4531/webstorage_links/22307/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4531/webstorage_links/22308/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4532,
+        "title": "BeagleBone Cookbook",
+        "img": "http://image.banshujiang.cn/4532.jpeg?timestamp=1727873544191",
+        "author": "Mark A. Yoder and Jason Kridner",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4532/webstorage_links/22311/to_link"
+            }
+        ]
     }
 ]
