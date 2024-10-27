@@ -1,5 +1,21 @@
 [
     {
+        "id": 4551,
+        "title": "Data Science in the Cloud with Microsoft Azure Machine Learning and R",
+        "img": "http://image.banshujiang.cn/4551.jpeg?timestamp=1727949568357",
+        "author": "Stephen F. Elston",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4551/webstorage_links/22416/to_link"
+            }
+        ]
+    },
+    {
         "id": 4507,
         "title": "iOS Animations by Tutorials 2nd Edition",
         "img": "http://image.banshujiang.cn/4507.jpeg?timestamp=1727832395171",
@@ -291,27 +307,6 @@
                 "fmt": "AZW3",
                 "title": "城通网盘",
                 "link": "/e_books/4366/webstorage_links/21663/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4361,
-        "title": "Mastering NLP from Foundations to LLMs",
-        "img": "http://image.banshujiang.cn/4361.jpeg?timestamp=1721469781572",
-        "author": "Lior Gazit and Meysam Ghaffari",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4361/webstorage_links/21641/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4361/webstorage_links/21640/to_link"
             }
         ]
     }

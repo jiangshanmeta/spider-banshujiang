@@ -1,5 +1,31 @@
 [
     {
+        "id": 4539,
+        "title": "C in a Nutshell 2nd Edition Early Release",
+        "img": "http://image.banshujiang.cn/4539.jpeg?timestamp=1727874148646",
+        "author": "Peter Prinz and Tony Crawford",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4539/webstorage_links/22349/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4539/webstorage_links/22347/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4539/webstorage_links/22348/to_link"
+            }
+        ]
+    },
+    {
         "id": 4295,
         "title": "21st Century C 2nd Edition",
         "img": "http://image.banshujiang.cn/4295.jpeg?timestamp=1720240158960",
@@ -321,32 +347,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/3302/webstorage_links/17417/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3077,
-        "title": "Modern C",
-        "img": "https://imagebsj.netlify.app/3077.jpeg",
-        "author": "Jens Gustedt",
-        "language": "英文",
-        "publishYear": 2019,
-        "programLanguage": "C",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3077/webstorage_links/16354/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3077/webstorage_links/16352/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/3077/webstorage_links/16353/to_link"
             }
         ]
     }

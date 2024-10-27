@@ -1,5 +1,83 @@
 [
     {
+        "id": 4547,
+        "title": "C# 6.0 in a Nutshell 6th Edition",
+        "img": "http://image.banshujiang.cn/4547.jpeg?timestamp=1727874946653",
+        "author": "Joseph Albahari and Ben Albahari",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4547/webstorage_links/22396/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4547/webstorage_links/22394/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4547/webstorage_links/22395/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4546,
+        "title": "C# 6.0 Cookbook 4th Edition",
+        "img": "http://image.banshujiang.cn/4546.jpeg?timestamp=1727874863672",
+        "author": "Jay Hilyard and Stephen Teilhet",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4546/webstorage_links/22390/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4546/webstorage_links/22389/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4546/webstorage_links/22388/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4540,
+        "title": "C# 6.0 Pocket Reference",
+        "img": "http://image.banshujiang.cn/4540.jpeg?timestamp=1727874259663",
+        "author": "Joseph Albahari &amp; Ben Albahari",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4540/webstorage_links/22355/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4540/webstorage_links/22353/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4540/webstorage_links/22354/to_link"
+            }
+        ]
+    },
+    {
         "id": 4282,
         "title": "C#敏捷开发实践",
         "img": "http://image.banshujiang.cn/4282.jpeg?timestamp=1720096859899",
@@ -238,64 +316,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3896/webstorage_links/19761/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3801,
-        "title": ".NET 4.5 Parallel Extensions Cookbook",
-        "img": "http://image.banshujiang.cn/3801.jpeg?timestamp=1712975169894",
-        "author": "Bryan Freeman",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "C#",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3801/webstorage_links/19384/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3752,
-        "title": "C# in Depth 3rd Edition",
-        "img": "http://image.banshujiang.cn/3752.jpeg?timestamp=1712398407780",
-        "author": "Jon Skeet",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "C#",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3752/webstorage_links/19191/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3752/webstorage_links/19190/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3726,
-        "title": "Head First C# 3rd Edition",
-        "img": "http://image.banshujiang.cn/3726.jpeg?timestamp=1711719997389",
-        "author": "Andrew Stellman and Jennifer Greene",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "C#",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3726/webstorage_links/19089/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3726/webstorage_links/19088/to_link"
             }
         ]
     }

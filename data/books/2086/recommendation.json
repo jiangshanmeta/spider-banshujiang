@@ -1,5 +1,57 @@
 [
     {
+        "id": 4548,
+        "title": "CSS the missing manual 4th Edition",
+        "img": "http://image.banshujiang.cn/4548.jpeg?timestamp=1727875085994",
+        "author": "David Sawyer McFarland",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "CSS",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4548/webstorage_links/22402/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4548/webstorage_links/22400/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4548/webstorage_links/22401/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4542,
+        "title": "Colors, Backgrounds, and Gradients",
+        "img": "http://image.banshujiang.cn/4542.jpeg?timestamp=1727874466817",
+        "author": "Eric A. Meyer",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "CSS",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4542/webstorage_links/22367/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4542/webstorage_links/22365/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4542/webstorage_links/22366/to_link"
+            }
+        ]
+    },
+    {
         "id": 4286,
         "title": "CSS重构：样式表性能调优",
         "img": "http://image.banshujiang.cn/4286.jpeg?timestamp=1720097321062",
@@ -290,58 +342,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/2841/webstorage_links/10410/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2616,
-        "title": "Modern CSS with Tailwind",
-        "img": "https://imagebsj.netlify.app/2616.jpeg",
-        "author": "Noel Rappin",
-        "language": "英文",
-        "publishYear": 2021,
-        "programLanguage": "CSS",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2616/webstorage_links/9119/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2616/webstorage_links/9121/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/2616/webstorage_links/9120/to_link"
-            }
-        ]
-    },
-    {
-        "id": 1924,
-        "title": "Learning Bootstrap 4, 2nd Edition",
-        "img": "https://imagebsj.netlify.app/1924.jpeg",
-        "author": "Matt Lambert",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "CSS",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/1924/webstorage_links/11476/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/1924/webstorage_links/11477/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/1924/webstorage_links/11478/to_link"
             }
         ]
     }

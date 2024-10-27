@@ -1,5 +1,26 @@
 [
     {
+        "id": 4533,
+        "title": "Beautiful JavaScript",
+        "img": "http://image.banshujiang.cn/4533.jpeg?timestamp=1727873626069",
+        "author": "Anton Kovalyov",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4533/webstorage_links/22315/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4533/webstorage_links/22314/to_link"
+            }
+        ]
+    },
+    {
         "id": 4524,
         "title": "MEAN Machine",
         "img": "http://image.banshujiang.cn/4524.jpeg?timestamp=1727872749217",
@@ -336,27 +357,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/4460/webstorage_links/21984/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4458,
-        "title": "iOS 8 Swift Programming Cookbook",
-        "img": "http://image.banshujiang.cn/4458.jpeg?timestamp=1723872072952",
-        "author": "Vandad Nahavandipoor",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4458/webstorage_links/21971/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4458/webstorage_links/21970/to_link"
             }
         ]
     }

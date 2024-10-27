@@ -85431,5 +85431,500 @@
                 "link": "/e_books/4532/webstorage_links/22311/to_link"
             }
         ]
+    },
+    {
+        "id": 4533,
+        "title": "Beautiful JavaScript",
+        "img": "http://image.banshujiang.cn/4533.jpeg?timestamp=1727873626069",
+        "author": "Anton Kovalyov",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4533/webstorage_links/22315/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4533/webstorage_links/22314/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4534,
+        "title": "Beyond Blame",
+        "img": "http://image.banshujiang.cn/4534.jpeg?timestamp=1727873689475",
+        "author": "Dave Zwieback",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4534/webstorage_links/22321/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4534/webstorage_links/22319/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4534/webstorage_links/22320/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4535,
+        "title": "Big Data for Chimps",
+        "img": "http://image.banshujiang.cn/4535.jpeg?timestamp=1727873762292",
+        "author": "Philip Kromer and Russell Jurney",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4535/webstorage_links/22327/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4535/webstorage_links/22326/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4535/webstorage_links/22325/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4536,
+        "title": "BioBuilder",
+        "img": "http://image.banshujiang.cn/4536.jpeg?timestamp=1727873916844",
+        "author": "Natalie Kuldell, Rachel Bernstein, Karen Ingram and Kathryn M. Hart",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4536/webstorage_links/22333/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4536/webstorage_links/22331/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4536/webstorage_links/22332/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4537,
+        "title": "Bioinformatics Data Skills",
+        "img": "http://image.banshujiang.cn/4537.jpeg?timestamp=1727873983715",
+        "author": "Vince Buffalo",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4537/webstorage_links/22339/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4537/webstorage_links/22338/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4537/webstorage_links/22337/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4538,
+        "title": "Building Applications on Mesos",
+        "img": "http://image.banshujiang.cn/4538.jpeg?timestamp=1727874057073",
+        "author": "David Greenberg",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4538/webstorage_links/22343/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4538/webstorage_links/22342/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4539,
+        "title": "C in a Nutshell 2nd Edition Early Release",
+        "img": "http://image.banshujiang.cn/4539.jpeg?timestamp=1727874148646",
+        "author": "Peter Prinz and Tony Crawford",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4539/webstorage_links/22349/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4539/webstorage_links/22347/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4539/webstorage_links/22348/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4540,
+        "title": "C# 6.0 Pocket Reference",
+        "img": "http://image.banshujiang.cn/4540.jpeg?timestamp=1727874259663",
+        "author": "Joseph Albahari &amp; Ben Albahari",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4540/webstorage_links/22355/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4540/webstorage_links/22353/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4540/webstorage_links/22354/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4541,
+        "title": "Calm Technology",
+        "img": "http://image.banshujiang.cn/4541.jpeg?timestamp=1727874370597",
+        "author": "Amber Case",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4541/webstorage_links/22361/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4541/webstorage_links/22359/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4541/webstorage_links/22360/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4542,
+        "title": "Colors, Backgrounds, and Gradients",
+        "img": "http://image.banshujiang.cn/4542.jpeg?timestamp=1727874466817",
+        "author": "Eric A. Meyer",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "CSS",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4542/webstorage_links/22367/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4542/webstorage_links/22365/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4542/webstorage_links/22366/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4543,
+        "title": "Crafting the Infosec Playbook",
+        "img": "http://image.banshujiang.cn/4543.jpeg?timestamp=1727874591301",
+        "author": "Jeff Bollinger, Brandon Enright and Matthew Valites",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4543/webstorage_links/22373/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4543/webstorage_links/22371/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4543/webstorage_links/22372/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4544,
+        "title": "Creating a DataDriven Organization",
+        "img": "http://image.banshujiang.cn/4544.jpeg?timestamp=1727874648617",
+        "author": "Carl Anderson",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4544/webstorage_links/22379/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4544/webstorage_links/22377/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4544/webstorage_links/22378/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4545,
+        "title": "Creating a Website the missing manual 4th Edition ",
+        "img": "http://image.banshujiang.cn/4545.jpeg?timestamp=1727874786967",
+        "author": "Matthew MacDonald",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4545/webstorage_links/22384/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4545/webstorage_links/22382/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4545/webstorage_links/22383/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4546,
+        "title": "C# 6.0 Cookbook 4th Edition",
+        "img": "http://image.banshujiang.cn/4546.jpeg?timestamp=1727874863672",
+        "author": "Jay Hilyard and Stephen Teilhet",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4546/webstorage_links/22390/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4546/webstorage_links/22389/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4546/webstorage_links/22388/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4547,
+        "title": "C# 6.0 in a Nutshell 6th Edition",
+        "img": "http://image.banshujiang.cn/4547.jpeg?timestamp=1727874946653",
+        "author": "Joseph Albahari and Ben Albahari",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4547/webstorage_links/22396/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4547/webstorage_links/22394/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4547/webstorage_links/22395/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4548,
+        "title": "CSS the missing manual 4th Edition",
+        "img": "http://image.banshujiang.cn/4548.jpeg?timestamp=1727875085994",
+        "author": "David Sawyer McFarland",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "CSS",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4548/webstorage_links/22402/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4548/webstorage_links/22400/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4548/webstorage_links/22401/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4549,
+        "title": "Data Algorithms",
+        "img": "http://image.banshujiang.cn/4549.jpeg?timestamp=1727875143783",
+        "author": "Mahmoud Parsian",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4549/webstorage_links/22408/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4549/webstorage_links/22406/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4549/webstorage_links/22407/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4550,
+        "title": "Data Science from Scratch",
+        "img": "http://image.banshujiang.cn/4550.jpeg?timestamp=1727875271898",
+        "author": "Joel Grus",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4550/webstorage_links/22414/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4550/webstorage_links/22413/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4550/webstorage_links/22412/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4551,
+        "title": "Data Science in the Cloud with Microsoft Azure Machine Learning and R",
+        "img": "http://image.banshujiang.cn/4551.jpeg?timestamp=1727949568357",
+        "author": "Stephen F. Elston",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4551/webstorage_links/22416/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4552,
+        "title": "Design Leadership",
+        "img": "http://image.banshujiang.cn/4552.jpeg?timestamp=1727949659066",
+        "author": "Richard Banfield",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4552/webstorage_links/22420/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4552/webstorage_links/22419/to_link"
+            }
+        ]
     }
 ]

@@ -1,5 +1,57 @@
 [
     {
+        "id": 4548,
+        "title": "CSS the missing manual 4th Edition",
+        "img": "http://image.banshujiang.cn/4548.jpeg?timestamp=1727875085994",
+        "author": "David Sawyer McFarland",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "CSS",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4548/webstorage_links/22402/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4548/webstorage_links/22400/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4548/webstorage_links/22401/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4542,
+        "title": "Colors, Backgrounds, and Gradients",
+        "img": "http://image.banshujiang.cn/4542.jpeg?timestamp=1727874466817",
+        "author": "Eric A. Meyer",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "CSS",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4542/webstorage_links/22367/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4542/webstorage_links/22365/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4542/webstorage_links/22366/to_link"
+            }
+        ]
+    },
+    {
         "id": 4286,
         "title": "CSS重构：样式表性能调优",
         "img": "http://image.banshujiang.cn/4286.jpeg?timestamp=1720097321062",

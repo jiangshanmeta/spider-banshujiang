@@ -1,5 +1,26 @@
 [
     {
+        "id": 4533,
+        "title": "Beautiful JavaScript",
+        "img": "http://image.banshujiang.cn/4533.jpeg?timestamp=1727873626069",
+        "author": "Anton Kovalyov",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4533/webstorage_links/22315/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4533/webstorage_links/22314/to_link"
+            }
+        ]
+    },
+    {
         "id": 4524,
         "title": "MEAN Machine",
         "img": "http://image.banshujiang.cn/4524.jpeg?timestamp=1727872749217",
@@ -316,27 +337,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4415/webstorage_links/21823/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4398,
-        "title": "Node.js in Practice",
-        "img": "http://image.banshujiang.cn/4398.jpeg?timestamp=1722071305765",
-        "author": "Alex Young and Marc Harter",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4398/webstorage_links/21757/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4398/webstorage_links/21756/to_link"
             }
         ]
     }

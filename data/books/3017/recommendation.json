@@ -1,5 +1,21 @@
 [
     {
+        "id": 4551,
+        "title": "Data Science in the Cloud with Microsoft Azure Machine Learning and R",
+        "img": "http://image.banshujiang.cn/4551.jpeg?timestamp=1727949568357",
+        "author": "Stephen F. Elston",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4551/webstorage_links/22416/to_link"
+            }
+        ]
+    },
+    {
         "id": 4494,
         "title": "TensorFlow实战",
         "img": "http://image.banshujiang.cn/4494.jpeg?timestamp=1724469402034",
@@ -281,32 +297,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4199/webstorage_links/20946/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4140,
-        "title": "AI极简经济学",
-        "img": "http://image.banshujiang.cn/4140.jpeg?timestamp=1718464469066",
-        "author": "[加]阿杰伊·阿格拉沃尔、乔舒亚·甘斯、阿维·戈德法布 [译]闾佳",
-        "language": "中文",
-        "publishYear": 2018,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4140/webstorage_links/20656/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4140/webstorage_links/20657/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4140/webstorage_links/20655/to_link"
             }
         ]
     }

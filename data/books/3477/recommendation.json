@@ -1,5 +1,21 @@
 [
     {
+        "id": 4551,
+        "title": "Data Science in the Cloud with Microsoft Azure Machine Learning and R",
+        "img": "http://image.banshujiang.cn/4551.jpeg?timestamp=1727949568357",
+        "author": "Stephen F. Elston",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4551/webstorage_links/22416/to_link"
+            }
+        ]
+    },
+    {
         "id": 4519,
         "title": "R in Action 2nd Edition",
         "img": "http://image.banshujiang.cn/4519.jpeg?timestamp=1727835970550",
@@ -296,32 +312,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3552/webstorage_links/18470/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3450,
-        "title": "Mastering Text Mining with R",
-        "img": "http://image.banshujiang.cn/3450.jpeg?timestamp=1691892118461",
-        "author": "Ashish Kumar and Avinash Paul",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "R",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3450/webstorage_links/18016/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3450/webstorage_links/18015/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/3450/webstorage_links/18017/to_link"
             }
         ]
     }

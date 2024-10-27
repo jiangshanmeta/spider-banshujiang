@@ -101,6 +101,84 @@
         ]
     },
     {
+        "id": 4547,
+        "title": "C# 6.0 in a Nutshell 6th Edition",
+        "img": "http://image.banshujiang.cn/4547.jpeg?timestamp=1727874946653",
+        "author": "Joseph Albahari and Ben Albahari",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4547/webstorage_links/22396/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4547/webstorage_links/22394/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4547/webstorage_links/22395/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4546,
+        "title": "C# 6.0 Cookbook 4th Edition",
+        "img": "http://image.banshujiang.cn/4546.jpeg?timestamp=1727874863672",
+        "author": "Jay Hilyard and Stephen Teilhet",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4546/webstorage_links/22390/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4546/webstorage_links/22389/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4546/webstorage_links/22388/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4540,
+        "title": "C# 6.0 Pocket Reference",
+        "img": "http://image.banshujiang.cn/4540.jpeg?timestamp=1727874259663",
+        "author": "Joseph Albahari &amp; Ben Albahari",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4540/webstorage_links/22355/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4540/webstorage_links/22353/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4540/webstorage_links/22354/to_link"
+            }
+        ]
+    },
+    {
         "id": 4358,
         "title": "Programming C# 12",
         "img": "http://image.banshujiang.cn/4358.jpeg?timestamp=1721468440016",
@@ -213,64 +291,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4082/webstorage_links/20466/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4074,
-        "title": "The Art of Unit Testing with Examples in C# 2nd Edition",
-        "img": "http://image.banshujiang.cn/4074.jpeg?timestamp=1717203257243",
-        "author": "Roy Osherove",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "C#",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4074/webstorage_links/20438/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4074/webstorage_links/20437/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4046,
-        "title": "Windows Security Internals",
-        "img": "http://image.banshujiang.cn/4046.jpeg?timestamp=1716699900712",
-        "author": "James Forshaw",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4046/webstorage_links/20330/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4045,
-        "title": "Windows Internals 7th Edition Part 2",
-        "img": "http://image.banshujiang.cn/4045.jpeg?timestamp=1716699810893",
-        "author": "Andrea Allievi, Alex Ionescu, Mark E. Russinovich and David A. Solomon",
-        "language": "英文",
-        "publishYear": 2021,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4045/webstorage_links/20328/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4045/webstorage_links/20327/to_link"
             }
         ]
     }

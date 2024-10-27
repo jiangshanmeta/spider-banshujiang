@@ -21,6 +21,32 @@
         ]
     },
     {
+        "id": 4539,
+        "title": "C in a Nutshell 2nd Edition Early Release",
+        "img": "http://image.banshujiang.cn/4539.jpeg?timestamp=1727874148646",
+        "author": "Peter Prinz and Tony Crawford",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4539/webstorage_links/22349/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4539/webstorage_links/22347/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4539/webstorage_links/22348/to_link"
+            }
+        ]
+    },
+    {
         "id": 4377,
         "title": "嗨翻C语言",
         "img": "http://image.banshujiang.cn/4377.jpeg?timestamp=1722050081538",
@@ -321,22 +347,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/3331/webstorage_links/17501/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3302,
-        "title": "An Introduction to C and GUI Programming 2nd Edition",
-        "img": "http://image.banshujiang.cn/3302.jpeg?timestamp=1676103768080",
-        "author": "Simon Long",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "C",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3302/webstorage_links/17417/to_link"
             }
         ]
     }

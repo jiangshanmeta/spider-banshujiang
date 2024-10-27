@@ -310,23 +310,18 @@
         ]
     },
     {
-        "id": 4494,
-        "title": "TensorFlow实战",
-        "img": "http://image.banshujiang.cn/4494.jpeg?timestamp=1724469402034",
-        "author": "黄文坚、唐源",
-        "language": "中文",
-        "publishYear": 2017,
-        "programLanguage": "",
+        "id": 4551,
+        "title": "Data Science in the Cloud with Microsoft Azure Machine Learning and R",
+        "img": "http://image.banshujiang.cn/4551.jpeg?timestamp=1727949568357",
+        "author": "Stephen F. Elston",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "R",
         "formats": [
             {
-                "fmt": "EPUB",
+                "fmt": "PDF",
                 "title": "城通网盘",
-                "link": "/e_books/4494/webstorage_links/22133/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4494/webstorage_links/22132/to_link"
+                "link": "/e_books/4551/webstorage_links/22416/to_link"
             }
         ]
     }

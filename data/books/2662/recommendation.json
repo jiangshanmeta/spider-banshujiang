@@ -1,5 +1,21 @@
 [
     {
+        "id": 4551,
+        "title": "Data Science in the Cloud with Microsoft Azure Machine Learning and R",
+        "img": "http://image.banshujiang.cn/4551.jpeg?timestamp=1727949568357",
+        "author": "Stephen F. Elston",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4551/webstorage_links/22416/to_link"
+            }
+        ]
+    },
+    {
         "id": 4519,
         "title": "R in Action 2nd Edition",
         "img": "http://image.banshujiang.cn/4519.jpeg?timestamp=1727835970550",
@@ -296,27 +312,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3552/webstorage_links/18470/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3477,
-        "title": "The Book of R",
-        "img": "http://image.banshujiang.cn/3477.jpeg?timestamp=1696506646279",
-        "author": "Tilman M. Davies",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "R",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3477/webstorage_links/18162/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3477/webstorage_links/18163/to_link"
             }
         ]
     }

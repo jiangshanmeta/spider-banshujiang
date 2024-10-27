@@ -26,6 +26,43 @@
         ]
     },
     {
+        "id": 4551,
+        "title": "Data Science in the Cloud with Microsoft Azure Machine Learning and R",
+        "img": "http://image.banshujiang.cn/4551.jpeg?timestamp=1727949568357",
+        "author": "Stephen F. Elston",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4551/webstorage_links/22416/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4533,
+        "title": "Beautiful JavaScript",
+        "img": "http://image.banshujiang.cn/4533.jpeg?timestamp=1727873626069",
+        "author": "Anton Kovalyov",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4533/webstorage_links/22315/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4533/webstorage_links/22314/to_link"
+            }
+        ]
+    },
+    {
         "id": 4524,
         "title": "MEAN Machine",
         "img": "http://image.banshujiang.cn/4524.jpeg?timestamp=1727872749217",
@@ -300,53 +337,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/4480/webstorage_links/22068/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4477,
-        "title": "Thoughtful Machine Learning",
-        "img": "http://image.banshujiang.cn/4477.jpeg?timestamp=1723947816190",
-        "author": "Matthew Kirk",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4477/webstorage_links/22055/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4477/webstorage_links/22054/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4477/webstorage_links/22053/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4461,
-        "title": "Knockout.js",
-        "img": "http://image.banshujiang.cn/4461.jpeg?timestamp=1723874843611",
-        "author": "Jamie Munro",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4461/webstorage_links/21989/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4461/webstorage_links/21988/to_link"
             }
         ]
     }
