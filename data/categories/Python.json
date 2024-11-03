@@ -1,5 +1,26 @@
 [
     {
+        "id": 4566,
+        "title": "Fluent Python",
+        "img": "http://image.banshujiang.cn/4566.jpeg?timestamp=1728012064194",
+        "author": "Luciano Ramalho",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4566/webstorage_links/22493/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4566/webstorage_links/22492/to_link"
+            }
+        ]
+    },
+    {
         "id": 4492,
         "title": "Selenium 2自动化测试实战：基于Python语言",
         "img": "http://image.banshujiang.cn/4492.jpeg?timestamp=1724469095452",

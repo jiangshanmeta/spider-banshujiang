@@ -32,6 +32,27 @@
         ]
     },
     {
+        "id": 4566,
+        "title": "Fluent Python",
+        "img": "http://image.banshujiang.cn/4566.jpeg?timestamp=1728012064194",
+        "author": "Luciano Ramalho",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4566/webstorage_links/22493/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4566/webstorage_links/22492/to_link"
+            }
+        ]
+    },
+    {
         "id": 4505,
         "title": "Easy Laravel 5",
         "img": "http://image.banshujiang.cn/4505.jpeg?timestamp=1725188404283",
@@ -286,22 +307,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4418/webstorage_links/21829/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4417,
-        "title": "NLTK基础教程: 用NTLK和Python库构建机器学习应用",
-        "img": "http://image.banshujiang.cn/4417.jpeg?timestamp=1722765758795",
-        "author": "[印度]Nitin Hardeniya [译]凌杰",
-        "language": "中文",
-        "publishYear": 2017,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4417/webstorage_links/21827/to_link"
             }
         ]
     }

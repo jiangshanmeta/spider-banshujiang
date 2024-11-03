@@ -310,18 +310,23 @@
         ]
     },
     {
-        "id": 4551,
-        "title": "Data Science in the Cloud with Microsoft Azure Machine Learning and R",
-        "img": "http://image.banshujiang.cn/4551.jpeg?timestamp=1727949568357",
-        "author": "Stephen F. Elston",
+        "id": 4566,
+        "title": "Fluent Python",
+        "img": "http://image.banshujiang.cn/4566.jpeg?timestamp=1728012064194",
+        "author": "Luciano Ramalho",
         "language": "英文",
         "publishYear": 2015,
-        "programLanguage": "R",
+        "programLanguage": "Python",
         "formats": [
             {
                 "fmt": "PDF",
                 "title": "城通网盘",
-                "link": "/e_books/4551/webstorage_links/22416/to_link"
+                "link": "/e_books/4566/webstorage_links/22493/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4566/webstorage_links/22492/to_link"
             }
         ]
     }

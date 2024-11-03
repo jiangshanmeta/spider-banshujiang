@@ -1,5 +1,57 @@
 [
     {
+        "id": 4560,
+        "title": "Docker: Up and Running",
+        "img": "http://image.banshujiang.cn/4560.jpeg?timestamp=1727950332746",
+        "author": "Karl Matthias and Sean P. Kane",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4560/webstorage_links/22466/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4560/webstorage_links/22464/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4560/webstorage_links/22465/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4559,
+        "title": "Docker Cookbook",
+        "img": "http://image.banshujiang.cn/4559.jpeg?timestamp=1727950270660",
+        "author": "Sébastien Goasguen",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4559/webstorage_links/22460/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4559/webstorage_links/22458/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4559/webstorage_links/22459/to_link"
+            }
+        ]
+    },
+    {
         "id": 4440,
         "title": "Kubernetes进阶实战",
         "img": "http://image.banshujiang.cn/4440.jpeg?timestamp=1723345301857",
@@ -280,43 +332,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3544/webstorage_links/18444/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3514,
-        "title": "Explainable AI for Practitioners",
-        "img": "http://image.banshujiang.cn/3514.jpeg?timestamp=1696768713575",
-        "author": "Michael Munn and David Pitman",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3514/webstorage_links/18321/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3514/webstorage_links/18320/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3513,
-        "title": "Docker: Up &amp; Running 3rd Edition",
-        "img": "http://image.banshujiang.cn/3513.jpeg?timestamp=1696768649543",
-        "author": "Sean P. Kane ",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3513/webstorage_links/18317/to_link"
             }
         ]
     }
