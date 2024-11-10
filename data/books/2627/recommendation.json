@@ -26,6 +26,105 @@
         ]
     },
     {
+        "id": 4585,
+        "title": "Learning Javascript 3rd Edition Early Release",
+        "img": "http://image.banshujiang.cn/4585.jpeg?timestamp=1728019707164",
+        "author": "Ethan Brown",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4585/webstorage_links/22595/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4585/webstorage_links/22593/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4585/webstorage_links/22594/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4584,
+        "title": "Learning AngularJS",
+        "img": "http://image.banshujiang.cn/4584.jpeg?timestamp=1728019615069",
+        "author": "Ken Williamson",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4584/webstorage_links/22589/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4584/webstorage_links/22588/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4583,
+        "title": "JavaScript with Promises",
+        "img": "http://image.banshujiang.cn/4583.jpeg?timestamp=1728013579569",
+        "author": "Daniel Parker",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4583/webstorage_links/22585/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4583/webstorage_links/22583/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4583/webstorage_links/22584/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4578,
+        "title": "Introduction to JavaScript Object Notation Early Release",
+        "img": "http://image.banshujiang.cn/4578.jpeg?timestamp=1728013144812",
+        "author": "Lindsay Bassett",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4578/webstorage_links/22563/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4578/webstorage_links/22561/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4578/webstorage_links/22562/to_link"
+            }
+        ]
+    },
+    {
         "id": 4551,
         "title": "Data Science in the Cloud with Microsoft Azure Machine Learning and R",
         "img": "http://image.banshujiang.cn/4551.jpeg?timestamp=1727949568357",
@@ -263,80 +362,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4486/webstorage_links/22087/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4485,
-        "title": "Python机器学习经典实例",
-        "img": "http://image.banshujiang.cn/4485.jpeg?timestamp=1723950348200",
-        "author": "[美]Prateek Joshi [译]陶俊杰、陈小莉",
-        "language": "中文",
-        "publishYear": 2017,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4485/webstorage_links/22085/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4484,
-        "title": "Python机器学习基础教程",
-        "img": "http://image.banshujiang.cn/4484.jpeg?timestamp=1723950193033",
-        "author": "[德]Andreas C. Müller [美]Sarah Guido [译]张亮",
-        "language": "中文",
-        "publishYear": 2018,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4484/webstorage_links/22083/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4481,
-        "title": "MEAN Web Development",
-        "img": "http://image.banshujiang.cn/4481.jpeg?timestamp=1723949786288",
-        "author": "Amos Q. Haviv",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4481/webstorage_links/22071/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4480,
-        "title": "You Don’t Know JS: Types &amp; Grammar",
-        "img": "http://image.banshujiang.cn/4480.jpeg?timestamp=1723949663774",
-        "author": "Kyle Simpson",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4480/webstorage_links/22069/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4480/webstorage_links/22067/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4480/webstorage_links/22068/to_link"
             }
         ]
     }

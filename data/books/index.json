@@ -86421,5 +86421,460 @@
                 "link": "/e_books/4572/webstorage_links/22528/to_link"
             }
         ]
+    },
+    {
+        "id": 4573,
+        "title": "HBase: The Definitive Guide 2nd Edition Early Release",
+        "img": "http://image.banshujiang.cn/4573.jpeg?timestamp=1728012670693",
+        "author": "Lars George",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4573/webstorage_links/22535/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4573/webstorage_links/22533/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4573/webstorage_links/22534/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4574,
+        "title": "Head First Android Development",
+        "img": "http://image.banshujiang.cn/4574.jpeg?timestamp=1728012761742",
+        "author": "Dawn Griffiths and David Griffiths",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4574/webstorage_links/22541/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4574/webstorage_links/22539/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4574/webstorage_links/22540/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4575,
+        "title": "High Performance Android Apps",
+        "img": "http://image.banshujiang.cn/4575.jpeg?timestamp=1728012865521",
+        "author": "Doug Sillars",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4575/webstorage_links/22547/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4575/webstorage_links/22545/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4575/webstorage_links/22546/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4576,
+        "title": "Identity, Authentication, and Access Management in OpenStack",
+        "img": "http://image.banshujiang.cn/4576.jpeg?timestamp=1728012980042",
+        "author": "Steve Martinelli, Henry Nash, and Brad Topol",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4576/webstorage_links/22551/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4576/webstorage_links/22550/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4577,
+        "title": "Information Architecture: For the Web and Beyond 4th Edition",
+        "img": "http://image.banshujiang.cn/4577.jpeg?timestamp=1728013061536",
+        "author": "Louis Rosenfeld, Peter Morville and Jorge Arango",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4577/webstorage_links/22557/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4577/webstorage_links/22555/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4577/webstorage_links/22556/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4578,
+        "title": "Introduction to JavaScript Object Notation Early Release",
+        "img": "http://image.banshujiang.cn/4578.jpeg?timestamp=1728013144812",
+        "author": "Lindsay Bassett",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4578/webstorage_links/22563/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4578/webstorage_links/22561/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4578/webstorage_links/22562/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4579,
+        "title": "iOS 8 Programming Fundamentals with Swift",
+        "img": "http://image.banshujiang.cn/4579.jpeg?timestamp=1728013223691",
+        "author": "Matt Neuburg",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4579/webstorage_links/22567/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4579/webstorage_links/22566/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4580,
+        "title": "iOS 9 Programming Fundamentals with Swift 2nd Edition",
+        "img": "http://image.banshujiang.cn/4580.jpeg?timestamp=1728013294588",
+        "author": "Matt Neuburg",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4580/webstorage_links/22571/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4580/webstorage_links/22570/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4581,
+        "title": "iOS 9 Swift Programming Cookbook",
+        "img": "http://image.banshujiang.cn/4581.jpeg?timestamp=1728013391134",
+        "author": "Vandad Nahavandipoor",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4581/webstorage_links/22573/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4582,
+        "title": "iOS Swift Game Development Cookbook 2nd Edition",
+        "img": "http://image.banshujiang.cn/4582.jpeg?timestamp=1728013483931",
+        "author": "Jonathon Manning and Paris Buttfield-Addison",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4582/webstorage_links/22579/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4582/webstorage_links/22577/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4582/webstorage_links/22578/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4583,
+        "title": "JavaScript with Promises",
+        "img": "http://image.banshujiang.cn/4583.jpeg?timestamp=1728013579569",
+        "author": "Daniel Parker",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4583/webstorage_links/22585/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4583/webstorage_links/22583/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4583/webstorage_links/22584/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4584,
+        "title": "Learning AngularJS",
+        "img": "http://image.banshujiang.cn/4584.jpeg?timestamp=1728019615069",
+        "author": "Ken Williamson",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4584/webstorage_links/22589/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4584/webstorage_links/22588/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4585,
+        "title": "Learning Javascript 3rd Edition Early Release",
+        "img": "http://image.banshujiang.cn/4585.jpeg?timestamp=1728019707164",
+        "author": "Ethan Brown",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4585/webstorage_links/22595/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4585/webstorage_links/22593/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4585/webstorage_links/22594/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4586,
+        "title": "Learning MySQL and MariaDB",
+        "img": "http://image.banshujiang.cn/4586.jpeg?timestamp=1728019776669",
+        "author": "Russell J.T. Dyer",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4586/webstorage_links/22597/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4587,
+        "title": "Learning to Love Data Science",
+        "img": "http://image.banshujiang.cn/4587.jpeg?timestamp=1728019836194",
+        "author": "Mike Barlow",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4587/webstorage_links/22603/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4587/webstorage_links/22601/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4587/webstorage_links/22602/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4588,
+        "title": "Make: a Raspberry Pi–Controlled Robot",
+        "img": "http://image.banshujiang.cn/4588.jpeg?timestamp=1728020013035",
+        "author": "Wolfram Donat",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4588/webstorage_links/22605/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4589,
+        "title": "Minecraft Modding with Forge",
+        "img": "http://image.banshujiang.cn/4589.jpeg?timestamp=1728020324328",
+        "author": "Arun Gupta and Aditya Gupta",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4589/webstorage_links/22609/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4589/webstorage_links/22608/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4590,
+        "title": "MPLS in the SDN Era",
+        "img": "http://image.banshujiang.cn/4590.jpeg?timestamp=1728020383769",
+        "author": "Antonio Sánchez-Monge and Krzysztof Grzegorz Szarkowicz",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4590/webstorage_links/22613/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4590/webstorage_links/22612/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4591,
+        "title": "Oracle PL/SQL Language Pocket Reference 5th Edition",
+        "img": "http://image.banshujiang.cn/4591.jpeg?timestamp=1728020469467",
+        "author": "Steven Feuerstein, Bill Pribyl and Chip Dawes",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4591/webstorage_links/22619/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4591/webstorage_links/22617/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4591/webstorage_links/22618/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4592,
+        "title": "Padding, Borders, Outlines, and Margins in CSS",
+        "img": "http://image.banshujiang.cn/4592.jpeg?timestamp=1728020565986",
+        "author": "Eric A. Meyer",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "CSS",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4592/webstorage_links/22623/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4592/webstorage_links/22622/to_link"
+            }
+        ]
     }
 ]

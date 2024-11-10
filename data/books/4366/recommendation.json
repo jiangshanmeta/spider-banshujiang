@@ -1,5 +1,89 @@
 [
     {
+        "id": 4582,
+        "title": "iOS Swift Game Development Cookbook 2nd Edition",
+        "img": "http://image.banshujiang.cn/4582.jpeg?timestamp=1728013483931",
+        "author": "Jonathon Manning and Paris Buttfield-Addison",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4582/webstorage_links/22579/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4582/webstorage_links/22577/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4582/webstorage_links/22578/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4581,
+        "title": "iOS 9 Swift Programming Cookbook",
+        "img": "http://image.banshujiang.cn/4581.jpeg?timestamp=1728013391134",
+        "author": "Vandad Nahavandipoor",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4581/webstorage_links/22573/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4580,
+        "title": "iOS 9 Programming Fundamentals with Swift 2nd Edition",
+        "img": "http://image.banshujiang.cn/4580.jpeg?timestamp=1728013294588",
+        "author": "Matt Neuburg",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4580/webstorage_links/22571/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4580/webstorage_links/22570/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4579,
+        "title": "iOS 8 Programming Fundamentals with Swift",
+        "img": "http://image.banshujiang.cn/4579.jpeg?timestamp=1728013223691",
+        "author": "Matt Neuburg",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4579/webstorage_links/22567/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4579/webstorage_links/22566/to_link"
+            }
+        ]
+    },
+    {
         "id": 4507,
         "title": "iOS Animations by Tutorials 2nd Edition",
         "img": "http://image.banshujiang.cn/4507.jpeg?timestamp=1727832395171",
@@ -258,90 +342,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3908/webstorage_links/19813/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3623,
-        "title": "SwiftUI Animations by Tutorials",
-        "img": "http://image.banshujiang.cn/3623.jpeg?timestamp=1708772434058",
-        "author": "Irina Galata &amp; Bill Morefield",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3623/webstorage_links/18703/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3623/webstorage_links/18702/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3618,
-        "title": "Push Notifications by Tutorials 4th Edition",
-        "img": "http://image.banshujiang.cn/3618.jpeg?timestamp=1708054143788",
-        "author": "Scott Grosch",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3618/webstorage_links/18687/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3618/webstorage_links/18686/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3559,
-        "title": "Modern Concurrency in Swift 2nd Edition",
-        "img": "http://image.banshujiang.cn/3559.jpeg?timestamp=1697274441182",
-        "author": "Marin Todorov",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3559/webstorage_links/18497/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3559/webstorage_links/18496/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3500,
-        "title": "SwiftUI Essentials iOS 16 Edition",
-        "img": "http://image.banshujiang.cn/3500.jpeg?timestamp=1696560670634",
-        "author": "",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3500/webstorage_links/18263/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3500/webstorage_links/18262/to_link"
             }
         ]
     }

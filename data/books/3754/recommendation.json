@@ -207,6 +207,22 @@
         ]
     },
     {
+        "id": 4586,
+        "title": "Learning MySQL and MariaDB",
+        "img": "http://image.banshujiang.cn/4586.jpeg?timestamp=1728019776669",
+        "author": "Russell J.T. Dyer",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4586/webstorage_links/22597/to_link"
+            }
+        ]
+    },
+    {
         "id": 4505,
         "title": "Easy Laravel 5",
         "img": "http://image.banshujiang.cn/4505.jpeg?timestamp=1725188404283",
@@ -276,32 +292,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/4318/webstorage_links/21488/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4314,
-        "title": "PHP Cookbook 3rd Edition",
-        "img": "http://image.banshujiang.cn/4314.jpeg?timestamp=1720264467996",
-        "author": "David Sklar and Adam Trachtenberg",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "PHP",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4314/webstorage_links/21465/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4314/webstorage_links/21463/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4314/webstorage_links/21464/to_link"
             }
         ]
     }

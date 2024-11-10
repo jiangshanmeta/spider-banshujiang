@@ -1,5 +1,104 @@
 [
     {
+        "id": 4585,
+        "title": "Learning Javascript 3rd Edition Early Release",
+        "img": "http://image.banshujiang.cn/4585.jpeg?timestamp=1728019707164",
+        "author": "Ethan Brown",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4585/webstorage_links/22595/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4585/webstorage_links/22593/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4585/webstorage_links/22594/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4584,
+        "title": "Learning AngularJS",
+        "img": "http://image.banshujiang.cn/4584.jpeg?timestamp=1728019615069",
+        "author": "Ken Williamson",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4584/webstorage_links/22589/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4584/webstorage_links/22588/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4583,
+        "title": "JavaScript with Promises",
+        "img": "http://image.banshujiang.cn/4583.jpeg?timestamp=1728013579569",
+        "author": "Daniel Parker",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4583/webstorage_links/22585/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4583/webstorage_links/22583/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4583/webstorage_links/22584/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4578,
+        "title": "Introduction to JavaScript Object Notation Early Release",
+        "img": "http://image.banshujiang.cn/4578.jpeg?timestamp=1728013144812",
+        "author": "Lindsay Bassett",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4578/webstorage_links/22563/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4578/webstorage_links/22561/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4578/webstorage_links/22562/to_link"
+            }
+        ]
+    },
+    {
         "id": 4533,
         "title": "Beautiful JavaScript",
         "img": "http://image.banshujiang.cn/4533.jpeg?timestamp=1727873626069",

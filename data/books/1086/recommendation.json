@@ -1,5 +1,89 @@
 [
     {
+        "id": 4582,
+        "title": "iOS Swift Game Development Cookbook 2nd Edition",
+        "img": "http://image.banshujiang.cn/4582.jpeg?timestamp=1728013483931",
+        "author": "Jonathon Manning and Paris Buttfield-Addison",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4582/webstorage_links/22579/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4582/webstorage_links/22577/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4582/webstorage_links/22578/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4581,
+        "title": "iOS 9 Swift Programming Cookbook",
+        "img": "http://image.banshujiang.cn/4581.jpeg?timestamp=1728013391134",
+        "author": "Vandad Nahavandipoor",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4581/webstorage_links/22573/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4580,
+        "title": "iOS 9 Programming Fundamentals with Swift 2nd Edition",
+        "img": "http://image.banshujiang.cn/4580.jpeg?timestamp=1728013294588",
+        "author": "Matt Neuburg",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4580/webstorage_links/22571/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4580/webstorage_links/22570/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4579,
+        "title": "iOS 8 Programming Fundamentals with Swift",
+        "img": "http://image.banshujiang.cn/4579.jpeg?timestamp=1728013223691",
+        "author": "Matt Neuburg",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4579/webstorage_links/22567/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4579/webstorage_links/22566/to_link"
+            }
+        ]
+    },
+    {
         "id": 4520,
         "title": "Rails 4 in Action",
         "img": "http://image.banshujiang.cn/4520.jpeg?timestamp=1727836143814",
@@ -248,95 +332,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4317/webstorage_links/21483/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4315,
-        "title": "Programming iOS 8 5th Edition",
-        "img": "http://image.banshujiang.cn/4315.jpeg?timestamp=1720264409455",
-        "author": "Matt Neuburg",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4315/webstorage_links/21473/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4315/webstorage_links/21471/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4315/webstorage_links/21472/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4315/webstorage_links/21470/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4294,
-        "title": "iOS Games by Tutorials 2nd Edition",
-        "img": "http://image.banshujiang.cn/4294.jpeg?timestamp=1720238539036",
-        "author": "raywenderlich.com Tutorial Team",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4294/webstorage_links/21371/to_link"
-            },
-            {
-                "fmt": "CODE",
-                "title": "城通网盘",
-                "link": "/e_books/4294/webstorage_links/21370/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4293,
-        "title": "iOS 8 by Tutorials",
-        "img": "http://image.banshujiang.cn/4293.jpeg?timestamp=1720236797275",
-        "author": "raywenderlich.com Tutorial Team",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4293/webstorage_links/21366/to_link"
-            },
-            {
-                "fmt": "CODE",
-                "title": "城通网盘",
-                "link": "/e_books/4293/webstorage_links/21367/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4292,
-        "title": "iOS 6 By Tutorials",
-        "img": "http://image.banshujiang.cn/4292.jpeg?timestamp=1720236619825",
-        "author": "raywenderlich.com Tutorial Team",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "Objective-C",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4292/webstorage_links/21363/to_link"
             }
         ]
     }

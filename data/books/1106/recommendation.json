@@ -64,6 +64,79 @@
         ]
     },
     {
+        "id": 4589,
+        "title": "Minecraft Modding with Forge",
+        "img": "http://image.banshujiang.cn/4589.jpeg?timestamp=1728020324328",
+        "author": "Arun Gupta and Aditya Gupta",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4589/webstorage_links/22609/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4589/webstorage_links/22608/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4575,
+        "title": "High Performance Android Apps",
+        "img": "http://image.banshujiang.cn/4575.jpeg?timestamp=1728012865521",
+        "author": "Doug Sillars",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4575/webstorage_links/22547/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4575/webstorage_links/22545/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4575/webstorage_links/22546/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4574,
+        "title": "Head First Android Development",
+        "img": "http://image.banshujiang.cn/4574.jpeg?timestamp=1728012761742",
+        "author": "Dawn Griffiths and David Griffiths",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4574/webstorage_links/22541/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4574/webstorage_links/22539/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4574/webstorage_links/22540/to_link"
+            }
+        ]
+    },
+    {
         "id": 4517,
         "title": "OCP Java SE 7 Programmer II Certification Guide",
         "img": "http://image.banshujiang.cn/4517.jpeg?timestamp=1727835797045",
@@ -264,64 +337,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4450/webstorage_links/21936/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4438,
-        "title": "Java EE开发的颠覆者：Spring Boot实战",
-        "img": "http://image.banshujiang.cn/4438.jpeg?timestamp=1723345008221",
-        "author": "汪云飞",
-        "language": "中文",
-        "publishYear": 2016,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4438/webstorage_links/21878/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4438/webstorage_links/21879/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4438/webstorage_links/21877/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4429,
-        "title": "Flask Web开发: 基于Python的Web应用开发实战",
-        "img": "http://image.banshujiang.cn/4429.jpeg?timestamp=1723343837786",
-        "author": "[美]Miguel Grinberg [译]安道",
-        "language": "中文",
-        "publishYear": 2015,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4429/webstorage_links/21857/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4428,
-        "title": "Ext JS实战(第2版)",
-        "img": "http://image.banshujiang.cn/4428.jpeg?timestamp=1723343708723",
-        "author": "[ 美]Jesus Garcia、 Grgur Grisogono、Jacob K. Andresen [译]卢雄飞、田雷鹏、郜忠富",
-        "language": "中文",
-        "publishYear": 2015,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4428/webstorage_links/21855/to_link"
             }
         ]
     }

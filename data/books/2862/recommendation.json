@@ -68,6 +68,22 @@
         ]
     },
     {
+        "id": 4586,
+        "title": "Learning MySQL and MariaDB",
+        "img": "http://image.banshujiang.cn/4586.jpeg?timestamp=1728019776669",
+        "author": "Russell J.T. Dyer",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4586/webstorage_links/22597/to_link"
+            }
+        ]
+    },
+    {
         "id": 4463,
         "title": "Learning PHP, MySQL &amp; JavaScript 4th Editiion",
         "img": "http://image.banshujiang.cn/4463.jpeg?timestamp=1723875148984",
@@ -316,27 +332,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3884/webstorage_links/19713/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3754,
-        "title": "Expert PHP and MySQL",
-        "img": "http://image.banshujiang.cn/3754.jpeg?timestamp=1712399645821",
-        "author": "Marc Rochkind",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "PHP",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3754/webstorage_links/19199/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3754/webstorage_links/19198/to_link"
             }
         ]
     }

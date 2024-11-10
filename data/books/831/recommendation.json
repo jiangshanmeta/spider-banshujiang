@@ -1,5 +1,89 @@
 [
     {
+        "id": 4582,
+        "title": "iOS Swift Game Development Cookbook 2nd Edition",
+        "img": "http://image.banshujiang.cn/4582.jpeg?timestamp=1728013483931",
+        "author": "Jonathon Manning and Paris Buttfield-Addison",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4582/webstorage_links/22579/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4582/webstorage_links/22577/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4582/webstorage_links/22578/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4581,
+        "title": "iOS 9 Swift Programming Cookbook",
+        "img": "http://image.banshujiang.cn/4581.jpeg?timestamp=1728013391134",
+        "author": "Vandad Nahavandipoor",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4581/webstorage_links/22573/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4580,
+        "title": "iOS 9 Programming Fundamentals with Swift 2nd Edition",
+        "img": "http://image.banshujiang.cn/4580.jpeg?timestamp=1728013294588",
+        "author": "Matt Neuburg",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4580/webstorage_links/22571/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4580/webstorage_links/22570/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4579,
+        "title": "iOS 8 Programming Fundamentals with Swift",
+        "img": "http://image.banshujiang.cn/4579.jpeg?timestamp=1728013223691",
+        "author": "Matt Neuburg",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4579/webstorage_links/22567/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4579/webstorage_links/22566/to_link"
+            }
+        ]
+    },
+    {
         "id": 4547,
         "title": "C# 6.0 in a Nutshell 6th Edition",
         "img": "http://image.banshujiang.cn/4547.jpeg?timestamp=1727874946653",
@@ -273,100 +357,6 @@
                 "fmt": "AZW3",
                 "title": "城通网盘",
                 "link": "/e_books/4366/webstorage_links/21663/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4358,
-        "title": "Programming C# 12",
-        "img": "http://image.banshujiang.cn/4358.jpeg?timestamp=1721468440016",
-        "author": "Ian Griffiths",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "C#",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4358/webstorage_links/21627/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4358/webstorage_links/21626/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4322,
-        "title": "Swift by Tutorials",
-        "img": "http://image.banshujiang.cn/4322.jpeg?timestamp=1721304809129",
-        "author": "raywenderlich.com Tutorial Team",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4322/webstorage_links/21511/to_link"
-            },
-            {
-                "fmt": "CODE",
-                "title": "城通网盘",
-                "link": "/e_books/4322/webstorage_links/21510/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4315,
-        "title": "Programming iOS 8 5th Edition",
-        "img": "http://image.banshujiang.cn/4315.jpeg?timestamp=1720264409455",
-        "author": "Matt Neuburg",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4315/webstorage_links/21473/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4315/webstorage_links/21471/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4315/webstorage_links/21472/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4315/webstorage_links/21470/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4294,
-        "title": "iOS Games by Tutorials 2nd Edition",
-        "img": "http://image.banshujiang.cn/4294.jpeg?timestamp=1720238539036",
-        "author": "raywenderlich.com Tutorial Team",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4294/webstorage_links/21371/to_link"
-            },
-            {
-                "fmt": "CODE",
-                "title": "城通网盘",
-                "link": "/e_books/4294/webstorage_links/21370/to_link"
             }
         ]
     }
