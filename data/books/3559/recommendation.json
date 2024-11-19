@@ -16,6 +16,58 @@
         ]
     },
     {
+        "id": 4598,
+        "title": "Programming iOS 9 6th Edition",
+        "img": "http://image.banshujiang.cn/4598.jpeg?timestamp=1728021101385",
+        "author": "Matt Neuburg",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4598/webstorage_links/22657/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4598/webstorage_links/22655/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4598/webstorage_links/22656/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4593,
+        "title": "Photos for Mac and iOS the missing manual",
+        "img": "http://image.banshujiang.cn/4593.jpeg?timestamp=1728020641944",
+        "author": "Lesa Snider",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4593/webstorage_links/22629/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4593/webstorage_links/22627/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4593/webstorage_links/22628/to_link"
+            }
+        ]
+    },
+    {
         "id": 4582,
         "title": "iOS Swift Game Development Cookbook 2nd Edition",
         "img": "http://image.banshujiang.cn/4582.jpeg?timestamp=1728013483931",
@@ -300,48 +352,6 @@
                 "fmt": "AZW3",
                 "title": "城通网盘",
                 "link": "/e_books/4315/webstorage_links/21470/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4293,
-        "title": "iOS 8 by Tutorials",
-        "img": "http://image.banshujiang.cn/4293.jpeg?timestamp=1720236797275",
-        "author": "raywenderlich.com Tutorial Team",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4293/webstorage_links/21366/to_link"
-            },
-            {
-                "fmt": "CODE",
-                "title": "城通网盘",
-                "link": "/e_books/4293/webstorage_links/21367/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4290,
-        "title": "Core Data by Tutorials: iOS8 and Swift Edition",
-        "img": "http://image.banshujiang.cn/4290.jpeg?timestamp=1720097983227",
-        "author": "Aaron Douglas, Saul Mora, Matthew Morey and Pietro Rea",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4290/webstorage_links/21359/to_link"
-            },
-            {
-                "fmt": "CODE",
-                "title": "城通网盘",
-                "link": "/e_books/4290/webstorage_links/21358/to_link"
             }
         ]
     }

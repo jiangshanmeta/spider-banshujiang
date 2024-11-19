@@ -1,5 +1,47 @@
 [
     {
+        "id": 4616,
+        "title": "深入理解C#(第3版)",
+        "img": "http://image.banshujiang.cn/4616.jpeg?timestamp=1728830289419",
+        "author": "[英]Jon Skeet [译]姚琪琳",
+        "language": "中文",
+        "publishYear": 2014,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4616/webstorage_links/22703/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4599,
+        "title": "Programming WCF Services 4th Edition",
+        "img": "http://image.banshujiang.cn/4599.jpeg?timestamp=1728021202171",
+        "author": "Juval Lowy &amp; Michael Montgomery",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4599/webstorage_links/22663/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4599/webstorage_links/22661/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4599/webstorage_links/22662/to_link"
+            }
+        ]
+    },
+    {
         "id": 4547,
         "title": "C# 6.0 in a Nutshell 6th Edition",
         "img": "http://image.banshujiang.cn/4547.jpeg?timestamp=1727874946653",

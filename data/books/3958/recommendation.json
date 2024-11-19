@@ -79,6 +79,37 @@
         ]
     },
     {
+        "id": 4600,
+        "title": "R Packages",
+        "img": "http://image.banshujiang.cn/4600.jpeg?timestamp=1728021258440",
+        "author": "Hadley Wickham",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4600/webstorage_links/22671/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4600/webstorage_links/22669/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4600/webstorage_links/22670/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4600/webstorage_links/22668/to_link"
+            }
+        ]
+    },
+    {
         "id": 4519,
         "title": "R in Action 2nd Edition",
         "img": "http://image.banshujiang.cn/4519.jpeg?timestamp=1727835970550",
@@ -276,27 +307,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4370/webstorage_links/21677/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4361,
-        "title": "Mastering NLP from Foundations to LLMs",
-        "img": "http://image.banshujiang.cn/4361.jpeg?timestamp=1721469781572",
-        "author": "Lior Gazit and Meysam Ghaffari",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4361/webstorage_links/21641/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4361/webstorage_links/21640/to_link"
             }
         ]
     }

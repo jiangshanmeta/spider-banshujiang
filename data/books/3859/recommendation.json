@@ -85,6 +85,32 @@
         ]
     },
     {
+        "id": 4593,
+        "title": "Photos for Mac and iOS the missing manual",
+        "img": "http://image.banshujiang.cn/4593.jpeg?timestamp=1728020641944",
+        "author": "Lesa Snider",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4593/webstorage_links/22629/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4593/webstorage_links/22627/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4593/webstorage_links/22628/to_link"
+            }
+        ]
+    },
+    {
         "id": 4474,
         "title": "Switching to the Mac: The Missing Manual Yosemite Edition",
         "img": "http://image.banshujiang.cn/4474.jpeg?timestamp=1727659320863",
@@ -286,27 +312,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4066/webstorage_links/20405/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4053,
-        "title": "Head First iPhone and iPad Development 3rd Edition",
-        "img": "http://image.banshujiang.cn/4053.jpeg?timestamp=1716701801839",
-        "author": "Tracey Pilone and Dan Pilone",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "Objective-C",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4053/webstorage_links/20358/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4053/webstorage_links/20357/to_link"
             }
         ]
     }

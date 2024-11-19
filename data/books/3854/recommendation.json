@@ -1,5 +1,31 @@
 [
     {
+        "id": 4593,
+        "title": "Photos for Mac and iOS the missing manual",
+        "img": "http://image.banshujiang.cn/4593.jpeg?timestamp=1728020641944",
+        "author": "Lesa Snider",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4593/webstorage_links/22629/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4593/webstorage_links/22627/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4593/webstorage_links/22628/to_link"
+            }
+        ]
+    },
+    {
         "id": 4474,
         "title": "Switching to the Mac: The Missing Manual Yosemite Edition",
         "img": "http://image.banshujiang.cn/4474.jpeg?timestamp=1727659320863",
@@ -261,22 +287,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/724/webstorage_links/14960/to_link"
-            }
-        ]
-    },
-    {
-        "id": 719,
-        "title": "Big Book of Apple Hacks",
-        "img": "https://imagebsj.netlify.app/719.jpeg",
-        "author": "Chris Seibold",
-        "language": "英文",
-        "publishYear": 2008,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/719/webstorage_links/14950/to_link"
             }
         ]
     }

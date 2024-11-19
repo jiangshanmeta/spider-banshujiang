@@ -315,10 +315,10 @@
         ]
     },
     {
-        "id": 4566,
-        "title": "Fluent Python",
-        "img": "http://image.banshujiang.cn/4566.jpeg?timestamp=1728012064194",
-        "author": "Luciano Ramalho",
+        "id": 4597,
+        "title": "Programming Google App Engine with Python",
+        "img": "http://image.banshujiang.cn/4597.jpeg?timestamp=1728021027726",
+        "author": "Dan Sanderson",
         "language": "英文",
         "publishYear": 2015,
         "programLanguage": "Python",
@@ -326,12 +326,17 @@
             {
                 "fmt": "PDF",
                 "title": "城通网盘",
-                "link": "/e_books/4566/webstorage_links/22493/to_link"
+                "link": "/e_books/4597/webstorage_links/22651/to_link"
             },
             {
                 "fmt": "EPUB",
                 "title": "城通网盘",
-                "link": "/e_books/4566/webstorage_links/22492/to_link"
+                "link": "/e_books/4597/webstorage_links/22649/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4597/webstorage_links/22650/to_link"
             }
         ]
     }

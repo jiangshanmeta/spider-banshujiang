@@ -26,6 +26,54 @@
         ]
     },
     {
+        "id": 4617,
+        "title": "深入React技术栈",
+        "img": "http://image.banshujiang.cn/4617.jpeg?timestamp=1728830522185",
+        "author": "陈屹",
+        "language": "中文",
+        "publishYear": 2016,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4617/webstorage_links/22705/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4612,
+        "title": "数据结构与算法JavaScript描述",
+        "img": "http://image.banshujiang.cn/4612.jpeg?timestamp=1728025195790",
+        "author": "[美]Michael McMillan [译]王群锋、杜 欢",
+        "language": "中文",
+        "publishYear": 2014,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4612/webstorage_links/22695/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4607,
+        "title": "学习JavaScript数据结构与算法(第2版)",
+        "img": "http://image.banshujiang.cn/4607.jpeg?timestamp=1728024652514",
+        "author": "[巴西]Loiane Groner [译]邓钢、孙晓博、吴双、陈迪、袁源",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4607/webstorage_links/22685/to_link"
+            }
+        ]
+    },
+    {
         "id": 4585,
         "title": "Learning Javascript 3rd Edition Early Release",
         "img": "http://image.banshujiang.cn/4585.jpeg?timestamp=1728019707164",
@@ -294,74 +342,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4504/webstorage_links/22174/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4494,
-        "title": "TensorFlow实战",
-        "img": "http://image.banshujiang.cn/4494.jpeg?timestamp=1724469402034",
-        "author": "黄文坚、唐源",
-        "language": "中文",
-        "publishYear": 2017,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4494/webstorage_links/22133/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4494/webstorage_links/22132/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4487,
-        "title": "Full Stack JavaScript Development with MEAN",
-        "img": "http://image.banshujiang.cn/4487.jpeg?timestamp=1723950583814",
-        "author": "Adam Bretz and Colin J. Ihrig",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4487/webstorage_links/22095/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4487/webstorage_links/22093/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4487/webstorage_links/22094/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4487/webstorage_links/22092/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4486,
-        "title": "Python机器学习实践指南",
-        "img": "http://image.banshujiang.cn/4486.jpeg?timestamp=1723950482532",
-        "author": "[美]Alexander T. Combs [译]黄申",
-        "language": "中文",
-        "publishYear": 2017,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4486/webstorage_links/22087/to_link"
             }
         ]
     }

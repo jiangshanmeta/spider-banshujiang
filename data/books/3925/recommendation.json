@@ -1,5 +1,47 @@
 [
     {
+        "id": 4616,
+        "title": "深入理解C#(第3版)",
+        "img": "http://image.banshujiang.cn/4616.jpeg?timestamp=1728830289419",
+        "author": "[英]Jon Skeet [译]姚琪琳",
+        "language": "中文",
+        "publishYear": 2014,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4616/webstorage_links/22703/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4599,
+        "title": "Programming WCF Services 4th Edition",
+        "img": "http://image.banshujiang.cn/4599.jpeg?timestamp=1728021202171",
+        "author": "Juval Lowy &amp; Michael Montgomery",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4599/webstorage_links/22663/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4599/webstorage_links/22661/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4599/webstorage_links/22662/to_link"
+            }
+        ]
+    },
+    {
         "id": 4547,
         "title": "C# 6.0 in a Nutshell 6th Edition",
         "img": "http://image.banshujiang.cn/4547.jpeg?timestamp=1727874946653",
@@ -274,48 +316,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3953/webstorage_links/19987/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3926,
-        "title": "C# 12 Pocket Reference",
-        "img": "http://image.banshujiang.cn/3926.jpeg?timestamp=1714571885240",
-        "author": "Joseph Albahari and Ben Albahari",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "C#",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3926/webstorage_links/19884/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3926/webstorage_links/19883/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3896,
-        "title": "Visual Studio 2012 and .NET 4.5 Expert Development Cookbook",
-        "img": "http://image.banshujiang.cn/3896.jpeg?timestamp=1714483179836",
-        "author": "Abhishek Sur",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "C#",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3896/webstorage_links/19762/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3896/webstorage_links/19761/to_link"
             }
         ]
     }

@@ -32,6 +32,32 @@
         ]
     },
     {
+        "id": 4597,
+        "title": "Programming Google App Engine with Python",
+        "img": "http://image.banshujiang.cn/4597.jpeg?timestamp=1728021027726",
+        "author": "Dan Sanderson",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4597/webstorage_links/22651/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4597/webstorage_links/22649/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4597/webstorage_links/22650/to_link"
+            }
+        ]
+    },
+    {
         "id": 4566,
         "title": "Fluent Python",
         "img": "http://image.banshujiang.cn/4566.jpeg?timestamp=1728012064194",
@@ -291,22 +317,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4424/webstorage_links/21847/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4418,
-        "title": "Python深度学习",
-        "img": "http://image.banshujiang.cn/4418.jpeg?timestamp=1722765846602",
-        "author": "[美]弗朗索瓦·肖莱 [译]张亮",
-        "language": "中文",
-        "publishYear": 2018,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4418/webstorage_links/21829/to_link"
             }
         ]
     }
