@@ -1,5 +1,53 @@
 [
     {
+        "id": 4630,
+        "title": "精通Python自然语言处理",
+        "img": "http://image.banshujiang.cn/4630.jpeg?timestamp=1728998145308",
+        "author": "[印度]Deepti Chopra、Nisheeth Joshi、Iti Mathur [译]王威",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4630/webstorage_links/22731/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4629,
+        "title": "精通机器学习：基于R(第2版)",
+        "img": "http://image.banshujiang.cn/4629.jpeg?timestamp=1728998015871",
+        "author": "[美]Cory Lesmeister [译]陈光欣",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4629/webstorage_links/22729/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4620,
+        "title": "深度学习入门：基于Python的理论与实现",
+        "img": "http://image.banshujiang.cn/4620.jpeg?timestamp=1728996784456",
+        "author": "[日]斋藤康毅  [译]陆宇杰",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4620/webstorage_links/22711/to_link"
+            }
+        ]
+    },
+    {
         "id": 4551,
         "title": "Data Science in the Cloud with Microsoft Azure Machine Learning and R",
         "img": "http://image.banshujiang.cn/4551.jpeg?timestamp=1727949568357",
@@ -229,79 +277,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4326/webstorage_links/21523/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4203,
-        "title": "AI·未来",
-        "img": "http://image.banshujiang.cn/4203.jpeg?timestamp=1718630129917",
-        "author": "李开复",
-        "language": "中文",
-        "publishYear": 2018,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4203/webstorage_links/20968/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4203/webstorage_links/20969/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4203/webstorage_links/20967/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4199,
-        "title": "Machine Learning with R",
-        "img": "http://image.banshujiang.cn/4199.jpeg?timestamp=1718626986663",
-        "author": "Brett Lantz",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "R",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4199/webstorage_links/20947/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4199/webstorage_links/20946/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4140,
-        "title": "AI极简经济学",
-        "img": "http://image.banshujiang.cn/4140.jpeg?timestamp=1718464469066",
-        "author": "[加]阿杰伊·阿格拉沃尔、乔舒亚·甘斯、阿维·戈德法布 [译]闾佳",
-        "language": "中文",
-        "publishYear": 2018,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4140/webstorage_links/20656/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4140/webstorage_links/20657/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4140/webstorage_links/20655/to_link"
             }
         ]
     }

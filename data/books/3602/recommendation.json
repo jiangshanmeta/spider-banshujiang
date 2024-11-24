@@ -1,5 +1,21 @@
 [
     {
+        "id": 4629,
+        "title": "精通机器学习：基于R(第2版)",
+        "img": "http://image.banshujiang.cn/4629.jpeg?timestamp=1728998015871",
+        "author": "[美]Cory Lesmeister [译]陈光欣",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4629/webstorage_links/22729/to_link"
+            }
+        ]
+    },
+    {
         "id": 4600,
         "title": "R Packages",
         "img": "http://image.banshujiang.cn/4600.jpeg?timestamp=1728021258440",
@@ -301,27 +317,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3603/webstorage_links/18633/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3552,
-        "title": "R in Action 3rd Edition",
-        "img": "http://image.banshujiang.cn/3552.jpeg?timestamp=1697273899623",
-        "author": "Robert I. Kabacoff",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "R",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3552/webstorage_links/18471/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3552/webstorage_links/18470/to_link"
             }
         ]
     }

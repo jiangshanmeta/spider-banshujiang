@@ -1,5 +1,53 @@
 [
     {
+        "id": 4631,
+        "title": "精通Django：Django 1.8 LTS 全解",
+        "img": "http://image.banshujiang.cn/4631.jpeg?timestamp=1728998315994",
+        "author": "Nigel George [译]安道",
+        "language": "中文",
+        "publishYear": 2016,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4631/webstorage_links/22733/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4630,
+        "title": "精通Python自然语言处理",
+        "img": "http://image.banshujiang.cn/4630.jpeg?timestamp=1728998145308",
+        "author": "[印度]Deepti Chopra、Nisheeth Joshi、Iti Mathur [译]王威",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4630/webstorage_links/22731/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4620,
+        "title": "深度学习入门：基于Python的理论与实现",
+        "img": "http://image.banshujiang.cn/4620.jpeg?timestamp=1728996784456",
+        "author": "[日]斋藤康毅  [译]陆宇杰",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4620/webstorage_links/22711/to_link"
+            }
+        ]
+    },
+    {
         "id": 4597,
         "title": "Programming Google App Engine with Python",
         "img": "http://image.banshujiang.cn/4597.jpeg?timestamp=1728021027726",
@@ -254,69 +302,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4418/webstorage_links/21829/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4417,
-        "title": "NLTK基础教程: 用NTLK和Python库构建机器学习应用",
-        "img": "http://image.banshujiang.cn/4417.jpeg?timestamp=1722765758795",
-        "author": "[印度]Nitin Hardeniya [译]凌杰",
-        "language": "中文",
-        "publishYear": 2017,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4417/webstorage_links/21827/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4376,
-        "title": "跟老齐学Python: 从入门到精通",
-        "img": "http://image.banshujiang.cn/4376.jpeg?timestamp=1722049964782",
-        "author": "齐伟",
-        "language": "中文",
-        "publishYear": 2016,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4376/webstorage_links/21692/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4376/webstorage_links/21693/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4376/webstorage_links/21691/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4360,
-        "title": "Think Python 3rd Edition",
-        "img": "http://image.banshujiang.cn/4360.jpeg?timestamp=1721469719909",
-        "author": "Allen B. Downey",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4360/webstorage_links/21637/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4360/webstorage_links/21636/to_link"
             }
         ]
     }

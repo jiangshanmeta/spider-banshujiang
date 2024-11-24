@@ -1,5 +1,21 @@
 [
     {
+        "id": 4623,
+        "title": "全端Web开发：使用JavaScript与Java",
+        "img": "http://image.banshujiang.cn/4623.jpeg?timestamp=1728997235692",
+        "author": "[美]Casimir Saternos [译]王群锋、杜欢",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4623/webstorage_links/22717/to_link"
+            }
+        ]
+    },
+    {
         "id": 4617,
         "title": "深入React技术栈",
         "img": "http://image.banshujiang.cn/4617.jpeg?timestamp=1728830522185",
@@ -326,32 +342,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4481/webstorage_links/22071/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4480,
-        "title": "You Don’t Know JS: Types &amp; Grammar",
-        "img": "http://image.banshujiang.cn/4480.jpeg?timestamp=1723949663774",
-        "author": "Kyle Simpson",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4480/webstorage_links/22069/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4480/webstorage_links/22067/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4480/webstorage_links/22068/to_link"
             }
         ]
     }

@@ -164,6 +164,54 @@
         ]
     },
     {
+        "id": 4631,
+        "title": "精通Django：Django 1.8 LTS 全解",
+        "img": "http://image.banshujiang.cn/4631.jpeg?timestamp=1728998315994",
+        "author": "Nigel George [译]安道",
+        "language": "中文",
+        "publishYear": 2016,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4631/webstorage_links/22733/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4630,
+        "title": "精通Python自然语言处理",
+        "img": "http://image.banshujiang.cn/4630.jpeg?timestamp=1728998145308",
+        "author": "[印度]Deepti Chopra、Nisheeth Joshi、Iti Mathur [译]王威",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4630/webstorage_links/22731/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4620,
+        "title": "深度学习入门：基于Python的理论与实现",
+        "img": "http://image.banshujiang.cn/4620.jpeg?timestamp=1728996784456",
+        "author": "[日]斋藤康毅  [译]陆宇杰",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4620/webstorage_links/22711/to_link"
+            }
+        ]
+    },
+    {
         "id": 4598,
         "title": "Programming iOS 9 6th Edition",
         "img": "http://image.banshujiang.cn/4598.jpeg?timestamp=1728021101385",
@@ -254,69 +302,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4581/webstorage_links/22573/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4580,
-        "title": "iOS 9 Programming Fundamentals with Swift 2nd Edition",
-        "img": "http://image.banshujiang.cn/4580.jpeg?timestamp=1728013294588",
-        "author": "Matt Neuburg",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4580/webstorage_links/22571/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4580/webstorage_links/22570/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4579,
-        "title": "iOS 8 Programming Fundamentals with Swift",
-        "img": "http://image.banshujiang.cn/4579.jpeg?timestamp=1728013223691",
-        "author": "Matt Neuburg",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4579/webstorage_links/22567/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4579/webstorage_links/22566/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4566,
-        "title": "Fluent Python",
-        "img": "http://image.banshujiang.cn/4566.jpeg?timestamp=1728012064194",
-        "author": "Luciano Ramalho",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4566/webstorage_links/22493/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4566/webstorage_links/22492/to_link"
             }
         ]
     }

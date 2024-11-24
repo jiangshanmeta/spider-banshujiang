@@ -87372,5 +87372,229 @@
                 "link": "/e_books/4618/webstorage_links/22707/to_link"
             }
         ]
+    },
+    {
+        "id": 4619,
+        "title": "深入Linux内核架构",
+        "img": "http://image.banshujiang.cn/4619.jpeg?timestamp=1728996676957",
+        "author": "[德]Wolfgang Mauerer [译]郭旭",
+        "language": "中文",
+        "publishYear": 2010,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4619/webstorage_links/22709/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4620,
+        "title": "深度学习入门：基于Python的理论与实现",
+        "img": "http://image.banshujiang.cn/4620.jpeg?timestamp=1728996784456",
+        "author": "[日]斋藤康毅  [译]陆宇杰",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4620/webstorage_links/22711/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4621,
+        "title": "设计师要懂沟通术",
+        "img": "http://image.banshujiang.cn/4621.jpeg?timestamp=1728996869294",
+        "author": "[美]Tom Greever [译]UXRen翻译组",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4621/webstorage_links/22713/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4622,
+        "title": "人人都是数据分析师：Tableau应用实战",
+        "img": "http://image.banshujiang.cn/4622.jpeg?timestamp=1728997084811",
+        "author": "刘红阁、王淑娟、温融冰",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4622/webstorage_links/22715/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4623,
+        "title": "全端Web开发：使用JavaScript与Java",
+        "img": "http://image.banshujiang.cn/4623.jpeg?timestamp=1728997235692",
+        "author": "[美]Casimir Saternos [译]王群锋、杜欢",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4623/webstorage_links/22717/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4624,
+        "title": "去中心化应用： 区块链技术概述",
+        "img": "http://image.banshujiang.cn/4624.jpeg?timestamp=1728997369590",
+        "author": "[美]Siraj Raval [译]吴海星",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4624/webstorage_links/22719/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4625,
+        "title": "亲爱的界面：让用户乐于使用、爱不释手",
+        "img": "http://image.banshujiang.cn/4625.jpeg?timestamp=1728997453065",
+        "author": "[瑞士]Lukas Mathis [译]王军锋、杨蕾、曾小进",
+        "language": "中文",
+        "publishYear": 2012,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4625/webstorage_links/22721/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4626,
+        "title": "前端架构设计",
+        "img": "http://image.banshujiang.cn/4626.jpeg?timestamp=1728997529621",
+        "author": "[美]Micah Godbolt [译]潘泰燊、张鹏、许金泉",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4626/webstorage_links/22723/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4627,
+        "title": "垃圾回收的算法与实现",
+        "img": "http://image.banshujiang.cn/4627.jpeg?timestamp=1728997634673",
+        "author": "[日]中村成洋、相川光 [译]丁灵",
+        "language": "中文",
+        "publishYear": 2016,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4627/webstorage_links/22725/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4628,
+        "title": "客户端存储技术",
+        "img": "http://image.banshujiang.cn/4628.jpeg?timestamp=1728997832594",
+        "author": "[美]Raymond Camden [译]马德奎",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4628/webstorage_links/22727/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4629,
+        "title": "精通机器学习：基于R(第2版)",
+        "img": "http://image.banshujiang.cn/4629.jpeg?timestamp=1728998015871",
+        "author": "[美]Cory Lesmeister [译]陈光欣",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4629/webstorage_links/22729/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4630,
+        "title": "精通Python自然语言处理",
+        "img": "http://image.banshujiang.cn/4630.jpeg?timestamp=1728998145308",
+        "author": "[印度]Deepti Chopra、Nisheeth Joshi、Iti Mathur [译]王威",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4630/webstorage_links/22731/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4631,
+        "title": "精通Django：Django 1.8 LTS 全解",
+        "img": "http://image.banshujiang.cn/4631.jpeg?timestamp=1728998315994",
+        "author": "Nigel George [译]安道",
+        "language": "中文",
+        "publishYear": 2016,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4631/webstorage_links/22733/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4632,
+        "title": "简约至上：交互式设计四策略(第2版)",
+        "img": "http://image.banshujiang.cn/4632.jpeg?timestamp=1728998416503",
+        "author": "[英]贾尔斯·科尔伯恩 [译]李松峰",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4632/webstorage_links/22735/to_link"
+            }
+        ]
     }
 ]

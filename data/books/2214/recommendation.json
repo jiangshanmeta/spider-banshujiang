@@ -32,6 +32,54 @@
         ]
     },
     {
+        "id": 4631,
+        "title": "精通Django：Django 1.8 LTS 全解",
+        "img": "http://image.banshujiang.cn/4631.jpeg?timestamp=1728998315994",
+        "author": "Nigel George [译]安道",
+        "language": "中文",
+        "publishYear": 2016,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4631/webstorage_links/22733/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4630,
+        "title": "精通Python自然语言处理",
+        "img": "http://image.banshujiang.cn/4630.jpeg?timestamp=1728998145308",
+        "author": "[印度]Deepti Chopra、Nisheeth Joshi、Iti Mathur [译]王威",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4630/webstorage_links/22731/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4620,
+        "title": "深度学习入门：基于Python的理论与实现",
+        "img": "http://image.banshujiang.cn/4620.jpeg?timestamp=1728996784456",
+        "author": "[日]斋藤康毅  [译]陆宇杰",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4620/webstorage_links/22711/to_link"
+            }
+        ]
+    },
+    {
         "id": 4597,
         "title": "Programming Google App Engine with Python",
         "img": "http://image.banshujiang.cn/4597.jpeg?timestamp=1728021027726",
@@ -264,59 +312,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4457/webstorage_links/21966/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4445,
-        "title": "Cython",
-        "img": "http://image.banshujiang.cn/4445.jpeg?timestamp=1723641730620",
-        "author": "Kurt W. Smith",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4445/webstorage_links/21917/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4445/webstorage_links/21916/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4428,
-        "title": "Ext JS实战(第2版)",
-        "img": "http://image.banshujiang.cn/4428.jpeg?timestamp=1723343708723",
-        "author": "[ 美]Jesus Garcia、 Grgur Grisogono、Jacob K. Andresen [译]卢雄飞、田雷鹏、郜忠富",
-        "language": "中文",
-        "publishYear": 2015,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4428/webstorage_links/21855/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4424,
-        "title": "Django 基础教程",
-        "img": "http://image.banshujiang.cn/4424.jpeg?timestamp=1723030860931",
-        "author": "Leif Azzopardi &amp; David Maxwell [译]安道",
-        "language": "中文",
-        "publishYear": 2018,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4424/webstorage_links/21847/to_link"
             }
         ]
     }

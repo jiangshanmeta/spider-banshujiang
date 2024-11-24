@@ -1,5 +1,21 @@
 [
     {
+        "id": 4619,
+        "title": "深入Linux内核架构",
+        "img": "http://image.banshujiang.cn/4619.jpeg?timestamp=1728996676957",
+        "author": "[德]Wolfgang Mauerer [译]郭旭",
+        "language": "中文",
+        "publishYear": 2010,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4619/webstorage_links/22709/to_link"
+            }
+        ]
+    },
+    {
         "id": 4598,
         "title": "Programming iOS 9 6th Edition",
         "img": "http://image.banshujiang.cn/4598.jpeg?timestamp=1728021101385",
@@ -326,22 +342,6 @@
                 "fmt": "AZW3",
                 "title": "城通网盘",
                 "link": "/e_books/4441/webstorage_links/21895/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4378,
-        "title": "精通Linux(第2版)",
-        "img": "http://image.banshujiang.cn/4378.jpeg?timestamp=1722050451790",
-        "author": "[美]Brian Ward [译]姜南、袁志鹏",
-        "language": "中文",
-        "publishYear": 2015,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4378/webstorage_links/21697/to_link"
             }
         ]
     }
