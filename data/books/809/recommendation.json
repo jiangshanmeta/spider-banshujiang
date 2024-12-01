@@ -16,6 +16,38 @@
         ]
     },
     {
+        "id": 4640,
+        "title": "高性能iOS应用开发",
+        "img": "http://image.banshujiang.cn/4640.jpeg?timestamp=1728999429282",
+        "author": "[美]Gaurav Vaish [译]梁士兴、郝田田、陈作君",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "Objective-C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4640/webstorage_links/22751/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4638,
+        "title": "黑客攻防技术宝典：iOS实战篇",
+        "img": "http://image.banshujiang.cn/4638.jpeg?timestamp=1728999150838",
+        "author": "[美]Charlie Miller [译]傅尔也",
+        "language": "中文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4638/webstorage_links/22747/to_link"
+            }
+        ]
+    },
+    {
         "id": 4598,
         "title": "Programming iOS 9 6th Edition",
         "img": "http://image.banshujiang.cn/4598.jpeg?timestamp=1728021101385",
@@ -290,58 +322,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4437/webstorage_links/21873/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4407,
-        "title": "iOS应用逆向工程(第2版)",
-        "img": "http://image.banshujiang.cn/4407.jpeg?timestamp=1722256171781",
-        "author": "沙梓社、吴航",
-        "language": "中文",
-        "publishYear": 2015,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4407/webstorage_links/21800/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4407/webstorage_links/21801/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4407/webstorage_links/21799/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4405,
-        "title": "HTML5应用开发实践指南",
-        "img": "http://image.banshujiang.cn/4405.jpeg?timestamp=1722136778501",
-        "author": "[美]Kessin Z. [译]陈升想、汪奋进",
-        "language": "中文",
-        "publishYear": 2013,
-        "programLanguage": "HTML5",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4405/webstorage_links/21792/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4405/webstorage_links/21793/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4405/webstorage_links/21791/to_link"
             }
         ]
     }

@@ -48,6 +48,38 @@
         ]
     },
     {
+        "id": 4651,
+        "title": "Core Java: for The Impatient 4th Edition",
+        "img": "http://image.banshujiang.cn/4651.jpeg?timestamp=1729323430330",
+        "author": "Cay S. Horstmann",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4651/webstorage_links/22777/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4641,
+        "title": "高性能Android应用开发",
+        "img": "http://image.banshujiang.cn/4641.jpeg?timestamp=1729257994689",
+        "author": "[美]Doug Sillars [译]王若兰、周丹红、夏恩龙、陈文超、李欣欣",
+        "language": "中文",
+        "publishYear": 2016,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4641/webstorage_links/22753/to_link"
+            }
+        ]
+    },
+    {
         "id": 4596,
         "title": "Programming Google App Engine with Java",
         "img": "http://image.banshujiang.cn/4596.jpeg?timestamp=1728020951922",
@@ -300,58 +332,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4396/webstorage_links/21748/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4353,
-        "title": "深入理解Java虚拟机：JVM高级特性与最佳实践(第3版)",
-        "img": "http://image.banshujiang.cn/4353.jpeg?timestamp=1721447719858",
-        "author": "周志明",
-        "language": "中文",
-        "publishYear": 2019,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4353/webstorage_links/21614/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4353/webstorage_links/21606/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4353/webstorage_links/21607/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4308,
-        "title": "Just Hibernate",
-        "img": "http://image.banshujiang.cn/4308.jpeg?timestamp=1720253091389",
-        "author": "Madhusudhan Konda",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4308/webstorage_links/21438/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4308/webstorage_links/21436/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4308/webstorage_links/21437/to_link"
             }
         ]
     }

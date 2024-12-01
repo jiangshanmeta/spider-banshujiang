@@ -1,5 +1,21 @@
 [
     {
+        "id": 4652,
+        "title": "CSS in Depth 2nd Edition",
+        "img": "http://image.banshujiang.cn/4652.jpeg?timestamp=1729323522789",
+        "author": "Keith J. Grant",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "CSS",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4652/webstorage_links/22779/to_link"
+            }
+        ]
+    },
+    {
         "id": 4592,
         "title": "Padding, Borders, Outlines, and Margins in CSS",
         "img": "http://image.banshujiang.cn/4592.jpeg?timestamp=1728020565986",
@@ -311,32 +327,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/3259/webstorage_links/17189/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2841,
-        "title": "Modern CSS with Tailwind 2nd Edition",
-        "img": "https://imagebsj.netlify.app/2841.jpeg",
-        "author": "Noel Rappin",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "CSS",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2841/webstorage_links/10411/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2841/webstorage_links/10409/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/2841/webstorage_links/10410/to_link"
             }
         ]
     }

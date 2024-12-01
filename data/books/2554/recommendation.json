@@ -1,5 +1,53 @@
 [
     {
+        "id": 4646,
+        "title": "AI-Powered Developer",
+        "img": "http://image.banshujiang.cn/4646.jpeg?timestamp=1729262254665",
+        "author": "Nathan B. Crocker",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4646/webstorage_links/22763/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4636,
+        "title": "机器学习实战",
+        "img": "http://image.banshujiang.cn/4636.jpeg?timestamp=1728998810504",
+        "author": "[美]Peter Harrington [译]李锐、李鹏、曲亚东、王斌",
+        "language": "中文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4636/webstorage_links/22743/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4635,
+        "title": "机器学习与优化",
+        "img": "http://image.banshujiang.cn/4635.jpeg?timestamp=1728998695572",
+        "author": "[意]罗伯托·巴蒂蒂、毛罗·布鲁纳托 [译]王彧弋",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4635/webstorage_links/22741/to_link"
+            }
+        ]
+    },
+    {
         "id": 4630,
         "title": "精通Python自然语言处理",
         "img": "http://image.banshujiang.cn/4630.jpeg?timestamp=1728998145308",
@@ -249,64 +297,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4486/webstorage_links/22087/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4485,
-        "title": "Python机器学习经典实例",
-        "img": "http://image.banshujiang.cn/4485.jpeg?timestamp=1723950348200",
-        "author": "[美]Prateek Joshi [译]陶俊杰、陈小莉",
-        "language": "中文",
-        "publishYear": 2017,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4485/webstorage_links/22085/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4484,
-        "title": "Python机器学习基础教程",
-        "img": "http://image.banshujiang.cn/4484.jpeg?timestamp=1723950193033",
-        "author": "[德]Andreas C. Müller [美]Sarah Guido [译]张亮",
-        "language": "中文",
-        "publishYear": 2018,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4484/webstorage_links/22083/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4477,
-        "title": "Thoughtful Machine Learning",
-        "img": "http://image.banshujiang.cn/4477.jpeg?timestamp=1723947816190",
-        "author": "Matthew Kirk",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4477/webstorage_links/22055/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4477/webstorage_links/22054/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4477/webstorage_links/22053/to_link"
             }
         ]
     }

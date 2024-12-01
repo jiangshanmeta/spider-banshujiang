@@ -1,0 +1,283 @@
+[
+    {
+        "id": 4636,
+        "title": "机器学习实战",
+        "img": "http://image.banshujiang.cn/4636.jpeg?timestamp=1728998810504",
+        "author": "[美]Peter Harrington [译]李锐、李鹏、曲亚东、王斌",
+        "language": "中文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4636/webstorage_links/22743/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4635,
+        "title": "机器学习与优化",
+        "img": "http://image.banshujiang.cn/4635.jpeg?timestamp=1728998695572",
+        "author": "[意]罗伯托·巴蒂蒂、毛罗·布鲁纳托 [译]王彧弋",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4635/webstorage_links/22741/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4630,
+        "title": "精通Python自然语言处理",
+        "img": "http://image.banshujiang.cn/4630.jpeg?timestamp=1728998145308",
+        "author": "[印度]Deepti Chopra、Nisheeth Joshi、Iti Mathur [译]王威",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4630/webstorage_links/22731/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4629,
+        "title": "精通机器学习：基于R(第2版)",
+        "img": "http://image.banshujiang.cn/4629.jpeg?timestamp=1728998015871",
+        "author": "[美]Cory Lesmeister [译]陈光欣",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4629/webstorage_links/22729/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4620,
+        "title": "深度学习入门：基于Python的理论与实现",
+        "img": "http://image.banshujiang.cn/4620.jpeg?timestamp=1728996784456",
+        "author": "[日]斋藤康毅  [译]陆宇杰",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4620/webstorage_links/22711/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4551,
+        "title": "Data Science in the Cloud with Microsoft Azure Machine Learning and R",
+        "img": "http://image.banshujiang.cn/4551.jpeg?timestamp=1727949568357",
+        "author": "Stephen F. Elston",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4551/webstorage_links/22416/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4494,
+        "title": "TensorFlow实战",
+        "img": "http://image.banshujiang.cn/4494.jpeg?timestamp=1724469402034",
+        "author": "黄文坚、唐源",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4494/webstorage_links/22133/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4494/webstorage_links/22132/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4486,
+        "title": "Python机器学习实践指南",
+        "img": "http://image.banshujiang.cn/4486.jpeg?timestamp=1723950482532",
+        "author": "[美]Alexander T. Combs [译]黄申",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4486/webstorage_links/22087/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4485,
+        "title": "Python机器学习经典实例",
+        "img": "http://image.banshujiang.cn/4485.jpeg?timestamp=1723950348200",
+        "author": "[美]Prateek Joshi [译]陶俊杰、陈小莉",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4485/webstorage_links/22085/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4484,
+        "title": "Python机器学习基础教程",
+        "img": "http://image.banshujiang.cn/4484.jpeg?timestamp=1723950193033",
+        "author": "[德]Andreas C. Müller [美]Sarah Guido [译]张亮",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4484/webstorage_links/22083/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4477,
+        "title": "Thoughtful Machine Learning",
+        "img": "http://image.banshujiang.cn/4477.jpeg?timestamp=1723947816190",
+        "author": "Matthew Kirk",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4477/webstorage_links/22055/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4477/webstorage_links/22054/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4477/webstorage_links/22053/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4418,
+        "title": "Python深度学习",
+        "img": "http://image.banshujiang.cn/4418.jpeg?timestamp=1722765846602",
+        "author": "[美]弗朗索瓦·肖莱 [译]张亮",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4418/webstorage_links/21829/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4417,
+        "title": "NLTK基础教程: 用NTLK和Python库构建机器学习应用",
+        "img": "http://image.banshujiang.cn/4417.jpeg?timestamp=1722765758795",
+        "author": "[印度]Nitin Hardeniya [译]凌杰",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4417/webstorage_links/21827/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4370,
+        "title": "TensorFlow深度学习",
+        "img": "http://image.banshujiang.cn/4370.jpeg?timestamp=1721473560627",
+        "author": "[意]Giancarlo Zaccone [孟加拉]Md. Rezaul Karim [埃及]Ahmed Menshawy [译]李志",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4370/webstorage_links/21677/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4361,
+        "title": "Mastering NLP from Foundations to LLMs",
+        "img": "http://image.banshujiang.cn/4361.jpeg?timestamp=1721469781572",
+        "author": "Lior Gazit and Meysam Ghaffari",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4361/webstorage_links/21641/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4361/webstorage_links/21640/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4359,
+        "title": "Prompt Engineering for Generative AI",
+        "img": "http://image.banshujiang.cn/4359.jpeg?timestamp=1721469613711",
+        "author": "James Phoenix and Mike Taylor",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4359/webstorage_links/21633/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4359/webstorage_links/21632/to_link"
+            }
+        ]
+    }
+]

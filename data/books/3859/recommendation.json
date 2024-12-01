@@ -85,6 +85,22 @@
         ]
     },
     {
+        "id": 4640,
+        "title": "高性能iOS应用开发",
+        "img": "http://image.banshujiang.cn/4640.jpeg?timestamp=1728999429282",
+        "author": "[美]Gaurav Vaish [译]梁士兴、郝田田、陈作君",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "Objective-C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4640/webstorage_links/22751/to_link"
+            }
+        ]
+    },
+    {
         "id": 4593,
         "title": "Photos for Mac and iOS the missing manual",
         "img": "http://image.banshujiang.cn/4593.jpeg?timestamp=1728020641944",
@@ -291,27 +307,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4070/webstorage_links/20421/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4066,
-        "title": "Professional iOS Programming",
-        "img": "http://image.banshujiang.cn/4066.jpeg?timestamp=1717199305174",
-        "author": "Peter van de Put",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "Objective-C",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4066/webstorage_links/20406/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4066/webstorage_links/20405/to_link"
             }
         ]
     }

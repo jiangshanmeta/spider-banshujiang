@@ -1,5 +1,53 @@
 [
     {
+        "id": 4646,
+        "title": "AI-Powered Developer",
+        "img": "http://image.banshujiang.cn/4646.jpeg?timestamp=1729262254665",
+        "author": "Nathan B. Crocker",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4646/webstorage_links/22763/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4636,
+        "title": "机器学习实战",
+        "img": "http://image.banshujiang.cn/4636.jpeg?timestamp=1728998810504",
+        "author": "[美]Peter Harrington [译]李锐、李鹏、曲亚东、王斌",
+        "language": "中文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4636/webstorage_links/22743/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4635,
+        "title": "机器学习与优化",
+        "img": "http://image.banshujiang.cn/4635.jpeg?timestamp=1728998695572",
+        "author": "[意]罗伯托·巴蒂蒂、毛罗·布鲁纳托 [译]王彧弋",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4635/webstorage_links/22741/to_link"
+            }
+        ]
+    },
+    {
         "id": 4630,
         "title": "精通Python自然语言处理",
         "img": "http://image.banshujiang.cn/4630.jpeg?timestamp=1728998145308",
@@ -229,59 +277,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4359/webstorage_links/21632/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4355,
-        "title": "这就是ChatGPT",
-        "img": "http://image.banshujiang.cn/4355.jpeg?timestamp=1721448219560",
-        "author": "[美]Stephen Wolfram [译]WOLFRAM传媒汉化小组",
-        "language": "中文",
-        "publishYear": 2023,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4355/webstorage_links/21617/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4350,
-        "title": "Deep Learning at Scale",
-        "img": "http://image.banshujiang.cn/4350.jpeg?timestamp=1721447260801",
-        "author": "Suneeta Mall",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4350/webstorage_links/21595/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4350/webstorage_links/21594/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4326,
-        "title": "Spark机器学习",
-        "img": "http://image.banshujiang.cn/4326.jpeg?timestamp=1721310065443",
-        "author": "[南非]Nick Pentreath [译]蔡立宇 黄章帅 周济民",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4326/webstorage_links/21523/to_link"
             }
         ]
     }

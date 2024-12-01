@@ -1,5 +1,21 @@
 [
     {
+        "id": 4644,
+        "title": "父与子的编程之旅：与小卡特一起学Python",
+        "img": "http://image.banshujiang.cn/4644.jpeg?timestamp=1729258684049",
+        "author": "[美]Warren Sande、Carter Sande [译]苏金国、易郑超",
+        "language": "中文",
+        "publishYear": 2014,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4644/webstorage_links/22759/to_link"
+            }
+        ]
+    },
+    {
         "id": 4631,
         "title": "精通Django：Django 1.8 LTS 全解",
         "img": "http://image.banshujiang.cn/4631.jpeg?timestamp=1728998315994",
@@ -281,27 +297,6 @@
                 "fmt": "AZW3",
                 "title": "城通网盘",
                 "link": "/e_books/4376/webstorage_links/21691/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4360,
-        "title": "Think Python 3rd Edition",
-        "img": "http://image.banshujiang.cn/4360.jpeg?timestamp=1721469719909",
-        "author": "Allen B. Downey",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4360/webstorage_links/21637/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4360/webstorage_links/21636/to_link"
             }
         ]
     }

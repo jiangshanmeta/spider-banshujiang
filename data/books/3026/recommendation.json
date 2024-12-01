@@ -1,5 +1,37 @@
 [
     {
+        "id": 4651,
+        "title": "Core Java: for The Impatient 4th Edition",
+        "img": "http://image.banshujiang.cn/4651.jpeg?timestamp=1729323430330",
+        "author": "Cay S. Horstmann",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4651/webstorage_links/22777/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4641,
+        "title": "高性能Android应用开发",
+        "img": "http://image.banshujiang.cn/4641.jpeg?timestamp=1729257994689",
+        "author": "[美]Doug Sillars [译]王若兰、周丹红、夏恩龙、陈文超、李欣欣",
+        "language": "中文",
+        "publishYear": 2016,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4641/webstorage_links/22753/to_link"
+            }
+        ]
+    },
+    {
         "id": 4596,
         "title": "Programming Google App Engine with Java",
         "img": "http://image.banshujiang.cn/4596.jpeg?timestamp=1728020951922",
@@ -325,58 +357,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4306/webstorage_links/21427/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4305,
-        "title": "Java Cookbook 3rd Edition",
-        "img": "http://image.banshujiang.cn/4305.jpeg?timestamp=1722472535128",
-        "author": "Ian F. Darwin",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4305/webstorage_links/21424/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4305/webstorage_links/21422/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4305/webstorage_links/21423/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4289,
-        "title": "Java SE 8 for the Really Impatient",
-        "img": "http://image.banshujiang.cn/4289.jpeg?timestamp=1720097757720",
-        "author": "Cay S. Horstmann",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4289/webstorage_links/21355/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4289/webstorage_links/21353/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4289/webstorage_links/21354/to_link"
             }
         ]
     }

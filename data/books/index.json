@@ -87596,5 +87596,335 @@
                 "link": "/e_books/4632/webstorage_links/22735/to_link"
             }
         ]
+    },
+    {
+        "id": 4633,
+        "title": "计算机是怎样跑起来的",
+        "img": "http://image.banshujiang.cn/4633.jpeg?timestamp=1728998507231",
+        "author": "[日]矢泽久雄 [译]胡屹",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4633/webstorage_links/22737/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4634,
+        "title": "计算机科学的基础",
+        "img": "http://image.banshujiang.cn/4634.jpeg?timestamp=1728998597333",
+        "author": "[美]Alfred V.Aho、Jeffrey D.Ullman [译]傅尔也",
+        "language": "中文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4634/webstorage_links/22739/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4635,
+        "title": "机器学习与优化",
+        "img": "http://image.banshujiang.cn/4635.jpeg?timestamp=1728998695572",
+        "author": "[意]罗伯托·巴蒂蒂、毛罗·布鲁纳托 [译]王彧弋",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4635/webstorage_links/22741/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4636,
+        "title": "机器学习实战",
+        "img": "http://image.banshujiang.cn/4636.jpeg?timestamp=1728998810504",
+        "author": "[美]Peter Harrington [译]李锐、李鹏、曲亚东、王斌",
+        "language": "中文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4636/webstorage_links/22743/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4637,
+        "title": "黑客攻防技术宝典：浏览器实战篇",
+        "img": "http://image.banshujiang.cn/4637.jpeg?timestamp=1728998941730",
+        "author": "[澳]Wade Alcorn [美]Christian Frichot [意] Michele Orrù [译]奇舞团",
+        "language": "中文",
+        "publishYear": 2016,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4637/webstorage_links/22745/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4638,
+        "title": "黑客攻防技术宝典：iOS实战篇",
+        "img": "http://image.banshujiang.cn/4638.jpeg?timestamp=1728999150838",
+        "author": "[美]Charlie Miller [译]傅尔也",
+        "language": "中文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4638/webstorage_links/22747/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4639,
+        "title": "函数式编程思维",
+        "img": "http://image.banshujiang.cn/4639.jpeg?timestamp=1728999241910",
+        "author": "[美]Neal Ford [译]郭晓刚",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4639/webstorage_links/22749/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4640,
+        "title": "高性能iOS应用开发",
+        "img": "http://image.banshujiang.cn/4640.jpeg?timestamp=1728999429282",
+        "author": "[美]Gaurav Vaish [译]梁士兴、郝田田、陈作君",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "Objective-C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4640/webstorage_links/22751/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4641,
+        "title": "高性能Android应用开发",
+        "img": "http://image.banshujiang.cn/4641.jpeg?timestamp=1729257994689",
+        "author": "[美]Doug Sillars [译]王若兰、周丹红、夏恩龙、陈文超、李欣欣",
+        "language": "中文",
+        "publishYear": 2016,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4641/webstorage_links/22753/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4642,
+        "title": "高效团队开发：工具与方法",
+        "img": "http://image.banshujiang.cn/4642.jpeg?timestamp=1729258112667",
+        "author": "[日]池田尚史、藤仓和明、井上史彰 [译]严圣逸",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4642/webstorage_links/22755/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4643,
+        "title": "高效算法：竞赛、应试与提高必修128例",
+        "img": "http://image.banshujiang.cn/4643.jpeg?timestamp=1729258569174",
+        "author": "[法]Christoph Dürr Jill-Jênn Vie [译]史世强",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4643/webstorage_links/22757/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4644,
+        "title": "父与子的编程之旅：与小卡特一起学Python",
+        "img": "http://image.banshujiang.cn/4644.jpeg?timestamp=1729258684049",
+        "author": "[美]Warren Sande、Carter Sande [译]苏金国、易郑超",
+        "language": "中文",
+        "publishYear": 2014,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4644/webstorage_links/22759/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4645,
+        "title": "单核工作法图解：事多到事少，拖延到高效",
+        "img": "http://image.banshujiang.cn/4645.jpeg?timestamp=1729258789600",
+        "author": "[瑞典]Staffan Nöteberg [译]大胖",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4645/webstorage_links/22761/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4646,
+        "title": "AI-Powered Developer",
+        "img": "http://image.banshujiang.cn/4646.jpeg?timestamp=1729262254665",
+        "author": "Nathan B. Crocker",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4646/webstorage_links/22763/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4647,
+        "title": "Aligned",
+        "img": "http://image.banshujiang.cn/4647.jpeg?timestamp=1729323010787",
+        "author": "Bruce McCarthy and Melissa Appel",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4647/webstorage_links/22765/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4648,
+        "title": "Black Hat Bash",
+        "img": "http://image.banshujiang.cn/4648.jpeg?timestamp=1729323148266",
+        "author": "Dolev Farhi and Nick Aleks",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4648/webstorage_links/22769/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4648/webstorage_links/22768/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4649,
+        "title": "Build Your Own Database From Scratch in Go 2nd Edition",
+        "img": "http://image.banshujiang.cn/4649.jpeg?timestamp=1729323242467",
+        "author": "James Smith",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Go",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4649/webstorage_links/22773/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4649/webstorage_links/22772/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4650,
+        "title": "Continuous Deployment",
+        "img": "http://image.banshujiang.cn/4650.jpeg?timestamp=1729323315259",
+        "author": "Valentina Servile",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4650/webstorage_links/22775/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4651,
+        "title": "Core Java: for The Impatient 4th Edition",
+        "img": "http://image.banshujiang.cn/4651.jpeg?timestamp=1729323430330",
+        "author": "Cay S. Horstmann",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4651/webstorage_links/22777/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4652,
+        "title": "CSS in Depth 2nd Edition",
+        "img": "http://image.banshujiang.cn/4652.jpeg?timestamp=1729323522789",
+        "author": "Keith J. Grant",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "CSS",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4652/webstorage_links/22779/to_link"
+            }
+        ]
     }
 ]

@@ -1,5 +1,21 @@
 [
     {
+        "id": 4652,
+        "title": "CSS in Depth 2nd Edition",
+        "img": "http://image.banshujiang.cn/4652.jpeg?timestamp=1729323522789",
+        "author": "Keith J. Grant",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "CSS",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4652/webstorage_links/22779/to_link"
+            }
+        ]
+    },
+    {
         "id": 4592,
         "title": "Padding, Borders, Outlines, and Margins in CSS",
         "img": "http://image.banshujiang.cn/4592.jpeg?timestamp=1728020565986",
@@ -296,22 +312,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4285/webstorage_links/21335/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4279,
-        "title": "Bootstrap用户手册",
-        "img": "http://image.banshujiang.cn/4279.jpeg?timestamp=1720096525960",
-        "author": "[美]Jake Spurlock [译]Dave Winer",
-        "language": "中文",
-        "publishYear": 2013,
-        "programLanguage": "CSS",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4279/webstorage_links/21323/to_link"
             }
         ]
     }

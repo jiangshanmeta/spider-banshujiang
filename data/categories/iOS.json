@@ -1,5 +1,37 @@
 [
     {
+        "id": 4640,
+        "title": "高性能iOS应用开发",
+        "img": "http://image.banshujiang.cn/4640.jpeg?timestamp=1728999429282",
+        "author": "[美]Gaurav Vaish [译]梁士兴、郝田田、陈作君",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "Objective-C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4640/webstorage_links/22751/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4638,
+        "title": "黑客攻防技术宝典：iOS实战篇",
+        "img": "http://image.banshujiang.cn/4638.jpeg?timestamp=1728999150838",
+        "author": "[美]Charlie Miller [译]傅尔也",
+        "language": "中文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4638/webstorage_links/22747/to_link"
+            }
+        ]
+    },
+    {
         "id": 4598,
         "title": "Programming iOS 9 6th Edition",
         "img": "http://image.banshujiang.cn/4598.jpeg?timestamp=1728021101385",

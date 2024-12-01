@@ -1,5 +1,37 @@
 [
     {
+        "id": 4640,
+        "title": "高性能iOS应用开发",
+        "img": "http://image.banshujiang.cn/4640.jpeg?timestamp=1728999429282",
+        "author": "[美]Gaurav Vaish [译]梁士兴、郝田田、陈作君",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "Objective-C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4640/webstorage_links/22751/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4638,
+        "title": "黑客攻防技术宝典：iOS实战篇",
+        "img": "http://image.banshujiang.cn/4638.jpeg?timestamp=1728999150838",
+        "author": "[美]Charlie Miller [译]傅尔也",
+        "language": "中文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4638/webstorage_links/22747/to_link"
+            }
+        ]
+    },
+    {
         "id": 4598,
         "title": "Programming iOS 9 6th Edition",
         "img": "http://image.banshujiang.cn/4598.jpeg?timestamp=1728021101385",
@@ -300,53 +332,6 @@
                 "fmt": "AZW3",
                 "title": "城通网盘",
                 "link": "/e_books/4407/webstorage_links/21799/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4390,
-        "title": "Barcodes with iOS",
-        "img": "http://image.banshujiang.cn/4390.jpeg?timestamp=1722053509808",
-        "author": "Oliver Drobnik",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "Objective-C",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4390/webstorage_links/21725/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4390/webstorage_links/21724/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4366,
-        "title": "iOS编程基础：Swift、Xcode和Cocoa入门指南",
-        "img": "http://image.banshujiang.cn/4366.jpeg?timestamp=1721472827531",
-        "author": "[美]Matt Neuburg [译]张龙",
-        "language": "中文",
-        "publishYear": 2017,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4366/webstorage_links/21664/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4366/webstorage_links/21665/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4366/webstorage_links/21663/to_link"
             }
         ]
     }

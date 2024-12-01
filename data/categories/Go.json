@@ -1,5 +1,26 @@
 [
     {
+        "id": 4649,
+        "title": "Build Your Own Database From Scratch in Go 2nd Edition",
+        "img": "http://image.banshujiang.cn/4649.jpeg?timestamp=1729323242467",
+        "author": "James Smith",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Go",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4649/webstorage_links/22773/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4649/webstorage_links/22772/to_link"
+            }
+        ]
+    },
+    {
         "id": 4228,
         "title": "Go 语言程序设计",
         "img": "http://image.banshujiang.cn/4228.jpeg?timestamp=1720142679984",

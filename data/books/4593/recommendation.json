@@ -159,6 +159,38 @@
         ]
     },
     {
+        "id": 4640,
+        "title": "高性能iOS应用开发",
+        "img": "http://image.banshujiang.cn/4640.jpeg?timestamp=1728999429282",
+        "author": "[美]Gaurav Vaish [译]梁士兴、郝田田、陈作君",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "Objective-C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4640/webstorage_links/22751/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4638,
+        "title": "黑客攻防技术宝典：iOS实战篇",
+        "img": "http://image.banshujiang.cn/4638.jpeg?timestamp=1728999150838",
+        "author": "[美]Charlie Miller [译]傅尔也",
+        "language": "中文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4638/webstorage_links/22747/to_link"
+            }
+        ]
+    },
+    {
         "id": 4598,
         "title": "Programming iOS 9 6th Edition",
         "img": "http://image.banshujiang.cn/4598.jpeg?timestamp=1728021101385",
@@ -265,48 +297,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4579/webstorage_links/22566/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4507,
-        "title": "iOS Animations by Tutorials 2nd Edition",
-        "img": "http://image.banshujiang.cn/4507.jpeg?timestamp=1727832395171",
-        "author": "Marin Todorov",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4507/webstorage_links/22189/to_link"
-            },
-            {
-                "fmt": "CODE",
-                "title": "城通网盘",
-                "link": "/e_books/4507/webstorage_links/22188/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4503,
-        "title": "Core Data by Tutorials 2nd Edition",
-        "img": "http://image.banshujiang.cn/4503.jpeg?timestamp=1725188115009",
-        "author": "Aaron Douglas, Saul Mora, Matthew Morey and Pietro Rea",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4503/webstorage_links/22171/to_link"
-            },
-            {
-                "fmt": "CODE",
-                "title": "城通网盘",
-                "link": "/e_books/4503/webstorage_links/22170/to_link"
             }
         ]
     }

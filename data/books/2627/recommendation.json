@@ -26,6 +26,54 @@
         ]
     },
     {
+        "id": 4646,
+        "title": "AI-Powered Developer",
+        "img": "http://image.banshujiang.cn/4646.jpeg?timestamp=1729262254665",
+        "author": "Nathan B. Crocker",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4646/webstorage_links/22763/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4636,
+        "title": "机器学习实战",
+        "img": "http://image.banshujiang.cn/4636.jpeg?timestamp=1728998810504",
+        "author": "[美]Peter Harrington [译]李锐、李鹏、曲亚东、王斌",
+        "language": "中文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4636/webstorage_links/22743/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4635,
+        "title": "机器学习与优化",
+        "img": "http://image.banshujiang.cn/4635.jpeg?timestamp=1728998695572",
+        "author": "[意]罗伯托·巴蒂蒂、毛罗·布鲁纳托 [译]王彧弋",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4635/webstorage_links/22741/to_link"
+            }
+        ]
+    },
+    {
         "id": 4630,
         "title": "精通Python自然语言处理",
         "img": "http://image.banshujiang.cn/4630.jpeg?timestamp=1728998145308",
@@ -249,69 +297,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4551/webstorage_links/22416/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4533,
-        "title": "Beautiful JavaScript",
-        "img": "http://image.banshujiang.cn/4533.jpeg?timestamp=1727873626069",
-        "author": "Anton Kovalyov",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4533/webstorage_links/22315/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4533/webstorage_links/22314/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4524,
-        "title": "MEAN Machine",
-        "img": "http://image.banshujiang.cn/4524.jpeg?timestamp=1727872749217",
-        "author": "Chris Sevilleja and Holly Lloyd",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4524/webstorage_links/22271/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4524/webstorage_links/22269/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4524/webstorage_links/22270/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4515,
-        "title": "jQuery in Action 3rd Edition",
-        "img": "http://image.banshujiang.cn/4515.jpeg?timestamp=1727834319698",
-        "author": "Bear Bibeault, Yehuda Katz and Aurelio De Rosa",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4515/webstorage_links/22229/to_link"
             }
         ]
     }

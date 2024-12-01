@@ -164,6 +164,54 @@
         ]
     },
     {
+        "id": 4644,
+        "title": "父与子的编程之旅：与小卡特一起学Python",
+        "img": "http://image.banshujiang.cn/4644.jpeg?timestamp=1729258684049",
+        "author": "[美]Warren Sande、Carter Sande [译]苏金国、易郑超",
+        "language": "中文",
+        "publishYear": 2014,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4644/webstorage_links/22759/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4640,
+        "title": "高性能iOS应用开发",
+        "img": "http://image.banshujiang.cn/4640.jpeg?timestamp=1728999429282",
+        "author": "[美]Gaurav Vaish [译]梁士兴、郝田田、陈作君",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "Objective-C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4640/webstorage_links/22751/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4638,
+        "title": "黑客攻防技术宝典：iOS实战篇",
+        "img": "http://image.banshujiang.cn/4638.jpeg?timestamp=1728999150838",
+        "author": "[美]Charlie Miller [译]傅尔也",
+        "language": "中文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4638/webstorage_links/22747/to_link"
+            }
+        ]
+    },
+    {
         "id": 4631,
         "title": "精通Django：Django 1.8 LTS 全解",
         "img": "http://image.banshujiang.cn/4631.jpeg?timestamp=1728998315994",
@@ -234,74 +282,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/4598/webstorage_links/22656/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4597,
-        "title": "Programming Google App Engine with Python",
-        "img": "http://image.banshujiang.cn/4597.jpeg?timestamp=1728021027726",
-        "author": "Dan Sanderson",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4597/webstorage_links/22651/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4597/webstorage_links/22649/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4597/webstorage_links/22650/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4582,
-        "title": "iOS Swift Game Development Cookbook 2nd Edition",
-        "img": "http://image.banshujiang.cn/4582.jpeg?timestamp=1728013483931",
-        "author": "Jonathon Manning and Paris Buttfield-Addison",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4582/webstorage_links/22579/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4582/webstorage_links/22577/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4582/webstorage_links/22578/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4581,
-        "title": "iOS 9 Swift Programming Cookbook",
-        "img": "http://image.banshujiang.cn/4581.jpeg?timestamp=1728013391134",
-        "author": "Vandad Nahavandipoor",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4581/webstorage_links/22573/to_link"
             }
         ]
     }

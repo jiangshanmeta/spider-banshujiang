@@ -16,6 +16,22 @@
         ]
     },
     {
+        "id": 4641,
+        "title": "高性能Android应用开发",
+        "img": "http://image.banshujiang.cn/4641.jpeg?timestamp=1729257994689",
+        "author": "[美]Doug Sillars [译]王若兰、周丹红、夏恩龙、陈文超、李欣欣",
+        "language": "中文",
+        "publishYear": 2016,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4641/webstorage_links/22753/to_link"
+            }
+        ]
+    },
+    {
         "id": 4575,
         "title": "High Performance Android Apps",
         "img": "http://image.banshujiang.cn/4575.jpeg?timestamp=1728012865521",
@@ -316,27 +332,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4175/webstorage_links/20822/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4168,
-        "title": "Data Push Apps with HTML5 SSE",
-        "img": "http://image.banshujiang.cn/4168.jpeg?timestamp=1718515981742",
-        "author": "Darren Cook",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "HTML5",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4168/webstorage_links/20789/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4168/webstorage_links/20788/to_link"
             }
         ]
     }
