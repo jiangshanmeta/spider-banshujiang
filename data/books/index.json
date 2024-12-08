@@ -87926,5 +87926,390 @@
                 "link": "/e_books/4652/webstorage_links/22779/to_link"
             }
         ]
+    },
+    {
+        "id": 4653,
+        "title": "D3.js in Action 3rd Edition",
+        "img": "http://image.banshujiang.cn/4653.jpeg?timestamp=1729323677273",
+        "author": "Elijah Meeks and Anne-marie Dufour",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4653/webstorage_links/22783/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4653/webstorage_links/22782/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4654,
+        "title": "Data Storytelling with Altair and AI",
+        "img": "http://image.banshujiang.cn/4654.jpeg?timestamp=1729323751484",
+        "author": "Angelica Lo Duca",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4654/webstorage_links/22785/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4655,
+        "title": "Developing Apps with GPT-4 and ChatGPT 2nd Edition",
+        "img": "http://image.banshujiang.cn/4655.jpeg?timestamp=1729323829119",
+        "author": "Olivier Caelen and Marie-Alice Blete",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4655/webstorage_links/22787/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4656,
+        "title": "Django in Action",
+        "img": "http://image.banshujiang.cn/4656.jpeg?timestamp=1729323907912",
+        "author": "Christopher Trudeau",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4656/webstorage_links/22791/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4656/webstorage_links/22790/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4657,
+        "title": "Docker Deep Dive 2024 Edition",
+        "img": "http://image.banshujiang.cn/4657.jpeg?timestamp=1729323997306",
+        "author": "Nigel Poulton",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4657/webstorage_links/22795/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4657/webstorage_links/22794/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4658,
+        "title": "DuckDB in Action",
+        "img": "http://image.banshujiang.cn/4658.jpeg?timestamp=1729324192715",
+        "author": "Mark Needham, Michael Hunger and Michael Simons",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4658/webstorage_links/22799/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4658/webstorage_links/22798/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4659,
+        "title": "Evasive Malware",
+        "img": "http://image.banshujiang.cn/4659.jpeg?timestamp=1729324371069",
+        "author": "Kyle Cucci",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4659/webstorage_links/22803/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4659/webstorage_links/22802/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4660,
+        "title": "Grokking Data Structures",
+        "img": "http://image.banshujiang.cn/4660.jpeg?timestamp=1729324430966",
+        "author": "Marcello La Rocca",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4660/webstorage_links/22807/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4660/webstorage_links/22806/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4661,
+        "title": "Build a Large Language Model (From Scratch)",
+        "img": "http://image.banshujiang.cn/4661.jpeg?timestamp=1729327657552",
+        "author": "Sebastian Raschka",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4661/webstorage_links/22811/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4661/webstorage_links/22810/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4662,
+        "title": "Hands-On Salesforce Data Cloud",
+        "img": "http://image.banshujiang.cn/4662.jpeg?timestamp=1729327814429",
+        "author": "Joyce Kay Avila",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4662/webstorage_links/22813/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4663,
+        "title": "High Performance PostgreSQL for Rails",
+        "img": "http://image.banshujiang.cn/4663.jpeg?timestamp=1729328041416",
+        "author": "Andrew Atkinson",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Ruby",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4663/webstorage_links/22821/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4663/webstorage_links/22819/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4663/webstorage_links/22820/to_link"
+            },
+            {
+                "fmt": "CODE",
+                "title": "城通网盘",
+                "link": "/e_books/4663/webstorage_links/22818/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4664,
+        "title": "Idiomatic Rust",
+        "img": "http://image.banshujiang.cn/4664.jpeg?timestamp=1729328134804",
+        "author": "Brenden Matthew",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Rust",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4664/webstorage_links/22823/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4665,
+        "title": "Large Language Model–Based Solutions",
+        "img": "http://image.banshujiang.cn/4665.jpeg?timestamp=1729328222399",
+        "author": "Shreyas Subramanian",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4665/webstorage_links/22827/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4665/webstorage_links/22826/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4666,
+        "title": "Learn Generative AI with PyTorch",
+        "img": "http://image.banshujiang.cn/4666.jpeg?timestamp=1729328299203",
+        "author": "Mark Liu",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4666/webstorage_links/22829/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4667,
+        "title": "Learn OpenAI Whisper",
+        "img": "http://image.banshujiang.cn/4667.jpeg?timestamp=1729328361671",
+        "author": "Josué R. Batista",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4667/webstorage_links/22833/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4667/webstorage_links/22832/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4668,
+        "title": "Learning Kali Linux 2nd Edition",
+        "img": "http://image.banshujiang.cn/4668.jpeg?timestamp=1729328462455",
+        "author": "Ric Messier",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4668/webstorage_links/22835/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4669,
+        "title": "Learning Microsoft Power Apps",
+        "img": "http://image.banshujiang.cn/4669.jpeg?timestamp=1729328525299",
+        "author": "Arpit Shrivastava",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4669/webstorage_links/22837/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4670,
+        "title": "Learning Systems Thinking",
+        "img": "http://image.banshujiang.cn/4670.jpeg?timestamp=1729328622246",
+        "author": "Diana Montalion",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4670/webstorage_links/22839/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4671,
+        "title": "Linux Kernel Programming 2nd Edition",
+        "img": "http://image.banshujiang.cn/4671.jpeg?timestamp=1729348067081",
+        "author": "Kaiwan N. Billimoria",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4671/webstorage_links/22843/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4671/webstorage_links/22842/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4672,
+        "title": "Machine Learning Algorithms in Depth",
+        "img": "http://image.banshujiang.cn/4672.jpeg?timestamp=1729348159840",
+        "author": "Vadim Smolyakov",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4672/webstorage_links/22845/to_link"
+            }
+        ]
     }
 ]

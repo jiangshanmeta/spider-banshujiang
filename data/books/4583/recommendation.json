@@ -1,5 +1,26 @@
 [
     {
+        "id": 4653,
+        "title": "D3.js in Action 3rd Edition",
+        "img": "http://image.banshujiang.cn/4653.jpeg?timestamp=1729323677273",
+        "author": "Elijah Meeks and Anne-marie Dufour",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4653/webstorage_links/22783/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4653/webstorage_links/22782/to_link"
+            }
+        ]
+    },
+    {
         "id": 4623,
         "title": "全端Web开发：使用JavaScript与Java",
         "img": "http://image.banshujiang.cn/4623.jpeg?timestamp=1728997235692",
@@ -321,22 +342,6 @@
                 "fmt": "AZW3",
                 "title": "城通网盘",
                 "link": "/e_books/4487/webstorage_links/22092/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4481,
-        "title": "MEAN Web Development",
-        "img": "http://image.banshujiang.cn/4481.jpeg?timestamp=1723949786288",
-        "author": "Amos Q. Haviv",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4481/webstorage_links/22071/to_link"
             }
         ]
     }

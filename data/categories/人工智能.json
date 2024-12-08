@@ -1,5 +1,132 @@
 [
     {
+        "id": 4672,
+        "title": "Machine Learning Algorithms in Depth",
+        "img": "http://image.banshujiang.cn/4672.jpeg?timestamp=1729348159840",
+        "author": "Vadim Smolyakov",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4672/webstorage_links/22845/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4667,
+        "title": "Learn OpenAI Whisper",
+        "img": "http://image.banshujiang.cn/4667.jpeg?timestamp=1729328361671",
+        "author": "Josué R. Batista",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4667/webstorage_links/22833/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4667/webstorage_links/22832/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4666,
+        "title": "Learn Generative AI with PyTorch",
+        "img": "http://image.banshujiang.cn/4666.jpeg?timestamp=1729328299203",
+        "author": "Mark Liu",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4666/webstorage_links/22829/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4665,
+        "title": "Large Language Model–Based Solutions",
+        "img": "http://image.banshujiang.cn/4665.jpeg?timestamp=1729328222399",
+        "author": "Shreyas Subramanian",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4665/webstorage_links/22827/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4665/webstorage_links/22826/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4661,
+        "title": "Build a Large Language Model (From Scratch)",
+        "img": "http://image.banshujiang.cn/4661.jpeg?timestamp=1729327657552",
+        "author": "Sebastian Raschka",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4661/webstorage_links/22811/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4661/webstorage_links/22810/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4655,
+        "title": "Developing Apps with GPT-4 and ChatGPT 2nd Edition",
+        "img": "http://image.banshujiang.cn/4655.jpeg?timestamp=1729323829119",
+        "author": "Olivier Caelen and Marie-Alice Blete",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4655/webstorage_links/22787/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4654,
+        "title": "Data Storytelling with Altair and AI",
+        "img": "http://image.banshujiang.cn/4654.jpeg?timestamp=1729323751484",
+        "author": "Angelica Lo Duca",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4654/webstorage_links/22785/to_link"
+            }
+        ]
+    },
+    {
         "id": 4646,
         "title": "AI-Powered Developer",
         "img": "http://image.banshujiang.cn/4646.jpeg?timestamp=1729262254665",

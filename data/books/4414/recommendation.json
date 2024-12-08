@@ -1,5 +1,26 @@
 [
     {
+        "id": 4657,
+        "title": "Docker Deep Dive 2024 Edition",
+        "img": "http://image.banshujiang.cn/4657.jpeg?timestamp=1729323997306",
+        "author": "Nigel Poulton",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4657/webstorage_links/22795/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4657/webstorage_links/22794/to_link"
+            }
+        ]
+    },
+    {
         "id": 4560,
         "title": "Docker: Up and Running",
         "img": "http://image.banshujiang.cn/4560.jpeg?timestamp=1727950332746",
@@ -321,27 +342,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3563/webstorage_links/18507/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3544,
-        "title": "Docker Deep Dive 2023 Edition",
-        "img": "http://image.banshujiang.cn/3544.jpeg?timestamp=1697258479776",
-        "author": "Nigel Poulton",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3544/webstorage_links/18445/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3544/webstorage_links/18444/to_link"
             }
         ]
     }

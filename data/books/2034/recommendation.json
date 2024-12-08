@@ -21,6 +21,43 @@
         ]
     },
     {
+        "id": 4671,
+        "title": "Linux Kernel Programming 2nd Edition",
+        "img": "http://image.banshujiang.cn/4671.jpeg?timestamp=1729348067081",
+        "author": "Kaiwan N. Billimoria",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4671/webstorage_links/22843/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4671/webstorage_links/22842/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4668,
+        "title": "Learning Kali Linux 2nd Edition",
+        "img": "http://image.banshujiang.cn/4668.jpeg?timestamp=1729328462455",
+        "author": "Ric Messier",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4668/webstorage_links/22835/to_link"
+            }
+        ]
+    },
+    {
         "id": 4619,
         "title": "深入Linux内核架构",
         "img": "http://image.banshujiang.cn/4619.jpeg?timestamp=1728996676957",
@@ -290,53 +327,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/3449/webstorage_links/18011/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3372,
-        "title": "Learn Linux in a Month of Lunches",
-        "img": "http://image.banshujiang.cn/3372.jpeg?timestamp=1677311125522",
-        "author": "Steven Ovadia",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3372/webstorage_links/17668/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3372/webstorage_links/17667/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/3372/webstorage_links/17669/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3272,
-        "title": "Mastering Kali Linux for Advanced Penetration Testing 2nd Edition",
-        "img": "http://image.banshujiang.cn/3272.jpeg?timestamp=1675510729825",
-        "author": "Vijay Kumar Velu",
-        "language": "英文",
-        "publishYear": 2017,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3272/webstorage_links/17263/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/3272/webstorage_links/17262/to_link"
             }
         ]
     }

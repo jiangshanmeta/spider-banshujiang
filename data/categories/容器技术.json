@@ -1,5 +1,26 @@
 [
     {
+        "id": 4657,
+        "title": "Docker Deep Dive 2024 Edition",
+        "img": "http://image.banshujiang.cn/4657.jpeg?timestamp=1729323997306",
+        "author": "Nigel Poulton",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4657/webstorage_links/22795/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4657/webstorage_links/22794/to_link"
+            }
+        ]
+    },
+    {
         "id": 4560,
         "title": "Docker: Up and Running",
         "img": "http://image.banshujiang.cn/4560.jpeg?timestamp=1727950332746",

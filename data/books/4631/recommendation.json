@@ -1,5 +1,42 @@
 [
     {
+        "id": 4666,
+        "title": "Learn Generative AI with PyTorch",
+        "img": "http://image.banshujiang.cn/4666.jpeg?timestamp=1729328299203",
+        "author": "Mark Liu",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4666/webstorage_links/22829/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4656,
+        "title": "Django in Action",
+        "img": "http://image.banshujiang.cn/4656.jpeg?timestamp=1729323907912",
+        "author": "Christopher Trudeau",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4656/webstorage_links/22791/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4656/webstorage_links/22790/to_link"
+            }
+        ]
+    },
+    {
         "id": 4644,
         "title": "父与子的编程之旅：与小卡特一起学Python",
         "img": "http://image.banshujiang.cn/4644.jpeg?timestamp=1729258684049",
@@ -255,48 +292,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4418/webstorage_links/21829/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4417,
-        "title": "NLTK基础教程: 用NTLK和Python库构建机器学习应用",
-        "img": "http://image.banshujiang.cn/4417.jpeg?timestamp=1722765758795",
-        "author": "[印度]Nitin Hardeniya [译]凌杰",
-        "language": "中文",
-        "publishYear": 2017,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4417/webstorage_links/21827/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4376,
-        "title": "跟老齐学Python: 从入门到精通",
-        "img": "http://image.banshujiang.cn/4376.jpeg?timestamp=1722049964782",
-        "author": "齐伟",
-        "language": "中文",
-        "publishYear": 2016,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4376/webstorage_links/21692/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4376/webstorage_links/21693/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4376/webstorage_links/21691/to_link"
             }
         ]
     }

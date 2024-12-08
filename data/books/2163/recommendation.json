@@ -1,5 +1,36 @@
 [
     {
+        "id": 4663,
+        "title": "High Performance PostgreSQL for Rails",
+        "img": "http://image.banshujiang.cn/4663.jpeg?timestamp=1729328041416",
+        "author": "Andrew Atkinson",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Ruby",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4663/webstorage_links/22821/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4663/webstorage_links/22819/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4663/webstorage_links/22820/to_link"
+            },
+            {
+                "fmt": "CODE",
+                "title": "城通网盘",
+                "link": "/e_books/4663/webstorage_links/22818/to_link"
+            }
+        ]
+    },
+    {
         "id": 4483,
         "title": "PostgreSQL即学即用(第3版)",
         "img": "http://image.banshujiang.cn/4483.jpeg?timestamp=1723950066532",
@@ -321,27 +352,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3628/webstorage_links/18720/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3498,
-        "title": "Mastering PostgreSQL 15 5th Edition",
-        "img": "http://image.banshujiang.cn/3498.jpeg?timestamp=1696560531353",
-        "author": "Hans-Jürgen Schönig",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3498/webstorage_links/18254/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3498/webstorage_links/18255/to_link"
             }
         ]
     }

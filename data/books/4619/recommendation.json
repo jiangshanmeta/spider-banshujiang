@@ -1,5 +1,42 @@
 [
     {
+        "id": 4671,
+        "title": "Linux Kernel Programming 2nd Edition",
+        "img": "http://image.banshujiang.cn/4671.jpeg?timestamp=1729348067081",
+        "author": "Kaiwan N. Billimoria",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4671/webstorage_links/22843/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4671/webstorage_links/22842/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4668,
+        "title": "Learning Kali Linux 2nd Edition",
+        "img": "http://image.banshujiang.cn/4668.jpeg?timestamp=1729328462455",
+        "author": "Ric Messier",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4668/webstorage_links/22835/to_link"
+            }
+        ]
+    },
+    {
         "id": 4506,
         "title": "How Linux Works 2nd Edition",
         "img": "http://image.banshujiang.cn/4506.jpeg?timestamp=1727832117952",
@@ -305,58 +342,6 @@
                 "fmt": "AZW3",
                 "title": "城通网盘",
                 "link": "/e_books/3271/webstorage_links/17258/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3268,
-        "title": "Learning Linux Binary Analysis",
-        "img": "http://image.banshujiang.cn/3268.jpeg?timestamp=1675506961606",
-        "author": "Ryan &quot;elfmaster&quot; O&#39;Neill",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3268/webstorage_links/17241/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3268/webstorage_links/17239/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/3268/webstorage_links/17240/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/3268/webstorage_links/17238/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3199,
-        "title": "Linux Observability with BPF",
-        "img": "http://image.banshujiang.cn/3199.jpeg?timestamp=1672470279387",
-        "author": "David Calavera and Lorenzo Fontana",
-        "language": "英文",
-        "publishYear": 2019,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3199/webstorage_links/16926/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3199/webstorage_links/16925/to_link"
             }
         ]
     }

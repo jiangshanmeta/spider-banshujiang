@@ -1,5 +1,26 @@
 [
     {
+        "id": 4653,
+        "title": "D3.js in Action 3rd Edition",
+        "img": "http://image.banshujiang.cn/4653.jpeg?timestamp=1729323677273",
+        "author": "Elijah Meeks and Anne-marie Dufour",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4653/webstorage_links/22783/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4653/webstorage_links/22782/to_link"
+            }
+        ]
+    },
+    {
         "id": 4640,
         "title": "高性能iOS应用开发",
         "img": "http://image.banshujiang.cn/4640.jpeg?timestamp=1728999429282",
@@ -301,32 +322,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4579/webstorage_links/22566/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4578,
-        "title": "Introduction to JavaScript Object Notation Early Release",
-        "img": "http://image.banshujiang.cn/4578.jpeg?timestamp=1728013144812",
-        "author": "Lindsay Bassett",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4578/webstorage_links/22563/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4578/webstorage_links/22561/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4578/webstorage_links/22562/to_link"
             }
         ]
     }

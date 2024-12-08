@@ -1,5 +1,42 @@
 [
     {
+        "id": 4666,
+        "title": "Learn Generative AI with PyTorch",
+        "img": "http://image.banshujiang.cn/4666.jpeg?timestamp=1729328299203",
+        "author": "Mark Liu",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4666/webstorage_links/22829/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4656,
+        "title": "Django in Action",
+        "img": "http://image.banshujiang.cn/4656.jpeg?timestamp=1729323907912",
+        "author": "Christopher Trudeau",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4656/webstorage_links/22791/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4656/webstorage_links/22790/to_link"
+            }
+        ]
+    },
+    {
         "id": 4644,
         "title": "父与子的编程之旅：与小卡特一起学Python",
         "img": "http://image.banshujiang.cn/4644.jpeg?timestamp=1729258684049",
@@ -270,38 +307,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4445/webstorage_links/21916/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4429,
-        "title": "Flask Web开发: 基于Python的Web应用开发实战",
-        "img": "http://image.banshujiang.cn/4429.jpeg?timestamp=1723343837786",
-        "author": "[美]Miguel Grinberg [译]安道",
-        "language": "中文",
-        "publishYear": 2015,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4429/webstorage_links/21857/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4424,
-        "title": "Django 基础教程",
-        "img": "http://image.banshujiang.cn/4424.jpeg?timestamp=1723030860931",
-        "author": "Leif Azzopardi &amp; David Maxwell [译]安道",
-        "language": "中文",
-        "publishYear": 2018,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4424/webstorage_links/21847/to_link"
             }
         ]
     }

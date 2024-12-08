@@ -1,5 +1,36 @@
 [
     {
+        "id": 4663,
+        "title": "High Performance PostgreSQL for Rails",
+        "img": "http://image.banshujiang.cn/4663.jpeg?timestamp=1729328041416",
+        "author": "Andrew Atkinson",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Ruby",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4663/webstorage_links/22821/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4663/webstorage_links/22819/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4663/webstorage_links/22820/to_link"
+            },
+            {
+                "fmt": "CODE",
+                "title": "城通网盘",
+                "link": "/e_books/4663/webstorage_links/22818/to_link"
+            }
+        ]
+    },
+    {
         "id": 4520,
         "title": "Rails 4 in Action",
         "img": "http://image.banshujiang.cn/4520.jpeg?timestamp=1727836143814",
@@ -301,22 +332,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/2069/webstorage_links/11316/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2020,
-        "title": "Simply Rails 2, 2nd Edition",
-        "img": "https://imagebsj.netlify.app/2020.jpeg",
-        "author": "Patrick Lenz",
-        "language": "英文",
-        "publishYear": 2008,
-        "programLanguage": "Ruby",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2020/webstorage_links/11142/to_link"
             }
         ]
     }

@@ -1,5 +1,42 @@
 [
     {
+        "id": 4671,
+        "title": "Linux Kernel Programming 2nd Edition",
+        "img": "http://image.banshujiang.cn/4671.jpeg?timestamp=1729348067081",
+        "author": "Kaiwan N. Billimoria",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4671/webstorage_links/22843/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4671/webstorage_links/22842/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4668,
+        "title": "Learning Kali Linux 2nd Edition",
+        "img": "http://image.banshujiang.cn/4668.jpeg?timestamp=1729328462455",
+        "author": "Ric Messier",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4668/webstorage_links/22835/to_link"
+            }
+        ]
+    },
+    {
         "id": 4619,
         "title": "深入Linux内核架构",
         "img": "http://image.banshujiang.cn/4619.jpeg?timestamp=1728996676957",
