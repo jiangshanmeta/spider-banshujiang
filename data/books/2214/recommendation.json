@@ -32,6 +32,59 @@
         ]
     },
     {
+        "id": 4688,
+        "title": "Starting Data Analytics with Generative AI and Python",
+        "img": "http://image.banshujiang.cn/4688.jpeg?timestamp=1729913287980",
+        "author": "Artur Guja, Marlena Siwiak and Marian Siwiak",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4688/webstorage_links/22889/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4681,
+        "title": "Pandas for Everyone: Python Data Analysis 2nd Edition",
+        "img": "http://image.banshujiang.cn/4681.jpeg?timestamp=1729912403173",
+        "author": "Daniel Y. Chen",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4681/webstorage_links/22865/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4681/webstorage_links/22864/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4679,
+        "title": "Hypermodern Python Tooling",
+        "img": "http://image.banshujiang.cn/4679.jpeg?timestamp=1729348653398",
+        "author": "Claudio Jolowicz",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4679/webstorage_links/22859/to_link"
+            }
+        ]
+    },
+    {
         "id": 4666,
         "title": "Learn Generative AI with PyTorch",
         "img": "http://image.banshujiang.cn/4666.jpeg?timestamp=1729328299203",
@@ -259,54 +312,6 @@
                 "fmt": "AZW3",
                 "title": "城通网盘",
                 "link": "/e_books/4487/webstorage_links/22092/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4486,
-        "title": "Python机器学习实践指南",
-        "img": "http://image.banshujiang.cn/4486.jpeg?timestamp=1723950482532",
-        "author": "[美]Alexander T. Combs [译]黄申",
-        "language": "中文",
-        "publishYear": 2017,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4486/webstorage_links/22087/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4485,
-        "title": "Python机器学习经典实例",
-        "img": "http://image.banshujiang.cn/4485.jpeg?timestamp=1723950348200",
-        "author": "[美]Prateek Joshi [译]陶俊杰、陈小莉",
-        "language": "中文",
-        "publishYear": 2017,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4485/webstorage_links/22085/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4484,
-        "title": "Python机器学习基础教程",
-        "img": "http://image.banshujiang.cn/4484.jpeg?timestamp=1723950193033",
-        "author": "[德]Andreas C. Müller [美]Sarah Guido [译]张亮",
-        "language": "中文",
-        "publishYear": 2018,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4484/webstorage_links/22083/to_link"
             }
         ]
     }

@@ -1,5 +1,95 @@
 [
     {
+        "id": 4689,
+        "title": "The Complete Obsolete Guide to Generative AI",
+        "img": "http://image.banshujiang.cn/4689.jpeg?timestamp=1729914004769",
+        "author": "David Clinton",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4689/webstorage_links/22893/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4689/webstorage_links/22892/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4688,
+        "title": "Starting Data Analytics with Generative AI and Python",
+        "img": "http://image.banshujiang.cn/4688.jpeg?timestamp=1729913287980",
+        "author": "Artur Guja, Marlena Siwiak and Marian Siwiak",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4688/webstorage_links/22889/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4685,
+        "title": "Quick Start Guide to Large Language Models",
+        "img": "http://image.banshujiang.cn/4685.jpeg?timestamp=1729913003003",
+        "author": "Sinan Ozdemir",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4685/webstorage_links/22881/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4685/webstorage_links/22880/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4676,
+        "title": "Azure OpenAI Service for Cloud Native Applications",
+        "img": "http://image.banshujiang.cn/4676.jpeg?timestamp=1729348416772",
+        "author": "Adrián González Sánchez",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4676/webstorage_links/22853/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4674,
+        "title": "LLMs and Generative AI for Healthcare",
+        "img": "http://image.banshujiang.cn/4674.jpeg?timestamp=1729348297325",
+        "author": "Kerrie Holley and Manish Mathur",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4674/webstorage_links/22849/to_link"
+            }
+        ]
+    },
+    {
         "id": 4672,
         "title": "Machine Learning Algorithms in Depth",
         "img": "http://image.banshujiang.cn/4672.jpeg?timestamp=1729348159840",
@@ -187,91 +277,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4630/webstorage_links/22731/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4629,
-        "title": "精通机器学习：基于R(第2版)",
-        "img": "http://image.banshujiang.cn/4629.jpeg?timestamp=1728998015871",
-        "author": "[美]Cory Lesmeister [译]陈光欣",
-        "language": "中文",
-        "publishYear": 2018,
-        "programLanguage": "R",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4629/webstorage_links/22729/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4620,
-        "title": "深度学习入门：基于Python的理论与实现",
-        "img": "http://image.banshujiang.cn/4620.jpeg?timestamp=1728996784456",
-        "author": "[日]斋藤康毅  [译]陆宇杰",
-        "language": "中文",
-        "publishYear": 2018,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4620/webstorage_links/22711/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4551,
-        "title": "Data Science in the Cloud with Microsoft Azure Machine Learning and R",
-        "img": "http://image.banshujiang.cn/4551.jpeg?timestamp=1727949568357",
-        "author": "Stephen F. Elston",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "R",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4551/webstorage_links/22416/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4494,
-        "title": "TensorFlow实战",
-        "img": "http://image.banshujiang.cn/4494.jpeg?timestamp=1724469402034",
-        "author": "黄文坚、唐源",
-        "language": "中文",
-        "publishYear": 2017,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4494/webstorage_links/22133/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4494/webstorage_links/22132/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4486,
-        "title": "Python机器学习实践指南",
-        "img": "http://image.banshujiang.cn/4486.jpeg?timestamp=1723950482532",
-        "author": "[美]Alexander T. Combs [译]黄申",
-        "language": "中文",
-        "publishYear": 2017,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4486/webstorage_links/22087/to_link"
             }
         ]
     }

@@ -1,5 +1,26 @@
 [
     {
+        "id": 4686,
+        "title": "React in Depth",
+        "img": "http://image.banshujiang.cn/4686.jpeg?timestamp=1729913085954",
+        "author": "Morten Barklund",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4686/webstorage_links/22885/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4686/webstorage_links/22884/to_link"
+            }
+        ]
+    },
+    {
         "id": 4653,
         "title": "D3.js in Action 3rd Edition",
         "img": "http://image.banshujiang.cn/4653.jpeg?timestamp=1729323677273",
@@ -321,37 +342,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4504/webstorage_links/22174/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4487,
-        "title": "Full Stack JavaScript Development with MEAN",
-        "img": "http://image.banshujiang.cn/4487.jpeg?timestamp=1723950583814",
-        "author": "Adam Bretz and Colin J. Ihrig",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4487/webstorage_links/22095/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4487/webstorage_links/22093/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4487/webstorage_links/22094/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4487/webstorage_links/22092/to_link"
             }
         ]
     }

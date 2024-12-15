@@ -1,5 +1,26 @@
 [
     {
+        "id": 4686,
+        "title": "React in Depth",
+        "img": "http://image.banshujiang.cn/4686.jpeg?timestamp=1729913085954",
+        "author": "Morten Barklund",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4686/webstorage_links/22885/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4686/webstorage_links/22884/to_link"
+            }
+        ]
+    },
+    {
         "id": 4653,
         "title": "D3.js in Action 3rd Edition",
         "img": "http://image.banshujiang.cn/4653.jpeg?timestamp=1729323677273",
@@ -316,27 +337,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/4509/webstorage_links/22200/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4504,
-        "title": "Data Visualization with JavaScript",
-        "img": "http://image.banshujiang.cn/4504.jpeg?timestamp=1725188269980",
-        "author": "Stephen A. Thomas",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4504/webstorage_links/22175/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4504/webstorage_links/22174/to_link"
             }
         ]
     }

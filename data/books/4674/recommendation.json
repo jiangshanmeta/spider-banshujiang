@@ -1,0 +1,283 @@
+[
+    {
+        "id": 4689,
+        "title": "The Complete Obsolete Guide to Generative AI",
+        "img": "http://image.banshujiang.cn/4689.jpeg?timestamp=1729914004769",
+        "author": "David Clinton",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4689/webstorage_links/22893/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4689/webstorage_links/22892/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4688,
+        "title": "Starting Data Analytics with Generative AI and Python",
+        "img": "http://image.banshujiang.cn/4688.jpeg?timestamp=1729913287980",
+        "author": "Artur Guja, Marlena Siwiak and Marian Siwiak",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4688/webstorage_links/22889/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4685,
+        "title": "Quick Start Guide to Large Language Models",
+        "img": "http://image.banshujiang.cn/4685.jpeg?timestamp=1729913003003",
+        "author": "Sinan Ozdemir",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4685/webstorage_links/22881/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4685/webstorage_links/22880/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4676,
+        "title": "Azure OpenAI Service for Cloud Native Applications",
+        "img": "http://image.banshujiang.cn/4676.jpeg?timestamp=1729348416772",
+        "author": "Adrián González Sánchez",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4676/webstorage_links/22853/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4672,
+        "title": "Machine Learning Algorithms in Depth",
+        "img": "http://image.banshujiang.cn/4672.jpeg?timestamp=1729348159840",
+        "author": "Vadim Smolyakov",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4672/webstorage_links/22845/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4667,
+        "title": "Learn OpenAI Whisper",
+        "img": "http://image.banshujiang.cn/4667.jpeg?timestamp=1729328361671",
+        "author": "Josué R. Batista",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4667/webstorage_links/22833/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4667/webstorage_links/22832/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4666,
+        "title": "Learn Generative AI with PyTorch",
+        "img": "http://image.banshujiang.cn/4666.jpeg?timestamp=1729328299203",
+        "author": "Mark Liu",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4666/webstorage_links/22829/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4665,
+        "title": "Large Language Model–Based Solutions",
+        "img": "http://image.banshujiang.cn/4665.jpeg?timestamp=1729328222399",
+        "author": "Shreyas Subramanian",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4665/webstorage_links/22827/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4665/webstorage_links/22826/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4661,
+        "title": "Build a Large Language Model (From Scratch)",
+        "img": "http://image.banshujiang.cn/4661.jpeg?timestamp=1729327657552",
+        "author": "Sebastian Raschka",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4661/webstorage_links/22811/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4661/webstorage_links/22810/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4655,
+        "title": "Developing Apps with GPT-4 and ChatGPT 2nd Edition",
+        "img": "http://image.banshujiang.cn/4655.jpeg?timestamp=1729323829119",
+        "author": "Olivier Caelen and Marie-Alice Blete",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4655/webstorage_links/22787/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4654,
+        "title": "Data Storytelling with Altair and AI",
+        "img": "http://image.banshujiang.cn/4654.jpeg?timestamp=1729323751484",
+        "author": "Angelica Lo Duca",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4654/webstorage_links/22785/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4646,
+        "title": "AI-Powered Developer",
+        "img": "http://image.banshujiang.cn/4646.jpeg?timestamp=1729262254665",
+        "author": "Nathan B. Crocker",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4646/webstorage_links/22763/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4636,
+        "title": "机器学习实战",
+        "img": "http://image.banshujiang.cn/4636.jpeg?timestamp=1728998810504",
+        "author": "[美]Peter Harrington [译]李锐、李鹏、曲亚东、王斌",
+        "language": "中文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4636/webstorage_links/22743/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4635,
+        "title": "机器学习与优化",
+        "img": "http://image.banshujiang.cn/4635.jpeg?timestamp=1728998695572",
+        "author": "[意]罗伯托·巴蒂蒂、毛罗·布鲁纳托 [译]王彧弋",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4635/webstorage_links/22741/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4630,
+        "title": "精通Python自然语言处理",
+        "img": "http://image.banshujiang.cn/4630.jpeg?timestamp=1728998145308",
+        "author": "[印度]Deepti Chopra、Nisheeth Joshi、Iti Mathur [译]王威",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4630/webstorage_links/22731/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4629,
+        "title": "精通机器学习：基于R(第2版)",
+        "img": "http://image.banshujiang.cn/4629.jpeg?timestamp=1728998015871",
+        "author": "[美]Cory Lesmeister [译]陈光欣",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4629/webstorage_links/22729/to_link"
+            }
+        ]
+    }
+]

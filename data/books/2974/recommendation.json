@@ -68,6 +68,22 @@
         ]
     },
     {
+        "id": 4678,
+        "title": "Hands-On MySQL Administration",
+        "img": "http://image.banshujiang.cn/4678.jpeg?timestamp=1729348585736",
+        "author": "Arunjith Aravindan and Jeyaram Ayyalusamy",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4678/webstorage_links/22857/to_link"
+            }
+        ]
+    },
+    {
         "id": 4586,
         "title": "Learning MySQL and MariaDB",
         "img": "http://image.banshujiang.cn/4586.jpeg?timestamp=1728019776669",
@@ -311,27 +327,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3933/webstorage_links/19911/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3884,
-        "title": "The Art of SQL",
-        "img": "http://image.banshujiang.cn/3884.jpeg?timestamp=1714480887820",
-        "author": "Stéphane Faroult ",
-        "language": "英文",
-        "publishYear": 2006,
-        "programLanguage": "SQL",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3884/webstorage_links/19714/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3884/webstorage_links/19713/to_link"
             }
         ]
     }

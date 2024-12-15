@@ -1,5 +1,21 @@
 [
     {
+        "id": 4688,
+        "title": "Starting Data Analytics with Generative AI and Python",
+        "img": "http://image.banshujiang.cn/4688.jpeg?timestamp=1729913287980",
+        "author": "Artur Guja, Marlena Siwiak and Marian Siwiak",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4688/webstorage_links/22889/to_link"
+            }
+        ]
+    },
+    {
         "id": 4666,
         "title": "Learn Generative AI with PyTorch",
         "img": "http://image.banshujiang.cn/4666.jpeg?timestamp=1729328299203",
@@ -276,32 +292,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3030/webstorage_links/16149/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2972,
-        "title": "Machine Learning for Financial Risk Management with Python",
-        "img": "https://imagebsj.netlify.app/2972.jpeg",
-        "author": "Abdullah Karasan",
-        "language": "英文",
-        "publishYear": 2021,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2972/webstorage_links/10963/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2972/webstorage_links/10962/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/2972/webstorage_links/10961/to_link"
             }
         ]
     }

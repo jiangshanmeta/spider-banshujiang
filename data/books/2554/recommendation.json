@@ -1,5 +1,95 @@
 [
     {
+        "id": 4689,
+        "title": "The Complete Obsolete Guide to Generative AI",
+        "img": "http://image.banshujiang.cn/4689.jpeg?timestamp=1729914004769",
+        "author": "David Clinton",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4689/webstorage_links/22893/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4689/webstorage_links/22892/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4688,
+        "title": "Starting Data Analytics with Generative AI and Python",
+        "img": "http://image.banshujiang.cn/4688.jpeg?timestamp=1729913287980",
+        "author": "Artur Guja, Marlena Siwiak and Marian Siwiak",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4688/webstorage_links/22889/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4685,
+        "title": "Quick Start Guide to Large Language Models",
+        "img": "http://image.banshujiang.cn/4685.jpeg?timestamp=1729913003003",
+        "author": "Sinan Ozdemir",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4685/webstorage_links/22881/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4685/webstorage_links/22880/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4676,
+        "title": "Azure OpenAI Service for Cloud Native Applications",
+        "img": "http://image.banshujiang.cn/4676.jpeg?timestamp=1729348416772",
+        "author": "Adrián González Sánchez",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4676/webstorage_links/22853/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4674,
+        "title": "LLMs and Generative AI for Healthcare",
+        "img": "http://image.banshujiang.cn/4674.jpeg?timestamp=1729348297325",
+        "author": "Kerrie Holley and Manish Mathur",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4674/webstorage_links/22849/to_link"
+            }
+        ]
+    },
+    {
         "id": 4672,
         "title": "Machine Learning Algorithms in Depth",
         "img": "http://image.banshujiang.cn/4672.jpeg?timestamp=1729348159840",
@@ -187,106 +277,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4630/webstorage_links/22731/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4629,
-        "title": "精通机器学习：基于R(第2版)",
-        "img": "http://image.banshujiang.cn/4629.jpeg?timestamp=1728998015871",
-        "author": "[美]Cory Lesmeister [译]陈光欣",
-        "language": "中文",
-        "publishYear": 2018,
-        "programLanguage": "R",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4629/webstorage_links/22729/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4620,
-        "title": "深度学习入门：基于Python的理论与实现",
-        "img": "http://image.banshujiang.cn/4620.jpeg?timestamp=1728996784456",
-        "author": "[日]斋藤康毅  [译]陆宇杰",
-        "language": "中文",
-        "publishYear": 2018,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4620/webstorage_links/22711/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4598,
-        "title": "Programming iOS 9 6th Edition",
-        "img": "http://image.banshujiang.cn/4598.jpeg?timestamp=1728021101385",
-        "author": "Matt Neuburg",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4598/webstorage_links/22657/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4598/webstorage_links/22655/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4598/webstorage_links/22656/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4582,
-        "title": "iOS Swift Game Development Cookbook 2nd Edition",
-        "img": "http://image.banshujiang.cn/4582.jpeg?timestamp=1728013483931",
-        "author": "Jonathon Manning and Paris Buttfield-Addison",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4582/webstorage_links/22579/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4582/webstorage_links/22577/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4582/webstorage_links/22578/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4581,
-        "title": "iOS 9 Swift Programming Cookbook",
-        "img": "http://image.banshujiang.cn/4581.jpeg?timestamp=1728013391134",
-        "author": "Vandad Nahavandipoor",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4581/webstorage_links/22573/to_link"
             }
         ]
     }

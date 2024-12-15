@@ -212,6 +212,22 @@
         ]
     },
     {
+        "id": 4678,
+        "title": "Hands-On MySQL Administration",
+        "img": "http://image.banshujiang.cn/4678.jpeg?timestamp=1729348585736",
+        "author": "Arunjith Aravindan and Jeyaram Ayyalusamy",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4678/webstorage_links/22857/to_link"
+            }
+        ]
+    },
+    {
         "id": 4586,
         "title": "Learning MySQL and MariaDB",
         "img": "http://image.banshujiang.cn/4586.jpeg?timestamp=1728019776669",
@@ -271,32 +287,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4466/webstorage_links/22012/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4318,
-        "title": "WordPress: the missing manual 2nd Edition",
-        "img": "http://image.banshujiang.cn/4318.jpeg?timestamp=1720924817079",
-        "author": "Matthew MacDonald",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "PHP",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4318/webstorage_links/21489/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4318/webstorage_links/21487/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4318/webstorage_links/21488/to_link"
             }
         ]
     }

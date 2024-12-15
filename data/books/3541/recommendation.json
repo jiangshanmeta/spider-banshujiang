@@ -164,6 +164,59 @@
         ]
     },
     {
+        "id": 4688,
+        "title": "Starting Data Analytics with Generative AI and Python",
+        "img": "http://image.banshujiang.cn/4688.jpeg?timestamp=1729913287980",
+        "author": "Artur Guja, Marlena Siwiak and Marian Siwiak",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4688/webstorage_links/22889/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4681,
+        "title": "Pandas for Everyone: Python Data Analysis 2nd Edition",
+        "img": "http://image.banshujiang.cn/4681.jpeg?timestamp=1729912403173",
+        "author": "Daniel Y. Chen",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4681/webstorage_links/22865/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4681/webstorage_links/22864/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4679,
+        "title": "Hypermodern Python Tooling",
+        "img": "http://image.banshujiang.cn/4679.jpeg?timestamp=1729348653398",
+        "author": "Claudio Jolowicz",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4679/webstorage_links/22859/to_link"
+            }
+        ]
+    },
+    {
         "id": 4666,
         "title": "Learn Generative AI with PyTorch",
         "img": "http://image.banshujiang.cn/4666.jpeg?timestamp=1729328299203",
@@ -229,54 +282,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4640/webstorage_links/22751/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4638,
-        "title": "黑客攻防技术宝典：iOS实战篇",
-        "img": "http://image.banshujiang.cn/4638.jpeg?timestamp=1728999150838",
-        "author": "[美]Charlie Miller [译]傅尔也",
-        "language": "中文",
-        "publishYear": 2013,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4638/webstorage_links/22747/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4631,
-        "title": "精通Django：Django 1.8 LTS 全解",
-        "img": "http://image.banshujiang.cn/4631.jpeg?timestamp=1728998315994",
-        "author": "Nigel George [译]安道",
-        "language": "中文",
-        "publishYear": 2016,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4631/webstorage_links/22733/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4630,
-        "title": "精通Python自然语言处理",
-        "img": "http://image.banshujiang.cn/4630.jpeg?timestamp=1728998145308",
-        "author": "[印度]Deepti Chopra、Nisheeth Joshi、Iti Mathur [译]王威",
-        "language": "中文",
-        "publishYear": 2017,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4630/webstorage_links/22731/to_link"
             }
         ]
     }

@@ -64,6 +64,27 @@
         ]
     },
     {
+        "id": 4690,
+        "title": "Writing a C Compiler",
+        "img": "http://image.banshujiang.cn/4690.jpeg?timestamp=1729914101165",
+        "author": "Nora Sandler",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4690/webstorage_links/22897/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4690/webstorage_links/22896/to_link"
+            }
+        ]
+    },
+    {
         "id": 4539,
         "title": "C in a Nutshell 2nd Edition Early Release",
         "img": "http://image.banshujiang.cn/4539.jpeg?timestamp=1727874148646",
@@ -311,27 +332,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3822/webstorage_links/19467/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3821,
-        "title": "Advanced Topics in C",
-        "img": "http://image.banshujiang.cn/3821.jpeg?timestamp=1713585043065",
-        "author": "Noel Kaliicharan",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "C",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3821/webstorage_links/19464/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3821/webstorage_links/19463/to_link"
             }
         ]
     }
