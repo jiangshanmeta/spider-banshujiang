@@ -1,5 +1,57 @@
 [
     {
+        "id": 4704,
+        "title": "Getting MEAN: with Mongo, Express, Angular, and Node",
+        "img": "http://image.banshujiang.cn/4704.jpeg?timestamp=1729920343754",
+        "author": "Simon Holmes",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4704/webstorage_links/22969/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4704/webstorage_links/22967/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4704/webstorage_links/22968/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4700,
+        "title": "Web Development with MongoDB and NodeJS 2nd Edition",
+        "img": "http://image.banshujiang.cn/4700.jpeg?timestamp=1729919724393",
+        "author": "Mithun Satheesh, Bruno Joseph D&#39;mello and Jason Krol",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4700/webstorage_links/22945/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4700/webstorage_links/22943/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4700/webstorage_links/22944/to_link"
+            }
+        ]
+    },
+    {
         "id": 4688,
         "title": "Starting Data Analytics with Generative AI and Python",
         "img": "http://image.banshujiang.cn/4688.jpeg?timestamp=1729913287980",
@@ -270,38 +322,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4486/webstorage_links/22087/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4485,
-        "title": "Python机器学习经典实例",
-        "img": "http://image.banshujiang.cn/4485.jpeg?timestamp=1723950348200",
-        "author": "[美]Prateek Joshi [译]陶俊杰、陈小莉",
-        "language": "中文",
-        "publishYear": 2017,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4485/webstorage_links/22085/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4484,
-        "title": "Python机器学习基础教程",
-        "img": "http://image.banshujiang.cn/4484.jpeg?timestamp=1723950193033",
-        "author": "[德]Andreas C. Müller [美]Sarah Guido [译]张亮",
-        "language": "中文",
-        "publishYear": 2018,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4484/webstorage_links/22083/to_link"
             }
         ]
     }

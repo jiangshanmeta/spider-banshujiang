@@ -1,5 +1,31 @@
 [
     {
+        "id": 4707,
+        "title": "Java Persistence with Hibernate 2nd Edition",
+        "img": "http://image.banshujiang.cn/4707.jpeg?timestamp=1729929053638",
+        "author": "Christian Bauer, Gavin King and Gary Gregory",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4707/webstorage_links/22987/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4707/webstorage_links/22985/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4707/webstorage_links/22986/to_link"
+            }
+        ]
+    },
+    {
         "id": 4651,
         "title": "Core Java: for The Impatient 4th Edition",
         "img": "http://image.banshujiang.cn/4651.jpeg?timestamp=1729323430330",
@@ -341,32 +367,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4306/webstorage_links/21427/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4305,
-        "title": "Java Cookbook 3rd Edition",
-        "img": "http://image.banshujiang.cn/4305.jpeg?timestamp=1722472535128",
-        "author": "Ian F. Darwin",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4305/webstorage_links/21424/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4305/webstorage_links/21422/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4305/webstorage_links/21423/to_link"
             }
         ]
     }

@@ -32,6 +32,58 @@
         ]
     },
     {
+        "id": 4704,
+        "title": "Getting MEAN: with Mongo, Express, Angular, and Node",
+        "img": "http://image.banshujiang.cn/4704.jpeg?timestamp=1729920343754",
+        "author": "Simon Holmes",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4704/webstorage_links/22969/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4704/webstorage_links/22967/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4704/webstorage_links/22968/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4700,
+        "title": "Web Development with MongoDB and NodeJS 2nd Edition",
+        "img": "http://image.banshujiang.cn/4700.jpeg?timestamp=1729919724393",
+        "author": "Mithun Satheesh, Bruno Joseph D&#39;mello and Jason Krol",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4700/webstorage_links/22945/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4700/webstorage_links/22943/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4700/webstorage_links/22944/to_link"
+            }
+        ]
+    },
+    {
         "id": 4428,
         "title": "Ext JS实战(第2版)",
         "img": "http://image.banshujiang.cn/4428.jpeg?timestamp=1723343708723",
@@ -220,38 +272,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/946/webstorage_links/15406/to_link"
-            }
-        ]
-    },
-    {
-        "id": 945,
-        "title": "Mastering Web Application Development with AngularJS",
-        "img": "https://imagebsj.netlify.app/945.jpeg",
-        "author": "Pawel Kozlowski and Peter Bacon Darwin",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/945/webstorage_links/15404/to_link"
-            }
-        ]
-    },
-    {
-        "id": 941,
-        "title": "AngularJS",
-        "img": "https://imagebsj.netlify.app/941.jpeg",
-        "author": "Brad Green and Shyam Seshadri",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/941/webstorage_links/15396/to_link"
             }
         ]
     }

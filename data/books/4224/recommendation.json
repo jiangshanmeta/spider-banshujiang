@@ -1,5 +1,57 @@
 [
     {
+        "id": 4712,
+        "title": "Introducing Go",
+        "img": "http://image.banshujiang.cn/4712.jpeg?timestamp=1729930055203",
+        "author": "Caleb Doxsey",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Go",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4712/webstorage_links/23017/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4712/webstorage_links/23015/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4712/webstorage_links/23016/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4705,
+        "title": "Go in Action",
+        "img": "http://image.banshujiang.cn/4705.jpeg?timestamp=1729920460165",
+        "author": "William Kennedy",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Go",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4705/webstorage_links/22975/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4705/webstorage_links/22973/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4705/webstorage_links/22974/to_link"
+            }
+        ]
+    },
+    {
         "id": 4649,
         "title": "Build Your Own Database From Scratch in Go 2nd Edition",
         "img": "http://image.banshujiang.cn/4649.jpeg?timestamp=1729323242467",
@@ -320,38 +372,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3009/webstorage_links/16073/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3003,
-        "title": "Go语言实战",
-        "img": "https://imagebsj.netlify.app/3003.jpeg",
-        "author": "李兆海 译",
-        "language": "中文",
-        "publishYear": 2017,
-        "programLanguage": "Go",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3003/webstorage_links/16055/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3002,
-        "title": "Go程序设计语言",
-        "img": "https://imagebsj.netlify.app/3002.jpeg",
-        "author": "李道兵 译",
-        "language": "中文",
-        "publishYear": 2017,
-        "programLanguage": "Go",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3002/webstorage_links/15518/to_link"
             }
         ]
     }

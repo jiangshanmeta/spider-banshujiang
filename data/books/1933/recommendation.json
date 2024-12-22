@@ -1,5 +1,57 @@
 [
     {
+        "id": 4704,
+        "title": "Getting MEAN: with Mongo, Express, Angular, and Node",
+        "img": "http://image.banshujiang.cn/4704.jpeg?timestamp=1729920343754",
+        "author": "Simon Holmes",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4704/webstorage_links/22969/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4704/webstorage_links/22967/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4704/webstorage_links/22968/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4700,
+        "title": "Web Development with MongoDB and NodeJS 2nd Edition",
+        "img": "http://image.banshujiang.cn/4700.jpeg?timestamp=1729919724393",
+        "author": "Mithun Satheesh, Bruno Joseph D&#39;mello and Jason Krol",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4700/webstorage_links/22945/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4700/webstorage_links/22943/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4700/webstorage_links/22944/to_link"
+            }
+        ]
+    },
+    {
         "id": 4487,
         "title": "Full Stack JavaScript Development with MEAN",
         "img": "http://image.banshujiang.cn/4487.jpeg?timestamp=1723950583814",
@@ -260,38 +312,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/434/webstorage_links/14384/to_link"
-            }
-        ]
-    },
-    {
-        "id": 128,
-        "title": "Building Node Applications with MongoDB and Backbone",
-        "img": "https://imagebsj.netlify.app/128.jpeg",
-        "author": "Mike Wilson",
-        "language": "英文",
-        "publishYear": 2012,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/128/webstorage_links/13773/to_link"
-            }
-        ]
-    },
-    {
-        "id": 97,
-        "title": "Ruby and MongoDB Web Development Beginner&#39;s Guide",
-        "img": "https://imagebsj.netlify.app/97.jpeg",
-        "author": "Gautam Rege",
-        "language": "英文",
-        "publishYear": 2012,
-        "programLanguage": "Ruby",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/97/webstorage_links/13711/to_link"
             }
         ]
     }

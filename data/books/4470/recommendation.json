@@ -1,5 +1,31 @@
 [
     {
+        "id": 4709,
+        "title": "sbt in Action",
+        "img": "http://image.banshujiang.cn/4709.jpeg?timestamp=1729929359320",
+        "author": "Joshua Suereth and Matthew Farwell",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Scala",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4709/webstorage_links/22999/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4709/webstorage_links/22997/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4709/webstorage_links/22998/to_link"
+            }
+        ]
+    },
+    {
         "id": 4464,
         "title": "Learning Scala",
         "img": "http://image.banshujiang.cn/4464.jpeg?timestamp=1723875254682",
