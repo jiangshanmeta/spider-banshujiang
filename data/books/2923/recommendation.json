@@ -95,6 +95,22 @@
         ]
     },
     {
+        "id": 4719,
+        "title": "Exploratory Data Analysis with R",
+        "img": "http://image.banshujiang.cn/4719.jpeg?timestamp=1729930844696",
+        "author": "Roger D. Peng",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4719/webstorage_links/23048/to_link"
+            }
+        ]
+    },
+    {
         "id": 4689,
         "title": "The Complete Obsolete Guide to Generative AI",
         "img": "http://image.banshujiang.cn/4689.jpeg?timestamp=1729914004769",
@@ -276,22 +292,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4661/webstorage_links/22810/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4655,
-        "title": "Developing Apps with GPT-4 and ChatGPT 2nd Edition",
-        "img": "http://image.banshujiang.cn/4655.jpeg?timestamp=1729323829119",
-        "author": "Olivier Caelen and Marie-Alice Blete",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4655/webstorage_links/22787/to_link"
             }
         ]
     }

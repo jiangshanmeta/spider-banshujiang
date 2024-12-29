@@ -1,5 +1,58 @@
 [
     {
+        "id": 4725,
+        "title": "Linux命令行与shell脚本编程大全(第3版)",
+        "img": "http://image.banshujiang.cn/4725.jpeg?timestamp=1729932514435",
+        "author": "[美]Richard Blum、Christine Bresnahan [译]门佳、武海峰",
+        "language": "中文",
+        "publishYear": 2016,
+        "programLanguage": "Shell Script",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4725/webstorage_links/23066/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4724,
+        "title": "Linux Shell脚本攻略(第3版)",
+        "img": "http://image.banshujiang.cn/4724.jpeg?timestamp=1729932242241",
+        "author": "[美]Clif Flynt [印]Sarath Lakshman、Shantanu Tushar",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4724/webstorage_links/23064/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4718,
+        "title": "iOS 9 by Tutorials",
+        "img": "http://image.banshujiang.cn/4718.jpeg?timestamp=1729930745085",
+        "author": "the raywenderlich.com Tutorial Team",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4718/webstorage_links/23046/to_link"
+            },
+            {
+                "fmt": "CODE",
+                "title": "城通网盘",
+                "link": "/e_books/4718/webstorage_links/23045/to_link"
+            }
+        ]
+    },
+    {
         "id": 4671,
         "title": "Linux Kernel Programming 2nd Edition",
         "img": "http://image.banshujiang.cn/4671.jpeg?timestamp=1729348067081",
@@ -269,69 +322,6 @@
                 "fmt": "AZW3",
                 "title": "城通网盘",
                 "link": "/e_books/4489/webstorage_links/22104/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4473,
-        "title": "Swift Pocket Reference",
-        "img": "http://image.banshujiang.cn/4473.jpeg?timestamp=1723945260751",
-        "author": "Anthony Gray",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4473/webstorage_links/22039/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4473/webstorage_links/22038/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4472,
-        "title": "Swift Development with Cocoa",
-        "img": "http://image.banshujiang.cn/4472.jpeg?timestamp=1723945187035",
-        "author": "Jonathon Manning, Paris Buttfield-Addison, and Tim Nugent",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4472/webstorage_links/22035/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4472/webstorage_links/22034/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4458,
-        "title": "iOS 8 Swift Programming Cookbook",
-        "img": "http://image.banshujiang.cn/4458.jpeg?timestamp=1723872072952",
-        "author": "Vandad Nahavandipoor",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4458/webstorage_links/21971/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4458/webstorage_links/21970/to_link"
             }
         ]
     }

@@ -21,6 +21,27 @@
         ]
     },
     {
+        "id": 4718,
+        "title": "iOS 9 by Tutorials",
+        "img": "http://image.banshujiang.cn/4718.jpeg?timestamp=1729930745085",
+        "author": "the raywenderlich.com Tutorial Team",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4718/webstorage_links/23046/to_link"
+            },
+            {
+                "fmt": "CODE",
+                "title": "城通网盘",
+                "link": "/e_books/4718/webstorage_links/23045/to_link"
+            }
+        ]
+    },
+    {
         "id": 4598,
         "title": "Programming iOS 9 6th Edition",
         "img": "http://image.banshujiang.cn/4598.jpeg?timestamp=1728021101385",
@@ -326,37 +347,6 @@
                 "fmt": "CODE",
                 "title": "城通网盘",
                 "link": "/e_books/4322/webstorage_links/21510/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4315,
-        "title": "Programming iOS 8 5th Edition",
-        "img": "http://image.banshujiang.cn/4315.jpeg?timestamp=1720264409455",
-        "author": "Matt Neuburg",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4315/webstorage_links/21473/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4315/webstorage_links/21471/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4315/webstorage_links/21472/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4315/webstorage_links/21470/to_link"
             }
         ]
     }

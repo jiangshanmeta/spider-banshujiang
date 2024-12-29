@@ -1,5 +1,21 @@
 [
     {
+        "id": 4725,
+        "title": "Linux命令行与shell脚本编程大全(第3版)",
+        "img": "http://image.banshujiang.cn/4725.jpeg?timestamp=1729932514435",
+        "author": "[美]Richard Blum、Christine Bresnahan [译]门佳、武海峰",
+        "language": "中文",
+        "publishYear": 2016,
+        "programLanguage": "Shell Script",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4725/webstorage_links/23066/to_link"
+            }
+        ]
+    },
+    {
         "id": 2034,
         "title": "Shell Programming in Unix, Linux and OS X 4th Edition",
         "img": "https://imagebsj.netlify.app/2034.jpeg",
@@ -17,6 +33,22 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/2034/webstorage_links/11198/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4724,
+        "title": "Linux Shell脚本攻略(第3版)",
+        "img": "http://image.banshujiang.cn/4724.jpeg?timestamp=1729932242241",
+        "author": "[美]Clif Flynt [印]Sarath Lakshman、Shantanu Tushar",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4724/webstorage_links/23064/to_link"
             }
         ]
     },
@@ -275,58 +307,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3479/webstorage_links/18173/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3466,
-        "title": "SELinux System Administration 2nd Edition",
-        "img": "http://image.banshujiang.cn/3466.jpeg?timestamp=1696339121429",
-        "author": "Sven Vermeulen",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3466/webstorage_links/18107/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3466/webstorage_links/18109/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/3466/webstorage_links/18108/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3449,
-        "title": "Mastering Swift 3 - Linux",
-        "img": "http://image.banshujiang.cn/3449.jpeg?timestamp=1691892039701",
-        "author": "Jon Hoffman",
-        "language": "英文",
-        "publishYear": 2017,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3449/webstorage_links/18010/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3449/webstorage_links/18009/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/3449/webstorage_links/18011/to_link"
             }
         ]
     }

@@ -1,5 +1,21 @@
 [
     {
+        "id": 4719,
+        "title": "Exploratory Data Analysis with R",
+        "img": "http://image.banshujiang.cn/4719.jpeg?timestamp=1729930844696",
+        "author": "Roger D. Peng",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4719/webstorage_links/23048/to_link"
+            }
+        ]
+    },
+    {
         "id": 4629,
         "title": "精通机器学习：基于R(第2版)",
         "img": "http://image.banshujiang.cn/4629.jpeg?timestamp=1728998015871",
@@ -286,27 +302,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3603/webstorage_links/18633/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3602,
-        "title": "R for Data Science 2nd Edition",
-        "img": "http://image.banshujiang.cn/3602.jpeg?timestamp=1708052265040",
-        "author": "Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "R",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3602/webstorage_links/18631/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3602/webstorage_links/18630/to_link"
             }
         ]
     }

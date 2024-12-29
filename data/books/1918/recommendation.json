@@ -85,6 +85,22 @@
         ]
     },
     {
+        "id": 4726,
+        "title": "MEAN Web开发",
+        "img": "http://image.banshujiang.cn/4726.jpeg?timestamp=1729932675954",
+        "author": "[以色列]Amos Q. Haviv [译]陈世帝",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4726/webstorage_links/23068/to_link"
+            }
+        ]
+    },
+    {
         "id": 4663,
         "title": "High Performance PostgreSQL for Rails",
         "img": "http://image.banshujiang.cn/4663.jpeg?timestamp=1729328041416",
@@ -291,22 +307,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4374/webstorage_links/21685/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4373,
-        "title": "Web开发权威指南",
-        "img": "http://image.banshujiang.cn/4373.jpeg?timestamp=1722049385348",
-        "author": "[美]Chris Aquino、Todd Gandee [译]奇舞团",
-        "language": "中文",
-        "publishYear": 2017,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4373/webstorage_links/21683/to_link"
             }
         ]
     }

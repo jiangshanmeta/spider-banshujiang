@@ -89181,5 +89181,385 @@
                 "link": "/e_books/4712/webstorage_links/23016/to_link"
             }
         ]
+    },
+    {
+        "id": 4713,
+        "title": "Learning React Native",
+        "img": "http://image.banshujiang.cn/4713.jpeg?timestamp=1729930130952",
+        "author": "Bonnie Eisenman",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4713/webstorage_links/23023/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4713/webstorage_links/23021/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4713/webstorage_links/23022/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4714,
+        "title": "PHP Web Services 2nd Edition",
+        "img": "http://image.banshujiang.cn/4714.jpeg?timestamp=1729930251680",
+        "author": "Lorna Jane Mitchell",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "PHP",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4714/webstorage_links/23029/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4714/webstorage_links/23027/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4714/webstorage_links/23028/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4715,
+        "title": "Think Python 2nd Edition",
+        "img": "http://image.banshujiang.cn/4715.jpeg?timestamp=1729930327073",
+        "author": "Allen B. Downey",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4715/webstorage_links/23035/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4715/webstorage_links/23033/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4715/webstorage_links/23034/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4716,
+        "title": "2D iOS &amp; tvOS Games by Tutorials",
+        "img": "http://image.banshujiang.cn/4716.jpeg?timestamp=1729930569053",
+        "author": "the raywenderlich.com Tutorial Team",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4716/webstorage_links/23037/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4717,
+        "title": "Build APIs You Won’t Hate",
+        "img": "http://image.banshujiang.cn/4717.jpeg?timestamp=1729930634829",
+        "author": "Phil Sturgeon",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4717/webstorage_links/23043/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4717/webstorage_links/23041/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4717/webstorage_links/23042/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4718,
+        "title": "iOS 9 by Tutorials",
+        "img": "http://image.banshujiang.cn/4718.jpeg?timestamp=1729930745085",
+        "author": "the raywenderlich.com Tutorial Team",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4718/webstorage_links/23046/to_link"
+            },
+            {
+                "fmt": "CODE",
+                "title": "城通网盘",
+                "link": "/e_books/4718/webstorage_links/23045/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4719,
+        "title": "Exploratory Data Analysis with R",
+        "img": "http://image.banshujiang.cn/4719.jpeg?timestamp=1729930844696",
+        "author": "Roger D. Peng",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4719/webstorage_links/23048/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4720,
+        "title": "Hacking with React",
+        "img": "http://image.banshujiang.cn/4720.jpeg?timestamp=1729930913894",
+        "author": "Paul Hudson",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4720/webstorage_links/23050/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4721,
+        "title": "jQuery基础教程(第4版)",
+        "img": "http://image.banshujiang.cn/4721.jpeg?timestamp=1729931748924",
+        "author": "[美]Jonathan Chaffer Karl Swedberg [译]李松峰",
+        "language": "中文",
+        "publishYear": 2013,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4721/webstorage_links/23052/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4722,
+        "title": "jQuery实战(第2版)",
+        "img": "http://image.banshujiang.cn/4722.jpeg?timestamp=1729931949622",
+        "author": "[美]Bear Bibeault、Yehuda Katz [译]三生石上",
+        "language": "中文",
+        "publishYear": 2012,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4722/webstorage_links/23054/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4723,
+        "title": "Kafka权威指南",
+        "img": "http://image.banshujiang.cn/4723.jpeg?timestamp=1729932061725",
+        "author": "[美]Neha Narkhede、Gwen Shapira、Todd Palino [译]薛命灯",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4723/webstorage_links/23062/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4723/webstorage_links/23060/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4723/webstorage_links/23061/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4723/webstorage_links/23059/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4724,
+        "title": "Linux Shell脚本攻略(第3版)",
+        "img": "http://image.banshujiang.cn/4724.jpeg?timestamp=1729932242241",
+        "author": "[美]Clif Flynt [印]Sarath Lakshman、Shantanu Tushar",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4724/webstorage_links/23064/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4725,
+        "title": "Linux命令行与shell脚本编程大全(第3版)",
+        "img": "http://image.banshujiang.cn/4725.jpeg?timestamp=1729932514435",
+        "author": "[美]Richard Blum、Christine Bresnahan [译]门佳、武海峰",
+        "language": "中文",
+        "publishYear": 2016,
+        "programLanguage": "Shell Script",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4725/webstorage_links/23066/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4726,
+        "title": "MEAN Web开发",
+        "img": "http://image.banshujiang.cn/4726.jpeg?timestamp=1729932675954",
+        "author": "[以色列]Amos Q. Haviv [译]陈世帝",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4726/webstorage_links/23068/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4727,
+        "title": "MySQL 必知必会",
+        "img": "http://image.banshujiang.cn/4727.jpeg?timestamp=1729932834844",
+        "author": "[英]Ben Forta [译]刘晓霞、钟鸣",
+        "language": "中文",
+        "publishYear": 2009,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4727/webstorage_links/23070/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4728,
+        "title": "MySQL与MariaDB学习指南",
+        "img": "http://image.banshujiang.cn/4728.jpeg?timestamp=1729932922818",
+        "author": "[美]Russell J.T. Dyer [译]袁志鹏",
+        "language": "中文",
+        "publishYear": 2016,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4728/webstorage_links/23072/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4729,
+        "title": "Node.js开发指南",
+        "img": "http://image.banshujiang.cn/4729.jpeg?timestamp=1729933137590",
+        "author": "BYVoid",
+        "language": "中文",
+        "publishYear": 2012,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4729/webstorage_links/23074/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4730,
+        "title": "Node.js实战",
+        "img": "http://image.banshujiang.cn/4730.jpeg?timestamp=1729933255340",
+        "author": "[美]Mike Cantelon、Marc Harter、T. J. Holowaychuk、Nathan Rajlich [译]吴海星",
+        "language": "中文",
+        "publishYear": 2014,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4730/webstorage_links/23076/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4731,
+        "title": "Node即学即用",
+        "img": "http://image.banshujiang.cn/4731.jpeg?timestamp=1729934153756",
+        "author": "[英]Tom Hughes-Croucher、Mike Wilson",
+        "language": "中文",
+        "publishYear": 2013,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4731/webstorage_links/23078/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4732,
+        "title": "Node与Express开发",
+        "img": "http://image.banshujiang.cn/4732.jpeg?timestamp=1729934245150",
+        "author": "[美]Ethan Brown [译]吴海星、苏文",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4732/webstorage_links/23080/to_link"
+            }
+        ]
     }
 ]

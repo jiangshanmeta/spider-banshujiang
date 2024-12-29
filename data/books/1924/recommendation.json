@@ -1,5 +1,21 @@
 [
     {
+        "id": 4726,
+        "title": "MEAN Web开发",
+        "img": "http://image.banshujiang.cn/4726.jpeg?timestamp=1729932675954",
+        "author": "[以色列]Amos Q. Haviv [译]陈世帝",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4726/webstorage_links/23068/to_link"
+            }
+        ]
+    },
+    {
         "id": 4652,
         "title": "CSS in Depth 2nd Edition",
         "img": "http://image.banshujiang.cn/4652.jpeg?timestamp=1729323522789",
@@ -296,22 +312,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4286/webstorage_links/21337/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4285,
-        "title": "CSS揭秘",
-        "img": "http://image.banshujiang.cn/4285.jpeg?timestamp=1720097208074",
-        "author": "[希]LEA VEROU [译]CSS魔法",
-        "language": "中文",
-        "publishYear": 2016,
-        "programLanguage": "CSS",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4285/webstorage_links/21335/to_link"
             }
         ]
     }

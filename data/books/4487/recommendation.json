@@ -32,6 +32,22 @@
         ]
     },
     {
+        "id": 4726,
+        "title": "MEAN Web开发",
+        "img": "http://image.banshujiang.cn/4726.jpeg?timestamp=1729932675954",
+        "author": "[以色列]Amos Q. Haviv [译]陈世帝",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4726/webstorage_links/23068/to_link"
+            }
+        ]
+    },
+    {
         "id": 4704,
         "title": "Getting MEAN: with Mongo, Express, Angular, and Node",
         "img": "http://image.banshujiang.cn/4704.jpeg?timestamp=1729920343754",
@@ -256,22 +272,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/1201/webstorage_links/12915/to_link"
-            }
-        ]
-    },
-    {
-        "id": 946,
-        "title": "Dependency Injection with AngularJS",
-        "img": "https://imagebsj.netlify.app/946.jpeg",
-        "author": "Alex Knol",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/946/webstorage_links/15406/to_link"
             }
         ]
     }

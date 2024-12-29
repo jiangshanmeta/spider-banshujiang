@@ -1,5 +1,31 @@
 [
     {
+        "id": 4715,
+        "title": "Think Python 2nd Edition",
+        "img": "http://image.banshujiang.cn/4715.jpeg?timestamp=1729930327073",
+        "author": "Allen B. Downey",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4715/webstorage_links/23035/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4715/webstorage_links/23033/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4715/webstorage_links/23034/to_link"
+            }
+        ]
+    },
+    {
         "id": 4688,
         "title": "Starting Data Analytics with Generative AI and Python",
         "img": "http://image.banshujiang.cn/4688.jpeg?timestamp=1729913287980",
@@ -276,27 +302,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4457/webstorage_links/21966/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4445,
-        "title": "Cython",
-        "img": "http://image.banshujiang.cn/4445.jpeg?timestamp=1723641730620",
-        "author": "Kurt W. Smith",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4445/webstorage_links/21917/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4445/webstorage_links/21916/to_link"
             }
         ]
     }
