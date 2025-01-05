@@ -1,5 +1,99 @@
 [
     {
+        "id": 4750,
+        "title": "Linux系统命令及Shell脚本实践指南",
+        "img": "http://image.banshujiang.cn/4750.jpeg?timestamp=1730532460844",
+        "author": "王军",
+        "language": "中文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4750/webstorage_links/23161/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4750/webstorage_links/23162/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4750/webstorage_links/23160/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4749,
+        "title": "Linux 内核设计的艺术：图解Linux 操作系统架构设计与实现原理(第2版)",
+        "img": "http://image.banshujiang.cn/4749.jpeg?timestamp=1730532372243",
+        "author": "新设计团队",
+        "language": "中文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4749/webstorage_links/23155/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4749/webstorage_links/23156/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4749/webstorage_links/23154/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4748,
+        "title": "Linux就该这么学",
+        "img": "http://image.banshujiang.cn/4748.jpeg?timestamp=1730532225803",
+        "author": "刘遄",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4748/webstorage_links/23149/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4748/webstorage_links/23150/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4748/webstorage_links/23148/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4743,
+        "title": "iOS Apps with REST APIs: Building Web-Driven Apps in Swift",
+        "img": "http://image.banshujiang.cn/4743.jpeg?timestamp=1730530513754",
+        "author": "Christina Moulton",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4743/webstorage_links/23120/to_link"
+            }
+        ]
+    },
+    {
         "id": 4725,
         "title": "Linux命令行与shell脚本编程大全(第3版)",
         "img": "http://image.banshujiang.cn/4725.jpeg?timestamp=1729932514435",
@@ -233,95 +327,6 @@
                 "fmt": "CODE",
                 "title": "城通网盘",
                 "link": "/e_books/4507/webstorage_links/22188/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4506,
-        "title": "How Linux Works 2nd Edition",
-        "img": "http://image.banshujiang.cn/4506.jpeg?timestamp=1727832117952",
-        "author": "Brian Ward",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4506/webstorage_links/22185/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4506/webstorage_links/22184/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4503,
-        "title": "Core Data by Tutorials 2nd Edition",
-        "img": "http://image.banshujiang.cn/4503.jpeg?timestamp=1725188115009",
-        "author": "Aaron Douglas, Saul Mora, Matthew Morey and Pietro Rea",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4503/webstorage_links/22171/to_link"
-            },
-            {
-                "fmt": "CODE",
-                "title": "城通网盘",
-                "link": "/e_books/4503/webstorage_links/22170/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4490,
-        "title": "Linux多线程服务端编程：使用muduo C++网络库",
-        "img": "http://image.banshujiang.cn/4490.jpeg?timestamp=1728110768945",
-        "author": "陈硕",
-        "language": "中文",
-        "publishYear": 2013,
-        "programLanguage": "C++",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4490/webstorage_links/22110/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4490/webstorage_links/22111/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4490/webstorage_links/22109/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4489,
-        "title": "Linux Bash编程与脚本应用实战",
-        "img": "http://image.banshujiang.cn/4489.jpeg?timestamp=1723955491187",
-        "author": "马玉军、郝军",
-        "language": "中文",
-        "publishYear": 2015,
-        "programLanguage": "Shell Script",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4489/webstorage_links/22105/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4489/webstorage_links/22104/to_link"
             }
         ]
     }

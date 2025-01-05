@@ -1,5 +1,26 @@
 [
     {
+        "id": 4737,
+        "title": "Machine Learning: The Art and Science of Algorithms that Make Sense of Data",
+        "img": "http://image.banshujiang.cn/4737.jpeg?timestamp=1729935346241",
+        "author": "Peter Flach",
+        "language": "英文",
+        "publishYear": 2012,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4737/webstorage_links/23100/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4737/webstorage_links/23099/to_link"
+            }
+        ]
+    },
+    {
         "id": 4689,
         "title": "The Complete Obsolete Guide to Generative AI",
         "img": "http://image.banshujiang.cn/4689.jpeg?timestamp=1729914004769",

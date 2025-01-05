@@ -16,6 +16,22 @@
         ]
     },
     {
+        "id": 4743,
+        "title": "iOS Apps with REST APIs: Building Web-Driven Apps in Swift",
+        "img": "http://image.banshujiang.cn/4743.jpeg?timestamp=1730530513754",
+        "author": "Christina Moulton",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4743/webstorage_links/23120/to_link"
+            }
+        ]
+    },
+    {
         "id": 4718,
         "title": "iOS 9 by Tutorials",
         "img": "http://image.banshujiang.cn/4718.jpeg?timestamp=1729930745085",
@@ -306,27 +322,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4458/webstorage_links/21970/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4456,
-        "title": "Introducing iOS 8",
-        "img": "http://image.banshujiang.cn/4456.jpeg?timestamp=1723865864084",
-        "author": "Steve Derico",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4456/webstorage_links/21963/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4456/webstorage_links/21962/to_link"
             }
         ]
     }

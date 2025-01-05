@@ -95,6 +95,43 @@
         ]
     },
     {
+        "id": 4741,
+        "title": "Data Wrangling with R",
+        "img": "http://image.banshujiang.cn/4741.jpeg?timestamp=1730530303477",
+        "author": "Bradley C. Boehmke",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4741/webstorage_links/23116/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4737,
+        "title": "Machine Learning: The Art and Science of Algorithms that Make Sense of Data",
+        "img": "http://image.banshujiang.cn/4737.jpeg?timestamp=1729935346241",
+        "author": "Peter Flach",
+        "language": "英文",
+        "publishYear": 2012,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4737/webstorage_links/23100/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4737/webstorage_links/23099/to_link"
+            }
+        ]
+    },
+    {
         "id": 4719,
         "title": "Exploratory Data Analysis with R",
         "img": "http://image.banshujiang.cn/4719.jpeg?timestamp=1729930844696",
@@ -250,48 +287,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4666/webstorage_links/22829/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4665,
-        "title": "Large Language Model–Based Solutions",
-        "img": "http://image.banshujiang.cn/4665.jpeg?timestamp=1729328222399",
-        "author": "Shreyas Subramanian",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4665/webstorage_links/22827/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4665/webstorage_links/22826/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4661,
-        "title": "Build a Large Language Model (From Scratch)",
-        "img": "http://image.banshujiang.cn/4661.jpeg?timestamp=1729327657552",
-        "author": "Sebastian Raschka",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4661/webstorage_links/22811/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4661/webstorage_links/22810/to_link"
             }
         ]
     }

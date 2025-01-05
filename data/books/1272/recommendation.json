@@ -1,5 +1,21 @@
 [
     {
+        "id": 4742,
+        "title": "Deploying PHP Applications",
+        "img": "http://image.banshujiang.cn/4742.jpeg?timestamp=1730530436412",
+        "author": "Niklas Modess",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "PHP",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4742/webstorage_links/23118/to_link"
+            }
+        ]
+    },
+    {
         "id": 4714,
         "title": "PHP Web Services 2nd Edition",
         "img": "http://image.banshujiang.cn/4714.jpeg?timestamp=1729930251680",
@@ -351,27 +367,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3773/webstorage_links/19302/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3754,
-        "title": "Expert PHP and MySQL",
-        "img": "http://image.banshujiang.cn/3754.jpeg?timestamp=1712399645821",
-        "author": "Marc Rochkind",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "PHP",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3754/webstorage_links/19199/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3754/webstorage_links/19198/to_link"
             }
         ]
     }

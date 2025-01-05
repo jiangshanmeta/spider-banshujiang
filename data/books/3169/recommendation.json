@@ -1,5 +1,31 @@
 [
     {
+        "id": 4738,
+        "title": "Bash Pocket Reference 2nd Edition",
+        "img": "http://image.banshujiang.cn/4738.jpeg?timestamp=1729935444246",
+        "author": "Arnold Robbins",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Shell Script",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4738/webstorage_links/23106/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4738/webstorage_links/23104/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4738/webstorage_links/23105/to_link"
+            }
+        ]
+    },
+    {
         "id": 4725,
         "title": "Linux命令行与shell脚本编程大全(第3版)",
         "img": "http://image.banshujiang.cn/4725.jpeg?timestamp=1729932514435",

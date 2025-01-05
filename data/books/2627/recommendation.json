@@ -26,6 +26,95 @@
         ]
     },
     {
+        "id": 4737,
+        "title": "Machine Learning: The Art and Science of Algorithms that Make Sense of Data",
+        "img": "http://image.banshujiang.cn/4737.jpeg?timestamp=1729935346241",
+        "author": "Peter Flach",
+        "language": "英文",
+        "publishYear": 2012,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4737/webstorage_links/23100/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4737/webstorage_links/23099/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4736,
+        "title": "JavaScript设计模式与开发实践",
+        "img": "http://image.banshujiang.cn/4736.jpeg?timestamp=1729935172934",
+        "author": "曾探",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4736/webstorage_links/23096/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4735,
+        "title": "JavaScript入门经典(第5版)",
+        "img": "http://image.banshujiang.cn/4735.jpeg?timestamp=1729935043947",
+        "author": "[美]Phil Ballard、Michael Moncur [译]王军",
+        "language": "中文",
+        "publishYear": 2013,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4735/webstorage_links/23093/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4735/webstorage_links/23094/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4735/webstorage_links/23092/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4734,
+        "title": "JavaScript面向对象编程指南(第2版)",
+        "img": "http://image.banshujiang.cn/4734.jpeg?timestamp=1729934767809",
+        "author": "[加]Stoyan Stefanov [印]Kumar Chetan Sharma [译]陆禹淳、凌杰",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4734/webstorage_links/23087/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4734/webstorage_links/23088/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4734/webstorage_links/23086/to_link"
+            }
+        ]
+    },
+    {
         "id": 4732,
         "title": "Node与Express开发",
         "img": "http://image.banshujiang.cn/4732.jpeg?timestamp=1729934245150",
@@ -228,110 +317,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/4706/webstorage_links/22980/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4704,
-        "title": "Getting MEAN: with Mongo, Express, Angular, and Node",
-        "img": "http://image.banshujiang.cn/4704.jpeg?timestamp=1729920343754",
-        "author": "Simon Holmes",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4704/webstorage_links/22969/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4704/webstorage_links/22967/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4704/webstorage_links/22968/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4700,
-        "title": "Web Development with MongoDB and NodeJS 2nd Edition",
-        "img": "http://image.banshujiang.cn/4700.jpeg?timestamp=1729919724393",
-        "author": "Mithun Satheesh, Bruno Joseph D&#39;mello and Jason Krol",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4700/webstorage_links/22945/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4700/webstorage_links/22943/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4700/webstorage_links/22944/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4699,
-        "title": "Learning Node.js for Mobile Application Development",
-        "img": "http://image.banshujiang.cn/4699.jpeg?timestamp=1729919626143",
-        "author": "Stefan Buttigieg and Milorad Jevdjenic",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4699/webstorage_links/22939/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4699/webstorage_links/22937/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4699/webstorage_links/22938/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4698,
-        "title": "Getting Started with React Native",
-        "img": "http://image.banshujiang.cn/4698.jpeg?timestamp=1729919541614",
-        "author": "Ethan Holmes and Tom Bray",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4698/webstorage_links/22933/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4698/webstorage_links/22931/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4698/webstorage_links/22932/to_link"
             }
         ]
     }

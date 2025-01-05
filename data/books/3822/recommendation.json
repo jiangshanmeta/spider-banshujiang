@@ -16,6 +16,22 @@
         ]
     },
     {
+        "id": 4740,
+        "title": "C in a Nutshell 2nd Edition",
+        "img": "http://image.banshujiang.cn/4740.jpeg?timestamp=1729935600160",
+        "author": "Peter Prinz and Tony Crawford",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4740/webstorage_links/23114/to_link"
+            }
+        ]
+    },
+    {
         "id": 4690,
         "title": "Writing a C Compiler",
         "img": "http://image.banshujiang.cn/4690.jpeg?timestamp=1729914101165",
@@ -321,27 +337,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3703/webstorage_links/18996/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3687,
-        "title": "Understanding and Using C Pointers",
-        "img": "http://image.banshujiang.cn/3687.jpeg?timestamp=1711699263766",
-        "author": "Richard Reese",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "C",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3687/webstorage_links/18933/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3687/webstorage_links/18932/to_link"
             }
         ]
     }

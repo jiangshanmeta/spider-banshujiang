@@ -1,5 +1,31 @@
 [
     {
+        "id": 4752,
+        "title": "Docker in Action",
+        "img": "http://image.banshujiang.cn/4752.jpeg?timestamp=1730532880952",
+        "author": "Jeff Nickoloff",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4752/webstorage_links/23174/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4752/webstorage_links/23172/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4752/webstorage_links/23173/to_link"
+            }
+        ]
+    },
+    {
         "id": 4657,
         "title": "Docker Deep Dive 2024 Edition",
         "img": "http://image.banshujiang.cn/4657.jpeg?timestamp=1729323997306",

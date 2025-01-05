@@ -1,5 +1,83 @@
 [
     {
+        "id": 4750,
+        "title": "Linux系统命令及Shell脚本实践指南",
+        "img": "http://image.banshujiang.cn/4750.jpeg?timestamp=1730532460844",
+        "author": "王军",
+        "language": "中文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4750/webstorage_links/23161/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4750/webstorage_links/23162/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4750/webstorage_links/23160/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4749,
+        "title": "Linux 内核设计的艺术：图解Linux 操作系统架构设计与实现原理(第2版)",
+        "img": "http://image.banshujiang.cn/4749.jpeg?timestamp=1730532372243",
+        "author": "新设计团队",
+        "language": "中文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4749/webstorage_links/23155/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4749/webstorage_links/23156/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4749/webstorage_links/23154/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4748,
+        "title": "Linux就该这么学",
+        "img": "http://image.banshujiang.cn/4748.jpeg?timestamp=1730532225803",
+        "author": "刘遄",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4748/webstorage_links/23149/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4748/webstorage_links/23150/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4748/webstorage_links/23148/to_link"
+            }
+        ]
+    },
+    {
         "id": 4725,
         "title": "Linux命令行与shell脚本编程大全(第3版)",
         "img": "http://image.banshujiang.cn/4725.jpeg?timestamp=1729932514435",

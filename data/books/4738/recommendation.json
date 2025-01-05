@@ -1,0 +1,118 @@
+[
+    {
+        "id": 4725,
+        "title": "Linux命令行与shell脚本编程大全(第3版)",
+        "img": "http://image.banshujiang.cn/4725.jpeg?timestamp=1729932514435",
+        "author": "[美]Richard Blum、Christine Bresnahan [译]门佳、武海峰",
+        "language": "中文",
+        "publishYear": 2016,
+        "programLanguage": "Shell Script",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4725/webstorage_links/23066/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4489,
+        "title": "Linux Bash编程与脚本应用实战",
+        "img": "http://image.banshujiang.cn/4489.jpeg?timestamp=1723955491187",
+        "author": "马玉军、郝军",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "Shell Script",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4489/webstorage_links/22105/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4489/webstorage_links/22104/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4197,
+        "title": "Learning the bash Shell 3rd Edition",
+        "img": "http://image.banshujiang.cn/4197.jpeg?timestamp=1718626825516",
+        "author": "Cameron Newham and Bill Rosenblatt",
+        "language": "英文",
+        "publishYear": 2005,
+        "programLanguage": "Shell Script",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4197/webstorage_links/20939/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3479,
+        "title": "Wicked Cool Shell Scripts 2nd Edition",
+        "img": "http://image.banshujiang.cn/3479.jpeg?timestamp=1696506790117",
+        "author": "Dave Taylor and Brandon Perry",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Shell Script",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3479/webstorage_links/18172/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3479/webstorage_links/18173/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3169,
+        "title": "bash Cookbook 2nd Edition",
+        "img": "http://image.banshujiang.cn/3169.jpeg?timestamp=1670941526048",
+        "author": "Carl Albing and JP Vossen",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "Shell Script",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3169/webstorage_links/16781/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3169/webstorage_links/16782/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2034,
+        "title": "Shell Programming in Unix, Linux and OS X 4th Edition",
+        "img": "https://imagebsj.netlify.app/2034.jpeg",
+        "author": "Stephen G. Kochan and Patrick Wood",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Shell Script",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2034/webstorage_links/11197/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2034/webstorage_links/11198/to_link"
+            }
+        ]
+    }
+]

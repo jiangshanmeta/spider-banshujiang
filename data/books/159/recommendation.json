@@ -64,6 +64,22 @@
         ]
     },
     {
+        "id": 4740,
+        "title": "C in a Nutshell 2nd Edition",
+        "img": "http://image.banshujiang.cn/4740.jpeg?timestamp=1729935600160",
+        "author": "Peter Prinz and Tony Crawford",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4740/webstorage_links/23114/to_link"
+            }
+        ]
+    },
+    {
         "id": 4690,
         "title": "Writing a C Compiler",
         "img": "http://image.banshujiang.cn/4690.jpeg?timestamp=1729914101165",
@@ -311,27 +327,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3826/webstorage_links/19483/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3822,
-        "title": "Advanced UNIX Programming 2nd Edition",
-        "img": "http://image.banshujiang.cn/3822.jpeg?timestamp=1713604454544",
-        "author": "Marc J. Rochkind",
-        "language": "英文",
-        "publishYear": 2004,
-        "programLanguage": "C",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3822/webstorage_links/19468/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3822/webstorage_links/19467/to_link"
             }
         ]
     }

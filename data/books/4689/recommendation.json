@@ -1,5 +1,26 @@
 [
     {
+        "id": 4737,
+        "title": "Machine Learning: The Art and Science of Algorithms that Make Sense of Data",
+        "img": "http://image.banshujiang.cn/4737.jpeg?timestamp=1729935346241",
+        "author": "Peter Flach",
+        "language": "英文",
+        "publishYear": 2012,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4737/webstorage_links/23100/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4737/webstorage_links/23099/to_link"
+            }
+        ]
+    },
+    {
         "id": 4688,
         "title": "Starting Data Analytics with Generative AI and Python",
         "img": "http://image.banshujiang.cn/4688.jpeg?timestamp=1729913287980",
@@ -256,22 +277,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4630/webstorage_links/22731/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4629,
-        "title": "精通机器学习：基于R(第2版)",
-        "img": "http://image.banshujiang.cn/4629.jpeg?timestamp=1728998015871",
-        "author": "[美]Cory Lesmeister [译]陈光欣",
-        "language": "中文",
-        "publishYear": 2018,
-        "programLanguage": "R",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4629/webstorage_links/22729/to_link"
             }
         ]
     }

@@ -48,6 +48,136 @@
         ]
     },
     {
+        "id": 4747,
+        "title": "Java核心技术-卷I-基础知识(第10版)",
+        "img": "http://image.banshujiang.cn/4747.jpeg?timestamp=1730531712709",
+        "author": "[美]Cay S. Hostmann [译]周立新、陈波、邝劲筠、杜永萍",
+        "language": "中文",
+        "publishYear": 2016,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4747/webstorage_links/23144/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4747/webstorage_links/23142/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4747/webstorage_links/23143/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4747/webstorage_links/23141/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4746,
+        "title": "Java从入门到精通(第4版)",
+        "img": "http://image.banshujiang.cn/4746.jpeg?timestamp=1730531048147",
+        "author": "明日科技",
+        "language": "中文",
+        "publishYear": 2008,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4746/webstorage_links/23135/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4746/webstorage_links/23136/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4746/webstorage_links/23134/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4745,
+        "title": "Java编程的逻辑",
+        "img": "http://image.banshujiang.cn/4745.jpeg?timestamp=1730530814916",
+        "author": "马俊昌",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4745/webstorage_links/23129/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4745/webstorage_links/23130/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4744,
+        "title": "Maven实战",
+        "img": "http://image.banshujiang.cn/4744.jpeg?timestamp=1730530696036",
+        "author": "许晓斌",
+        "language": "中文",
+        "publishYear": 2010,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4744/webstorage_links/23125/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4744/webstorage_links/23126/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4744/webstorage_links/23124/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4739,
+        "title": "Building Maintainable Software Java Edition",
+        "img": "http://image.banshujiang.cn/4739.jpeg?timestamp=1729935520480",
+        "author": "Joost Visser",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4739/webstorage_links/23112/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4739/webstorage_links/23110/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4739/webstorage_links/23111/to_link"
+            }
+        ]
+    },
+    {
         "id": 4707,
         "title": "Java Persistence with Hibernate 2nd Edition",
         "img": "http://image.banshujiang.cn/4707.jpeg?timestamp=1729929053638",
@@ -217,126 +347,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4517/webstorage_links/22233/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4493,
-        "title": "Spring Cloud微服务实战",
-        "img": "http://image.banshujiang.cn/4493.jpeg?timestamp=1724469261859",
-        "author": "翟永超",
-        "language": "中文",
-        "publishYear": 2017,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4493/webstorage_links/22128/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4493/webstorage_links/22129/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4493/webstorage_links/22127/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4488,
-        "title": "Java入门经典(第7版)",
-        "img": "http://image.banshujiang.cn/4488.jpeg?timestamp=1723955295348",
-        "author": "[美]Rogers Cadenhead [译]郝记生",
-        "language": "中文",
-        "publishYear": 2015,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4488/webstorage_links/22100/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4488/webstorage_links/22101/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4488/webstorage_links/22099/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4482,
-        "title": "Play Framework Essentials",
-        "img": "http://image.banshujiang.cn/4482.jpeg?timestamp=1723949882673",
-        "author": "Julien Richard-Foy",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4482/webstorage_links/22075/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4482/webstorage_links/22074/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4450,
-        "title": "Elasticsearch: The Definitive Guide",
-        "img": "http://image.banshujiang.cn/4450.jpeg?timestamp=1723642088722",
-        "author": "Clinton Gormley and Zachary Tong",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4450/webstorage_links/21937/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4450/webstorage_links/21936/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4438,
-        "title": "Java EE开发的颠覆者：Spring Boot实战",
-        "img": "http://image.banshujiang.cn/4438.jpeg?timestamp=1723345008221",
-        "author": "汪云飞",
-        "language": "中文",
-        "publishYear": 2016,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4438/webstorage_links/21878/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4438/webstorage_links/21879/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4438/webstorage_links/21877/to_link"
             }
         ]
     }

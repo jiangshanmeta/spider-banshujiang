@@ -1,5 +1,83 @@
 [
     {
+        "id": 4750,
+        "title": "Linux系统命令及Shell脚本实践指南",
+        "img": "http://image.banshujiang.cn/4750.jpeg?timestamp=1730532460844",
+        "author": "王军",
+        "language": "中文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4750/webstorage_links/23161/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4750/webstorage_links/23162/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4750/webstorage_links/23160/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4749,
+        "title": "Linux 内核设计的艺术：图解Linux 操作系统架构设计与实现原理(第2版)",
+        "img": "http://image.banshujiang.cn/4749.jpeg?timestamp=1730532372243",
+        "author": "新设计团队",
+        "language": "中文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4749/webstorage_links/23155/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4749/webstorage_links/23156/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4749/webstorage_links/23154/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4748,
+        "title": "Linux就该这么学",
+        "img": "http://image.banshujiang.cn/4748.jpeg?timestamp=1730532225803",
+        "author": "刘遄",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4748/webstorage_links/23149/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4748/webstorage_links/23150/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4748/webstorage_links/23148/to_link"
+            }
+        ]
+    },
+    {
         "id": 4725,
         "title": "Linux命令行与shell脚本编程大全(第3版)",
         "img": "http://image.banshujiang.cn/4725.jpeg?timestamp=1729932514435",
@@ -254,84 +332,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3516/webstorage_links/18325/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3466,
-        "title": "SELinux System Administration 2nd Edition",
-        "img": "http://image.banshujiang.cn/3466.jpeg?timestamp=1696339121429",
-        "author": "Sven Vermeulen",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3466/webstorage_links/18107/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3466/webstorage_links/18109/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/3466/webstorage_links/18108/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3449,
-        "title": "Mastering Swift 3 - Linux",
-        "img": "http://image.banshujiang.cn/3449.jpeg?timestamp=1691892039701",
-        "author": "Jon Hoffman",
-        "language": "英文",
-        "publishYear": 2017,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3449/webstorage_links/18010/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3449/webstorage_links/18009/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/3449/webstorage_links/18011/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3372,
-        "title": "Learn Linux in a Month of Lunches",
-        "img": "http://image.banshujiang.cn/3372.jpeg?timestamp=1677311125522",
-        "author": "Steven Ovadia",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3372/webstorage_links/17668/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3372/webstorage_links/17667/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/3372/webstorage_links/17669/to_link"
             }
         ]
     }

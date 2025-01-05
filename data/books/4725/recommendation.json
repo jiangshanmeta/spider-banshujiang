@@ -42,6 +42,110 @@
         ]
     },
     {
+        "id": 4750,
+        "title": "Linux系统命令及Shell脚本实践指南",
+        "img": "http://image.banshujiang.cn/4750.jpeg?timestamp=1730532460844",
+        "author": "王军",
+        "language": "中文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4750/webstorage_links/23161/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4750/webstorage_links/23162/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4750/webstorage_links/23160/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4749,
+        "title": "Linux 内核设计的艺术：图解Linux 操作系统架构设计与实现原理(第2版)",
+        "img": "http://image.banshujiang.cn/4749.jpeg?timestamp=1730532372243",
+        "author": "新设计团队",
+        "language": "中文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4749/webstorage_links/23155/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4749/webstorage_links/23156/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4749/webstorage_links/23154/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4748,
+        "title": "Linux就该这么学",
+        "img": "http://image.banshujiang.cn/4748.jpeg?timestamp=1730532225803",
+        "author": "刘遄",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4748/webstorage_links/23149/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4748/webstorage_links/23150/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4748/webstorage_links/23148/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4738,
+        "title": "Bash Pocket Reference 2nd Edition",
+        "img": "http://image.banshujiang.cn/4738.jpeg?timestamp=1729935444246",
+        "author": "Arnold Robbins",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Shell Script",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4738/webstorage_links/23106/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4738/webstorage_links/23104/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4738/webstorage_links/23105/to_link"
+            }
+        ]
+    },
+    {
         "id": 4724,
         "title": "Linux Shell脚本攻略(第3版)",
         "img": "http://image.banshujiang.cn/4724.jpeg?timestamp=1729932242241",
@@ -238,80 +342,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4197/webstorage_links/20939/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4098,
-        "title": "Linux Pocket Guide 4th Edition",
-        "img": "http://image.banshujiang.cn/4098.jpeg?timestamp=1717330352996",
-        "author": "Daniel J. Barrett",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4098/webstorage_links/20521/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3704,
-        "title": "CentOS 6 Linux Server Cookbook",
-        "img": "http://image.banshujiang.cn/3704.jpeg?timestamp=1711717531983",
-        "author": "Jonathan Hobson",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3704/webstorage_links/19001/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3704/webstorage_links/19000/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3516,
-        "title": "Practical Linux System Administration",
-        "img": "http://image.banshujiang.cn/3516.jpeg?timestamp=1696768973354",
-        "author": "Kenneth Hess",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3516/webstorage_links/18325/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3479,
-        "title": "Wicked Cool Shell Scripts 2nd Edition",
-        "img": "http://image.banshujiang.cn/3479.jpeg?timestamp=1696506790117",
-        "author": "Dave Taylor and Brandon Perry",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "Shell Script",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3479/webstorage_links/18172/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3479/webstorage_links/18173/to_link"
             }
         ]
     }

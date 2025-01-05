@@ -1,5 +1,42 @@
 [
     {
+        "id": 4743,
+        "title": "iOS Apps with REST APIs: Building Web-Driven Apps in Swift",
+        "img": "http://image.banshujiang.cn/4743.jpeg?timestamp=1730530513754",
+        "author": "Christina Moulton",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4743/webstorage_links/23120/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4737,
+        "title": "Machine Learning: The Art and Science of Algorithms that Make Sense of Data",
+        "img": "http://image.banshujiang.cn/4737.jpeg?timestamp=1729935346241",
+        "author": "Peter Flach",
+        "language": "英文",
+        "publishYear": 2012,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4737/webstorage_links/23100/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4737/webstorage_links/23099/to_link"
+            }
+        ]
+    },
+    {
         "id": 4718,
         "title": "iOS 9 by Tutorials",
         "img": "http://image.banshujiang.cn/4718.jpeg?timestamp=1729930745085",
@@ -250,38 +287,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4646/webstorage_links/22763/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4636,
-        "title": "机器学习实战",
-        "img": "http://image.banshujiang.cn/4636.jpeg?timestamp=1728998810504",
-        "author": "[美]Peter Harrington [译]李锐、李鹏、曲亚东、王斌",
-        "language": "中文",
-        "publishYear": 2013,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4636/webstorage_links/22743/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4635,
-        "title": "机器学习与优化",
-        "img": "http://image.banshujiang.cn/4635.jpeg?timestamp=1728998695572",
-        "author": "[意]罗伯托·巴蒂蒂、毛罗·布鲁纳托 [译]王彧弋",
-        "language": "中文",
-        "publishYear": 2018,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4635/webstorage_links/22741/to_link"
             }
         ]
     }
