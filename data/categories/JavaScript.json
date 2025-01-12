@@ -1,5 +1,83 @@
 [
     {
+        "id": 4772,
+        "title": "Learning JavaScript 3rd Edition",
+        "img": "http://image.banshujiang.cn/4772.jpeg?timestamp=1730535181646",
+        "author": "Ethan Brown",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4772/webstorage_links/23284/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4772/webstorage_links/23282/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4772/webstorage_links/23283/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4758,
+        "title": "jQuery UI in Action",
+        "img": "http://image.banshujiang.cn/4758.jpeg?timestamp=1730533445309",
+        "author": "Tj Vantoll",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4758/webstorage_links/23210/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4758/webstorage_links/23208/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4758/webstorage_links/23209/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4754,
+        "title": "Ember.js in Action",
+        "img": "http://image.banshujiang.cn/4754.jpeg?timestamp=1730533053531",
+        "author": "Joachim Haagen Skeie",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4754/webstorage_links/23186/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4754/webstorage_links/23184/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4754/webstorage_links/23185/to_link"
+            }
+        ]
+    },
+    {
         "id": 4736,
         "title": "JavaScript设计模式与开发实践",
         "img": "http://image.banshujiang.cn/4736.jpeg?timestamp=1729935172934",

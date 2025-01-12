@@ -164,6 +164,58 @@
         ]
     },
     {
+        "id": 4762,
+        "title": "Data Wrangling with Python",
+        "img": "http://image.banshujiang.cn/4762.jpeg?timestamp=1730534411227",
+        "author": "Jacqueline Kazil and Katharine Jarmul",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4762/webstorage_links/23230/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4762/webstorage_links/23228/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4762/webstorage_links/23229/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4756,
+        "title": "Hello Raspberry Pi!",
+        "img": "http://image.banshujiang.cn/4756.jpeg?timestamp=1730533247510",
+        "author": "Ryan Heitz",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4756/webstorage_links/23198/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4756/webstorage_links/23196/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4756/webstorage_links/23197/to_link"
+            }
+        ]
+    },
+    {
         "id": 4743,
         "title": "iOS Apps with REST APIs: Building Web-Driven Apps in Swift",
         "img": "http://image.banshujiang.cn/4743.jpeg?timestamp=1730530513754",
@@ -260,38 +312,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4681/webstorage_links/22864/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4679,
-        "title": "Hypermodern Python Tooling",
-        "img": "http://image.banshujiang.cn/4679.jpeg?timestamp=1729348653398",
-        "author": "Claudio Jolowicz",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4679/webstorage_links/22859/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4666,
-        "title": "Learn Generative AI with PyTorch",
-        "img": "http://image.banshujiang.cn/4666.jpeg?timestamp=1729328299203",
-        "author": "Mark Liu",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4666/webstorage_links/22829/to_link"
             }
         ]
     }

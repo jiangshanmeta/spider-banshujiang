@@ -16,6 +16,32 @@
         ]
     },
     {
+        "id": 4757,
+        "title": "Java Testing with Spock",
+        "img": "http://image.banshujiang.cn/4757.jpeg?timestamp=1730533325393",
+        "author": "Konstantinos Kapelonis",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4757/webstorage_links/23204/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4757/webstorage_links/23202/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4757/webstorage_links/23203/to_link"
+            }
+        ]
+    },
+    {
         "id": 4747,
         "title": "Java核心技术-卷I-基础知识(第10版)",
         "img": "http://image.banshujiang.cn/4747.jpeg?timestamp=1730531712709",
@@ -341,32 +367,6 @@
                 "fmt": "AZW3",
                 "title": "城通网盘",
                 "link": "/e_books/4493/webstorage_links/22127/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4488,
-        "title": "Java入门经典(第7版)",
-        "img": "http://image.banshujiang.cn/4488.jpeg?timestamp=1723955295348",
-        "author": "[美]Rogers Cadenhead [译]郝记生",
-        "language": "中文",
-        "publishYear": 2015,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4488/webstorage_links/22100/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4488/webstorage_links/22101/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4488/webstorage_links/22099/to_link"
             }
         ]
     }

@@ -1,5 +1,57 @@
 [
     {
+        "id": 4762,
+        "title": "Data Wrangling with Python",
+        "img": "http://image.banshujiang.cn/4762.jpeg?timestamp=1730534411227",
+        "author": "Jacqueline Kazil and Katharine Jarmul",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4762/webstorage_links/23230/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4762/webstorage_links/23228/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4762/webstorage_links/23229/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4756,
+        "title": "Hello Raspberry Pi!",
+        "img": "http://image.banshujiang.cn/4756.jpeg?timestamp=1730533247510",
+        "author": "Ryan Heitz",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4756/webstorage_links/23198/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4756/webstorage_links/23196/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4756/webstorage_links/23197/to_link"
+            }
+        ]
+    },
+    {
         "id": 4715,
         "title": "Think Python 2nd Edition",
         "img": "http://image.banshujiang.cn/4715.jpeg?timestamp=1729930327073",

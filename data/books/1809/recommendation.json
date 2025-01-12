@@ -48,6 +48,32 @@
         ]
     },
     {
+        "id": 4757,
+        "title": "Java Testing with Spock",
+        "img": "http://image.banshujiang.cn/4757.jpeg?timestamp=1730533325393",
+        "author": "Konstantinos Kapelonis",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4757/webstorage_links/23204/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4757/webstorage_links/23202/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4757/webstorage_links/23203/to_link"
+            }
+        ]
+    },
+    {
         "id": 4747,
         "title": "Java核心技术-卷I-基础知识(第10版)",
         "img": "http://image.banshujiang.cn/4747.jpeg?timestamp=1730531712709",
@@ -331,22 +357,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/4574/webstorage_links/22540/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4517,
-        "title": "OCP Java SE 7 Programmer II Certification Guide",
-        "img": "http://image.banshujiang.cn/4517.jpeg?timestamp=1727835797045",
-        "author": "Mala Gupta",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4517/webstorage_links/22233/to_link"
             }
         ]
     }

@@ -1,0 +1,26 @@
+{
+    "id": 4756,
+    "title": "Hello Raspberry Pi!",
+    "img": "http://image.banshujiang.cn/4756.jpeg?timestamp=1730533247510",
+    "author": "Ryan Heitz",
+    "language": "英文",
+    "publishYear": 2016,
+    "programLanguage": "Python",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/4756/webstorage_links/23198/to_link"
+        },
+        {
+            "fmt": "EPUB",
+            "title": "城通网盘",
+            "link": "/e_books/4756/webstorage_links/23196/to_link"
+        },
+        {
+            "fmt": "MOBI",
+            "title": "城通网盘",
+            "link": "/e_books/4756/webstorage_links/23197/to_link"
+        }
+    ]
+}

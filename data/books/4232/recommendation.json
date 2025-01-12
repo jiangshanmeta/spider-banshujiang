@@ -63,6 +63,32 @@
         ]
     },
     {
+        "id": 4767,
+        "title": "Getting Started with SQL",
+        "img": "http://image.banshujiang.cn/4767.jpeg?timestamp=1730534791423",
+        "author": "Thomas Nield",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "SQL",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4767/webstorage_links/23256/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4767/webstorage_links/23254/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4767/webstorage_links/23255/to_link"
+            }
+        ]
+    },
+    {
         "id": 4728,
         "title": "MySQL与MariaDB学习指南",
         "img": "http://image.banshujiang.cn/4728.jpeg?timestamp=1729932922818",
@@ -291,27 +317,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4043/webstorage_links/20319/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3994,
-        "title": "Analytics Engineering with SQL and dbt",
-        "img": "http://image.banshujiang.cn/3994.jpeg?timestamp=1714645004437",
-        "author": "Rui Machado and Hélder Russa",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "SQL",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3994/webstorage_links/20140/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3994/webstorage_links/20139/to_link"
             }
         ]
     }
