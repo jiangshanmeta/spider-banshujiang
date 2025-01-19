@@ -1,5 +1,78 @@
 [
     {
+        "id": 4789,
+        "title": "Functional Programming in JavaScript",
+        "img": "http://image.banshujiang.cn/4789.jpeg?timestamp=1731120828411",
+        "author": "Luis Atencio",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4789/webstorage_links/23354/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4789/webstorage_links/23353/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4788,
+        "title": "Express in Action",
+        "img": "http://image.banshujiang.cn/4788.jpeg?timestamp=1731120754545",
+        "author": "Evan M. Hahn",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4788/webstorage_links/23350/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4788/webstorage_links/23348/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4788/webstorage_links/23349/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4783,
+        "title": "iOS Programming: The Big Nerd Ranch Guide 5th Editon",
+        "img": "http://image.banshujiang.cn/4783.jpeg?timestamp=1731120235145",
+        "author": "Christian Keur and Aaron Hillegass",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4783/webstorage_links/23334/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4783/webstorage_links/23333/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4783/webstorage_links/23332/to_link"
+            }
+        ]
+    },
+    {
         "id": 4772,
         "title": "Learning JavaScript 3rd Edition",
         "img": "http://image.banshujiang.cn/4772.jpeg?timestamp=1730535181646",
@@ -254,59 +327,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4722/webstorage_links/23054/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4721,
-        "title": "jQuery基础教程(第4版)",
-        "img": "http://image.banshujiang.cn/4721.jpeg?timestamp=1729931748924",
-        "author": "[美]Jonathan Chaffer Karl Swedberg [译]李松峰",
-        "language": "中文",
-        "publishYear": 2013,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4721/webstorage_links/23052/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4720,
-        "title": "Hacking with React",
-        "img": "http://image.banshujiang.cn/4720.jpeg?timestamp=1729930913894",
-        "author": "Paul Hudson",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4720/webstorage_links/23050/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4718,
-        "title": "iOS 9 by Tutorials",
-        "img": "http://image.banshujiang.cn/4718.jpeg?timestamp=1729930745085",
-        "author": "the raywenderlich.com Tutorial Team",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4718/webstorage_links/23046/to_link"
-            },
-            {
-                "fmt": "CODE",
-                "title": "城通网盘",
-                "link": "/e_books/4718/webstorage_links/23045/to_link"
             }
         ]
     }

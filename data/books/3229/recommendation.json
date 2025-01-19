@@ -1,5 +1,31 @@
 [
     {
+        "id": 4778,
+        "title": "Building Machine Learning Systems with Python 2nd Edition",
+        "img": "http://image.banshujiang.cn/4778.jpeg?timestamp=1730535811753",
+        "author": "Luis Pedro and Coelho Willi Richert",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4778/webstorage_links/23312/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4778/webstorage_links/23310/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4778/webstorage_links/23311/to_link"
+            }
+        ]
+    },
+    {
         "id": 4688,
         "title": "Starting Data Analytics with Generative AI and Python",
         "img": "http://image.banshujiang.cn/4688.jpeg?timestamp=1729913287980",
@@ -276,22 +302,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/3281/webstorage_links/17305/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3030,
-        "title": "Natural Language Processing with Python and Spacy",
-        "img": "https://imagebsj.netlify.app/3030.jpeg",
-        "author": "Yuli Vasiliev",
-        "language": "英文",
-        "publishYear": 2020,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3030/webstorage_links/16149/to_link"
             }
         ]
     }

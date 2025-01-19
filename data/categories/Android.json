@@ -1,5 +1,52 @@
 [
     {
+        "id": 4782,
+        "title": "Hello, Android 4th Edition",
+        "img": "http://image.banshujiang.cn/4782.jpeg?timestamp=1731120133719",
+        "author": "Ed Burnette",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4782/webstorage_links/23328/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4782/webstorage_links/23327/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4781,
+        "title": "Android Programming: The Big Nerd Ranch Guide 2nd Edition",
+        "img": "http://image.banshujiang.cn/4781.jpeg?timestamp=1731120000030",
+        "author": "Bill Phillips, Chris Stewart, Brian Hardy and Kristin Marsicano",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4781/webstorage_links/23324/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4781/webstorage_links/23322/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4781/webstorage_links/23323/to_link"
+            }
+        ]
+    },
+    {
         "id": 4641,
         "title": "高性能Android应用开发",
         "img": "http://image.banshujiang.cn/4641.jpeg?timestamp=1729257994689",

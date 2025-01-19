@@ -112,6 +112,22 @@
         ]
     },
     {
+        "id": 4777,
+        "title": "Windows 10: The Missing Manual",
+        "img": "http://image.banshujiang.cn/4777.jpeg?timestamp=1730535715856",
+        "author": "David Pogue",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4777/webstorage_links/23306/to_link"
+            }
+        ]
+    },
+    {
         "id": 4399,
         "title": "PowerShell in Depth 2nd Edition",
         "img": "http://image.banshujiang.cn/4399.jpeg?timestamp=1722074495548",
@@ -271,27 +287,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3898/webstorage_links/19769/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3897,
-        "title": "Windows 8.1 the missing manual",
-        "img": "http://image.banshujiang.cn/3897.jpeg?timestamp=1714483244534",
-        "author": "David Pogue",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3897/webstorage_links/19766/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3897/webstorage_links/19765/to_link"
             }
         ]
     }

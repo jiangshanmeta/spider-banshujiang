@@ -16,6 +16,32 @@
         ]
     },
     {
+        "id": 4783,
+        "title": "iOS Programming: The Big Nerd Ranch Guide 5th Editon",
+        "img": "http://image.banshujiang.cn/4783.jpeg?timestamp=1731120235145",
+        "author": "Christian Keur and Aaron Hillegass",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4783/webstorage_links/23334/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4783/webstorage_links/23333/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4783/webstorage_links/23332/to_link"
+            }
+        ]
+    },
+    {
         "id": 4743,
         "title": "iOS Apps with REST APIs: Building Web-Driven Apps in Swift",
         "img": "http://image.banshujiang.cn/4743.jpeg?timestamp=1730530513754",
@@ -301,27 +327,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4472/webstorage_links/22034/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4458,
-        "title": "iOS 8 Swift Programming Cookbook",
-        "img": "http://image.banshujiang.cn/4458.jpeg?timestamp=1723872072952",
-        "author": "Vandad Nahavandipoor",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4458/webstorage_links/21971/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4458/webstorage_links/21970/to_link"
             }
         ]
     }

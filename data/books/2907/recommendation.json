@@ -21,6 +21,32 @@
         ]
     },
     {
+        "id": 4783,
+        "title": "iOS Programming: The Big Nerd Ranch Guide 5th Editon",
+        "img": "http://image.banshujiang.cn/4783.jpeg?timestamp=1731120235145",
+        "author": "Christian Keur and Aaron Hillegass",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4783/webstorage_links/23334/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4783/webstorage_links/23333/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4783/webstorage_links/23332/to_link"
+            }
+        ]
+    },
+    {
         "id": 4743,
         "title": "iOS Apps with REST APIs: Building Web-Driven Apps in Swift",
         "img": "http://image.banshujiang.cn/4743.jpeg?timestamp=1730530513754",
@@ -316,32 +342,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4456/webstorage_links/21962/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4366,
-        "title": "iOS编程基础：Swift、Xcode和Cocoa入门指南",
-        "img": "http://image.banshujiang.cn/4366.jpeg?timestamp=1721472827531",
-        "author": "[美]Matt Neuburg [译]张龙",
-        "language": "中文",
-        "publishYear": 2017,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4366/webstorage_links/21664/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4366/webstorage_links/21665/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4366/webstorage_links/21663/to_link"
             }
         ]
     }

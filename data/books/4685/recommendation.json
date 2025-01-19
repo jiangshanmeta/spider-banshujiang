@@ -1,5 +1,52 @@
 [
     {
+        "id": 4779,
+        "title": "Machine Learning with Spark",
+        "img": "http://image.banshujiang.cn/4779.jpeg?timestamp=1730535897532",
+        "author": "Nick Pentreath",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4779/webstorage_links/23316/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4779/webstorage_links/23315/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4778,
+        "title": "Building Machine Learning Systems with Python 2nd Edition",
+        "img": "http://image.banshujiang.cn/4778.jpeg?timestamp=1730535811753",
+        "author": "Luis Pedro and Coelho Willi Richert",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4778/webstorage_links/23312/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4778/webstorage_links/23310/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4778/webstorage_links/23311/to_link"
+            }
+        ]
+    },
+    {
         "id": 4737,
         "title": "Machine Learning: The Art and Science of Algorithms that Make Sense of Data",
         "img": "http://image.banshujiang.cn/4737.jpeg?timestamp=1729935346241",
@@ -245,38 +292,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4636/webstorage_links/22743/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4635,
-        "title": "机器学习与优化",
-        "img": "http://image.banshujiang.cn/4635.jpeg?timestamp=1728998695572",
-        "author": "[意]罗伯托·巴蒂蒂、毛罗·布鲁纳托 [译]王彧弋",
-        "language": "中文",
-        "publishYear": 2018,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4635/webstorage_links/22741/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4630,
-        "title": "精通Python自然语言处理",
-        "img": "http://image.banshujiang.cn/4630.jpeg?timestamp=1728998145308",
-        "author": "[印度]Deepti Chopra、Nisheeth Joshi、Iti Mathur [译]王威",
-        "language": "中文",
-        "publishYear": 2017,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4630/webstorage_links/22731/to_link"
             }
         ]
     }

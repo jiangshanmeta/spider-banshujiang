@@ -90511,5 +90511,404 @@
                 "link": "/e_books/4772/webstorage_links/23283/to_link"
             }
         ]
+    },
+    {
+        "id": 4773,
+        "title": "Programming Robots with ROS",
+        "img": "http://image.banshujiang.cn/4773.jpeg?timestamp=1730535247645",
+        "author": "Morgan Quigley, Brian Gerkey, and William D. Smart",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4773/webstorage_links/23290/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4773/webstorage_links/23288/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4773/webstorage_links/23289/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4774,
+        "title": "Switching to the Mac El Capitan Edition the missing manual",
+        "img": "http://image.banshujiang.cn/4774.jpeg?timestamp=1730535398787",
+        "author": "David Pogue",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4774/webstorage_links/23292/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4775,
+        "title": "Understanding Industrial Design",
+        "img": "http://image.banshujiang.cn/4775.jpeg?timestamp=1730535535593",
+        "author": "Simon King and Kuen Chang",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4775/webstorage_links/23298/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4775/webstorage_links/23296/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4775/webstorage_links/23297/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4776,
+        "title": "Why: A Guide to Finding and Using Causes",
+        "img": "http://image.banshujiang.cn/4776.jpeg?timestamp=1730535621292",
+        "author": "Samantha Kleinberg",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4776/webstorage_links/23304/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4776/webstorage_links/23302/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4776/webstorage_links/23303/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4777,
+        "title": "Windows 10: The Missing Manual",
+        "img": "http://image.banshujiang.cn/4777.jpeg?timestamp=1730535715856",
+        "author": "David Pogue",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4777/webstorage_links/23306/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4778,
+        "title": "Building Machine Learning Systems with Python 2nd Edition",
+        "img": "http://image.banshujiang.cn/4778.jpeg?timestamp=1730535811753",
+        "author": "Luis Pedro and Coelho Willi Richert",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4778/webstorage_links/23312/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4778/webstorage_links/23310/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4778/webstorage_links/23311/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4779,
+        "title": "Machine Learning with Spark",
+        "img": "http://image.banshujiang.cn/4779.jpeg?timestamp=1730535897532",
+        "author": "Nick Pentreath",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4779/webstorage_links/23316/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4779/webstorage_links/23315/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4780,
+        "title": "R Programming for Data Science",
+        "img": "http://image.banshujiang.cn/4780.jpeg?timestamp=1730536008718",
+        "author": "Roger D. Peng",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4780/webstorage_links/23318/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4781,
+        "title": "Android Programming: The Big Nerd Ranch Guide 2nd Edition",
+        "img": "http://image.banshujiang.cn/4781.jpeg?timestamp=1731120000030",
+        "author": "Bill Phillips, Chris Stewart, Brian Hardy and Kristin Marsicano",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4781/webstorage_links/23324/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4781/webstorage_links/23322/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4781/webstorage_links/23323/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4782,
+        "title": "Hello, Android 4th Edition",
+        "img": "http://image.banshujiang.cn/4782.jpeg?timestamp=1731120133719",
+        "author": "Ed Burnette",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4782/webstorage_links/23328/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4782/webstorage_links/23327/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4783,
+        "title": "iOS Programming: The Big Nerd Ranch Guide 5th Editon",
+        "img": "http://image.banshujiang.cn/4783.jpeg?timestamp=1731120235145",
+        "author": "Christian Keur and Aaron Hillegass",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4783/webstorage_links/23334/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4783/webstorage_links/23333/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4783/webstorage_links/23332/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4784,
+        "title": "Java Performance Companion",
+        "img": "http://image.banshujiang.cn/4784.jpeg?timestamp=1731120348825",
+        "author": "Charlie Hunt, Monica Beckwith, Poonam Parhar and Bengt Rutisson",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4784/webstorage_links/23336/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4785,
+        "title": "Building the Web of Things",
+        "img": "http://image.banshujiang.cn/4785.jpeg?timestamp=1731120420142",
+        "author": "Dominique D. Guinard and Vlad M. Trifa",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4785/webstorage_links/23340/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4785/webstorage_links/23339/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4786,
+        "title": "Design for the Mind",
+        "img": "http://image.banshujiang.cn/4786.jpeg?timestamp=1731120532455",
+        "author": "Victor S. Yocco",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4786/webstorage_links/23342/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4787,
+        "title": "Docker in Practice",
+        "img": "http://image.banshujiang.cn/4787.jpeg?timestamp=1731120684080",
+        "author": "Ian Miell and Aidan Hobson Sayers",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4787/webstorage_links/23344/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4788,
+        "title": "Express in Action",
+        "img": "http://image.banshujiang.cn/4788.jpeg?timestamp=1731120754545",
+        "author": "Evan M. Hahn",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4788/webstorage_links/23350/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4788/webstorage_links/23348/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4788/webstorage_links/23349/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4789,
+        "title": "Functional Programming in JavaScript",
+        "img": "http://image.banshujiang.cn/4789.jpeg?timestamp=1731120828411",
+        "author": "Luis Atencio",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4789/webstorage_links/23354/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4789/webstorage_links/23353/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4790,
+        "title": "grokking algorithms",
+        "img": "http://image.banshujiang.cn/4790.jpeg?timestamp=1731120892058",
+        "author": "Aditya Y. Bhargava",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4790/webstorage_links/23356/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4791,
+        "title": "Introducing Data Science",
+        "img": "http://image.banshujiang.cn/4791.jpeg?timestamp=1731120953766",
+        "author": "Davy Cielen, Arno D. B. Meysman and Mohamed Ali",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4791/webstorage_links/23360/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4791/webstorage_links/23359/to_link"
+            }
+        ]
     }
 ]

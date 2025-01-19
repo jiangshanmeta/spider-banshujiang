@@ -1,5 +1,21 @@
 [
     {
+        "id": 4777,
+        "title": "Windows 10: The Missing Manual",
+        "img": "http://image.banshujiang.cn/4777.jpeg?timestamp=1730535715856",
+        "author": "David Pogue",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4777/webstorage_links/23306/to_link"
+            }
+        ]
+    },
+    {
         "id": 4437,
         "title": "HTML5秘籍(第2版)",
         "img": "http://image.banshujiang.cn/4437.jpeg?timestamp=1723344864209",
@@ -296,27 +312,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3841/webstorage_links/19541/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3833,
-        "title": "Developing Windows Store Apps with HTML5 and JavaScript",
-        "img": "http://image.banshujiang.cn/3833.jpeg?timestamp=1713692825107",
-        "author": "Rami Sarieddine",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "HTML5",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3833/webstorage_links/19512/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3833/webstorage_links/19511/to_link"
             }
         ]
     }

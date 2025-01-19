@@ -1,5 +1,21 @@
 [
     {
+        "id": 4774,
+        "title": "Switching to the Mac El Capitan Edition the missing manual",
+        "img": "http://image.banshujiang.cn/4774.jpeg?timestamp=1730535398787",
+        "author": "David Pogue",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4774/webstorage_links/23292/to_link"
+            }
+        ]
+    },
+    {
         "id": 4593,
         "title": "Photos for Mac and iOS the missing manual",
         "img": "http://image.banshujiang.cn/4593.jpeg?timestamp=1728020641944",
@@ -276,22 +292,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/762/webstorage_links/15034/to_link"
-            }
-        ]
-    },
-    {
-        "id": 724,
-        "title": "Mac Hacks",
-        "img": "https://imagebsj.netlify.app/724.jpeg",
-        "author": "Chris Seibold",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/724/webstorage_links/14960/to_link"
             }
         ]
     }

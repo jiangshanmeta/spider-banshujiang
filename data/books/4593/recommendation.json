@@ -159,6 +159,48 @@
         ]
     },
     {
+        "id": 4783,
+        "title": "iOS Programming: The Big Nerd Ranch Guide 5th Editon",
+        "img": "http://image.banshujiang.cn/4783.jpeg?timestamp=1731120235145",
+        "author": "Christian Keur and Aaron Hillegass",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4783/webstorage_links/23334/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4783/webstorage_links/23333/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4783/webstorage_links/23332/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4774,
+        "title": "Switching to the Mac El Capitan Edition the missing manual",
+        "img": "http://image.banshujiang.cn/4774.jpeg?timestamp=1730535398787",
+        "author": "David Pogue",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4774/webstorage_links/23292/to_link"
+            }
+        ]
+    },
+    {
         "id": 4743,
         "title": "iOS Apps with REST APIs: Building Web-Driven Apps in Swift",
         "img": "http://image.banshujiang.cn/4743.jpeg?timestamp=1730530513754",
@@ -250,48 +292,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/4598/webstorage_links/22656/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4582,
-        "title": "iOS Swift Game Development Cookbook 2nd Edition",
-        "img": "http://image.banshujiang.cn/4582.jpeg?timestamp=1728013483931",
-        "author": "Jonathon Manning and Paris Buttfield-Addison",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4582/webstorage_links/22579/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4582/webstorage_links/22577/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4582/webstorage_links/22578/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4581,
-        "title": "iOS 9 Swift Programming Cookbook",
-        "img": "http://image.banshujiang.cn/4581.jpeg?timestamp=1728013391134",
-        "author": "Vandad Nahavandipoor",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4581/webstorage_links/22573/to_link"
             }
         ]
     }

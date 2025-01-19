@@ -85,6 +85,22 @@
         ]
     },
     {
+        "id": 4774,
+        "title": "Switching to the Mac El Capitan Edition the missing manual",
+        "img": "http://image.banshujiang.cn/4774.jpeg?timestamp=1730535398787",
+        "author": "David Pogue",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4774/webstorage_links/23292/to_link"
+            }
+        ]
+    },
+    {
         "id": 4640,
         "title": "高性能iOS应用开发",
         "img": "http://image.banshujiang.cn/4640.jpeg?timestamp=1728999429282",
@@ -286,27 +302,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4159/webstorage_links/20740/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4070,
-        "title": "RestKit for iOS",
-        "img": "http://image.banshujiang.cn/4070.jpeg?timestamp=1717202784731",
-        "author": "Taras Kalapun",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "Objective-C",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4070/webstorage_links/20422/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4070/webstorage_links/20421/to_link"
             }
         ]
     }

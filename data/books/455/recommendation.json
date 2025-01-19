@@ -16,6 +16,53 @@
         ]
     },
     {
+        "id": 4782,
+        "title": "Hello, Android 4th Edition",
+        "img": "http://image.banshujiang.cn/4782.jpeg?timestamp=1731120133719",
+        "author": "Ed Burnette",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4782/webstorage_links/23328/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4782/webstorage_links/23327/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4781,
+        "title": "Android Programming: The Big Nerd Ranch Guide 2nd Edition",
+        "img": "http://image.banshujiang.cn/4781.jpeg?timestamp=1731120000030",
+        "author": "Bill Phillips, Chris Stewart, Brian Hardy and Kristin Marsicano",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4781/webstorage_links/23324/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4781/webstorage_links/23322/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4781/webstorage_links/23323/to_link"
+            }
+        ]
+    },
+    {
         "id": 4641,
         "title": "高性能Android应用开发",
         "img": "http://image.banshujiang.cn/4641.jpeg?timestamp=1729257994689",
@@ -285,53 +332,6 @@
                 "fmt": "AZW3",
                 "title": "城通网盘",
                 "link": "/e_books/4205/webstorage_links/20979/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4204,
-        "title": "Android开发艺术探索",
-        "img": "http://image.banshujiang.cn/4204.jpeg?timestamp=1718630247472",
-        "author": "任玉刚",
-        "language": "中文",
-        "publishYear": 2015,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4204/webstorage_links/20974/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4204/webstorage_links/20975/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4204/webstorage_links/20973/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4175,
-        "title": "HTML5 in Action",
-        "img": "http://image.banshujiang.cn/4175.jpeg?timestamp=1718525334777",
-        "author": "Rob Crowther, Joe Lennon, Ash Blue and Greg Wanish",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "HTML5",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4175/webstorage_links/20823/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4175/webstorage_links/20822/to_link"
             }
         ]
     }

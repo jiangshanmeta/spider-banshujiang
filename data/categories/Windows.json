@@ -1,5 +1,21 @@
 [
     {
+        "id": 4777,
+        "title": "Windows 10: The Missing Manual",
+        "img": "http://image.banshujiang.cn/4777.jpeg?timestamp=1730535715856",
+        "author": "David Pogue",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4777/webstorage_links/23306/to_link"
+            }
+        ]
+    },
+    {
         "id": 4241,
         "title": "Programming Windows Store Apps with C#",
         "img": "http://image.banshujiang.cn/4241.jpeg?timestamp=1719061933942",

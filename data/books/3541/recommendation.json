@@ -164,6 +164,74 @@
         ]
     },
     {
+        "id": 4783,
+        "title": "iOS Programming: The Big Nerd Ranch Guide 5th Editon",
+        "img": "http://image.banshujiang.cn/4783.jpeg?timestamp=1731120235145",
+        "author": "Christian Keur and Aaron Hillegass",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4783/webstorage_links/23334/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4783/webstorage_links/23333/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4783/webstorage_links/23332/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4778,
+        "title": "Building Machine Learning Systems with Python 2nd Edition",
+        "img": "http://image.banshujiang.cn/4778.jpeg?timestamp=1730535811753",
+        "author": "Luis Pedro and Coelho Willi Richert",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4778/webstorage_links/23312/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4778/webstorage_links/23310/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4778/webstorage_links/23311/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4774,
+        "title": "Switching to the Mac El Capitan Edition the missing manual",
+        "img": "http://image.banshujiang.cn/4774.jpeg?timestamp=1730535398787",
+        "author": "David Pogue",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4774/webstorage_links/23292/to_link"
+            }
+        ]
+    },
+    {
         "id": 4762,
         "title": "Data Wrangling with Python",
         "img": "http://image.banshujiang.cn/4762.jpeg?timestamp=1730534411227",
@@ -249,69 +317,6 @@
                 "fmt": "CODE",
                 "title": "城通网盘",
                 "link": "/e_books/4718/webstorage_links/23045/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4715,
-        "title": "Think Python 2nd Edition",
-        "img": "http://image.banshujiang.cn/4715.jpeg?timestamp=1729930327073",
-        "author": "Allen B. Downey",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4715/webstorage_links/23035/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4715/webstorage_links/23033/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4715/webstorage_links/23034/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4688,
-        "title": "Starting Data Analytics with Generative AI and Python",
-        "img": "http://image.banshujiang.cn/4688.jpeg?timestamp=1729913287980",
-        "author": "Artur Guja, Marlena Siwiak and Marian Siwiak",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4688/webstorage_links/22889/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4681,
-        "title": "Pandas for Everyone: Python Data Analysis 2nd Edition",
-        "img": "http://image.banshujiang.cn/4681.jpeg?timestamp=1729912403173",
-        "author": "Daniel Y. Chen",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4681/webstorage_links/22865/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4681/webstorage_links/22864/to_link"
             }
         ]
     }

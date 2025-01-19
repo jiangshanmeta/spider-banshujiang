@@ -89,6 +89,53 @@
         ]
     },
     {
+        "id": 4789,
+        "title": "Functional Programming in JavaScript",
+        "img": "http://image.banshujiang.cn/4789.jpeg?timestamp=1731120828411",
+        "author": "Luis Atencio",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4789/webstorage_links/23354/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4789/webstorage_links/23353/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4788,
+        "title": "Express in Action",
+        "img": "http://image.banshujiang.cn/4788.jpeg?timestamp=1731120754545",
+        "author": "Evan M. Hahn",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4788/webstorage_links/23350/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4788/webstorage_links/23348/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4788/webstorage_links/23349/to_link"
+            }
+        ]
+    },
+    {
         "id": 4772,
         "title": "Learning JavaScript 3rd Edition",
         "img": "http://image.banshujiang.cn/4772.jpeg?timestamp=1730535181646",
@@ -295,38 +342,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4729/webstorage_links/23074/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4726,
-        "title": "MEAN Web开发",
-        "img": "http://image.banshujiang.cn/4726.jpeg?timestamp=1729932675954",
-        "author": "[以色列]Amos Q. Haviv [译]陈世帝",
-        "language": "中文",
-        "publishYear": 2015,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4726/webstorage_links/23068/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4722,
-        "title": "jQuery实战(第2版)",
-        "img": "http://image.banshujiang.cn/4722.jpeg?timestamp=1729931949622",
-        "author": "[美]Bear Bibeault、Yehuda Katz [译]三生石上",
-        "language": "中文",
-        "publishYear": 2012,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4722/webstorage_links/23054/to_link"
             }
         ]
     }

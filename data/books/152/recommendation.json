@@ -16,6 +16,22 @@
         ]
     },
     {
+        "id": 4774,
+        "title": "Switching to the Mac El Capitan Edition the missing manual",
+        "img": "http://image.banshujiang.cn/4774.jpeg?timestamp=1730535398787",
+        "author": "David Pogue",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4774/webstorage_links/23292/to_link"
+            }
+        ]
+    },
+    {
         "id": 4663,
         "title": "High Performance PostgreSQL for Rails",
         "img": "http://image.banshujiang.cn/4663.jpeg?timestamp=1729328041416",
@@ -306,22 +322,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3521/webstorage_links/18342/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3406,
-        "title": "macOS Sierra: the missing manual",
-        "img": "http://image.banshujiang.cn/3406.jpeg?timestamp=1681021674606",
-        "author": "David Pogue",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3406/webstorage_links/17799/to_link"
             }
         ]
     }

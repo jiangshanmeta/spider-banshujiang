@@ -1,5 +1,31 @@
 [
     {
+        "id": 4778,
+        "title": "Building Machine Learning Systems with Python 2nd Edition",
+        "img": "http://image.banshujiang.cn/4778.jpeg?timestamp=1730535811753",
+        "author": "Luis Pedro and Coelho Willi Richert",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4778/webstorage_links/23312/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4778/webstorage_links/23310/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4778/webstorage_links/23311/to_link"
+            }
+        ]
+    },
+    {
         "id": 4756,
         "title": "Hello Raspberry Pi!",
         "img": "http://image.banshujiang.cn/4756.jpeg?timestamp=1730533247510",
@@ -291,22 +317,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4486/webstorage_links/22087/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4485,
-        "title": "Python机器学习经典实例",
-        "img": "http://image.banshujiang.cn/4485.jpeg?timestamp=1723950348200",
-        "author": "[美]Prateek Joshi [译]陶俊杰、陈小莉",
-        "language": "中文",
-        "publishYear": 2017,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4485/webstorage_links/22085/to_link"
             }
         ]
     }

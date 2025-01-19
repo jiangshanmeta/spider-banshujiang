@@ -106,6 +106,22 @@
         ]
     },
     {
+        "id": 4777,
+        "title": "Windows 10: The Missing Manual",
+        "img": "http://image.banshujiang.cn/4777.jpeg?timestamp=1730535715856",
+        "author": "David Pogue",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4777/webstorage_links/23306/to_link"
+            }
+        ]
+    },
+    {
         "id": 4616,
         "title": "深入理解C#(第3版)",
         "img": "http://image.banshujiang.cn/4616.jpeg?timestamp=1728830289419",
@@ -293,15 +309,5 @@
                 "link": "/e_books/4280/webstorage_links/21325/to_link"
             }
         ]
-    },
-    {
-        "id": 4237,
-        "title": "Professional C# 5.0 and .NET 4.5.1",
-        "img": "http://image.banshujiang.cn/4237.jpeg?timestamp=1719061544494",
-        "author": "Christian Nagel",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "C#",
-        "formats": []
     }
 ]

@@ -95,6 +95,69 @@
         ]
     },
     {
+        "id": 4780,
+        "title": "R Programming for Data Science",
+        "img": "http://image.banshujiang.cn/4780.jpeg?timestamp=1730536008718",
+        "author": "Roger D. Peng",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4780/webstorage_links/23318/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4779,
+        "title": "Machine Learning with Spark",
+        "img": "http://image.banshujiang.cn/4779.jpeg?timestamp=1730535897532",
+        "author": "Nick Pentreath",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4779/webstorage_links/23316/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4779/webstorage_links/23315/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4778,
+        "title": "Building Machine Learning Systems with Python 2nd Edition",
+        "img": "http://image.banshujiang.cn/4778.jpeg?timestamp=1730535811753",
+        "author": "Luis Pedro and Coelho Willi Richert",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4778/webstorage_links/23312/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4778/webstorage_links/23310/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4778/webstorage_links/23311/to_link"
+            }
+        ]
+    },
+    {
         "id": 4741,
         "title": "Data Wrangling with R",
         "img": "http://image.banshujiang.cn/4741.jpeg?timestamp=1730530303477",
@@ -234,59 +297,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4674/webstorage_links/22849/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4672,
-        "title": "Machine Learning Algorithms in Depth",
-        "img": "http://image.banshujiang.cn/4672.jpeg?timestamp=1729348159840",
-        "author": "Vadim Smolyakov",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4672/webstorage_links/22845/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4667,
-        "title": "Learn OpenAI Whisper",
-        "img": "http://image.banshujiang.cn/4667.jpeg?timestamp=1729328361671",
-        "author": "Josué R. Batista",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4667/webstorage_links/22833/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4667/webstorage_links/22832/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4666,
-        "title": "Learn Generative AI with PyTorch",
-        "img": "http://image.banshujiang.cn/4666.jpeg?timestamp=1729328299203",
-        "author": "Mark Liu",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4666/webstorage_links/22829/to_link"
             }
         ]
     }

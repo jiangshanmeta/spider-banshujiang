@@ -1,5 +1,52 @@
 [
     {
+        "id": 4782,
+        "title": "Hello, Android 4th Edition",
+        "img": "http://image.banshujiang.cn/4782.jpeg?timestamp=1731120133719",
+        "author": "Ed Burnette",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4782/webstorage_links/23328/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4782/webstorage_links/23327/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4781,
+        "title": "Android Programming: The Big Nerd Ranch Guide 2nd Edition",
+        "img": "http://image.banshujiang.cn/4781.jpeg?timestamp=1731120000030",
+        "author": "Bill Phillips, Chris Stewart, Brian Hardy and Kristin Marsicano",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4781/webstorage_links/23324/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4781/webstorage_links/23322/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4781/webstorage_links/23323/to_link"
+            }
+        ]
+    },
+    {
         "id": 4641,
         "title": "高性能Android应用开发",
         "img": "http://image.banshujiang.cn/4641.jpeg?timestamp=1729257994689",
@@ -310,48 +357,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3845/webstorage_links/19557/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3842,
-        "title": "Introduction to Android Application Development 4th Edition",
-        "img": "http://image.banshujiang.cn/3842.jpeg?timestamp=1713968971339",
-        "author": "Joseph Annuzzi, Jr. Lauren Darcey and Shane Conder",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3842/webstorage_links/19546/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3842/webstorage_links/19545/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3804,
-        "title": "Android Development Tools for Eclipse",
-        "img": "http://image.banshujiang.cn/3804.jpeg?timestamp=1712975881397",
-        "author": "Sanjay Shah and Khirulnizam Abd Rahman",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3804/webstorage_links/19396/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3804/webstorage_links/19395/to_link"
             }
         ]
     }
