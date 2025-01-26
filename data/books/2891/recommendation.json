@@ -1,5 +1,26 @@
 [
     {
+        "id": 4801,
+        "title": "Android Programming: The Big Nerd Ranch Guide 3rd Edition",
+        "img": "http://image.banshujiang.cn/4801.jpeg?timestamp=1731733327450",
+        "author": "Bill Phillips, Chris Stewart and Kristin Marsicano",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "Kotlin",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4801/webstorage_links/23386/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4801/webstorage_links/23385/to_link"
+            }
+        ]
+    },
+    {
         "id": 4344,
         "title": "Kotlin Multiplatform by Tutorials 2nd Edition",
         "img": "http://image.banshujiang.cn/4344.jpeg?timestamp=1721395142744",
@@ -326,22 +347,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/3007/webstorage_links/16067/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2917,
-        "title": "Kotlin Multiplatform by Tutorials",
-        "img": "https://imagebsj.netlify.app/2917.jpeg",
-        "author": "Kevin D. Moore",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "Kotlin",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2917/webstorage_links/10703/to_link"
             }
         ]
     }

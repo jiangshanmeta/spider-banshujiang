@@ -1,5 +1,21 @@
 [
     {
+        "id": 4804,
+        "title": "Functional Programming in C#",
+        "img": "http://image.banshujiang.cn/4804.jpeg?timestamp=1731733891364",
+        "author": "Enrico Buonanno",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4804/webstorage_links/23398/to_link"
+            }
+        ]
+    },
+    {
         "id": 4616,
         "title": "深入理解C#(第3版)",
         "img": "http://image.banshujiang.cn/4616.jpeg?timestamp=1728830289419",
@@ -300,27 +316,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3953/webstorage_links/19987/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3926,
-        "title": "C# 12 Pocket Reference",
-        "img": "http://image.banshujiang.cn/3926.jpeg?timestamp=1714571885240",
-        "author": "Joseph Albahari and Ben Albahari",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "C#",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3926/webstorage_links/19884/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3926/webstorage_links/19883/to_link"
             }
         ]
     }

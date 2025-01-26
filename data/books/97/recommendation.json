@@ -1,5 +1,31 @@
 [
     {
+        "id": 4792,
+        "title": "MongoDB in Action 2nd Edition",
+        "img": "http://image.banshujiang.cn/4792.jpeg?timestamp=1731121059665",
+        "author": "Kyle Banker",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4792/webstorage_links/23366/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4792/webstorage_links/23364/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4792/webstorage_links/23365/to_link"
+            }
+        ]
+    },
+    {
         "id": 4704,
         "title": "Getting MEAN: with Mongo, Express, Angular, and Node",
         "img": "http://image.banshujiang.cn/4704.jpeg?timestamp=1729920343754",
@@ -326,27 +352,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3560/webstorage_links/18500/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3521,
-        "title": "Agile Web Development with Rails 7",
-        "img": "http://image.banshujiang.cn/3521.jpeg?timestamp=1696770038701",
-        "author": "Sam Ruby",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "Ruby",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3521/webstorage_links/18343/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3521/webstorage_links/18342/to_link"
             }
         ]
     }

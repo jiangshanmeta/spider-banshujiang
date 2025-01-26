@@ -89,6 +89,48 @@
         ]
     },
     {
+        "id": 4793,
+        "title": "React+d3.js",
+        "img": "http://image.banshujiang.cn/4793.jpeg?timestamp=1731121244565",
+        "author": "Swizec Teller",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4793/webstorage_links/23368/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4792,
+        "title": "MongoDB in Action 2nd Edition",
+        "img": "http://image.banshujiang.cn/4792.jpeg?timestamp=1731121059665",
+        "author": "Kyle Banker",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4792/webstorage_links/23366/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4792/webstorage_links/23364/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4792/webstorage_links/23365/to_link"
+            }
+        ]
+    },
+    {
         "id": 4789,
         "title": "Functional Programming in JavaScript",
         "img": "http://image.banshujiang.cn/4789.jpeg?timestamp=1731120828411",
@@ -310,38 +352,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4731/webstorage_links/23078/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4730,
-        "title": "Node.js实战",
-        "img": "http://image.banshujiang.cn/4730.jpeg?timestamp=1729933255340",
-        "author": "[美]Mike Cantelon、Marc Harter、T. J. Holowaychuk、Nathan Rajlich [译]吴海星",
-        "language": "中文",
-        "publishYear": 2014,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4730/webstorage_links/23076/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4729,
-        "title": "Node.js开发指南",
-        "img": "http://image.banshujiang.cn/4729.jpeg?timestamp=1729933137590",
-        "author": "BYVoid",
-        "language": "中文",
-        "publishYear": 2012,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4729/webstorage_links/23074/to_link"
             }
         ]
     }

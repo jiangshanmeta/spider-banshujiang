@@ -1,5 +1,47 @@
 [
     {
+        "id": 4806,
+        "title": "Mission Python",
+        "img": "http://image.banshujiang.cn/4806.jpeg?timestamp=1731734287888",
+        "author": "Sean Mcmanus",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4806/webstorage_links/23406/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4802,
+        "title": "Cracking Codes with Python",
+        "img": "http://image.banshujiang.cn/4802.jpeg?timestamp=1731733516701",
+        "author": "Al Sweigart",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4802/webstorage_links/23392/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4802/webstorage_links/23391/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4802/webstorage_links/23390/to_link"
+            }
+        ]
+    },
+    {
         "id": 4778,
         "title": "Building Machine Learning Systems with Python 2nd Edition",
         "img": "http://image.banshujiang.cn/4778.jpeg?timestamp=1730535811753",
@@ -275,48 +317,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4566/webstorage_links/22492/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4492,
-        "title": "Selenium 2自动化测试实战：基于Python语言",
-        "img": "http://image.banshujiang.cn/4492.jpeg?timestamp=1724469095452",
-        "author": "虫师",
-        "language": "中文",
-        "publishYear": 2016,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4492/webstorage_links/22122/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4492/webstorage_links/22123/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4492/webstorage_links/22121/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4486,
-        "title": "Python机器学习实践指南",
-        "img": "http://image.banshujiang.cn/4486.jpeg?timestamp=1723950482532",
-        "author": "[美]Alexander T. Combs [译]黄申",
-        "language": "中文",
-        "publishYear": 2017,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4486/webstorage_links/22087/to_link"
             }
         ]
     }

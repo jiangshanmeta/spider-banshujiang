@@ -1,5 +1,47 @@
 [
     {
+        "id": 4798,
+        "title": "The essentials of Object Oriented PHP",
+        "img": "http://image.banshujiang.cn/4798.jpeg?timestamp=1731121711559",
+        "author": "Joseph Benharosh",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "PHP",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4798/webstorage_links/23377/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4792,
+        "title": "MongoDB in Action 2nd Edition",
+        "img": "http://image.banshujiang.cn/4792.jpeg?timestamp=1731121059665",
+        "author": "Kyle Banker",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4792/webstorage_links/23366/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4792/webstorage_links/23364/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4792/webstorage_links/23365/to_link"
+            }
+        ]
+    },
+    {
         "id": 4742,
         "title": "Deploying PHP Applications",
         "img": "http://image.banshujiang.cn/4742.jpeg?timestamp=1730530436412",
@@ -325,48 +367,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4029/webstorage_links/20271/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3976,
-        "title": "Practical MongoDB Aggregations",
-        "img": "http://image.banshujiang.cn/3976.jpeg?timestamp=1714641578855",
-        "author": "Paul Done",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3976/webstorage_links/20078/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3976/webstorage_links/20077/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3787,
-        "title": "PHP Quick Scripting Reference",
-        "img": "https://imagebsj.netlify.app/3787.jpeg",
-        "author": "Mikael Olsson",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "PHP",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3787/webstorage_links/19331/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3787/webstorage_links/19330/to_link"
             }
         ]
     }

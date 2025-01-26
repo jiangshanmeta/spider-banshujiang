@@ -106,6 +106,22 @@
         ]
     },
     {
+        "id": 4804,
+        "title": "Functional Programming in C#",
+        "img": "http://image.banshujiang.cn/4804.jpeg?timestamp=1731733891364",
+        "author": "Enrico Buonanno",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4804/webstorage_links/23398/to_link"
+            }
+        ]
+    },
+    {
         "id": 4777,
         "title": "Windows 10: The Missing Manual",
         "img": "http://image.banshujiang.cn/4777.jpeg?timestamp=1730535715856",
@@ -291,22 +307,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4281/webstorage_links/21327/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4280,
-        "title": "C#并发编程经典实例",
-        "img": "http://image.banshujiang.cn/4280.jpeg?timestamp=1720096626819",
-        "author": "[美]Stephen Cleary [译]相银初",
-        "language": "中文",
-        "publishYear": 2015,
-        "programLanguage": "C#",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4280/webstorage_links/21325/to_link"
             }
         ]
     }

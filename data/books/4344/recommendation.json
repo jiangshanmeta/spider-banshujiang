@@ -1,5 +1,26 @@
 [
     {
+        "id": 4801,
+        "title": "Android Programming: The Big Nerd Ranch Guide 3rd Edition",
+        "img": "http://image.banshujiang.cn/4801.jpeg?timestamp=1731733327450",
+        "author": "Bill Phillips, Chris Stewart and Kristin Marsicano",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "Kotlin",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4801/webstorage_links/23386/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4801/webstorage_links/23385/to_link"
+            }
+        ]
+    },
+    {
         "id": 3624,
         "title": "The Android Malware Handbook",
         "img": "http://image.banshujiang.cn/3624.jpeg?timestamp=1708773203662",
@@ -321,22 +342,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/2917/webstorage_links/10703/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2904,
-        "title": "Android Debugging by Tutorials",
-        "img": "https://imagebsj.netlify.app/2904.jpeg",
-        "author": "Vincenzo Guzzi, Zac Lippard and Zahidur Rahman Faisal",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "Kotlin",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2904/webstorage_links/10647/to_link"
             }
         ]
     }

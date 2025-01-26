@@ -1,0 +1,328 @@
+[
+    {
+        "id": 4704,
+        "title": "Getting MEAN: with Mongo, Express, Angular, and Node",
+        "img": "http://image.banshujiang.cn/4704.jpeg?timestamp=1729920343754",
+        "author": "Simon Holmes",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4704/webstorage_links/22969/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4704/webstorage_links/22967/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4704/webstorage_links/22968/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4700,
+        "title": "Web Development with MongoDB and NodeJS 2nd Edition",
+        "img": "http://image.banshujiang.cn/4700.jpeg?timestamp=1729919724393",
+        "author": "Mithun Satheesh, Bruno Joseph D&#39;mello and Jason Krol",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4700/webstorage_links/22945/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4700/webstorage_links/22943/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4700/webstorage_links/22944/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4487,
+        "title": "Full Stack JavaScript Development with MEAN",
+        "img": "http://image.banshujiang.cn/4487.jpeg?timestamp=1723950583814",
+        "author": "Adam Bretz and Colin J. Ihrig",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4487/webstorage_links/22095/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4487/webstorage_links/22093/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4487/webstorage_links/22094/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4487/webstorage_links/22092/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4481,
+        "title": "MEAN Web Development",
+        "img": "http://image.banshujiang.cn/4481.jpeg?timestamp=1723949786288",
+        "author": "Amos Q. Haviv",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4481/webstorage_links/22071/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4029,
+        "title": "Mastering MongoDB 7.0",
+        "img": "http://image.banshujiang.cn/4029.jpeg?timestamp=1715948936009",
+        "author": "Marko Aleksendrić",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4029/webstorage_links/20272/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4029/webstorage_links/20271/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3976,
+        "title": "Practical MongoDB Aggregations",
+        "img": "http://image.banshujiang.cn/3976.jpeg?timestamp=1714641578855",
+        "author": "Paul Done",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3976/webstorage_links/20078/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3976/webstorage_links/20077/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3674,
+        "title": "MongoDB: The Definitive Guide 2nd Edition",
+        "img": "http://image.banshujiang.cn/3674.jpeg?timestamp=1709976164165",
+        "author": "Kristina Chodorow",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3674/webstorage_links/18883/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3674/webstorage_links/18882/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3634,
+        "title": "MongoDB Applied Design Patterns",
+        "img": "http://image.banshujiang.cn/3634.jpeg?timestamp=1708775956577",
+        "author": "Rick Copeland",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3634/webstorage_links/18741/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3634/webstorage_links/18740/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3204,
+        "title": "MongoDB: The Definitive Guide 3rd Edition",
+        "img": "http://image.banshujiang.cn/3204.jpeg?timestamp=1673782784729",
+        "author": "Shannon Bradshaw, Eoin Brazil, and Kristina Chodorow",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3204/webstorage_links/16950/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3204/webstorage_links/16949/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1933,
+        "title": "MongoDB in Action, 2nd Edition",
+        "img": "https://imagebsj.netlify.app/1933.jpeg",
+        "author": "Kyle Banker",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1933/webstorage_links/11504/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/1933/webstorage_links/11502/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/1933/webstorage_links/11503/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1078,
+        "title": "深入学习MongoDB",
+        "img": "https://imagebsj.netlify.app/1078.jpeg",
+        "author": "Kristina Chodorow",
+        "language": "中文",
+        "publishYear": 2012,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1078/webstorage_links/12672/to_link"
+            }
+        ]
+    },
+    {
+        "id": 847,
+        "title": "MongoDB权威指南",
+        "img": "https://imagebsj.netlify.app/847.jpeg",
+        "author": "Kristina Chodorow and Michael Dirolf",
+        "language": "中文",
+        "publishYear": 2011,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/847/webstorage_links/15208/to_link"
+            }
+        ]
+    },
+    {
+        "id": 689,
+        "title": "50 Tips and Tricks for MongoDB Developers",
+        "img": "https://imagebsj.netlify.app/689.jpeg",
+        "author": "Kristina Chodorow",
+        "language": "英文",
+        "publishYear": 2011,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/689/webstorage_links/14890/to_link"
+            }
+        ]
+    },
+    {
+        "id": 677,
+        "title": "MongoDB: The Definitive Guide",
+        "img": "https://imagebsj.netlify.app/677.jpeg",
+        "author": "Kristina Chodorow and Michael Dirolf",
+        "language": "英文",
+        "publishYear": 2010,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/677/webstorage_links/14866/to_link"
+            }
+        ]
+    },
+    {
+        "id": 561,
+        "title": "MongoDB and Python",
+        "img": "https://imagebsj.netlify.app/561.jpeg",
+        "author": "Niall O’Higgins",
+        "language": "英文",
+        "publishYear": 2011,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/561/webstorage_links/14638/to_link"
+            }
+        ]
+    },
+    {
+        "id": 560,
+        "title": "MongoDB and PHP",
+        "img": "https://imagebsj.netlify.app/560.jpeg",
+        "author": "Steve Francia",
+        "language": "英文",
+        "publishYear": 2012,
+        "programLanguage": "PHP",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/560/webstorage_links/14636/to_link"
+            }
+        ]
+    }
+]

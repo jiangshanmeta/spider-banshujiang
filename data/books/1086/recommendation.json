@@ -1,5 +1,21 @@
 [
     {
+        "id": 4799,
+        "title": "watchOS 2 by Tutorials",
+        "img": "http://image.banshujiang.cn/4799.jpeg?timestamp=1731121807496",
+        "author": " the raywenderlich.com Tutorial Team",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4799/webstorage_links/23379/to_link"
+            }
+        ]
+    },
+    {
         "id": 4783,
         "title": "iOS Programming: The Big Nerd Ranch Guide 5th Editon",
         "img": "http://image.banshujiang.cn/4783.jpeg?timestamp=1731120235145",
@@ -316,27 +332,6 @@
                 "fmt": "CODE",
                 "title": "城通网盘",
                 "link": "/e_books/4503/webstorage_links/22170/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4473,
-        "title": "Swift Pocket Reference",
-        "img": "http://image.banshujiang.cn/4473.jpeg?timestamp=1723945260751",
-        "author": "Anthony Gray",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4473/webstorage_links/22039/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4473/webstorage_links/22038/to_link"
             }
         ]
     }

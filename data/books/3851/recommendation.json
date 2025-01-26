@@ -1,5 +1,21 @@
 [
     {
+        "id": 4793,
+        "title": "React+d3.js",
+        "img": "http://image.banshujiang.cn/4793.jpeg?timestamp=1731121244565",
+        "author": "Swizec Teller",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4793/webstorage_links/23368/to_link"
+            }
+        ]
+    },
+    {
         "id": 4789,
         "title": "Functional Programming in JavaScript",
         "img": "http://image.banshujiang.cn/4789.jpeg?timestamp=1731120828411",
@@ -301,22 +317,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4721/webstorage_links/23052/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4720,
-        "title": "Hacking with React",
-        "img": "http://image.banshujiang.cn/4720.jpeg?timestamp=1729930913894",
-        "author": "Paul Hudson",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4720/webstorage_links/23050/to_link"
             }
         ]
     }

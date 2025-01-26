@@ -1,5 +1,21 @@
 [
     {
+        "id": 4804,
+        "title": "Functional Programming in C#",
+        "img": "http://image.banshujiang.cn/4804.jpeg?timestamp=1731733891364",
+        "author": "Enrico Buonanno",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4804/webstorage_links/23398/to_link"
+            }
+        ]
+    },
+    {
         "id": 4616,
         "title": "深入理解C#(第3版)",
         "img": "http://image.banshujiang.cn/4616.jpeg?timestamp=1728830289419",

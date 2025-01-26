@@ -95,6 +95,22 @@
         ]
     },
     {
+        "id": 4794,
+        "title": "Report Writing for Data Science in R",
+        "img": "http://image.banshujiang.cn/4794.jpeg?timestamp=1731121316387",
+        "author": "Roger D. Peng",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4794/webstorage_links/23370/to_link"
+            }
+        ]
+    },
+    {
         "id": 4780,
         "title": "R Programming for Data Science",
         "img": "http://image.banshujiang.cn/4780.jpeg?timestamp=1730536008718",
@@ -281,22 +297,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4676/webstorage_links/22853/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4674,
-        "title": "LLMs and Generative AI for Healthcare",
-        "img": "http://image.banshujiang.cn/4674.jpeg?timestamp=1729348297325",
-        "author": "Kerrie Holley and Manish Mathur",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4674/webstorage_links/22849/to_link"
             }
         ]
     }

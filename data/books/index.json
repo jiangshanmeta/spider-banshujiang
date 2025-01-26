@@ -90910,5 +90910,327 @@
                 "link": "/e_books/4791/webstorage_links/23359/to_link"
             }
         ]
+    },
+    {
+        "id": 4792,
+        "title": "MongoDB in Action 2nd Edition",
+        "img": "http://image.banshujiang.cn/4792.jpeg?timestamp=1731121059665",
+        "author": "Kyle Banker",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4792/webstorage_links/23366/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4792/webstorage_links/23364/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4792/webstorage_links/23365/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4793,
+        "title": "React+d3.js",
+        "img": "http://image.banshujiang.cn/4793.jpeg?timestamp=1731121244565",
+        "author": "Swizec Teller",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4793/webstorage_links/23368/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4794,
+        "title": "Report Writing for Data Science in R",
+        "img": "http://image.banshujiang.cn/4794.jpeg?timestamp=1731121316387",
+        "author": "Roger D. Peng",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4794/webstorage_links/23370/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4795,
+        "title": "Statistical inference for data science",
+        "img": "http://image.banshujiang.cn/4795.jpeg?timestamp=1731121549789",
+        "author": "Brian Caffo",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4795/webstorage_links/23372/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4796,
+        "title": "The Art of Data Science",
+        "img": "http://image.banshujiang.cn/4796.jpeg?timestamp=1731121612082",
+        "author": "Roger D. Peng and Elizabeth Matsui",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4796/webstorage_links/23374/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4797,
+        "title": "The DevOps 2.0 Toolkit",
+        "img": "http://image.banshujiang.cn/4797.jpeg?timestamp=1731121665569",
+        "author": "Viktor Farcic",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4797/webstorage_links/23375/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4798,
+        "title": "The essentials of Object Oriented PHP",
+        "img": "http://image.banshujiang.cn/4798.jpeg?timestamp=1731121711559",
+        "author": "Joseph Benharosh",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "PHP",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4798/webstorage_links/23377/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4799,
+        "title": "watchOS 2 by Tutorials",
+        "img": "http://image.banshujiang.cn/4799.jpeg?timestamp=1731121807496",
+        "author": " the raywenderlich.com Tutorial Team",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4799/webstorage_links/23379/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4800,
+        "title": "Writing APIs with Lumen",
+        "img": "http://image.banshujiang.cn/4800.jpeg?timestamp=1731121864703",
+        "author": "Paul Redmond",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4800/webstorage_links/23381/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4801,
+        "title": "Android Programming: The Big Nerd Ranch Guide 3rd Edition",
+        "img": "http://image.banshujiang.cn/4801.jpeg?timestamp=1731733327450",
+        "author": "Bill Phillips, Chris Stewart and Kristin Marsicano",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "Kotlin",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4801/webstorage_links/23386/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4801/webstorage_links/23385/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4802,
+        "title": "Cracking Codes with Python",
+        "img": "http://image.banshujiang.cn/4802.jpeg?timestamp=1731733516701",
+        "author": "Al Sweigart",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4802/webstorage_links/23392/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4802/webstorage_links/23391/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4802/webstorage_links/23390/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4803,
+        "title": "Head First Learn to Code",
+        "img": "http://image.banshujiang.cn/4803.jpeg?timestamp=1731733819449",
+        "author": "Eric Freeman",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4803/webstorage_links/23396/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4803/webstorage_links/23395/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4804,
+        "title": "Functional Programming in C#",
+        "img": "http://image.banshujiang.cn/4804.jpeg?timestamp=1731733891364",
+        "author": "Enrico Buonanno",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4804/webstorage_links/23398/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4805,
+        "title": "Practical Probabilistic Programming",
+        "img": "http://image.banshujiang.cn/4805.jpeg?timestamp=1731733959047",
+        "author": "Avi Pfeffer",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4805/webstorage_links/23404/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4805/webstorage_links/23402/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4805/webstorage_links/23403/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4806,
+        "title": "Mission Python",
+        "img": "http://image.banshujiang.cn/4806.jpeg?timestamp=1731734287888",
+        "author": "Sean Mcmanus",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4806/webstorage_links/23406/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4807,
+        "title": "Modern Web Development with Scala",
+        "img": "http://image.banshujiang.cn/4807.jpeg?timestamp=1731734361800",
+        "author": "Denis Kalinin",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Scala",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4807/webstorage_links/23407/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4808,
+        "title": "Algorithms in a Nutshell 2nd Edition",
+        "img": "http://image.banshujiang.cn/4808.jpeg?timestamp=1731734435166",
+        "author": "George T. Heineman, Gary Pollice and Stanley Selkow",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4808/webstorage_links/23413/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4808/webstorage_links/23411/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4808/webstorage_links/23412/to_link"
+            }
+        ]
     }
 ]

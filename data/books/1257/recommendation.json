@@ -1,5 +1,26 @@
 [
     {
+        "id": 4801,
+        "title": "Android Programming: The Big Nerd Ranch Guide 3rd Edition",
+        "img": "http://image.banshujiang.cn/4801.jpeg?timestamp=1731733327450",
+        "author": "Bill Phillips, Chris Stewart and Kristin Marsicano",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "Kotlin",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4801/webstorage_links/23386/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4801/webstorage_links/23385/to_link"
+            }
+        ]
+    },
+    {
         "id": 4782,
         "title": "Hello, Android 4th Edition",
         "img": "http://image.banshujiang.cn/4782.jpeg?timestamp=1731120133719",
@@ -336,27 +357,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4051/webstorage_links/20349/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3845,
-        "title": "Learning Android 2nd Edition",
-        "img": "http://image.banshujiang.cn/3845.jpeg?timestamp=1713969354668",
-        "author": "Marko Gargenta and Masumi Nakamura",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3845/webstorage_links/19558/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3845/webstorage_links/19557/to_link"
             }
         ]
     }

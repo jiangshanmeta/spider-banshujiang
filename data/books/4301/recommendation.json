@@ -1,5 +1,21 @@
 [
     {
+        "id": 4794,
+        "title": "Report Writing for Data Science in R",
+        "img": "http://image.banshujiang.cn/4794.jpeg?timestamp=1731121316387",
+        "author": "Roger D. Peng",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4794/webstorage_links/23370/to_link"
+            }
+        ]
+    },
+    {
         "id": 4780,
         "title": "R Programming for Data Science",
         "img": "http://image.banshujiang.cn/4780.jpeg?timestamp=1730536008718",
@@ -291,27 +307,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3864/webstorage_links/19633/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3768,
-        "title": "Learning R",
-        "img": "https://imagebsj.netlify.app/3768.jpeg",
-        "author": "Richard Cotton",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "R",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3768/webstorage_links/19255/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3768/webstorage_links/19254/to_link"
             }
         ]
     }
