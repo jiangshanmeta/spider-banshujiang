@@ -85,6 +85,32 @@
         ]
     },
     {
+        "id": 4827,
+        "title": "Graphing Data with R",
+        "img": "http://image.banshujiang.cn/4827.jpeg?timestamp=1731737601009",
+        "author": "John Jay Hilfiger",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4827/webstorage_links/23500/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4827/webstorage_links/23498/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4827/webstorage_links/23499/to_link"
+            }
+        ]
+    },
+    {
         "id": 4794,
         "title": "Report Writing for Data Science in R",
         "img": "http://image.banshujiang.cn/4794.jpeg?timestamp=1731121316387",
@@ -271,22 +297,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4685/webstorage_links/22880/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4676,
-        "title": "Azure OpenAI Service for Cloud Native Applications",
-        "img": "http://image.banshujiang.cn/4676.jpeg?timestamp=1729348416772",
-        "author": "Adrián González Sánchez",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4676/webstorage_links/22853/to_link"
             }
         ]
     }

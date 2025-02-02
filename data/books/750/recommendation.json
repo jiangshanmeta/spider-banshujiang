@@ -106,6 +106,53 @@
         ]
     },
     {
+        "id": 4819,
+        "title": "C# 7.0 in a Nutshell",
+        "img": "http://image.banshujiang.cn/4819.jpeg?timestamp=1731736140874",
+        "author": "Joseph Albahari and Ben Albahari",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4819/webstorage_links/23454/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4819/webstorage_links/23453/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4818,
+        "title": "Building Maintainable Software C# Edition",
+        "img": "http://image.banshujiang.cn/4818.jpeg?timestamp=1731736044997",
+        "author": "Joost Visser",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4818/webstorage_links/23450/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4818/webstorage_links/23448/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4818/webstorage_links/23449/to_link"
+            }
+        ]
+    },
+    {
         "id": 4804,
         "title": "Functional Programming in C#",
         "img": "http://image.banshujiang.cn/4804.jpeg?timestamp=1731733891364",
@@ -275,38 +322,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4358/webstorage_links/21626/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4282,
-        "title": "C#敏捷开发实践",
-        "img": "http://image.banshujiang.cn/4282.jpeg?timestamp=1720096859899",
-        "author": "[英]Gary McLean Hall [译]许顺强",
-        "language": "中文",
-        "publishYear": 2016,
-        "programLanguage": "C#",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4282/webstorage_links/21329/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4281,
-        "title": "C#经典实例（第4版）",
-        "img": "http://image.banshujiang.cn/4281.jpeg?timestamp=1720096746948",
-        "author": "[美]Jay Hilyard [译]徐敬德",
-        "language": "中文",
-        "publishYear": 2016,
-        "programLanguage": "C#",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4281/webstorage_links/21327/to_link"
             }
         ]
     }

@@ -91232,5 +91232,454 @@
                 "link": "/e_books/4808/webstorage_links/23412/to_link"
             }
         ]
+    },
+    {
+        "id": 4809,
+        "title": "Applied Akka Patterns",
+        "img": "http://image.banshujiang.cn/4809.jpeg?timestamp=1731734571837",
+        "author": "Michael Nash and Wade Waldron",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4809/webstorage_links/23416/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4810,
+        "title": "Architecting HBase Applications",
+        "img": "http://image.banshujiang.cn/4810.jpeg?timestamp=1731734646064",
+        "author": "Jean-Marc Spaggiari and Kevin O’Dell",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4810/webstorage_links/23422/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4810/webstorage_links/23420/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4810/webstorage_links/23421/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4811,
+        "title": "ASP.NET MVC 5 with Bootstrap and Knockout.js",
+        "img": "http://image.banshujiang.cn/4811.jpeg?timestamp=1731734730612",
+        "author": "Jamie Munro",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "ASP.net",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4811/webstorage_links/23430/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4811/webstorage_links/23428/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4811/webstorage_links/23429/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4811/webstorage_links/23427/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4812,
+        "title": "Automating Junos Administration",
+        "img": "http://image.banshujiang.cn/4812.jpeg?timestamp=1731735144749",
+        "author": "Jonathan Looney and Stacy Smith",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4812/webstorage_links/23432/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4813,
+        "title": "CSS Floating",
+        "img": "http://image.banshujiang.cn/4813.jpeg?timestamp=1731735272057",
+        "author": "Eric A. Meyer",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "CSS",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4813/webstorage_links/23434/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4814,
+        "title": "Data Science on the Google Cloud Platform",
+        "img": "http://image.banshujiang.cn/4814.jpeg?timestamp=1731735357497",
+        "author": "Valliappa Lakshmanan",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "",
+        "formats": []
+    },
+    {
+        "id": 4815,
+        "title": "Designing for Scalability with Erlang/OTP",
+        "img": "http://image.banshujiang.cn/4815.jpeg?timestamp=1731735756235",
+        "author": "Francesco Cesarini and Steve Vinoski",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Erlang",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4815/webstorage_links/23436/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4816,
+        "title": "Badass: Making Users Awesome",
+        "img": "http://image.banshujiang.cn/4816.jpeg?timestamp=1731735879861",
+        "author": "Kathy Sierra",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4816/webstorage_links/23438/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4817,
+        "title": "Building Evolutionary Architectures",
+        "img": "http://image.banshujiang.cn/4817.jpeg?timestamp=1731735960678",
+        "author": "Neal Ford, Rebecca Parsons, and Patrick Kua",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4817/webstorage_links/23444/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4817/webstorage_links/23443/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4817/webstorage_links/23442/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4818,
+        "title": "Building Maintainable Software C# Edition",
+        "img": "http://image.banshujiang.cn/4818.jpeg?timestamp=1731736044997",
+        "author": "Joost Visser",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4818/webstorage_links/23450/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4818/webstorage_links/23448/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4818/webstorage_links/23449/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4819,
+        "title": "C# 7.0 in a Nutshell",
+        "img": "http://image.banshujiang.cn/4819.jpeg?timestamp=1731736140874",
+        "author": "Joseph Albahari and Ben Albahari",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4819/webstorage_links/23454/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4819/webstorage_links/23453/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4820,
+        "title": "CSS Refactoring",
+        "img": "http://image.banshujiang.cn/4820.jpeg?timestamp=1731736209663",
+        "author": "Steve Lindstrom",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "CSS",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4820/webstorage_links/23460/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4820/webstorage_links/23458/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4820/webstorage_links/23459/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4821,
+        "title": "CSS: The Definitive Guide 4th Edition",
+        "img": "http://image.banshujiang.cn/4821.jpeg?timestamp=1731736868353",
+        "author": "Eric A. Meyer and Estelle Weyl",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "CSS",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4821/webstorage_links/23466/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4821/webstorage_links/23465/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4821/webstorage_links/23464/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4822,
+        "title": "Database Reliability Engineering",
+        "img": "http://image.banshujiang.cn/4822.jpeg?timestamp=1731737132986",
+        "author": "Laine Campbell and Charity Majors",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4822/webstorage_links/23472/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4822/webstorage_links/23471/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4822/webstorage_links/23470/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4823,
+        "title": "Decentralized Applications",
+        "img": "http://image.banshujiang.cn/4823.jpeg?timestamp=1731737197311",
+        "author": "Siraj Raval",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4823/webstorage_links/23478/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4823/webstorage_links/23476/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4823/webstorage_links/23477/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4824,
+        "title": "Make: Getting Started with Intel Edison",
+        "img": "http://image.banshujiang.cn/4824.jpeg?timestamp=1731737257503",
+        "author": "Stephanie Moyerman",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4824/webstorage_links/23484/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4824/webstorage_links/23482/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4824/webstorage_links/23483/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4825,
+        "title": "Getting Started with Raspberry Pi 3rd Edition",
+        "img": "http://image.banshujiang.cn/4825.jpeg?timestamp=1731737352252",
+        "author": "Matt Richardson and Shawn Wallace",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4825/webstorage_links/23490/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4825/webstorage_links/23488/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4825/webstorage_links/23489/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4826,
+        "title": "Getting Started with Varnish Cache",
+        "img": "http://image.banshujiang.cn/4826.jpeg?timestamp=1731737487637",
+        "author": "Thijs Feryn",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4826/webstorage_links/23494/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4826/webstorage_links/23493/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4827,
+        "title": "Graphing Data with R",
+        "img": "http://image.banshujiang.cn/4827.jpeg?timestamp=1731737601009",
+        "author": "John Jay Hilfiger",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4827/webstorage_links/23500/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4827/webstorage_links/23498/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4827/webstorage_links/23499/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4828,
+        "title": "Grid Layout in CSS",
+        "img": "http://image.banshujiang.cn/4828.jpeg?timestamp=1731737670596",
+        "author": "Eric A. Meyer",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "CSS",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4828/webstorage_links/23506/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4828/webstorage_links/23504/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4828/webstorage_links/23505/to_link"
+            }
+        ]
     }
 ]

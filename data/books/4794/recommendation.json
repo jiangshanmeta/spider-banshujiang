@@ -1,5 +1,31 @@
 [
     {
+        "id": 4827,
+        "title": "Graphing Data with R",
+        "img": "http://image.banshujiang.cn/4827.jpeg?timestamp=1731737601009",
+        "author": "John Jay Hilfiger",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4827/webstorage_links/23500/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4827/webstorage_links/23498/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4827/webstorage_links/23499/to_link"
+            }
+        ]
+    },
+    {
         "id": 4780,
         "title": "R Programming for Data Science",
         "img": "http://image.banshujiang.cn/4780.jpeg?timestamp=1730536008718",
@@ -291,27 +317,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/3958/webstorage_links/20006/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3864,
-        "title": "R Statistical Application Development by Example Beginner&#39;s Guide",
-        "img": "http://image.banshujiang.cn/3864.jpeg?timestamp=1714476031236",
-        "author": "Prabhanjan Narayanachar Tattar",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "R",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3864/webstorage_links/19634/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3864/webstorage_links/19633/to_link"
             }
         ]
     }

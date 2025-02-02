@@ -1,0 +1,317 @@
+[
+    {
+        "id": 4819,
+        "title": "C# 7.0 in a Nutshell",
+        "img": "http://image.banshujiang.cn/4819.jpeg?timestamp=1731736140874",
+        "author": "Joseph Albahari and Ben Albahari",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4819/webstorage_links/23454/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4819/webstorage_links/23453/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4804,
+        "title": "Functional Programming in C#",
+        "img": "http://image.banshujiang.cn/4804.jpeg?timestamp=1731733891364",
+        "author": "Enrico Buonanno",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4804/webstorage_links/23398/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4616,
+        "title": "深入理解C#(第3版)",
+        "img": "http://image.banshujiang.cn/4616.jpeg?timestamp=1728830289419",
+        "author": "[英]Jon Skeet [译]姚琪琳",
+        "language": "中文",
+        "publishYear": 2014,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4616/webstorage_links/22703/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4599,
+        "title": "Programming WCF Services 4th Edition",
+        "img": "http://image.banshujiang.cn/4599.jpeg?timestamp=1728021202171",
+        "author": "Juval Lowy &amp; Michael Montgomery",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4599/webstorage_links/22663/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4599/webstorage_links/22661/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4599/webstorage_links/22662/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4547,
+        "title": "C# 6.0 in a Nutshell 6th Edition",
+        "img": "http://image.banshujiang.cn/4547.jpeg?timestamp=1727874946653",
+        "author": "Joseph Albahari and Ben Albahari",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4547/webstorage_links/22396/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4547/webstorage_links/22394/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4547/webstorage_links/22395/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4546,
+        "title": "C# 6.0 Cookbook 4th Edition",
+        "img": "http://image.banshujiang.cn/4546.jpeg?timestamp=1727874863672",
+        "author": "Jay Hilyard and Stephen Teilhet",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4546/webstorage_links/22390/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4546/webstorage_links/22389/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4546/webstorage_links/22388/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4540,
+        "title": "C# 6.0 Pocket Reference",
+        "img": "http://image.banshujiang.cn/4540.jpeg?timestamp=1727874259663",
+        "author": "Joseph Albahari &amp; Ben Albahari",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4540/webstorage_links/22355/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4540/webstorage_links/22353/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4540/webstorage_links/22354/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4358,
+        "title": "Programming C# 12",
+        "img": "http://image.banshujiang.cn/4358.jpeg?timestamp=1721468440016",
+        "author": "Ian Griffiths",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4358/webstorage_links/21627/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4358/webstorage_links/21626/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4282,
+        "title": "C#敏捷开发实践",
+        "img": "http://image.banshujiang.cn/4282.jpeg?timestamp=1720096859899",
+        "author": "[英]Gary McLean Hall [译]许顺强",
+        "language": "中文",
+        "publishYear": 2016,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4282/webstorage_links/21329/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4281,
+        "title": "C#经典实例（第4版）",
+        "img": "http://image.banshujiang.cn/4281.jpeg?timestamp=1720096746948",
+        "author": "[美]Jay Hilyard [译]徐敬德",
+        "language": "中文",
+        "publishYear": 2016,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4281/webstorage_links/21327/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4280,
+        "title": "C#并发编程经典实例",
+        "img": "http://image.banshujiang.cn/4280.jpeg?timestamp=1720096626819",
+        "author": "[美]Stephen Cleary [译]相银初",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4280/webstorage_links/21325/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4241,
+        "title": "Programming Windows Store Apps with C#",
+        "img": "http://image.banshujiang.cn/4241.jpeg?timestamp=1719061933942",
+        "author": "Matt Baxter-Reynolds and Iris Classon",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4241/webstorage_links/21155/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4241/webstorage_links/21154/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4237,
+        "title": "Professional C# 5.0 and .NET 4.5.1",
+        "img": "http://image.banshujiang.cn/4237.jpeg?timestamp=1719061544494",
+        "author": "Christian Nagel",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "C#",
+        "formats": []
+    },
+    {
+        "id": 4114,
+        "title": ".NET in Action 2nd Edition",
+        "img": "http://image.banshujiang.cn/4114.jpeg?timestamp=1718111531642",
+        "author": "Dustin Metzgar",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4114/webstorage_links/20577/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4082,
+        "title": "Clean Architecture with .NET",
+        "img": "http://image.banshujiang.cn/4082.jpeg?timestamp=1717238207513",
+        "author": "Dino Esposito",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4082/webstorage_links/20467/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4082/webstorage_links/20466/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4074,
+        "title": "The Art of Unit Testing with Examples in C# 2nd Edition",
+        "img": "http://image.banshujiang.cn/4074.jpeg?timestamp=1717203257243",
+        "author": "Roy Osherove",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4074/webstorage_links/20438/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4074/webstorage_links/20437/to_link"
+            }
+        ]
+    }
+]

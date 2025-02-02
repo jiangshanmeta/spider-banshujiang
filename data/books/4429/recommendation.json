@@ -32,6 +32,37 @@
         ]
     },
     {
+        "id": 4811,
+        "title": "ASP.NET MVC 5 with Bootstrap and Knockout.js",
+        "img": "http://image.banshujiang.cn/4811.jpeg?timestamp=1731734730612",
+        "author": "Jamie Munro",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "ASP.net",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4811/webstorage_links/23430/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4811/webstorage_links/23428/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4811/webstorage_links/23429/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4811/webstorage_links/23427/to_link"
+            }
+        ]
+    },
+    {
         "id": 4806,
         "title": "Mission Python",
         "img": "http://image.banshujiang.cn/4806.jpeg?timestamp=1731734287888",
@@ -296,22 +327,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4644/webstorage_links/22759/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4631,
-        "title": "精通Django：Django 1.8 LTS 全解",
-        "img": "http://image.banshujiang.cn/4631.jpeg?timestamp=1728998315994",
-        "author": "Nigel George [译]安道",
-        "language": "中文",
-        "publishYear": 2016,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4631/webstorage_links/22733/to_link"
             }
         ]
     }

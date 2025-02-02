@@ -1,5 +1,31 @@
 [
     {
+        "id": 4827,
+        "title": "Graphing Data with R",
+        "img": "http://image.banshujiang.cn/4827.jpeg?timestamp=1731737601009",
+        "author": "John Jay Hilfiger",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4827/webstorage_links/23500/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4827/webstorage_links/23498/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4827/webstorage_links/23499/to_link"
+            }
+        ]
+    },
+    {
         "id": 4794,
         "title": "Report Writing for Data Science in R",
         "img": "http://image.banshujiang.cn/4794.jpeg?timestamp=1731121316387",
@@ -291,22 +317,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4135/webstorage_links/20637/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3958,
-        "title": "Machine Learning with R 4th Edition",
-        "img": "http://image.banshujiang.cn/3958.jpeg?timestamp=1714638980386",
-        "author": "Brett Lantz",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "R",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3958/webstorage_links/20006/to_link"
             }
         ]
     }

@@ -80,6 +80,37 @@
         ]
     },
     {
+        "id": 4811,
+        "title": "ASP.NET MVC 5 with Bootstrap and Knockout.js",
+        "img": "http://image.banshujiang.cn/4811.jpeg?timestamp=1731734730612",
+        "author": "Jamie Munro",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "ASP.net",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4811/webstorage_links/23430/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4811/webstorage_links/23428/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4811/webstorage_links/23429/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4811/webstorage_links/23427/to_link"
+            }
+        ]
+    },
+    {
         "id": 4726,
         "title": "MEAN Web开发",
         "img": "http://image.banshujiang.cn/4726.jpeg?timestamp=1729932675954",
@@ -286,22 +317,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4389/webstorage_links/21720/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4374,
-        "title": "Web性能权威指南",
-        "img": "http://image.banshujiang.cn/4374.jpeg?timestamp=1722049475744",
-        "author": "[美]Ilya Grigorik [译]李松峰",
-        "language": "中文",
-        "publishYear": 2014,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4374/webstorage_links/21685/to_link"
             }
         ]
     }
