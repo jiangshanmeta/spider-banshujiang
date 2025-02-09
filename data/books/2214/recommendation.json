@@ -32,6 +32,27 @@
         ]
     },
     {
+        "id": 4836,
+        "title": "Learning PHP, MySQL &amp; JavaScript 5th Edition",
+        "img": "http://image.banshujiang.cn/4836.jpeg?timestamp=1731738370095",
+        "author": "Robin Nixon",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "PHP",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4836/webstorage_links/23538/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4836/webstorage_links/23537/to_link"
+            }
+        ]
+    },
+    {
         "id": 4811,
         "title": "ASP.NET MVC 5 with Bootstrap and Knockout.js",
         "img": "http://image.banshujiang.cn/4811.jpeg?timestamp=1731734730612",
@@ -311,22 +332,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4656/webstorage_links/22790/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4644,
-        "title": "父与子的编程之旅：与小卡特一起学Python",
-        "img": "http://image.banshujiang.cn/4644.jpeg?timestamp=1729258684049",
-        "author": "[美]Warren Sande、Carter Sande [译]苏金国、易郑超",
-        "language": "中文",
-        "publishYear": 2014,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4644/webstorage_links/22759/to_link"
             }
         ]
     }

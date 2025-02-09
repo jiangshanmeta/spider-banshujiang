@@ -1,5 +1,73 @@
 [
     {
+        "id": 4831,
+        "title": "iOS 11 Swift Programming Cookbook",
+        "img": "http://image.banshujiang.cn/4831.jpeg?timestamp=1731737970006",
+        "author": "Vandad Nahavandipoor",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4831/webstorage_links/23520/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4831/webstorage_links/23519/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4830,
+        "title": "iOS 11 Programming Fundamentals with Swift 4th Edition",
+        "img": "http://image.banshujiang.cn/4830.jpeg?timestamp=1731737871096",
+        "author": "Matt Neuburg",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4830/webstorage_links/23516/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4830/webstorage_links/23515/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4830/webstorage_links/23514/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4829,
+        "title": "High Performance iOS Apps",
+        "img": "http://image.banshujiang.cn/4829.jpeg?timestamp=1731737775865",
+        "author": "Gaurav Vaish",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4829/webstorage_links/23510/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4829/webstorage_links/23509/to_link"
+            }
+        ]
+    },
+    {
         "id": 4799,
         "title": "watchOS 2 by Tutorials",
         "img": "http://image.banshujiang.cn/4799.jpeg?timestamp=1731121807496",
@@ -269,74 +337,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4472/webstorage_links/22034/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4456,
-        "title": "Introducing iOS 8",
-        "img": "http://image.banshujiang.cn/4456.jpeg?timestamp=1723865864084",
-        "author": "Steve Derico",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4456/webstorage_links/21963/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4456/webstorage_links/21962/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4366,
-        "title": "iOS编程基础：Swift、Xcode和Cocoa入门指南",
-        "img": "http://image.banshujiang.cn/4366.jpeg?timestamp=1721472827531",
-        "author": "[美]Matt Neuburg [译]张龙",
-        "language": "中文",
-        "publishYear": 2017,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4366/webstorage_links/21664/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4366/webstorage_links/21665/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4366/webstorage_links/21663/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4322,
-        "title": "Swift by Tutorials",
-        "img": "http://image.banshujiang.cn/4322.jpeg?timestamp=1721304809129",
-        "author": "raywenderlich.com Tutorial Team",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4322/webstorage_links/21511/to_link"
-            },
-            {
-                "fmt": "CODE",
-                "title": "城通网盘",
-                "link": "/e_books/4322/webstorage_links/21510/to_link"
             }
         ]
     }

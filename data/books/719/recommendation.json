@@ -169,6 +169,74 @@
         ]
     },
     {
+        "id": 4831,
+        "title": "iOS 11 Swift Programming Cookbook",
+        "img": "http://image.banshujiang.cn/4831.jpeg?timestamp=1731737970006",
+        "author": "Vandad Nahavandipoor",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4831/webstorage_links/23520/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4831/webstorage_links/23519/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4830,
+        "title": "iOS 11 Programming Fundamentals with Swift 4th Edition",
+        "img": "http://image.banshujiang.cn/4830.jpeg?timestamp=1731737871096",
+        "author": "Matt Neuburg",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4830/webstorage_links/23516/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4830/webstorage_links/23515/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4830/webstorage_links/23514/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4829,
+        "title": "High Performance iOS Apps",
+        "img": "http://image.banshujiang.cn/4829.jpeg?timestamp=1731737775865",
+        "author": "Gaurav Vaish",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4829/webstorage_links/23510/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4829/webstorage_links/23509/to_link"
+            }
+        ]
+    },
+    {
         "id": 4799,
         "title": "watchOS 2 by Tutorials",
         "img": "http://image.banshujiang.cn/4799.jpeg?timestamp=1731121807496",
@@ -239,59 +307,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4743/webstorage_links/23120/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4718,
-        "title": "iOS 9 by Tutorials",
-        "img": "http://image.banshujiang.cn/4718.jpeg?timestamp=1729930745085",
-        "author": "the raywenderlich.com Tutorial Team",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4718/webstorage_links/23046/to_link"
-            },
-            {
-                "fmt": "CODE",
-                "title": "城通网盘",
-                "link": "/e_books/4718/webstorage_links/23045/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4640,
-        "title": "高性能iOS应用开发",
-        "img": "http://image.banshujiang.cn/4640.jpeg?timestamp=1728999429282",
-        "author": "[美]Gaurav Vaish [译]梁士兴、郝田田、陈作君",
-        "language": "中文",
-        "publishYear": 2017,
-        "programLanguage": "Objective-C",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4640/webstorage_links/22751/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4638,
-        "title": "黑客攻防技术宝典：iOS实战篇",
-        "img": "http://image.banshujiang.cn/4638.jpeg?timestamp=1728999150838",
-        "author": "[美]Charlie Miller [译]傅尔也",
-        "language": "中文",
-        "publishYear": 2013,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4638/webstorage_links/22747/to_link"
             }
         ]
     }

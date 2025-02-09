@@ -42,6 +42,43 @@
         ]
     },
     {
+        "id": 4840,
+        "title": "Linux Pocket Guide 3rd Edition",
+        "img": "http://image.banshujiang.cn/4840.jpeg?timestamp=1731738694430",
+        "author": "Daniel J. Barrett",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4840/webstorage_links/23554/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4834,
+        "title": "Learning Kali Linux",
+        "img": "http://image.banshujiang.cn/4834.jpeg?timestamp=1731738203642",
+        "author": "Ric Messier",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4834/webstorage_links/23530/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4834/webstorage_links/23529/to_link"
+            }
+        ]
+    },
+    {
         "id": 4750,
         "title": "Linux系统命令及Shell脚本实践指南",
         "img": "http://image.banshujiang.cn/4750.jpeg?timestamp=1730532460844",
@@ -300,48 +337,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4378/webstorage_links/21697/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4367,
-        "title": "Kali Linux渗透测试的艺术",
-        "img": "http://image.banshujiang.cn/4367.jpeg?timestamp=1721472975710",
-        "author": "[英]Lee Allen、Shakeel Ali [印尼]Tedi Heriyanto [译]Archer",
-        "language": "中文",
-        "publishYear": 2015,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4367/webstorage_links/21670/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4367/webstorage_links/21671/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4367/webstorage_links/21669/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4197,
-        "title": "Learning the bash Shell 3rd Edition",
-        "img": "http://image.banshujiang.cn/4197.jpeg?timestamp=1718626825516",
-        "author": "Cameron Newham and Bill Rosenblatt",
-        "language": "英文",
-        "publishYear": 2005,
-        "programLanguage": "Shell Script",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4197/webstorage_links/20939/to_link"
             }
         ]
     }

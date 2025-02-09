@@ -1,5 +1,42 @@
 [
     {
+        "id": 4840,
+        "title": "Linux Pocket Guide 3rd Edition",
+        "img": "http://image.banshujiang.cn/4840.jpeg?timestamp=1731738694430",
+        "author": "Daniel J. Barrett",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4840/webstorage_links/23554/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4834,
+        "title": "Learning Kali Linux",
+        "img": "http://image.banshujiang.cn/4834.jpeg?timestamp=1731738203642",
+        "author": "Ric Messier",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4834/webstorage_links/23530/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4834/webstorage_links/23529/to_link"
+            }
+        ]
+    },
+    {
         "id": 4750,
         "title": "Linux系统命令及Shell脚本实践指南",
         "img": "http://image.banshujiang.cn/4750.jpeg?timestamp=1730532460844",
@@ -295,43 +332,6 @@
                 "fmt": "AZW3",
                 "title": "城通网盘",
                 "link": "/e_books/4367/webstorage_links/21669/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4098,
-        "title": "Linux Pocket Guide 4th Edition",
-        "img": "http://image.banshujiang.cn/4098.jpeg?timestamp=1717330352996",
-        "author": "Daniel J. Barrett",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4098/webstorage_links/20521/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3704,
-        "title": "CentOS 6 Linux Server Cookbook",
-        "img": "http://image.banshujiang.cn/3704.jpeg?timestamp=1711717531983",
-        "author": "Jonathan Hobson",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3704/webstorage_links/19001/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3704/webstorage_links/19000/to_link"
             }
         ]
     }

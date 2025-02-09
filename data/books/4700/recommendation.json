@@ -89,6 +89,58 @@
         ]
     },
     {
+        "id": 4841,
+        "title": "MongoDB权威指南(第2版)",
+        "img": "http://image.banshujiang.cn/4841.jpeg?timestamp=1731738998904",
+        "author": "[美]Kristina Chodorow [译]邓强、王明辉",
+        "language": "中文",
+        "publishYear": 2014,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4841/webstorage_links/23560/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4841/webstorage_links/23558/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4841/webstorage_links/23559/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4838,
+        "title": "Learning React Native 2nd Edition",
+        "img": "http://image.banshujiang.cn/4838.jpeg?timestamp=1731738530057",
+        "author": "Bonnie Eisenman",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4838/webstorage_links/23548/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4838/webstorage_links/23547/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4838/webstorage_links/23546/to_link"
+            }
+        ]
+    },
+    {
         "id": 4793,
         "title": "React+d3.js",
         "img": "http://image.banshujiang.cn/4793.jpeg?timestamp=1731121244565",
@@ -320,38 +372,6 @@
                 "fmt": "AZW3",
                 "title": "城通网盘",
                 "link": "/e_books/4734/webstorage_links/23086/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4732,
-        "title": "Node与Express开发",
-        "img": "http://image.banshujiang.cn/4732.jpeg?timestamp=1729934245150",
-        "author": "[美]Ethan Brown [译]吴海星、苏文",
-        "language": "中文",
-        "publishYear": 2015,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4732/webstorage_links/23080/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4731,
-        "title": "Node即学即用",
-        "img": "http://image.banshujiang.cn/4731.jpeg?timestamp=1729934153756",
-        "author": "[英]Tom Hughes-Croucher、Mike Wilson",
-        "language": "中文",
-        "publishYear": 2013,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4731/webstorage_links/23078/to_link"
             }
         ]
     }

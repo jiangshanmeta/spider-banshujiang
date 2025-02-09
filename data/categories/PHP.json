@@ -1,5 +1,47 @@
 [
     {
+        "id": 4836,
+        "title": "Learning PHP, MySQL &amp; JavaScript 5th Edition",
+        "img": "http://image.banshujiang.cn/4836.jpeg?timestamp=1731738370095",
+        "author": "Robin Nixon",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "PHP",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4836/webstorage_links/23538/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4836/webstorage_links/23537/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4835,
+        "title": "Learning PHP",
+        "img": "http://image.banshujiang.cn/4835.jpeg?timestamp=1731738290402",
+        "author": "David Sklar",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "PHP",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4835/webstorage_links/23534/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4835/webstorage_links/23533/to_link"
+            }
+        ]
+    },
+    {
         "id": 4798,
         "title": "The essentials of Object Oriented PHP",
         "img": "http://image.banshujiang.cn/4798.jpeg?timestamp=1731121711559",

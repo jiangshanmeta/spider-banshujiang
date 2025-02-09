@@ -1,5 +1,47 @@
 [
     {
+        "id": 4836,
+        "title": "Learning PHP, MySQL &amp; JavaScript 5th Edition",
+        "img": "http://image.banshujiang.cn/4836.jpeg?timestamp=1731738370095",
+        "author": "Robin Nixon",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "PHP",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4836/webstorage_links/23538/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4836/webstorage_links/23537/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4835,
+        "title": "Learning PHP",
+        "img": "http://image.banshujiang.cn/4835.jpeg?timestamp=1731738290402",
+        "author": "David Sklar",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "PHP",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4835/webstorage_links/23534/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4835/webstorage_links/23533/to_link"
+            }
+        ]
+    },
+    {
         "id": 4798,
         "title": "The essentials of Object Oriented PHP",
         "img": "http://image.banshujiang.cn/4798.jpeg?timestamp=1731121711559",
@@ -310,48 +352,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3787/webstorage_links/19330/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3782,
-        "title": "Oracle Essentials 5th Edition",
-        "img": "https://imagebsj.netlify.app/3782.jpeg",
-        "author": "Rick Greenwald, Robert Stackowiak, and Jonathan Stern",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3782/webstorage_links/19311/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3782/webstorage_links/19310/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3773,
-        "title": "Magento PHP Developer&#39;s Guide",
-        "img": "https://imagebsj.netlify.app/3773.jpeg",
-        "author": "Allan MacGregor",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "PHP",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3773/webstorage_links/19303/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3773/webstorage_links/19302/to_link"
             }
         ]
     }

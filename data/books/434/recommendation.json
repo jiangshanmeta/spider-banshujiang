@@ -1,5 +1,31 @@
 [
     {
+        "id": 4841,
+        "title": "MongoDB权威指南(第2版)",
+        "img": "http://image.banshujiang.cn/4841.jpeg?timestamp=1731738998904",
+        "author": "[美]Kristina Chodorow [译]邓强、王明辉",
+        "language": "中文",
+        "publishYear": 2014,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4841/webstorage_links/23560/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4841/webstorage_links/23558/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4841/webstorage_links/23559/to_link"
+            }
+        ]
+    },
+    {
         "id": 4792,
         "title": "MongoDB in Action 2nd Edition",
         "img": "http://image.banshujiang.cn/4792.jpeg?timestamp=1731121059665",
@@ -316,22 +342,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/677/webstorage_links/14866/to_link"
-            }
-        ]
-    },
-    {
-        "id": 561,
-        "title": "MongoDB and Python",
-        "img": "https://imagebsj.netlify.app/561.jpeg",
-        "author": "Niall O’Higgins",
-        "language": "英文",
-        "publishYear": 2011,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/561/webstorage_links/14638/to_link"
             }
         ]
     }

@@ -64,6 +64,27 @@
         ]
     },
     {
+        "id": 4836,
+        "title": "Learning PHP, MySQL &amp; JavaScript 5th Edition",
+        "img": "http://image.banshujiang.cn/4836.jpeg?timestamp=1731738370095",
+        "author": "Robin Nixon",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "PHP",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4836/webstorage_links/23538/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4836/webstorage_links/23537/to_link"
+            }
+        ]
+    },
+    {
         "id": 4811,
         "title": "ASP.NET MVC 5 with Bootstrap and Knockout.js",
         "img": "http://image.banshujiang.cn/4811.jpeg?timestamp=1731734730612",
@@ -326,32 +347,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4726/webstorage_links/23068/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4707,
-        "title": "Java Persistence with Hibernate 2nd Edition",
-        "img": "http://image.banshujiang.cn/4707.jpeg?timestamp=1729929053638",
-        "author": "Christian Bauer, Gavin King and Gary Gregory",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4707/webstorage_links/22987/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4707/webstorage_links/22985/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4707/webstorage_links/22986/to_link"
             }
         ]
     }

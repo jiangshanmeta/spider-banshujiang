@@ -1,5 +1,31 @@
 [
     {
+        "id": 4838,
+        "title": "Learning React Native 2nd Edition",
+        "img": "http://image.banshujiang.cn/4838.jpeg?timestamp=1731738530057",
+        "author": "Bonnie Eisenman",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4838/webstorage_links/23548/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4838/webstorage_links/23547/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4838/webstorage_links/23546/to_link"
+            }
+        ]
+    },
+    {
         "id": 4793,
         "title": "React+d3.js",
         "img": "http://image.banshujiang.cn/4793.jpeg?timestamp=1731121244565",
@@ -291,22 +317,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4721/webstorage_links/23052/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4720,
-        "title": "Hacking with React",
-        "img": "http://image.banshujiang.cn/4720.jpeg?timestamp=1729930913894",
-        "author": "Paul Hudson",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4720/webstorage_links/23050/to_link"
             }
         ]
     }
