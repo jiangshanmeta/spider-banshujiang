@@ -1,5 +1,26 @@
 [
     {
+        "id": 4882,
+        "title": "Programming Kubernetes",
+        "img": "http://image.banshujiang.cn/4882.jpeg?timestamp=1738846145433",
+        "author": "Michael Hausenblas and Stefan Schimanski",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4882/webstorage_links/23722/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4882/webstorage_links/23721/to_link"
+            }
+        ]
+    },
+    {
         "id": 4787,
         "title": "Docker in Practice",
         "img": "http://image.banshujiang.cn/4787.jpeg?timestamp=1731120684080",
@@ -321,27 +342,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3939/webstorage_links/19935/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3938,
-        "title": "Kubernetes Best Practices 2nd Edition",
-        "img": "http://image.banshujiang.cn/3938.jpeg?timestamp=1714575329556",
-        "author": "Brendan Burns, Eddie Villalba, Dave Strebel, and Lachlan Evenson",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3938/webstorage_links/19932/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3938/webstorage_links/19931/to_link"
             }
         ]
     }

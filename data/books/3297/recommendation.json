@@ -1,5 +1,26 @@
 [
     {
+        "id": 4853,
+        "title": "Programming iOS 11 8th Edition",
+        "img": "http://image.banshujiang.cn/4853.jpeg?timestamp=1732351331538",
+        "author": "Matt Neuburg",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4853/webstorage_links/23612/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4853/webstorage_links/23611/to_link"
+            }
+        ]
+    },
+    {
         "id": 4839,
         "title": "Learning Swift",
         "img": "http://image.banshujiang.cn/4839.jpeg?timestamp=1731738603978",
@@ -316,27 +337,6 @@
                 "fmt": "CODE",
                 "title": "城通网盘",
                 "link": "/e_books/4503/webstorage_links/22170/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4473,
-        "title": "Swift Pocket Reference",
-        "img": "http://image.banshujiang.cn/4473.jpeg?timestamp=1723945260751",
-        "author": "Anthony Gray",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4473/webstorage_links/22039/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4473/webstorage_links/22038/to_link"
             }
         ]
     }

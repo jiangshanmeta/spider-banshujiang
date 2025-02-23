@@ -1,5 +1,26 @@
 [
     {
+        "id": 4855,
+        "title": "Programming Rust",
+        "img": "http://image.banshujiang.cn/4855.jpeg?timestamp=1732351479794",
+        "author": "Jim Blandy and Jason Orendorff",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "Rust",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4855/webstorage_links/23618/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4855/webstorage_links/23617/to_link"
+            }
+        ]
+    },
+    {
         "id": 4091,
         "title": "Effective Rust",
         "img": "http://image.banshujiang.cn/4091.jpeg?timestamp=1717329166519",

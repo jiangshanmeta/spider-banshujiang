@@ -1,5 +1,36 @@
 [
     {
+        "id": 4868,
+        "title": "Linux Basics for Hackers",
+        "img": "http://image.banshujiang.cn/4868.jpeg?timestamp=1732888061253",
+        "author": "OccupyTheWeb",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4868/webstorage_links/23682/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4868/webstorage_links/23680/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4868/webstorage_links/23681/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4868/webstorage_links/23679/to_link"
+            }
+        ]
+    },
+    {
         "id": 4840,
         "title": "Linux Pocket Guide 3rd Edition",
         "img": "http://image.banshujiang.cn/4840.jpeg?timestamp=1731738694430",
@@ -306,32 +337,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4378/webstorage_links/21697/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4367,
-        "title": "Kali Linux渗透测试的艺术",
-        "img": "http://image.banshujiang.cn/4367.jpeg?timestamp=1721472975710",
-        "author": "[英]Lee Allen、Shakeel Ali [印尼]Tedi Heriyanto [译]Archer",
-        "language": "中文",
-        "publishYear": 2015,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4367/webstorage_links/21670/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4367/webstorage_links/21671/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4367/webstorage_links/21669/to_link"
             }
         ]
     }

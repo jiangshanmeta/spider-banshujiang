@@ -1,5 +1,21 @@
 [
     {
+        "id": 4884,
+        "title": "R Graphics Cookbook 2nd Edition",
+        "img": "http://image.banshujiang.cn/4884.jpeg?timestamp=1738846403333",
+        "author": "Winston Chang",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4884/webstorage_links/23728/to_link"
+            }
+        ]
+    },
+    {
         "id": 4827,
         "title": "Graphing Data with R",
         "img": "http://image.banshujiang.cn/4827.jpeg?timestamp=1731737601009",
@@ -301,22 +317,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/4160/webstorage_links/20746/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4135,
-        "title": "R for The Rest of Us: a Statistics-free Introduction",
-        "img": "http://image.banshujiang.cn/4135.jpeg?timestamp=1718463688525",
-        "author": "David Keyes",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "R",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4135/webstorage_links/20637/to_link"
             }
         ]
     }

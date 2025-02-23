@@ -90,6 +90,85 @@
         ]
     },
     {
+        "id": 4885,
+        "title": "Strengthening Deep Neural Networks",
+        "img": "http://image.banshujiang.cn/4885.jpeg?timestamp=1738846501451",
+        "author": "Katy Warr",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4885/webstorage_links/23732/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4885/webstorage_links/23731/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4884,
+        "title": "R Graphics Cookbook 2nd Edition",
+        "img": "http://image.banshujiang.cn/4884.jpeg?timestamp=1738846403333",
+        "author": "Winston Chang",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4884/webstorage_links/23728/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4881,
+        "title": "Natural Language Processing with PyTorch",
+        "img": "http://image.banshujiang.cn/4881.jpeg?timestamp=1738845954896",
+        "author": "Delip Rao and Brian McMahan",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4881/webstorage_links/23718/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4881/webstorage_links/23717/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4873,
+        "title": "Generative Deep Learning",
+        "img": "http://image.banshujiang.cn/4873.jpeg?timestamp=1732888920845",
+        "author": "David Foster",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4873/webstorage_links/23698/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4873/webstorage_links/23697/to_link"
+            }
+        ]
+    },
+    {
         "id": 4827,
         "title": "Graphing Data with R",
         "img": "http://image.banshujiang.cn/4827.jpeg?timestamp=1731737601009",
@@ -228,80 +307,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4737/webstorage_links/23099/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4719,
-        "title": "Exploratory Data Analysis with R",
-        "img": "http://image.banshujiang.cn/4719.jpeg?timestamp=1729930844696",
-        "author": "Roger D. Peng",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "R",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4719/webstorage_links/23048/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4689,
-        "title": "The Complete Obsolete Guide to Generative AI",
-        "img": "http://image.banshujiang.cn/4689.jpeg?timestamp=1729914004769",
-        "author": "David Clinton",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4689/webstorage_links/22893/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4689/webstorage_links/22892/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4688,
-        "title": "Starting Data Analytics with Generative AI and Python",
-        "img": "http://image.banshujiang.cn/4688.jpeg?timestamp=1729913287980",
-        "author": "Artur Guja, Marlena Siwiak and Marian Siwiak",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4688/webstorage_links/22889/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4685,
-        "title": "Quick Start Guide to Large Language Models",
-        "img": "http://image.banshujiang.cn/4685.jpeg?timestamp=1729913003003",
-        "author": "Sinan Ozdemir",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4685/webstorage_links/22881/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4685/webstorage_links/22880/to_link"
             }
         ]
     }

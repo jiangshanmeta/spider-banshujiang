@@ -53,6 +53,27 @@
         ]
     },
     {
+        "id": 4888,
+        "title": "Think Java",
+        "img": "http://image.banshujiang.cn/4888.jpeg?timestamp=1738846802664",
+        "author": "Allen B. Downey and Chris Mayfield",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4888/webstorage_links/23743/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4888/webstorage_links/23742/to_link"
+            }
+        ]
+    },
+    {
         "id": 4784,
         "title": "Java Performance Companion",
         "img": "http://image.banshujiang.cn/4784.jpeg?timestamp=1731120348825",
@@ -326,32 +347,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4641/webstorage_links/22753/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4596,
-        "title": "Programming Google App Engine with Java",
-        "img": "http://image.banshujiang.cn/4596.jpeg?timestamp=1728020951922",
-        "author": "Dan Sanderson",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4596/webstorage_links/22645/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4596/webstorage_links/22643/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4596/webstorage_links/22644/to_link"
             }
         ]
     }

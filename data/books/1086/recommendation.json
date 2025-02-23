@@ -1,5 +1,26 @@
 [
     {
+        "id": 4853,
+        "title": "Programming iOS 11 8th Edition",
+        "img": "http://image.banshujiang.cn/4853.jpeg?timestamp=1732351331538",
+        "author": "Matt Neuburg",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4853/webstorage_links/23612/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4853/webstorage_links/23611/to_link"
+            }
+        ]
+    },
+    {
         "id": 4831,
         "title": "iOS 11 Swift Programming Cookbook",
         "img": "http://image.banshujiang.cn/4831.jpeg?timestamp=1731737970006",
@@ -321,27 +342,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4580/webstorage_links/22570/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4579,
-        "title": "iOS 8 Programming Fundamentals with Swift",
-        "img": "http://image.banshujiang.cn/4579.jpeg?timestamp=1728013223691",
-        "author": "Matt Neuburg",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4579/webstorage_links/22567/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4579/webstorage_links/22566/to_link"
             }
         ]
     }

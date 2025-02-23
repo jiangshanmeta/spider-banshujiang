@@ -1,5 +1,68 @@
 [
     {
+        "id": 4885,
+        "title": "Strengthening Deep Neural Networks",
+        "img": "http://image.banshujiang.cn/4885.jpeg?timestamp=1738846501451",
+        "author": "Katy Warr",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4885/webstorage_links/23732/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4885/webstorage_links/23731/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4881,
+        "title": "Natural Language Processing with PyTorch",
+        "img": "http://image.banshujiang.cn/4881.jpeg?timestamp=1738845954896",
+        "author": "Delip Rao and Brian McMahan",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4881/webstorage_links/23718/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4881/webstorage_links/23717/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4873,
+        "title": "Generative Deep Learning",
+        "img": "http://image.banshujiang.cn/4873.jpeg?timestamp=1732888920845",
+        "author": "David Foster",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4873/webstorage_links/23698/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4873/webstorage_links/23697/to_link"
+            }
+        ]
+    },
+    {
         "id": 4779,
         "title": "Machine Learning with Spark",
         "img": "http://image.banshujiang.cn/4779.jpeg?timestamp=1730535897532",
@@ -249,54 +312,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4655/webstorage_links/22787/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4654,
-        "title": "Data Storytelling with Altair and AI",
-        "img": "http://image.banshujiang.cn/4654.jpeg?timestamp=1729323751484",
-        "author": "Angelica Lo Duca",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4654/webstorage_links/22785/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4646,
-        "title": "AI-Powered Developer",
-        "img": "http://image.banshujiang.cn/4646.jpeg?timestamp=1729262254665",
-        "author": "Nathan B. Crocker",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4646/webstorage_links/22763/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4636,
-        "title": "机器学习实战",
-        "img": "http://image.banshujiang.cn/4636.jpeg?timestamp=1728998810504",
-        "author": "[美]Peter Harrington [译]李锐、李鹏、曲亚东、王斌",
-        "language": "中文",
-        "publishYear": 2013,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4636/webstorage_links/22743/to_link"
             }
         ]
     }

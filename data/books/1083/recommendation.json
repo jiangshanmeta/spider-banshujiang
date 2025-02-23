@@ -32,6 +32,90 @@
         ]
     },
     {
+        "id": 4881,
+        "title": "Natural Language Processing with PyTorch",
+        "img": "http://image.banshujiang.cn/4881.jpeg?timestamp=1738845954896",
+        "author": "Delip Rao and Brian McMahan",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4881/webstorage_links/23718/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4881/webstorage_links/23717/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4875,
+        "title": "编程小百的第1本Python入门书",
+        "img": "http://image.banshujiang.cn/4875.jpeg?timestamp=1733030115953",
+        "author": "侯爵",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4875/webstorage_links/23702/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4870,
+        "title": "Data Science from Scratch 2nd Edition",
+        "img": "http://image.banshujiang.cn/4870.jpeg?timestamp=1732888533546",
+        "author": "Joel Grus",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4870/webstorage_links/23690/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4870/webstorage_links/23689/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4870/webstorage_links/23688/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4867,
+        "title": "Impractical Python Projects",
+        "img": "http://image.banshujiang.cn/4867.jpeg?timestamp=1732887956954",
+        "author": "Lee Vaughan",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4867/webstorage_links/23674/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4867/webstorage_links/23673/to_link"
+            }
+        ]
+    },
+    {
         "id": 4836,
         "title": "Learning PHP, MySQL &amp; JavaScript 5th Edition",
         "img": "http://image.banshujiang.cn/4836.jpeg?timestamp=1731738370095",
@@ -258,80 +342,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4688/webstorage_links/22889/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4681,
-        "title": "Pandas for Everyone: Python Data Analysis 2nd Edition",
-        "img": "http://image.banshujiang.cn/4681.jpeg?timestamp=1729912403173",
-        "author": "Daniel Y. Chen",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4681/webstorage_links/22865/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4681/webstorage_links/22864/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4679,
-        "title": "Hypermodern Python Tooling",
-        "img": "http://image.banshujiang.cn/4679.jpeg?timestamp=1729348653398",
-        "author": "Claudio Jolowicz",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4679/webstorage_links/22859/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4666,
-        "title": "Learn Generative AI with PyTorch",
-        "img": "http://image.banshujiang.cn/4666.jpeg?timestamp=1729328299203",
-        "author": "Mark Liu",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4666/webstorage_links/22829/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4656,
-        "title": "Django in Action",
-        "img": "http://image.banshujiang.cn/4656.jpeg?timestamp=1729323907912",
-        "author": "Christopher Trudeau",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4656/webstorage_links/22791/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4656/webstorage_links/22790/to_link"
             }
         ]
     }

@@ -1,5 +1,89 @@
 [
     {
+        "id": 4881,
+        "title": "Natural Language Processing with PyTorch",
+        "img": "http://image.banshujiang.cn/4881.jpeg?timestamp=1738845954896",
+        "author": "Delip Rao and Brian McMahan",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4881/webstorage_links/23718/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4881/webstorage_links/23717/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4875,
+        "title": "编程小百的第1本Python入门书",
+        "img": "http://image.banshujiang.cn/4875.jpeg?timestamp=1733030115953",
+        "author": "侯爵",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4875/webstorage_links/23702/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4870,
+        "title": "Data Science from Scratch 2nd Edition",
+        "img": "http://image.banshujiang.cn/4870.jpeg?timestamp=1732888533546",
+        "author": "Joel Grus",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4870/webstorage_links/23690/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4870/webstorage_links/23689/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4870/webstorage_links/23688/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4867,
+        "title": "Impractical Python Projects",
+        "img": "http://image.banshujiang.cn/4867.jpeg?timestamp=1732887956954",
+        "author": "Lee Vaughan",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4867/webstorage_links/23674/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4867/webstorage_links/23673/to_link"
+            }
+        ]
+    },
+    {
         "id": 4806,
         "title": "Mission Python",
         "img": "http://image.banshujiang.cn/4806.jpeg?timestamp=1731734287888",
@@ -238,85 +322,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4631/webstorage_links/22733/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4630,
-        "title": "精通Python自然语言处理",
-        "img": "http://image.banshujiang.cn/4630.jpeg?timestamp=1728998145308",
-        "author": "[印度]Deepti Chopra、Nisheeth Joshi、Iti Mathur [译]王威",
-        "language": "中文",
-        "publishYear": 2017,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4630/webstorage_links/22731/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4620,
-        "title": "深度学习入门：基于Python的理论与实现",
-        "img": "http://image.banshujiang.cn/4620.jpeg?timestamp=1728996784456",
-        "author": "[日]斋藤康毅  [译]陆宇杰",
-        "language": "中文",
-        "publishYear": 2018,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4620/webstorage_links/22711/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4597,
-        "title": "Programming Google App Engine with Python",
-        "img": "http://image.banshujiang.cn/4597.jpeg?timestamp=1728021027726",
-        "author": "Dan Sanderson",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4597/webstorage_links/22651/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4597/webstorage_links/22649/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4597/webstorage_links/22650/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4566,
-        "title": "Fluent Python",
-        "img": "http://image.banshujiang.cn/4566.jpeg?timestamp=1728012064194",
-        "author": "Luciano Ramalho",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4566/webstorage_links/22493/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4566/webstorage_links/22492/to_link"
             }
         ]
     }

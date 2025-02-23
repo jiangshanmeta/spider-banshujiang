@@ -1,5 +1,69 @@
 [
     {
+        "id": 4880,
+        "title": "ng-book The Complete Guide to Angular 11",
+        "img": "http://image.banshujiang.cn/4880.jpeg?timestamp=1733141588325",
+        "author": "Nate Murray, Felipe Coury, Ari Lerner and Carlos Taborda",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "TypeScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4880/webstorage_links/23714/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4877,
+        "title": "ng-book The Complete Guide to Angular 9",
+        "img": "http://image.banshujiang.cn/4877.jpeg?timestamp=1733030353069",
+        "author": "Nate Murray, Felipe Coury, Ari Lerner and Carlos Taborda",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "TypeScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4877/webstorage_links/23706/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4872,
+        "title": "ng-book The Complete Guide to Angular 8",
+        "img": "http://image.banshujiang.cn/4872.jpeg?timestamp=1732888859708",
+        "author": "Nate Murray, Felipe Coury, Ari Lerner and Carlos Taborda",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "TypeScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4872/webstorage_links/23694/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4869,
+        "title": "ng-book The Complete Guide to Angular 7",
+        "img": "http://image.banshujiang.cn/4869.jpeg?timestamp=1732888290162",
+        "author": "Nate Murray, Felipe Coury, Ari Lerner and Carlos Taborda",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "TypeScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4869/webstorage_links/23684/to_link"
+            }
+        ]
+    },
+    {
         "id": 4207,
         "title": "Angular权威教程",
         "img": "http://image.banshujiang.cn/4207.jpeg?timestamp=1718630788026",
@@ -233,43 +297,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/2416/webstorage_links/15896/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2393,
-        "title": "Effective TypeScript",
-        "img": "https://imagebsj.netlify.app/2393.jpeg",
-        "author": "Dan Vanderkam",
-        "language": "英文",
-        "publishYear": 2020,
-        "programLanguage": "TypeScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2393/webstorage_links/15851/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2393/webstorage_links/15850/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2225,
-        "title": "Testing Angular Applications",
-        "img": "https://imagebsj.netlify.app/2225.jpeg",
-        "author": "Jesse Palmer, Corinna Cohn, Michael Giambalvo and Craig Nishina",
-        "language": "英文",
-        "publishYear": 2018,
-        "programLanguage": "TypeScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2225/webstorage_links/15577/to_link"
             }
         ]
     }

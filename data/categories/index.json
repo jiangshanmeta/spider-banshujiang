@@ -250,6 +250,10 @@
         "label": "年份",
         "tags": [
             {
+                "label": "2025",
+                "url": "/category/publish_year/2025"
+            },
+            {
                 "label": "2024",
                 "url": "/category/publish_year/2024"
             },
