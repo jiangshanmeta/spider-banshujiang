@@ -1,5 +1,47 @@
 [
     {
+        "id": 4899,
+        "title": "Swift Programming: The Big Nerd Ranch Guide",
+        "img": "http://image.banshujiang.cn/4899.jpeg?timestamp=1739086533192",
+        "author": "Matthew Mathias and John Gallagher",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4899/webstorage_links/23796/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4899/webstorage_links/23795/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4899/webstorage_links/23794/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4898,
+        "title": "Swift Apprentice: Beginning programming with Swift 3",
+        "img": "http://image.banshujiang.cn/4898.jpeg?timestamp=1739086225487",
+        "author": "raywenderlich.com Tutorial Team",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4898/webstorage_links/23790/to_link"
+            }
+        ]
+    },
+    {
         "id": 4853,
         "title": "Programming iOS 11 8th Edition",
         "img": "http://image.banshujiang.cn/4853.jpeg?timestamp=1732351331538",
@@ -300,48 +342,6 @@
                 "fmt": "CODE",
                 "title": "城通网盘",
                 "link": "/e_books/4503/webstorage_links/22170/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4473,
-        "title": "Swift Pocket Reference",
-        "img": "http://image.banshujiang.cn/4473.jpeg?timestamp=1723945260751",
-        "author": "Anthony Gray",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4473/webstorage_links/22039/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4473/webstorage_links/22038/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4472,
-        "title": "Swift Development with Cocoa",
-        "img": "http://image.banshujiang.cn/4472.jpeg?timestamp=1723945187035",
-        "author": "Jonathon Manning, Paris Buttfield-Addison, and Tim Nugent",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4472/webstorage_links/22035/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4472/webstorage_links/22034/to_link"
             }
         ]
     }

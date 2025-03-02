@@ -93030,5 +93030,435 @@
                 "link": "/e_books/4892/webstorage_links/23762/to_link"
             }
         ]
+    },
+    {
+        "id": 4893,
+        "title": "XenServer Administration Handbook",
+        "img": "http://image.banshujiang.cn/4893.jpeg?timestamp=1739085326142",
+        "author": "Tim Mackey and J.K. Benedict",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4893/webstorage_links/23770/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4893/webstorage_links/23768/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4893/webstorage_links/23769/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4894,
+        "title": "Zero Trust Networks",
+        "img": "http://image.banshujiang.cn/4894.jpeg?timestamp=1739085542567",
+        "author": "Evan Gilman and Doug Barth",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4894/webstorage_links/23774/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4894/webstorage_links/23773/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4895,
+        "title": "Java 9 High Performance",
+        "img": "http://image.banshujiang.cn/4895.jpeg?timestamp=1739085642505",
+        "author": "Mayur Ramgir",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4895/webstorage_links/23776/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4896,
+        "title": "Practical Vim 2nd Edition",
+        "img": "http://image.banshujiang.cn/4896.jpeg?timestamp=1739085956538",
+        "author": "Drew Neil",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4896/webstorage_links/23782/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4896/webstorage_links/23780/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4896/webstorage_links/23781/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4897,
+        "title": "Real - World Bug Hunting",
+        "img": "http://image.banshujiang.cn/4897.jpeg?timestamp=1739086070956",
+        "author": "Peter Yaworski",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4897/webstorage_links/23788/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4897/webstorage_links/23786/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4897/webstorage_links/23787/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4898,
+        "title": "Swift Apprentice: Beginning programming with Swift 3",
+        "img": "http://image.banshujiang.cn/4898.jpeg?timestamp=1739086225487",
+        "author": "raywenderlich.com Tutorial Team",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4898/webstorage_links/23790/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4899,
+        "title": "Swift Programming: The Big Nerd Ranch Guide",
+        "img": "http://image.banshujiang.cn/4899.jpeg?timestamp=1739086533192",
+        "author": "Matthew Mathias and John Gallagher",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4899/webstorage_links/23796/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4899/webstorage_links/23795/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4899/webstorage_links/23794/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4900,
+        "title": "Building Responsive Data Visualization for the Web",
+        "img": "http://image.banshujiang.cn/4900.jpeg?timestamp=1739086656439",
+        "author": "Bill Hinderman",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4900/webstorage_links/23802/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4900/webstorage_links/23800/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4900/webstorage_links/23801/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4901,
+        "title": "Data Visualization with Microsoft Power BI",
+        "img": "http://image.banshujiang.cn/4901.jpeg?timestamp=1739086954393",
+        "author": "Alex Kolokolov and Maxim Zelensky",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4901/webstorage_links/23806/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4901/webstorage_links/23805/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4902,
+        "title": "Engineering Resilient Systems on AWS",
+        "img": "http://image.banshujiang.cn/4902.jpeg?timestamp=1739087041468",
+        "author": "Kevin Schwarz, Jennifer Moran, and Nate Bachmeier",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4902/webstorage_links/23810/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4902/webstorage_links/23809/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4903,
+        "title": "Fundamentals of Enterprise Architecture",
+        "img": "http://image.banshujiang.cn/4903.jpeg?timestamp=1739087118125",
+        "author": "Tanusree McCabe",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4903/webstorage_links/23814/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4903/webstorage_links/23813/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4904,
+        "title": "Hands-On Large Language Models",
+        "img": "http://image.banshujiang.cn/4904.jpeg?timestamp=1739087301735",
+        "author": "Jay Alammar and Maarten Grootendorst",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4904/webstorage_links/23818/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4904/webstorage_links/23817/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4905,
+        "title": "Head First C# 5rd Edition",
+        "img": "http://image.banshujiang.cn/4905.jpeg?timestamp=1739087428076",
+        "author": "Andrew Stellman and Jennifer Greene",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4905/webstorage_links/23822/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4905/webstorage_links/23821/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4906,
+        "title": "Implementing Data Mesh",
+        "img": "http://image.banshujiang.cn/4906.jpeg?timestamp=1739087497809",
+        "author": "Jean-Georges Perrin and Eric Broda",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4906/webstorage_links/23826/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4906/webstorage_links/23825/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4907,
+        "title": "Inside Cyber Warfare 3rd Edition",
+        "img": "http://image.banshujiang.cn/4907.jpeg?timestamp=1739087591080",
+        "author": "Jeffrey Caruso",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4907/webstorage_links/23828/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4907/webstorage_links/23827/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4908,
+        "title": "DeepSeek: 从入门到精通",
+        "img": "http://image.banshujiang.cn/4908.jpeg?timestamp=1739088154376",
+        "author": "余梦珑博士后",
+        "language": "中文",
+        "publishYear": 2025,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4908/webstorage_links/23830/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4909,
+        "title": "Machine Learning Production Systems",
+        "img": "http://image.banshujiang.cn/4909.jpeg?timestamp=1739088272702",
+        "author": "Robert Crowe, Hannes Hapke, Emily Caveness, and Di Zhu",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4909/webstorage_links/23834/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4909/webstorage_links/23833/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4910,
+        "title": "Optimizing Cloud Native Java 2nd Edition",
+        "img": "http://image.banshujiang.cn/4910.jpeg?timestamp=1739088468585",
+        "author": "Benjamin J. Evans and James Gough",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4910/webstorage_links/23838/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4910/webstorage_links/23837/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4911,
+        "title": "Async Rust",
+        "img": "http://image.banshujiang.cn/4911.jpeg?timestamp=1739605088179",
+        "author": "Maxwell Flitton and Caroline Morton",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Rust",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4911/webstorage_links/23842/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4911/webstorage_links/23841/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4912,
+        "title": "Cloud Native Application Protection Platforms",
+        "img": "http://image.banshujiang.cn/4912.jpeg?timestamp=1739605174469",
+        "author": "Russ Miles, Stephen Giguere, and Taylor Smith",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4912/webstorage_links/23846/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4912/webstorage_links/23845/to_link"
+            }
+        ]
     }
 ]

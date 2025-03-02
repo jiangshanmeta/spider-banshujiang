@@ -1,5 +1,68 @@
 [
     {
+        "id": 4905,
+        "title": "Head First C# 5rd Edition",
+        "img": "http://image.banshujiang.cn/4905.jpeg?timestamp=1739087428076",
+        "author": "Andrew Stellman and Jennifer Greene",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4905/webstorage_links/23822/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4905/webstorage_links/23821/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4899,
+        "title": "Swift Programming: The Big Nerd Ranch Guide",
+        "img": "http://image.banshujiang.cn/4899.jpeg?timestamp=1739086533192",
+        "author": "Matthew Mathias and John Gallagher",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4899/webstorage_links/23796/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4899/webstorage_links/23795/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4899/webstorage_links/23794/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4898,
+        "title": "Swift Apprentice: Beginning programming with Swift 3",
+        "img": "http://image.banshujiang.cn/4898.jpeg?timestamp=1739086225487",
+        "author": "raywenderlich.com Tutorial Team",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4898/webstorage_links/23790/to_link"
+            }
+        ]
+    },
+    {
         "id": 4853,
         "title": "Programming iOS 11 8th Edition",
         "img": "http://image.banshujiang.cn/4853.jpeg?timestamp=1732351331538",
@@ -259,74 +322,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4638/webstorage_links/22747/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4616,
-        "title": "深入理解C#(第3版)",
-        "img": "http://image.banshujiang.cn/4616.jpeg?timestamp=1728830289419",
-        "author": "[英]Jon Skeet [译]姚琪琳",
-        "language": "中文",
-        "publishYear": 2014,
-        "programLanguage": "C#",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4616/webstorage_links/22703/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4599,
-        "title": "Programming WCF Services 4th Edition",
-        "img": "http://image.banshujiang.cn/4599.jpeg?timestamp=1728021202171",
-        "author": "Juval Lowy &amp; Michael Montgomery",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "C#",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4599/webstorage_links/22663/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4599/webstorage_links/22661/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4599/webstorage_links/22662/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4598,
-        "title": "Programming iOS 9 6th Edition",
-        "img": "http://image.banshujiang.cn/4598.jpeg?timestamp=1728021101385",
-        "author": "Matt Neuburg",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4598/webstorage_links/22657/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4598/webstorage_links/22655/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4598/webstorage_links/22656/to_link"
             }
         ]
     }

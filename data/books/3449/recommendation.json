@@ -1,5 +1,47 @@
 [
     {
+        "id": 4899,
+        "title": "Swift Programming: The Big Nerd Ranch Guide",
+        "img": "http://image.banshujiang.cn/4899.jpeg?timestamp=1739086533192",
+        "author": "Matthew Mathias and John Gallagher",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4899/webstorage_links/23796/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4899/webstorage_links/23795/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4899/webstorage_links/23794/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4898,
+        "title": "Swift Apprentice: Beginning programming with Swift 3",
+        "img": "http://image.banshujiang.cn/4898.jpeg?timestamp=1739086225487",
+        "author": "raywenderlich.com Tutorial Team",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4898/webstorage_links/23790/to_link"
+            }
+        ]
+    },
+    {
         "id": 4868,
         "title": "Linux Basics for Hackers",
         "img": "http://image.banshujiang.cn/4868.jpeg?timestamp=1732888061253",
@@ -310,38 +352,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4743/webstorage_links/23120/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4725,
-        "title": "Linux命令行与shell脚本编程大全(第3版)",
-        "img": "http://image.banshujiang.cn/4725.jpeg?timestamp=1729932514435",
-        "author": "[美]Richard Blum、Christine Bresnahan [译]门佳、武海峰",
-        "language": "中文",
-        "publishYear": 2016,
-        "programLanguage": "Shell Script",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4725/webstorage_links/23066/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4724,
-        "title": "Linux Shell脚本攻略(第3版)",
-        "img": "http://image.banshujiang.cn/4724.jpeg?timestamp=1729932242241",
-        "author": "[美]Clif Flynt [印]Sarath Lakshman、Shantanu Tushar",
-        "language": "中文",
-        "publishYear": 2018,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4724/webstorage_links/23064/to_link"
             }
         ]
     }

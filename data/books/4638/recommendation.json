@@ -1,5 +1,47 @@
 [
     {
+        "id": 4899,
+        "title": "Swift Programming: The Big Nerd Ranch Guide",
+        "img": "http://image.banshujiang.cn/4899.jpeg?timestamp=1739086533192",
+        "author": "Matthew Mathias and John Gallagher",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4899/webstorage_links/23796/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4899/webstorage_links/23795/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4899/webstorage_links/23794/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4898,
+        "title": "Swift Apprentice: Beginning programming with Swift 3",
+        "img": "http://image.banshujiang.cn/4898.jpeg?timestamp=1739086225487",
+        "author": "raywenderlich.com Tutorial Team",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4898/webstorage_links/23790/to_link"
+            }
+        ]
+    },
+    {
         "id": 4853,
         "title": "Programming iOS 11 8th Edition",
         "img": "http://image.banshujiang.cn/4853.jpeg?timestamp=1732351331538",
@@ -295,48 +337,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4580/webstorage_links/22570/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4579,
-        "title": "iOS 8 Programming Fundamentals with Swift",
-        "img": "http://image.banshujiang.cn/4579.jpeg?timestamp=1728013223691",
-        "author": "Matt Neuburg",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4579/webstorage_links/22567/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4579/webstorage_links/22566/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4507,
-        "title": "iOS Animations by Tutorials 2nd Edition",
-        "img": "http://image.banshujiang.cn/4507.jpeg?timestamp=1727832395171",
-        "author": "Marin Todorov",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4507/webstorage_links/22189/to_link"
-            },
-            {
-                "fmt": "CODE",
-                "title": "城通网盘",
-                "link": "/e_books/4507/webstorage_links/22188/to_link"
             }
         ]
     }

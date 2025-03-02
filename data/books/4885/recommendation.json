@@ -1,5 +1,63 @@
 [
     {
+        "id": 4909,
+        "title": "Machine Learning Production Systems",
+        "img": "http://image.banshujiang.cn/4909.jpeg?timestamp=1739088272702",
+        "author": "Robert Crowe, Hannes Hapke, Emily Caveness, and Di Zhu",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4909/webstorage_links/23834/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4909/webstorage_links/23833/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4908,
+        "title": "DeepSeek: 从入门到精通",
+        "img": "http://image.banshujiang.cn/4908.jpeg?timestamp=1739088154376",
+        "author": "余梦珑博士后",
+        "language": "中文",
+        "publishYear": 2025,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4908/webstorage_links/23830/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4904,
+        "title": "Hands-On Large Language Models",
+        "img": "http://image.banshujiang.cn/4904.jpeg?timestamp=1739087301735",
+        "author": "Jay Alammar and Maarten Grootendorst",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4904/webstorage_links/23818/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4904/webstorage_links/23817/to_link"
+            }
+        ]
+    },
+    {
         "id": 4881,
         "title": "Natural Language Processing with PyTorch",
         "img": "http://image.banshujiang.cn/4881.jpeg?timestamp=1738845954896",
@@ -249,64 +307,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4666/webstorage_links/22829/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4665,
-        "title": "Large Language Model–Based Solutions",
-        "img": "http://image.banshujiang.cn/4665.jpeg?timestamp=1729328222399",
-        "author": "Shreyas Subramanian",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4665/webstorage_links/22827/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4665/webstorage_links/22826/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4661,
-        "title": "Build a Large Language Model (From Scratch)",
-        "img": "http://image.banshujiang.cn/4661.jpeg?timestamp=1729327657552",
-        "author": "Sebastian Raschka",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4661/webstorage_links/22811/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4661/webstorage_links/22810/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4655,
-        "title": "Developing Apps with GPT-4 and ChatGPT 2nd Edition",
-        "img": "http://image.banshujiang.cn/4655.jpeg?timestamp=1729323829119",
-        "author": "Olivier Caelen and Marie-Alice Blete",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4655/webstorage_links/22787/to_link"
             }
         ]
     }

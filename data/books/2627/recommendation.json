@@ -26,6 +26,64 @@
         ]
     },
     {
+        "id": 4909,
+        "title": "Machine Learning Production Systems",
+        "img": "http://image.banshujiang.cn/4909.jpeg?timestamp=1739088272702",
+        "author": "Robert Crowe, Hannes Hapke, Emily Caveness, and Di Zhu",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4909/webstorage_links/23834/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4909/webstorage_links/23833/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4908,
+        "title": "DeepSeek: 从入门到精通",
+        "img": "http://image.banshujiang.cn/4908.jpeg?timestamp=1739088154376",
+        "author": "余梦珑博士后",
+        "language": "中文",
+        "publishYear": 2025,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4908/webstorage_links/23830/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4904,
+        "title": "Hands-On Large Language Models",
+        "img": "http://image.banshujiang.cn/4904.jpeg?timestamp=1739087301735",
+        "author": "Jay Alammar and Maarten Grootendorst",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4904/webstorage_links/23818/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4904/webstorage_links/23817/to_link"
+            }
+        ]
+    },
+    {
         "id": 4885,
         "title": "Strengthening Deep Neural Networks",
         "img": "http://image.banshujiang.cn/4885.jpeg?timestamp=1738846501451",
@@ -299,69 +357,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/4754/webstorage_links/23185/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4737,
-        "title": "Machine Learning: The Art and Science of Algorithms that Make Sense of Data",
-        "img": "http://image.banshujiang.cn/4737.jpeg?timestamp=1729935346241",
-        "author": "Peter Flach",
-        "language": "英文",
-        "publishYear": 2012,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4737/webstorage_links/23100/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4737/webstorage_links/23099/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4736,
-        "title": "JavaScript设计模式与开发实践",
-        "img": "http://image.banshujiang.cn/4736.jpeg?timestamp=1729935172934",
-        "author": "曾探",
-        "language": "中文",
-        "publishYear": 2015,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4736/webstorage_links/23096/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4735,
-        "title": "JavaScript入门经典(第5版)",
-        "img": "http://image.banshujiang.cn/4735.jpeg?timestamp=1729935043947",
-        "author": "[美]Phil Ballard、Michael Moncur [译]王军",
-        "language": "中文",
-        "publishYear": 2013,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4735/webstorage_links/23093/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4735/webstorage_links/23094/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4735/webstorage_links/23092/to_link"
             }
         ]
     }

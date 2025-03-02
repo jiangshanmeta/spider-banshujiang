@@ -1,5 +1,47 @@
 [
     {
+        "id": 4899,
+        "title": "Swift Programming: The Big Nerd Ranch Guide",
+        "img": "http://image.banshujiang.cn/4899.jpeg?timestamp=1739086533192",
+        "author": "Matthew Mathias and John Gallagher",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4899/webstorage_links/23796/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4899/webstorage_links/23795/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4899/webstorage_links/23794/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4898,
+        "title": "Swift Apprentice: Beginning programming with Swift 3",
+        "img": "http://image.banshujiang.cn/4898.jpeg?timestamp=1739086225487",
+        "author": "raywenderlich.com Tutorial Team",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4898/webstorage_links/23790/to_link"
+            }
+        ]
+    },
+    {
         "id": 4853,
         "title": "Programming iOS 11 8th Edition",
         "img": "http://image.banshujiang.cn/4853.jpeg?timestamp=1732351331538",
@@ -310,48 +352,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4743/webstorage_links/23120/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4736,
-        "title": "JavaScript设计模式与开发实践",
-        "img": "http://image.banshujiang.cn/4736.jpeg?timestamp=1729935172934",
-        "author": "曾探",
-        "language": "中文",
-        "publishYear": 2015,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4736/webstorage_links/23096/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4735,
-        "title": "JavaScript入门经典(第5版)",
-        "img": "http://image.banshujiang.cn/4735.jpeg?timestamp=1729935043947",
-        "author": "[美]Phil Ballard、Michael Moncur [译]王军",
-        "language": "中文",
-        "publishYear": 2013,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4735/webstorage_links/23093/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4735/webstorage_links/23094/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4735/webstorage_links/23092/to_link"
             }
         ]
     }

@@ -1,5 +1,26 @@
 [
     {
+        "id": 4905,
+        "title": "Head First C# 5rd Edition",
+        "img": "http://image.banshujiang.cn/4905.jpeg?timestamp=1739087428076",
+        "author": "Andrew Stellman and Jennifer Greene",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4905/webstorage_links/23822/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4905/webstorage_links/23821/to_link"
+            }
+        ]
+    },
+    {
         "id": 4819,
         "title": "C# 7.0 in a Nutshell",
         "img": "http://image.banshujiang.cn/4819.jpeg?timestamp=1731736140874",
@@ -295,27 +316,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4114/webstorage_links/20577/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4082,
-        "title": "Clean Architecture with .NET",
-        "img": "http://image.banshujiang.cn/4082.jpeg?timestamp=1717238207513",
-        "author": "Dino Esposito",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "C#",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4082/webstorage_links/20467/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4082/webstorage_links/20466/to_link"
             }
         ]
     }

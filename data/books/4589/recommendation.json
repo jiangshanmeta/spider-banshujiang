@@ -1,5 +1,42 @@
 [
     {
+        "id": 4910,
+        "title": "Optimizing Cloud Native Java 2nd Edition",
+        "img": "http://image.banshujiang.cn/4910.jpeg?timestamp=1739088468585",
+        "author": "Benjamin J. Evans and James Gough",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4910/webstorage_links/23838/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4910/webstorage_links/23837/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4895,
+        "title": "Java 9 High Performance",
+        "img": "http://image.banshujiang.cn/4895.jpeg?timestamp=1739085642505",
+        "author": "Mayur Ramgir",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4895/webstorage_links/23776/to_link"
+            }
+        ]
+    },
+    {
         "id": 4888,
         "title": "Think Java",
         "img": "http://image.banshujiang.cn/4888.jpeg?timestamp=1738846802664",
@@ -320,58 +357,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/4596/webstorage_links/22644/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4575,
-        "title": "High Performance Android Apps",
-        "img": "http://image.banshujiang.cn/4575.jpeg?timestamp=1728012865521",
-        "author": "Doug Sillars",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4575/webstorage_links/22547/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4575/webstorage_links/22545/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4575/webstorage_links/22546/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4574,
-        "title": "Head First Android Development",
-        "img": "http://image.banshujiang.cn/4574.jpeg?timestamp=1728012761742",
-        "author": "Dawn Griffiths and David Griffiths",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4574/webstorage_links/22541/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4574/webstorage_links/22539/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4574/webstorage_links/22540/to_link"
             }
         ]
     }

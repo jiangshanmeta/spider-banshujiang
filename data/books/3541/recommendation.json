@@ -164,6 +164,48 @@
         ]
     },
     {
+        "id": 4899,
+        "title": "Swift Programming: The Big Nerd Ranch Guide",
+        "img": "http://image.banshujiang.cn/4899.jpeg?timestamp=1739086533192",
+        "author": "Matthew Mathias and John Gallagher",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4899/webstorage_links/23796/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4899/webstorage_links/23795/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4899/webstorage_links/23794/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4898,
+        "title": "Swift Apprentice: Beginning programming with Swift 3",
+        "img": "http://image.banshujiang.cn/4898.jpeg?timestamp=1739086225487",
+        "author": "raywenderlich.com Tutorial Team",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4898/webstorage_links/23790/to_link"
+            }
+        ]
+    },
+    {
         "id": 4881,
         "title": "Natural Language Processing with PyTorch",
         "img": "http://image.banshujiang.cn/4881.jpeg?timestamp=1738845954896",
@@ -265,53 +307,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4853/webstorage_links/23611/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4831,
-        "title": "iOS 11 Swift Programming Cookbook",
-        "img": "http://image.banshujiang.cn/4831.jpeg?timestamp=1731737970006",
-        "author": "Vandad Nahavandipoor",
-        "language": "英文",
-        "publishYear": 2017,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4831/webstorage_links/23520/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4831/webstorage_links/23519/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4830,
-        "title": "iOS 11 Programming Fundamentals with Swift 4th Edition",
-        "img": "http://image.banshujiang.cn/4830.jpeg?timestamp=1731737871096",
-        "author": "Matt Neuburg",
-        "language": "英文",
-        "publishYear": 2017,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4830/webstorage_links/23516/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4830/webstorage_links/23515/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4830/webstorage_links/23514/to_link"
             }
         ]
     }
