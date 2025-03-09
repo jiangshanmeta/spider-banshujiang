@@ -93460,5 +93460,216 @@
                 "link": "/e_books/4912/webstorage_links/23845/to_link"
             }
         ]
+    },
+    {
+        "id": 4913,
+        "title": "Deep Learning with JAX",
+        "img": "http://image.banshujiang.cn/4913.jpeg?timestamp=1739608736845",
+        "author": "Grigory Sapunov",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4913/webstorage_links/23850/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4913/webstorage_links/23849/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4914,
+        "title": "Delta Lake: The Definitive Guide",
+        "img": "http://image.banshujiang.cn/4914.jpeg?timestamp=1739608842884",
+        "author": "Denny Lee, Tristen Wentling, Scott Haines, and Prashanth Babu",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4914/webstorage_links/23854/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4914/webstorage_links/23853/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4915,
+        "title": "Effective Python 3rd Edition",
+        "img": "http://image.banshujiang.cn/4915.jpeg?timestamp=1739608950965",
+        "author": "Brett Slatkin",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4915/webstorage_links/23856/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4916,
+        "title": "动手学深度学习(第二版)",
+        "img": "http://image.banshujiang.cn/4916.jpeg?timestamp=1740144323627",
+        "author": "Aston Zhang, Zachary C. Lipton, Mu Li, and Alexander J. Smola",
+        "language": "中文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4916/webstorage_links/23858/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4917,
+        "title": "动手学深度学习",
+        "img": "http://image.banshujiang.cn/4917.jpeg?timestamp=1740144579350",
+        "author": "Aston Zhang, Zachary C. Lipton, Mu Li, and Alexander J. Smola",
+        "language": "中文",
+        "publishYear": 2019,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4917/webstorage_links/23860/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4918,
+        "title": "机器学习公式详解",
+        "img": "http://image.banshujiang.cn/4918.jpeg?timestamp=1740144719029",
+        "author": "谢文睿、秦州",
+        "language": "中文",
+        "publishYear": 2020,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4918/webstorage_links/23868/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4918/webstorage_links/23866/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4918/webstorage_links/23867/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4918/webstorage_links/23865/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4919,
+        "title": "机器学习实战: 基于Scikit-Learn、Keras和 TensorFlow(第2版)",
+        "img": "http://image.banshujiang.cn/4919.jpeg?timestamp=1740144965370",
+        "author": "[法]奥雷利安·杰龙 [译]宋能辉、李娴",
+        "language": "中文",
+        "publishYear": 2020,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4919/webstorage_links/23870/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4920,
+        "title": "深度学习",
+        "img": "http://image.banshujiang.cn/4920.jpeg?timestamp=1740145207028",
+        "author": "[美]Ian Goodfellow [加]Yoshua Bengio [加]Aaron Courville [译]赵申剑 黎彧君、符天凡、李凯",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4920/webstorage_links/23974/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4920/webstorage_links/23873/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4920/webstorage_links/23874/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4921,
+        "title": "600+ ChatGPT Prompts",
+        "img": "http://image.banshujiang.cn/4921.jpeg?timestamp=1740145452336",
+        "author": "",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4921/webstorage_links/23876/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4922,
+        "title": "Artificial Intelligence: With an Introduction to Machine Learning 2nd Edition",
+        "img": "http://image.banshujiang.cn/4922.jpeg?timestamp=1740145598198",
+        "author": "Richard E. Neapolitan and Xia Jiang",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4922/webstorage_links/23878/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4923,
+        "title": "深度学习的数学",
+        "img": "http://image.banshujiang.cn/4923.jpeg?timestamp=1740146097791",
+        "author": "[日]涌井良幸、涌井贞美 [译]杨瑞龙",
+        "language": "中文",
+        "publishYear": 2019,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4923/webstorage_links/23880/to_link"
+            }
+        ]
     }
 ]

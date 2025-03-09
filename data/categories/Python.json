@@ -1,5 +1,21 @@
 [
     {
+        "id": 4915,
+        "title": "Effective Python 3rd Edition",
+        "img": "http://image.banshujiang.cn/4915.jpeg?timestamp=1739608950965",
+        "author": "Brett Slatkin",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4915/webstorage_links/23856/to_link"
+            }
+        ]
+    },
+    {
         "id": 4881,
         "title": "Natural Language Processing with PyTorch",
         "img": "http://image.banshujiang.cn/4881.jpeg?timestamp=1738845954896",

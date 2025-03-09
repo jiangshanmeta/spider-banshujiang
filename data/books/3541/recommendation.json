@@ -164,6 +164,22 @@
         ]
     },
     {
+        "id": 4915,
+        "title": "Effective Python 3rd Edition",
+        "img": "http://image.banshujiang.cn/4915.jpeg?timestamp=1739608950965",
+        "author": "Brett Slatkin",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4915/webstorage_links/23856/to_link"
+            }
+        ]
+    },
+    {
         "id": 4899,
         "title": "Swift Programming: The Big Nerd Ranch Guide",
         "img": "http://image.banshujiang.cn/4899.jpeg?timestamp=1739086533192",
@@ -286,27 +302,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4867/webstorage_links/23673/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4853,
-        "title": "Programming iOS 11 8th Edition",
-        "img": "http://image.banshujiang.cn/4853.jpeg?timestamp=1732351331538",
-        "author": "Matt Neuburg",
-        "language": "英文",
-        "publishYear": 2017,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4853/webstorage_links/23612/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4853/webstorage_links/23611/to_link"
             }
         ]
     }

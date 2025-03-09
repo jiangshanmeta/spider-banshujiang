@@ -1,5 +1,179 @@
 [
     {
+        "id": 4923,
+        "title": "深度学习的数学",
+        "img": "http://image.banshujiang.cn/4923.jpeg?timestamp=1740146097791",
+        "author": "[日]涌井良幸、涌井贞美 [译]杨瑞龙",
+        "language": "中文",
+        "publishYear": 2019,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4923/webstorage_links/23880/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4922,
+        "title": "Artificial Intelligence: With an Introduction to Machine Learning 2nd Edition",
+        "img": "http://image.banshujiang.cn/4922.jpeg?timestamp=1740145598198",
+        "author": "Richard E. Neapolitan and Xia Jiang",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4922/webstorage_links/23878/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4921,
+        "title": "600+ ChatGPT Prompts",
+        "img": "http://image.banshujiang.cn/4921.jpeg?timestamp=1740145452336",
+        "author": "",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4921/webstorage_links/23876/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4920,
+        "title": "深度学习",
+        "img": "http://image.banshujiang.cn/4920.jpeg?timestamp=1740145207028",
+        "author": "[美]Ian Goodfellow [加]Yoshua Bengio [加]Aaron Courville [译]赵申剑 黎彧君、符天凡、李凯",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4920/webstorage_links/23974/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4920/webstorage_links/23873/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4920/webstorage_links/23874/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4919,
+        "title": "机器学习实战: 基于Scikit-Learn、Keras和 TensorFlow(第2版)",
+        "img": "http://image.banshujiang.cn/4919.jpeg?timestamp=1740144965370",
+        "author": "[法]奥雷利安·杰龙 [译]宋能辉、李娴",
+        "language": "中文",
+        "publishYear": 2020,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4919/webstorage_links/23870/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4918,
+        "title": "机器学习公式详解",
+        "img": "http://image.banshujiang.cn/4918.jpeg?timestamp=1740144719029",
+        "author": "谢文睿、秦州",
+        "language": "中文",
+        "publishYear": 2020,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4918/webstorage_links/23868/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4918/webstorage_links/23866/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4918/webstorage_links/23867/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4918/webstorage_links/23865/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4917,
+        "title": "动手学深度学习",
+        "img": "http://image.banshujiang.cn/4917.jpeg?timestamp=1740144579350",
+        "author": "Aston Zhang, Zachary C. Lipton, Mu Li, and Alexander J. Smola",
+        "language": "中文",
+        "publishYear": 2019,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4917/webstorage_links/23860/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4916,
+        "title": "动手学深度学习(第二版)",
+        "img": "http://image.banshujiang.cn/4916.jpeg?timestamp=1740144323627",
+        "author": "Aston Zhang, Zachary C. Lipton, Mu Li, and Alexander J. Smola",
+        "language": "中文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4916/webstorage_links/23858/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4913,
+        "title": "Deep Learning with JAX",
+        "img": "http://image.banshujiang.cn/4913.jpeg?timestamp=1739608736845",
+        "author": "Grigory Sapunov",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4913/webstorage_links/23850/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4913/webstorage_links/23849/to_link"
+            }
+        ]
+    },
+    {
         "id": 4909,
         "title": "Machine Learning Production Systems",
         "img": "http://image.banshujiang.cn/4909.jpeg?timestamp=1739088272702",
@@ -138,200 +312,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4881/webstorage_links/23717/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4873,
-        "title": "Generative Deep Learning",
-        "img": "http://image.banshujiang.cn/4873.jpeg?timestamp=1732888920845",
-        "author": "David Foster",
-        "language": "英文",
-        "publishYear": 2019,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4873/webstorage_links/23698/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4873/webstorage_links/23697/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4853,
-        "title": "Programming iOS 11 8th Edition",
-        "img": "http://image.banshujiang.cn/4853.jpeg?timestamp=1732351331538",
-        "author": "Matt Neuburg",
-        "language": "英文",
-        "publishYear": 2017,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4853/webstorage_links/23612/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4853/webstorage_links/23611/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4839,
-        "title": "Learning Swift",
-        "img": "http://image.banshujiang.cn/4839.jpeg?timestamp=1731738603978",
-        "author": "Jon Manning, Paris Buttfield-Addison and Tim Nugent",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4839/webstorage_links/23552/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4839/webstorage_links/23551/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4831,
-        "title": "iOS 11 Swift Programming Cookbook",
-        "img": "http://image.banshujiang.cn/4831.jpeg?timestamp=1731737970006",
-        "author": "Vandad Nahavandipoor",
-        "language": "英文",
-        "publishYear": 2017,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4831/webstorage_links/23520/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4831/webstorage_links/23519/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4830,
-        "title": "iOS 11 Programming Fundamentals with Swift 4th Edition",
-        "img": "http://image.banshujiang.cn/4830.jpeg?timestamp=1731737871096",
-        "author": "Matt Neuburg",
-        "language": "英文",
-        "publishYear": 2017,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4830/webstorage_links/23516/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4830/webstorage_links/23515/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4830/webstorage_links/23514/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4829,
-        "title": "High Performance iOS Apps",
-        "img": "http://image.banshujiang.cn/4829.jpeg?timestamp=1731737775865",
-        "author": "Gaurav Vaish",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4829/webstorage_links/23510/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4829/webstorage_links/23509/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4799,
-        "title": "watchOS 2 by Tutorials",
-        "img": "http://image.banshujiang.cn/4799.jpeg?timestamp=1731121807496",
-        "author": " the raywenderlich.com Tutorial Team",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4799/webstorage_links/23379/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4783,
-        "title": "iOS Programming: The Big Nerd Ranch Guide 5th Editon",
-        "img": "http://image.banshujiang.cn/4783.jpeg?timestamp=1731120235145",
-        "author": "Christian Keur and Aaron Hillegass",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4783/webstorage_links/23334/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4783/webstorage_links/23333/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4783/webstorage_links/23332/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4779,
-        "title": "Machine Learning with Spark",
-        "img": "http://image.banshujiang.cn/4779.jpeg?timestamp=1730535897532",
-        "author": "Nick Pentreath",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4779/webstorage_links/23316/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4779/webstorage_links/23315/to_link"
             }
         ]
     }

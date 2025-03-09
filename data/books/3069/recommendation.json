@@ -21,6 +21,180 @@
         ]
     },
     {
+        "id": 4923,
+        "title": "深度学习的数学",
+        "img": "http://image.banshujiang.cn/4923.jpeg?timestamp=1740146097791",
+        "author": "[日]涌井良幸、涌井贞美 [译]杨瑞龙",
+        "language": "中文",
+        "publishYear": 2019,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4923/webstorage_links/23880/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4922,
+        "title": "Artificial Intelligence: With an Introduction to Machine Learning 2nd Edition",
+        "img": "http://image.banshujiang.cn/4922.jpeg?timestamp=1740145598198",
+        "author": "Richard E. Neapolitan and Xia Jiang",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4922/webstorage_links/23878/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4921,
+        "title": "600+ ChatGPT Prompts",
+        "img": "http://image.banshujiang.cn/4921.jpeg?timestamp=1740145452336",
+        "author": "",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4921/webstorage_links/23876/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4920,
+        "title": "深度学习",
+        "img": "http://image.banshujiang.cn/4920.jpeg?timestamp=1740145207028",
+        "author": "[美]Ian Goodfellow [加]Yoshua Bengio [加]Aaron Courville [译]赵申剑 黎彧君、符天凡、李凯",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4920/webstorage_links/23974/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4920/webstorage_links/23873/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4920/webstorage_links/23874/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4919,
+        "title": "机器学习实战: 基于Scikit-Learn、Keras和 TensorFlow(第2版)",
+        "img": "http://image.banshujiang.cn/4919.jpeg?timestamp=1740144965370",
+        "author": "[法]奥雷利安·杰龙 [译]宋能辉、李娴",
+        "language": "中文",
+        "publishYear": 2020,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4919/webstorage_links/23870/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4918,
+        "title": "机器学习公式详解",
+        "img": "http://image.banshujiang.cn/4918.jpeg?timestamp=1740144719029",
+        "author": "谢文睿、秦州",
+        "language": "中文",
+        "publishYear": 2020,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4918/webstorage_links/23868/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4918/webstorage_links/23866/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4918/webstorage_links/23867/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4918/webstorage_links/23865/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4917,
+        "title": "动手学深度学习",
+        "img": "http://image.banshujiang.cn/4917.jpeg?timestamp=1740144579350",
+        "author": "Aston Zhang, Zachary C. Lipton, Mu Li, and Alexander J. Smola",
+        "language": "中文",
+        "publishYear": 2019,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4917/webstorage_links/23860/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4916,
+        "title": "动手学深度学习(第二版)",
+        "img": "http://image.banshujiang.cn/4916.jpeg?timestamp=1740144323627",
+        "author": "Aston Zhang, Zachary C. Lipton, Mu Li, and Alexander J. Smola",
+        "language": "中文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4916/webstorage_links/23858/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4913,
+        "title": "Deep Learning with JAX",
+        "img": "http://image.banshujiang.cn/4913.jpeg?timestamp=1739608736845",
+        "author": "Grigory Sapunov",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4913/webstorage_links/23850/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4913/webstorage_links/23849/to_link"
+            }
+        ]
+    },
+    {
         "id": 4909,
         "title": "Machine Learning Production Systems",
         "img": "http://image.banshujiang.cn/4909.jpeg?timestamp=1739088272702",
@@ -138,220 +312,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4873/webstorage_links/23697/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4838,
-        "title": "Learning React Native 2nd Edition",
-        "img": "http://image.banshujiang.cn/4838.jpeg?timestamp=1731738530057",
-        "author": "Bonnie Eisenman",
-        "language": "英文",
-        "publishYear": 2017,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4838/webstorage_links/23548/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4838/webstorage_links/23547/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4838/webstorage_links/23546/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4793,
-        "title": "React+d3.js",
-        "img": "http://image.banshujiang.cn/4793.jpeg?timestamp=1731121244565",
-        "author": "Swizec Teller",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4793/webstorage_links/23368/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4789,
-        "title": "Functional Programming in JavaScript",
-        "img": "http://image.banshujiang.cn/4789.jpeg?timestamp=1731120828411",
-        "author": "Luis Atencio",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4789/webstorage_links/23354/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4789/webstorage_links/23353/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4788,
-        "title": "Express in Action",
-        "img": "http://image.banshujiang.cn/4788.jpeg?timestamp=1731120754545",
-        "author": "Evan M. Hahn",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4788/webstorage_links/23350/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4788/webstorage_links/23348/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4788/webstorage_links/23349/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4779,
-        "title": "Machine Learning with Spark",
-        "img": "http://image.banshujiang.cn/4779.jpeg?timestamp=1730535897532",
-        "author": "Nick Pentreath",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4779/webstorage_links/23316/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4779/webstorage_links/23315/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4778,
-        "title": "Building Machine Learning Systems with Python 2nd Edition",
-        "img": "http://image.banshujiang.cn/4778.jpeg?timestamp=1730535811753",
-        "author": "Luis Pedro and Coelho Willi Richert",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4778/webstorage_links/23312/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4778/webstorage_links/23310/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4778/webstorage_links/23311/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4772,
-        "title": "Learning JavaScript 3rd Edition",
-        "img": "http://image.banshujiang.cn/4772.jpeg?timestamp=1730535181646",
-        "author": "Ethan Brown",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4772/webstorage_links/23284/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4772/webstorage_links/23282/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4772/webstorage_links/23283/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4758,
-        "title": "jQuery UI in Action",
-        "img": "http://image.banshujiang.cn/4758.jpeg?timestamp=1730533445309",
-        "author": "Tj Vantoll",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4758/webstorage_links/23210/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4758/webstorage_links/23208/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4758/webstorage_links/23209/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4754,
-        "title": "Ember.js in Action",
-        "img": "http://image.banshujiang.cn/4754.jpeg?timestamp=1730533053531",
-        "author": "Joachim Haagen Skeie",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4754/webstorage_links/23186/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4754/webstorage_links/23184/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4754/webstorage_links/23185/to_link"
             }
         ]
     }

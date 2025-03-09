@@ -1,5 +1,21 @@
 [
     {
+        "id": 4915,
+        "title": "Effective Python 3rd Edition",
+        "img": "http://image.banshujiang.cn/4915.jpeg?timestamp=1739608950965",
+        "author": "Brett Slatkin",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4915/webstorage_links/23856/to_link"
+            }
+        ]
+    },
+    {
         "id": 4881,
         "title": "Natural Language Processing with PyTorch",
         "img": "http://image.banshujiang.cn/4881.jpeg?timestamp=1738845954896",
@@ -316,22 +332,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4644/webstorage_links/22759/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4631,
-        "title": "精通Django：Django 1.8 LTS 全解",
-        "img": "http://image.banshujiang.cn/4631.jpeg?timestamp=1728998315994",
-        "author": "Nigel George [译]安道",
-        "language": "中文",
-        "publishYear": 2016,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4631/webstorage_links/22733/to_link"
             }
         ]
     }
