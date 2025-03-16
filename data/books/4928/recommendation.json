@@ -1,0 +1,298 @@
+[
+    {
+        "id": 4933,
+        "title": "Generative AI in Action",
+        "img": "http://image.banshujiang.cn/4933.jpeg?timestamp=1740654126304",
+        "author": "Amit Bahree",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4933/webstorage_links/23904/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4933/webstorage_links/23903/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4930,
+        "title": "Deep Learning",
+        "img": "http://image.banshujiang.cn/4930.jpeg?timestamp=1740226395498",
+        "author": "Ian Goodfellow, Yoshua Bengio and Aaron Courville",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4930/webstorage_links/23894/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4927,
+        "title": "图解机器学习(扫描版)",
+        "img": "http://image.banshujiang.cn/4927.jpeg?timestamp=1740225909215",
+        "author": "[日]杉山将 [译]许永伟",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4927/webstorage_links/23888/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4926,
+        "title": "统计学习方法(第2版)",
+        "img": "http://image.banshujiang.cn/4926.jpeg?timestamp=1740225767093",
+        "author": "李航",
+        "language": "中文",
+        "publishYear": 2019,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4926/webstorage_links/23886/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4925,
+        "title": "深入浅出图神经网络: GNN原理解析",
+        "img": "http://image.banshujiang.cn/4925.jpeg?timestamp=1740225654280",
+        "author": "刘忠雨、李彦霖、周洋",
+        "language": "中文",
+        "publishYear": 2019,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4925/webstorage_links/23884/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4924,
+        "title": "深入理解机器学习(扫描版)",
+        "img": "http://image.banshujiang.cn/4924.jpeg?timestamp=1740225537027",
+        "author": "[以]Shai Shalev-Shwartz [加]Shai Ben-David [译]张文生",
+        "language": "中文",
+        "publishYear": 2016,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4924/webstorage_links/23882/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4923,
+        "title": "深度学习的数学",
+        "img": "http://image.banshujiang.cn/4923.jpeg?timestamp=1740146097791",
+        "author": "[日]涌井良幸、涌井贞美 [译]杨瑞龙",
+        "language": "中文",
+        "publishYear": 2019,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4923/webstorage_links/23880/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4922,
+        "title": "Artificial Intelligence: With an Introduction to Machine Learning 2nd Edition",
+        "img": "http://image.banshujiang.cn/4922.jpeg?timestamp=1740145598198",
+        "author": "Richard E. Neapolitan and Xia Jiang",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4922/webstorage_links/23878/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4921,
+        "title": "600+ ChatGPT Prompts",
+        "img": "http://image.banshujiang.cn/4921.jpeg?timestamp=1740145452336",
+        "author": "",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4921/webstorage_links/23876/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4920,
+        "title": "深度学习",
+        "img": "http://image.banshujiang.cn/4920.jpeg?timestamp=1740145207028",
+        "author": "[美]Ian Goodfellow [加]Yoshua Bengio [加]Aaron Courville [译]赵申剑 黎彧君、符天凡、李凯",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4920/webstorage_links/23974/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4920/webstorage_links/23873/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4920/webstorage_links/23874/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4919,
+        "title": "机器学习实战: 基于Scikit-Learn、Keras和 TensorFlow(第2版)",
+        "img": "http://image.banshujiang.cn/4919.jpeg?timestamp=1740144965370",
+        "author": "[法]奥雷利安·杰龙 [译]宋能辉、李娴",
+        "language": "中文",
+        "publishYear": 2020,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4919/webstorage_links/23870/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4918,
+        "title": "机器学习公式详解",
+        "img": "http://image.banshujiang.cn/4918.jpeg?timestamp=1740144719029",
+        "author": "谢文睿、秦州",
+        "language": "中文",
+        "publishYear": 2020,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4918/webstorage_links/23868/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4918/webstorage_links/23866/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4918/webstorage_links/23867/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4918/webstorage_links/23865/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4917,
+        "title": "动手学深度学习",
+        "img": "http://image.banshujiang.cn/4917.jpeg?timestamp=1740144579350",
+        "author": "Aston Zhang, Zachary C. Lipton, Mu Li, and Alexander J. Smola",
+        "language": "中文",
+        "publishYear": 2019,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4917/webstorage_links/23860/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4916,
+        "title": "动手学深度学习(第二版)",
+        "img": "http://image.banshujiang.cn/4916.jpeg?timestamp=1740144323627",
+        "author": "Aston Zhang, Zachary C. Lipton, Mu Li, and Alexander J. Smola",
+        "language": "中文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4916/webstorage_links/23858/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4913,
+        "title": "Deep Learning with JAX",
+        "img": "http://image.banshujiang.cn/4913.jpeg?timestamp=1739608736845",
+        "author": "Grigory Sapunov",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4913/webstorage_links/23850/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4913/webstorage_links/23849/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4909,
+        "title": "Machine Learning Production Systems",
+        "img": "http://image.banshujiang.cn/4909.jpeg?timestamp=1739088272702",
+        "author": "Robert Crowe, Hannes Hapke, Emily Caveness, and Di Zhu",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4909/webstorage_links/23834/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4909/webstorage_links/23833/to_link"
+            }
+        ]
+    }
+]

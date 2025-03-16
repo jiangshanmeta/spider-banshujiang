@@ -1,5 +1,21 @@
 [
     {
+        "id": 4931,
+        "title": "Eloquent Javascript 4th Edition",
+        "img": "http://image.banshujiang.cn/4931.jpeg?timestamp=1740226572615",
+        "author": "Marijn Haverbeke",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4931/webstorage_links/23896/to_link"
+            }
+        ]
+    },
+    {
         "id": 4838,
         "title": "Learning React Native 2nd Edition",
         "img": "http://image.banshujiang.cn/4838.jpeg?timestamp=1731738530057",

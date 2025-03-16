@@ -89,6 +89,22 @@
         ]
     },
     {
+        "id": 4931,
+        "title": "Eloquent Javascript 4th Edition",
+        "img": "http://image.banshujiang.cn/4931.jpeg?timestamp=1740226572615",
+        "author": "Marijn Haverbeke",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4931/webstorage_links/23896/to_link"
+            }
+        ]
+    },
+    {
         "id": 4841,
         "title": "MongoDB权威指南(第2版)",
         "img": "http://image.banshujiang.cn/4841.jpeg?timestamp=1731738998904",
@@ -346,32 +362,6 @@
                 "fmt": "AZW3",
                 "title": "城通网盘",
                 "link": "/e_books/4735/webstorage_links/23092/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4734,
-        "title": "JavaScript面向对象编程指南(第2版)",
-        "img": "http://image.banshujiang.cn/4734.jpeg?timestamp=1729934767809",
-        "author": "[加]Stoyan Stefanov [印]Kumar Chetan Sharma [译]陆禹淳、凌杰",
-        "language": "中文",
-        "publishYear": 2015,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4734/webstorage_links/23087/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4734/webstorage_links/23088/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4734/webstorage_links/23086/to_link"
             }
         ]
     }

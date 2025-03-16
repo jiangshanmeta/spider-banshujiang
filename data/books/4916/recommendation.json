@@ -1,5 +1,122 @@
 [
     {
+        "id": 4933,
+        "title": "Generative AI in Action",
+        "img": "http://image.banshujiang.cn/4933.jpeg?timestamp=1740654126304",
+        "author": "Amit Bahree",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4933/webstorage_links/23904/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4933/webstorage_links/23903/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4930,
+        "title": "Deep Learning",
+        "img": "http://image.banshujiang.cn/4930.jpeg?timestamp=1740226395498",
+        "author": "Ian Goodfellow, Yoshua Bengio and Aaron Courville",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4930/webstorage_links/23894/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4928,
+        "title": "图解深度学习(高质量扫描版)",
+        "img": "http://image.banshujiang.cn/4928.jpeg?timestamp=1740226047373",
+        "author": "[日]山下隆义 [译]张弥",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4928/webstorage_links/23890/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4927,
+        "title": "图解机器学习(扫描版)",
+        "img": "http://image.banshujiang.cn/4927.jpeg?timestamp=1740225909215",
+        "author": "[日]杉山将 [译]许永伟",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4927/webstorage_links/23888/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4926,
+        "title": "统计学习方法(第2版)",
+        "img": "http://image.banshujiang.cn/4926.jpeg?timestamp=1740225767093",
+        "author": "李航",
+        "language": "中文",
+        "publishYear": 2019,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4926/webstorage_links/23886/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4925,
+        "title": "深入浅出图神经网络: GNN原理解析",
+        "img": "http://image.banshujiang.cn/4925.jpeg?timestamp=1740225654280",
+        "author": "刘忠雨、李彦霖、周洋",
+        "language": "中文",
+        "publishYear": 2019,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4925/webstorage_links/23884/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4924,
+        "title": "深入理解机器学习(扫描版)",
+        "img": "http://image.banshujiang.cn/4924.jpeg?timestamp=1740225537027",
+        "author": "[以]Shai Shalev-Shwartz [加]Shai Ben-David [译]张文生",
+        "language": "中文",
+        "publishYear": 2016,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4924/webstorage_links/23882/to_link"
+            }
+        ]
+    },
+    {
         "id": 4923,
         "title": "深度学习的数学",
         "img": "http://image.banshujiang.cn/4923.jpeg?timestamp=1740146097791",
@@ -175,153 +292,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4909/webstorage_links/23833/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4908,
-        "title": "DeepSeek: 从入门到精通",
-        "img": "http://image.banshujiang.cn/4908.jpeg?timestamp=1739088154376",
-        "author": "余梦珑博士后",
-        "language": "中文",
-        "publishYear": 2025,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4908/webstorage_links/23830/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4904,
-        "title": "Hands-On Large Language Models",
-        "img": "http://image.banshujiang.cn/4904.jpeg?timestamp=1739087301735",
-        "author": "Jay Alammar and Maarten Grootendorst",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4904/webstorage_links/23818/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4904/webstorage_links/23817/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4885,
-        "title": "Strengthening Deep Neural Networks",
-        "img": "http://image.banshujiang.cn/4885.jpeg?timestamp=1738846501451",
-        "author": "Katy Warr",
-        "language": "英文",
-        "publishYear": 2019,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4885/webstorage_links/23732/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4885/webstorage_links/23731/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4881,
-        "title": "Natural Language Processing with PyTorch",
-        "img": "http://image.banshujiang.cn/4881.jpeg?timestamp=1738845954896",
-        "author": "Delip Rao and Brian McMahan",
-        "language": "英文",
-        "publishYear": 2019,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4881/webstorage_links/23718/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4881/webstorage_links/23717/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4873,
-        "title": "Generative Deep Learning",
-        "img": "http://image.banshujiang.cn/4873.jpeg?timestamp=1732888920845",
-        "author": "David Foster",
-        "language": "英文",
-        "publishYear": 2019,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4873/webstorage_links/23698/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4873/webstorage_links/23697/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4779,
-        "title": "Machine Learning with Spark",
-        "img": "http://image.banshujiang.cn/4779.jpeg?timestamp=1730535897532",
-        "author": "Nick Pentreath",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4779/webstorage_links/23316/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4779/webstorage_links/23315/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4778,
-        "title": "Building Machine Learning Systems with Python 2nd Edition",
-        "img": "http://image.banshujiang.cn/4778.jpeg?timestamp=1730535811753",
-        "author": "Luis Pedro and Coelho Willi Richert",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4778/webstorage_links/23312/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4778/webstorage_links/23310/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4778/webstorage_links/23311/to_link"
             }
         ]
     }

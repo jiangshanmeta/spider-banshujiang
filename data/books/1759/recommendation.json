@@ -1,5 +1,21 @@
 [
     {
+        "id": 4931,
+        "title": "Eloquent Javascript 4th Edition",
+        "img": "http://image.banshujiang.cn/4931.jpeg?timestamp=1740226572615",
+        "author": "Marijn Haverbeke",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4931/webstorage_links/23896/to_link"
+            }
+        ]
+    },
+    {
         "id": 4899,
         "title": "Swift Programming: The Big Nerd Ranch Guide",
         "img": "http://image.banshujiang.cn/4899.jpeg?timestamp=1739086533192",
@@ -336,22 +352,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/4754/webstorage_links/23185/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4743,
-        "title": "iOS Apps with REST APIs: Building Web-Driven Apps in Swift",
-        "img": "http://image.banshujiang.cn/4743.jpeg?timestamp=1730530513754",
-        "author": "Christina Moulton",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4743/webstorage_links/23120/to_link"
             }
         ]
     }
