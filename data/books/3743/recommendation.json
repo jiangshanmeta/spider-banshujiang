@@ -1,5 +1,21 @@
 [
     {
+        "id": 966,
+        "title": "Pro Android C++ with the NDK",
+        "img": "https://imagebsj.netlify.app/966.jpeg",
+        "author": "Onur Cinar",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/966/webstorage_links/15446/to_link"
+            }
+        ]
+    },
+    {
         "id": 4801,
         "title": "Android Programming: The Big Nerd Ranch Guide 3rd Edition",
         "img": "http://image.banshujiang.cn/4801.jpeg?timestamp=1731733327450",
@@ -64,6 +80,43 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/4781/webstorage_links/23323/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4740,
+        "title": "C in a Nutshell 2nd Edition",
+        "img": "http://image.banshujiang.cn/4740.jpeg?timestamp=1729935600160",
+        "author": "Peter Prinz and Tony Crawford",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4740/webstorage_links/23114/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4690,
+        "title": "Writing a C Compiler",
+        "img": "http://image.banshujiang.cn/4690.jpeg?timestamp=1729914101165",
+        "author": "Nora Sandler",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4690/webstorage_links/22897/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4690/webstorage_links/22896/to_link"
             }
         ]
     },
@@ -136,227 +189,134 @@
         ]
     },
     {
-        "id": 4274,
-        "title": "Android基础教程（第4版）",
-        "img": "http://image.banshujiang.cn/4274.jpeg?timestamp=1719919822680",
-        "author": "[美]Ed Burnette [译]袁国忠",
-        "language": "中文",
-        "publishYear": 2016,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4274/webstorage_links/21313/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4271,
-        "title": "Android编程权威指南（第3版）",
-        "img": "http://image.banshujiang.cn/4271.jpeg?timestamp=1719919163278",
-        "author": "[美]Bill Phillips [译]王明发",
-        "language": "中文",
-        "publishYear": 2017,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4271/webstorage_links/21307/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4270,
-        "title": "Android Hacker’s Handbook",
-        "img": "http://image.banshujiang.cn/4270.jpeg?timestamp=1719918847377",
-        "author": "Joshua J. Drake",
+        "id": 4539,
+        "title": "C in a Nutshell 2nd Edition Early Release",
+        "img": "http://image.banshujiang.cn/4539.jpeg?timestamp=1727874148646",
+        "author": "Peter Prinz and Tony Crawford",
         "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4270/webstorage_links/21305/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4270/webstorage_links/21303/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4270/webstorage_links/21304/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4261,
-        "title": "Efficient Android Threading",
-        "img": "http://image.banshujiang.cn/4261.jpeg?timestamp=1719904628368",
-        "author": "Anders Göransson",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4261/webstorage_links/21256/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4261/webstorage_links/21254/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4261/webstorage_links/21255/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4205,
-        "title": "Android软件安全与逆向分析",
-        "img": "http://image.banshujiang.cn/4205.jpeg?timestamp=1718630457428",
-        "author": "丰生强",
-        "language": "中文",
-        "publishYear": 2013,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4205/webstorage_links/20980/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4205/webstorage_links/20981/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4205/webstorage_links/20979/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4204,
-        "title": "Android开发艺术探索",
-        "img": "http://image.banshujiang.cn/4204.jpeg?timestamp=1718630247472",
-        "author": "任玉刚",
-        "language": "中文",
         "publishYear": 2015,
-        "programLanguage": "Java",
+        "programLanguage": "C",
         "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4539/webstorage_links/22349/to_link"
+            },
             {
                 "fmt": "EPUB",
                 "title": "城通网盘",
-                "link": "/e_books/4204/webstorage_links/20974/to_link"
+                "link": "/e_books/4539/webstorage_links/22347/to_link"
             },
             {
                 "fmt": "MOBI",
                 "title": "城通网盘",
-                "link": "/e_books/4204/webstorage_links/20975/to_link"
+                "link": "/e_books/4539/webstorage_links/22348/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4502,
+        "title": "Starting out with C++: from control structures through objects 8th Edition",
+        "img": "http://image.banshujiang.cn/4502.jpeg?timestamp=1725187967497",
+        "author": "Tony Gaddis",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4502/webstorage_links/22167/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4501,
+        "title": "Starting out with C++: early objects 8th Edition",
+        "img": "http://image.banshujiang.cn/4501.jpeg?timestamp=1725187824124",
+        "author": "Tony Gaddis, Judy Walters and Godfrey",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4501/webstorage_links/22165/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4490,
+        "title": "Linux多线程服务端编程：使用muduo C++网络库",
+        "img": "http://image.banshujiang.cn/4490.jpeg?timestamp=1728110768945",
+        "author": "陈硕",
+        "language": "中文",
+        "publishYear": 2013,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4490/webstorage_links/22110/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4490/webstorage_links/22111/to_link"
             },
             {
                 "fmt": "AZW3",
                 "title": "城通网盘",
-                "link": "/e_books/4204/webstorage_links/20973/to_link"
+                "link": "/e_books/4490/webstorage_links/22109/to_link"
             }
         ]
     },
     {
-        "id": 4154,
-        "title": "Android Design Patterns",
-        "img": "http://image.banshujiang.cn/4154.jpeg?timestamp=1718512995424",
-        "author": "Greg Nudelman",
-        "language": "英文",
+        "id": 4377,
+        "title": "嗨翻C语言",
+        "img": "http://image.banshujiang.cn/4377.jpeg?timestamp=1722050081538",
+        "author": "[美]David Griffiths、Dawn Griffiths [译]程亦超",
+        "language": "中文",
         "publishYear": 2013,
-        "programLanguage": "Java",
+        "programLanguage": "C",
         "formats": [
             {
                 "fmt": "PDF",
                 "title": "城通网盘",
-                "link": "/e_books/4154/webstorage_links/20713/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4154/webstorage_links/20712/to_link"
+                "link": "/e_books/4377/webstorage_links/21695/to_link"
             }
         ]
     },
     {
-        "id": 4143,
-        "title": "Android Studio Application Development",
-        "img": "http://image.banshujiang.cn/4143.jpeg?timestamp=1718465257484",
-        "author": "Belén Cruz Zapata",
+        "id": 4338,
+        "title": "API Design for C++ 2nd Edition",
+        "img": "http://image.banshujiang.cn/4338.jpeg?timestamp=1721391815202",
+        "author": "Martin Reddy",
         "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "Java",
+        "publishYear": 2024,
+        "programLanguage": "C++",
         "formats": [
             {
                 "fmt": "PDF",
                 "title": "城通网盘",
-                "link": "/e_books/4143/webstorage_links/20671/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4143/webstorage_links/20670/to_link"
+                "link": "/e_books/4338/webstorage_links/21553/to_link"
             }
         ]
     },
     {
-        "id": 4142,
-        "title": "Android Programming: Pushing the Limits",
-        "img": "http://image.banshujiang.cn/4142.jpeg?timestamp=1718464918303",
-        "author": "Erik Hellman",
+        "id": 4295,
+        "title": "21st Century C 2nd Edition",
+        "img": "http://image.banshujiang.cn/4295.jpeg?timestamp=1720240158960",
+        "author": "Ben Klemens",
         "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "Java",
+        "publishYear": 2014,
+        "programLanguage": "C",
         "formats": [
             {
                 "fmt": "PDF",
                 "title": "城通网盘",
-                "link": "/e_books/4142/webstorage_links/20667/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4142/webstorage_links/20665/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4142/webstorage_links/20666/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4051,
-        "title": "Creating Dynamic UI with Android Fragments",
-        "img": "http://image.banshujiang.cn/4051.jpeg?timestamp=1716700883069",
-        "author": "Jim Wilson",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4051/webstorage_links/20350/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4051/webstorage_links/20349/to_link"
+                "link": "/e_books/4295/webstorage_links/21373/to_link"
             }
         ]
     }

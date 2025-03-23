@@ -1,5 +1,85 @@
 [
     {
+        "id": 2368,
+        "title": "The Linux Programming Interface",
+        "img": "https://imagebsj.netlify.app/2368.jpeg",
+        "author": "Michael Kerrisk",
+        "language": "英文",
+        "publishYear": 2010,
+        "programLanguage": "C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2368/webstorage_links/15809/to_link"
+            }
+        ]
+    },
+    {
+        "id": 967,
+        "title": "UNIX/Linux下curses库开发指南",
+        "img": "https://imagebsj.netlify.app/967.jpeg",
+        "author": "张中庆 和 雷良俅",
+        "language": "中文",
+        "publishYear": 2003,
+        "programLanguage": "C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/967/webstorage_links/15448/to_link"
+            }
+        ]
+    },
+    {
+        "id": 447,
+        "title": "Unix Linux 编程实践教程",
+        "img": "https://imagebsj.netlify.app/447.jpeg",
+        "author": "Bruce Moday",
+        "language": "中文",
+        "publishYear": 2004,
+        "programLanguage": "C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/447/webstorage_links/14410/to_link"
+            }
+        ]
+    },
+    {
+        "id": 159,
+        "title": "Linux设备驱动程序(第三版)",
+        "img": "https://imagebsj.netlify.app/159.jpeg",
+        "author": "Alessandro Rubini, Jonathan Corbet, Greg Kroah-Hartman",
+        "language": "中文",
+        "publishYear": 2006,
+        "programLanguage": "C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/159/webstorage_links/13835/to_link"
+            }
+        ]
+    },
+    {
+        "id": 69,
+        "title": "Linux System Programming",
+        "img": "https://imagebsj.netlify.app/69.jpeg",
+        "author": "Robert Love",
+        "language": "英文",
+        "publishYear": 2007,
+        "programLanguage": "C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/69/webstorage_links/13655/to_link"
+            }
+        ]
+    },
+    {
         "id": 4868,
         "title": "Linux Basics for Hackers",
         "img": "http://image.banshujiang.cn/4868.jpeg?timestamp=1732888061253",
@@ -146,6 +226,22 @@
         ]
     },
     {
+        "id": 4740,
+        "title": "C in a Nutshell 2nd Edition",
+        "img": "http://image.banshujiang.cn/4740.jpeg?timestamp=1729935600160",
+        "author": "Peter Prinz and Tony Crawford",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4740/webstorage_links/23114/to_link"
+            }
+        ]
+    },
+    {
         "id": 4725,
         "title": "Linux命令行与shell脚本编程大全(第3版)",
         "img": "http://image.banshujiang.cn/4725.jpeg?timestamp=1729932514435",
@@ -178,6 +274,27 @@
         ]
     },
     {
+        "id": 4690,
+        "title": "Writing a C Compiler",
+        "img": "http://image.banshujiang.cn/4690.jpeg?timestamp=1729914101165",
+        "author": "Nora Sandler",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4690/webstorage_links/22897/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4690/webstorage_links/22896/to_link"
+            }
+        ]
+    },
+    {
         "id": 4671,
         "title": "Linux Kernel Programming 2nd Edition",
         "img": "http://image.banshujiang.cn/4671.jpeg?timestamp=1729348067081",
@@ -195,148 +312,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4671/webstorage_links/22842/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4668,
-        "title": "Learning Kali Linux 2nd Edition",
-        "img": "http://image.banshujiang.cn/4668.jpeg?timestamp=1729328462455",
-        "author": "Ric Messier",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4668/webstorage_links/22835/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4619,
-        "title": "深入Linux内核架构",
-        "img": "http://image.banshujiang.cn/4619.jpeg?timestamp=1728996676957",
-        "author": "[德]Wolfgang Mauerer [译]郭旭",
-        "language": "中文",
-        "publishYear": 2010,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4619/webstorage_links/22709/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4506,
-        "title": "How Linux Works 2nd Edition",
-        "img": "http://image.banshujiang.cn/4506.jpeg?timestamp=1727832117952",
-        "author": "Brian Ward",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4506/webstorage_links/22185/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4506/webstorage_links/22184/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4489,
-        "title": "Linux Bash编程与脚本应用实战",
-        "img": "http://image.banshujiang.cn/4489.jpeg?timestamp=1723955491187",
-        "author": "马玉军、郝军",
-        "language": "中文",
-        "publishYear": 2015,
-        "programLanguage": "Shell Script",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4489/webstorage_links/22105/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4489/webstorage_links/22104/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4441,
-        "title": "Linux程序设计(第4版)",
-        "img": "http://image.banshujiang.cn/4441.jpeg?timestamp=1723641013399",
-        "author": "[英]Neil Matthew、Richard Stones [译]陈健、宋健建",
-        "language": "中文",
-        "publishYear": 2010,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4441/webstorage_links/21896/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4441/webstorage_links/21897/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4441/webstorage_links/21895/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4378,
-        "title": "精通Linux(第2版)",
-        "img": "http://image.banshujiang.cn/4378.jpeg?timestamp=1722050451790",
-        "author": "[美]Brian Ward [译]姜南、袁志鹏",
-        "language": "中文",
-        "publishYear": 2015,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4378/webstorage_links/21697/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4367,
-        "title": "Kali Linux渗透测试的艺术",
-        "img": "http://image.banshujiang.cn/4367.jpeg?timestamp=1721472975710",
-        "author": "[英]Lee Allen、Shakeel Ali [印尼]Tedi Heriyanto [译]Archer",
-        "language": "中文",
-        "publishYear": 2015,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4367/webstorage_links/21670/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4367/webstorage_links/21671/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4367/webstorage_links/21669/to_link"
             }
         ]
     }

@@ -63,6 +63,64 @@
         ]
     },
     {
+        "id": 4502,
+        "title": "Starting out with C++: from control structures through objects 8th Edition",
+        "img": "http://image.banshujiang.cn/4502.jpeg?timestamp=1725187967497",
+        "author": "Tony Gaddis",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4502/webstorage_links/22167/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4501,
+        "title": "Starting out with C++: early objects 8th Edition",
+        "img": "http://image.banshujiang.cn/4501.jpeg?timestamp=1725187824124",
+        "author": "Tony Gaddis, Judy Walters and Godfrey",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4501/webstorage_links/22165/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4490,
+        "title": "Linux多线程服务端编程：使用muduo C++网络库",
+        "img": "http://image.banshujiang.cn/4490.jpeg?timestamp=1728110768945",
+        "author": "陈硕",
+        "language": "中文",
+        "publishYear": 2013,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4490/webstorage_links/22110/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4490/webstorage_links/22111/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4490/webstorage_links/22109/to_link"
+            }
+        ]
+    },
+    {
         "id": 4377,
         "title": "嗨翻C语言",
         "img": "http://image.banshujiang.cn/4377.jpeg?timestamp=1722050081538",
@@ -79,6 +137,22 @@
         ]
     },
     {
+        "id": 4338,
+        "title": "API Design for C++ 2nd Edition",
+        "img": "http://image.banshujiang.cn/4338.jpeg?timestamp=1721391815202",
+        "author": "Martin Reddy",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4338/webstorage_links/21553/to_link"
+            }
+        ]
+    },
+    {
         "id": 4295,
         "title": "21st Century C 2nd Edition",
         "img": "http://image.banshujiang.cn/4295.jpeg?timestamp=1720240158960",
@@ -91,6 +165,22 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4295/webstorage_links/21373/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4283,
+        "title": "C++性能优化指南",
+        "img": "http://image.banshujiang.cn/4283.jpeg?timestamp=1720096947522",
+        "author": "[美]Kurt Guntheroth [译]杨文轩",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4283/webstorage_links/21331/to_link"
             }
         ]
     },
@@ -173,6 +263,53 @@
         ]
     },
     {
+        "id": 4214,
+        "title": "C++Templates中文版",
+        "img": "http://image.banshujiang.cn/4214.jpeg?timestamp=1718973310329",
+        "author": "[美]David Vandevoorde [德]Nicolai M.Josuttis [译]陈伟柱",
+        "language": "中文",
+        "publishYear": 2013,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4214/webstorage_links/21022/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4214/webstorage_links/21023/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4214/webstorage_links/21021/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4213,
+        "title": "C++ Primer Plus（第6版）",
+        "img": "http://image.banshujiang.cn/4213.jpeg?timestamp=1718972662923",
+        "author": "[美] Stephen Prata [译]张海龙、袁国忠",
+        "language": "中文",
+        "publishYear": 2012,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4213/webstorage_links/21017/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4213/webstorage_links/21016/to_link"
+            }
+        ]
+    },
+    {
         "id": 4212,
         "title": "C和指针",
         "img": "http://image.banshujiang.cn/4212.jpeg?timestamp=1718972344449",
@@ -195,6 +332,32 @@
                 "fmt": "AZW3",
                 "title": "城通网盘",
                 "link": "/e_books/4212/webstorage_links/21011/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4182,
+        "title": "Beginning Visual C++ 2013",
+        "img": "http://image.banshujiang.cn/4182.jpeg?timestamp=1718527101734",
+        "author": "Ivor Horton",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4182/webstorage_links/20863/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4182/webstorage_links/20861/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4182/webstorage_links/20862/to_link"
             }
         ]
     },
@@ -242,6 +405,206 @@
                 "fmt": "AZW3",
                 "title": "城通网盘",
                 "link": "/e_books/4176/webstorage_links/20827/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4145,
+        "title": "C++ Application Development with Code::Blocks",
+        "img": "http://image.banshujiang.cn/4145.jpeg?timestamp=1718506059899",
+        "author": "Biplab Kumar Modak",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4145/webstorage_links/20679/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4145/webstorage_links/20678/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4134,
+        "title": "Programming: Principles and Practice Using C++ 3rd Edition",
+        "img": "http://image.banshujiang.cn/4134.jpeg?timestamp=1718463593296",
+        "author": "Bjarne Stroustrup",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4134/webstorage_links/20635/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4134/webstorage_links/20634/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4116,
+        "title": "LeetCode 101: 和你一起你轻松刷题(C++) v1.04",
+        "img": "http://image.banshujiang.cn/4116.jpeg?timestamp=1718112256209",
+        "author": "高畅",
+        "language": "中文",
+        "publishYear": 2024,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4116/webstorage_links/20581/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4038,
+        "title": "Starting Out with C++ 10th Edition",
+        "img": "http://image.banshujiang.cn/4038.jpeg?timestamp=1715950744569",
+        "author": "Tony Gaddis",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4038/webstorage_links/20302/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4033,
+        "title": "Professional C++ 6th Edition",
+        "img": "http://image.banshujiang.cn/4033.jpeg?timestamp=1715949511389",
+        "author": "Marc Gregoire",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4033/webstorage_links/20288/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4033/webstorage_links/20287/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3962,
+        "title": "C++23 Best Practices",
+        "img": "http://image.banshujiang.cn/3962.jpeg?timestamp=1714639865812",
+        "author": "Jason Turner",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3962/webstorage_links/20022/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3962/webstorage_links/20021/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3886,
+        "title": "The C++ Programming Language 4th Edition",
+        "img": "http://image.banshujiang.cn/3886.jpeg?timestamp=1714481317356",
+        "author": "Bjarne Stroustrup",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3886/webstorage_links/19722/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3886/webstorage_links/19721/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3849,
+        "title": "Modern C++ Programming with Test-Driven Development",
+        "img": "http://image.banshujiang.cn/3849.jpeg?timestamp=1713970042619",
+        "author": "Jeff Langr",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3849/webstorage_links/19574/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3849/webstorage_links/19573/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3829,
+        "title": "C++ Primer Plus 6th Edition",
+        "img": "http://image.banshujiang.cn/3829.jpeg?timestamp=1713622596685",
+        "author": "C++ Primer Plus",
+        "language": "英文",
+        "publishYear": 2011,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3829/webstorage_links/19496/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3829/webstorage_links/19495/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3828,
+        "title": "C++ Gotchas",
+        "img": "http://image.banshujiang.cn/3828.jpeg?timestamp=1713622526367",
+        "author": "Brian W. Kernighan",
+        "language": "英文",
+        "publishYear": 2002,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3828/webstorage_links/19492/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3828/webstorage_links/19491/to_link"
             }
         ]
     },
@@ -309,6 +672,27 @@
         ]
     },
     {
+        "id": 3778,
+        "title": "Moving from C to C++",
+        "img": "https://imagebsj.netlify.app/3778.jpeg",
+        "author": "Arunesh Goyal",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3778/webstorage_links/19291/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3778/webstorage_links/19290/to_link"
+            }
+        ]
+    },
+    {
         "id": 3751,
         "title": "Cryptography in C and C++ 2nd Edition",
         "img": "http://image.banshujiang.cn/3751.jpeg?timestamp=1712398104814",
@@ -321,6 +705,69 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/3751/webstorage_links/19187/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3750,
+        "title": "C++ Quick Syntax Reference",
+        "img": "http://image.banshujiang.cn/3750.jpeg?timestamp=1712397532430",
+        "author": "Mikael Olsson",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3750/webstorage_links/19185/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3750/webstorage_links/19184/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3746,
+        "title": "Boost.Asio C++ Network Programming",
+        "img": "http://image.banshujiang.cn/3746.jpeg?timestamp=1712324200589",
+        "author": "John Torjo",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3746/webstorage_links/19165/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3746/webstorage_links/19164/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3743,
+        "title": "Beginning Android C++ Game Development",
+        "img": "http://image.banshujiang.cn/3743.jpeg?timestamp=1712322658824",
+        "author": "Bruce Sutherland",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3743/webstorage_links/19157/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3743/webstorage_links/19156/to_link"
             }
         ]
     },
@@ -367,6 +814,27 @@
         ]
     },
     {
+        "id": 3519,
+        "title": "The C++ Standard Library",
+        "img": "http://image.banshujiang.cn/3519.jpeg?timestamp=1696769217305",
+        "author": "Rainer Grimm",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3519/webstorage_links/18335/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3519/webstorage_links/18334/to_link"
+            }
+        ]
+    },
+    {
         "id": 3331,
         "title": "Fluent C",
         "img": "http://image.banshujiang.cn/3331.jpeg?timestamp=1676694339019",
@@ -388,6 +856,27 @@
         ]
     },
     {
+        "id": 3304,
+        "title": "C++ Move Semantics - The Complete Guide 2022 Version",
+        "img": "http://image.banshujiang.cn/3304.jpeg?timestamp=1676104020494",
+        "author": "Nicolai M. Josuttis",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3304/webstorage_links/17425/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3304/webstorage_links/17424/to_link"
+            }
+        ]
+    },
+    {
         "id": 3302,
         "title": "An Introduction to C and GUI Programming 2nd Edition",
         "img": "http://image.banshujiang.cn/3302.jpeg?timestamp=1676103768080",
@@ -400,6 +889,27 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/3302/webstorage_links/17417/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3301,
+        "title": "2D Drawing with C++17",
+        "img": "http://image.banshujiang.cn/3301.jpeg?timestamp=1676103615024",
+        "author": "Håkan Blomqvist",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3301/webstorage_links/17415/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3301/webstorage_links/17414/to_link"
             }
         ]
     },
@@ -430,6 +940,148 @@
         ]
     },
     {
+        "id": 3015,
+        "title": "Effective Modern C++ 中文翻译",
+        "img": "https://imagebsj.netlify.app/3015.jpeg",
+        "author": "无名",
+        "language": "中文",
+        "publishYear": 2014,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3015/webstorage_links/16091/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3011,
+        "title": "Effective Modern C++",
+        "img": "https://imagebsj.netlify.app/3011.jpeg",
+        "author": "Scott Meyers",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3011/webstorage_links/16078/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3006,
+        "title": "A Tour of C++ 3rd Edition",
+        "img": "https://imagebsj.netlify.app/3006.jpeg",
+        "author": "Bjarne Stroustrup",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3006/webstorage_links/16065/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3006/webstorage_links/16066/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2911,
+        "title": "Discovering Modern C++ 2nd Edition",
+        "img": "https://imagebsj.netlify.app/2911.jpeg",
+        "author": "Peter Gottschling",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2911/webstorage_links/10674/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2911/webstorage_links/10675/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2898,
+        "title": "C++ Software Design",
+        "img": "https://imagebsj.netlify.app/2898.jpeg",
+        "author": "Klaus Iglberger",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2898/webstorage_links/10625/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/2898/webstorage_links/10624/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2810,
+        "title": "C++ Best Practices",
+        "img": "https://imagebsj.netlify.app/2810.jpeg",
+        "author": "JasonTurner",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2810/webstorage_links/10232/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2810/webstorage_links/10231/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/2810/webstorage_links/10233/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2667,
+        "title": "Professional C++ 5th Editon ",
+        "img": "https://imagebsj.netlify.app/2667.jpeg",
+        "author": "Marc Gregoire",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2667/webstorage_links/9487/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2667/webstorage_links/9488/to_link"
+            }
+        ]
+    },
+    {
         "id": 2636,
         "title": "Smaller C",
         "img": "https://imagebsj.netlify.app/2636.jpeg",
@@ -447,6 +1099,53 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/2636/webstorage_links/9221/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2604,
+        "title": "C++ Move Semantics - The Complete Guide",
+        "img": "https://imagebsj.netlify.app/2604.jpeg",
+        "author": "Nicolai M. Josuttis",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2604/webstorage_links/9092/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2604/webstorage_links/9093/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2511,
+        "title": "C++17 - The Complete Guide 5th Edition",
+        "img": "https://imagebsj.netlify.app/2511.jpeg",
+        "author": "Nicolai M. Josuttis",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2511/webstorage_links/8714/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2511/webstorage_links/8716/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/2511/webstorage_links/8715/to_link"
             }
         ]
     },
@@ -477,6 +1176,48 @@
         ]
     },
     {
+        "id": 2481,
+        "title": "Large-Scale C++ Volume I Process and Architecture",
+        "img": "https://imagebsj.netlify.app/2481.jpeg",
+        "author": "John Lakos",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2481/webstorage_links/16010/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2481/webstorage_links/16008/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/2481/webstorage_links/16009/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2476,
+        "title": "Professional C++ 5th Edition",
+        "img": "https://imagebsj.netlify.app/2476.jpeg",
+        "author": "Marc Gregoire",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2476/webstorage_links/16001/to_link"
+            }
+        ]
+    },
+    {
         "id": 2368,
         "title": "The Linux Programming Interface",
         "img": "https://imagebsj.netlify.app/2368.jpeg",
@@ -489,6 +1230,90 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/2368/webstorage_links/15809/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2357,
+        "title": "Secure Coding in C and C++ 2nd Edition",
+        "img": "https://imagebsj.netlify.app/2357.jpeg",
+        "author": "Robert C. Seacord",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2357/webstorage_links/15797/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2357/webstorage_links/15796/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2323,
+        "title": "C++ Templates 2nd Edition",
+        "img": "https://imagebsj.netlify.app/2323.jpeg",
+        "author": "David Vandevoorde",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2323/webstorage_links/15737/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2323/webstorage_links/15739/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/2323/webstorage_links/15738/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2322,
+        "title": "C++ Crash Course",
+        "img": "https://imagebsj.netlify.app/2322.jpeg",
+        "author": "Josh Lospinoso",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2322/webstorage_links/15736/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2318,
+        "title": "A Tour of C++ 2nd Edition",
+        "img": "https://imagebsj.netlify.app/2318.jpeg",
+        "author": "Bjarne Stroustrup",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2318/webstorage_links/15729/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2318/webstorage_links/15730/to_link"
             }
         ]
     },
@@ -509,6 +1334,117 @@
         ]
     },
     {
+        "id": 2246,
+        "title": "Functional Programming in C++",
+        "img": "https://imagebsj.netlify.app/2246.jpeg",
+        "author": "Ivanc Ukic´",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2246/webstorage_links/15612/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2246/webstorage_links/15611/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2241,
+        "title": "C++ Concurrency in Action 2nd Edition",
+        "img": "https://imagebsj.netlify.app/2241.jpeg",
+        "author": "Anthony Williams",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2241/webstorage_links/15606/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2126,
+        "title": "Programming Principles and Practice Using C++ 2nd Edition",
+        "img": "https://imagebsj.netlify.app/2126.jpeg",
+        "author": "Bjarne Stroustrup",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2126/webstorage_links/9733/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2126/webstorage_links/9734/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2124,
+        "title": "Professional C++, 4th Edition",
+        "img": "https://imagebsj.netlify.app/2124.jpeg",
+        "author": "Marc Gregoire",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2124/webstorage_links/9725/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2124/webstorage_links/9726/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2075,
+        "title": "Discovering Modern C++",
+        "img": "https://imagebsj.netlify.app/2075.jpeg",
+        "author": "Peter Gottschling",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2075/webstorage_links/11338/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1928,
+        "title": "Windows via C/C++, 5th Edition",
+        "img": "https://imagebsj.netlify.app/1928.jpeg",
+        "author": "Jeffrey Richter",
+        "language": "英文",
+        "publishYear": 2008,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1928/webstorage_links/11490/to_link"
+            }
+        ]
+    },
+    {
         "id": 1917,
         "title": "Reverse Engineering for Beginners",
         "img": "https://imagebsj.netlify.app/1917.jpeg",
@@ -521,6 +1457,54 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/1917/webstorage_links/11456/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1870,
+        "title": "Professional Multicore Programming Design and Implementation for C++ Developers",
+        "img": "https://imagebsj.netlify.app/1870.jpeg",
+        "author": "Cameron Hughes and Tracey Hughes",
+        "language": "英文",
+        "publishYear": 2008,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1870/webstorage_links/11840/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1866,
+        "title": "Professional C++ 3rd Edition",
+        "img": "https://imagebsj.netlify.app/1866.jpeg",
+        "author": "Marc Gregoire",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1866/webstorage_links/11832/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1786,
+        "title": "More Exceptional C++",
+        "img": "https://imagebsj.netlify.app/1786.jpeg",
+        "author": "Herb Sutter",
+        "language": "英文",
+        "publishYear": 2001,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1786/webstorage_links/12284/to_link"
             }
         ]
     },
@@ -541,6 +1525,22 @@
         ]
     },
     {
+        "id": 1662,
+        "title": "Ivor Horton’s Beginning Visual C++ 2013",
+        "img": "https://imagebsj.netlify.app/1662.jpeg",
+        "author": "Ivor Horto",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1662/webstorage_links/12028/to_link"
+            }
+        ]
+    },
+    {
         "id": 1642,
         "title": "Computational Finance Using C and C#",
         "img": "https://imagebsj.netlify.app/1642.jpeg",
@@ -553,6 +1553,38 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/1642/webstorage_links/11988/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1631,
+        "title": "深度探索C++物件模型",
+        "img": "https://imagebsj.netlify.app/1631.jpeg",
+        "author": "Stanley B. Lippman 著 侯捷 译",
+        "language": "中文",
+        "publishYear": 1998,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1631/webstorage_links/11966/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1622,
+        "title": "Borland C++Builder 6 Developer’s Guide",
+        "img": "https://imagebsj.netlify.app/1622.jpeg",
+        "author": "Bob Swart, Mark Cashman, Paul Gustavson, and Jarrod Hollingworth",
+        "language": "英文",
+        "publishYear": 2003,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1622/webstorage_links/11948/to_link"
             }
         ]
     },
@@ -573,6 +1605,22 @@
         ]
     },
     {
+        "id": 1507,
+        "title": "A Complete Guide to Programming in C++",
+        "img": "https://imagebsj.netlify.app/1507.jpeg",
+        "author": "Ulla Kirch-Prinz and Peter Prinz",
+        "language": "英文",
+        "publishYear": 2002,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1507/webstorage_links/12330/to_link"
+            }
+        ]
+    },
+    {
         "id": 1505,
         "title": "算法精解: C语言描述",
         "img": "https://imagebsj.netlify.app/1505.jpeg",
@@ -585,6 +1633,22 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/1505/webstorage_links/12326/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1499,
+        "title": "Teach Yourself C++ in One Hour a Day",
+        "img": "https://imagebsj.netlify.app/1499.jpeg",
+        "author": "Jesse Liberty, Siddhartha Rao and Bradley Jones",
+        "language": "英文",
+        "publishYear": 2008,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1499/webstorage_links/13501/to_link"
             }
         ]
     },
@@ -605,6 +1669,70 @@
         ]
     },
     {
+        "id": 1432,
+        "title": "Designing Components with the C++ STL",
+        "img": "https://imagebsj.netlify.app/1432.jpeg",
+        "author": "Ulrich Breymann",
+        "language": "英文",
+        "publishYear": 2002,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1432/webstorage_links/13368/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1424,
+        "title": "Cross-Platform Development in C++",
+        "img": "https://imagebsj.netlify.app/1424.jpeg",
+        "author": "Syd Logan",
+        "language": "英文",
+        "publishYear": 2008,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1424/webstorage_links/13352/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1418,
+        "title": "C++ Design Patterns and Derivatives Pricing",
+        "img": "https://imagebsj.netlify.app/1418.jpeg",
+        "author": "M. S. Joshi",
+        "language": "英文",
+        "publishYear": 2008,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1418/webstorage_links/13340/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1371,
+        "title": "Practical Cryptography: Algorithms and Implementations Using C++",
+        "img": "https://imagebsj.netlify.app/1371.jpeg",
+        "author": "Saiful Azad and Al-Sakib Khan Pathan",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1371/webstorage_links/13248/to_link"
+            }
+        ]
+    },
+    {
         "id": 1364,
         "title": "Modern Compiler Implementation in C",
         "img": "https://imagebsj.netlify.app/1364.jpeg",
@@ -617,6 +1745,166 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/1364/webstorage_links/13234/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1363,
+        "title": "Modern C++ Design: Generic Programming and Design Patterns Applied",
+        "img": "https://imagebsj.netlify.app/1363.jpeg",
+        "author": "Andrei Alexandrescu",
+        "language": "英文",
+        "publishYear": 2001,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1363/webstorage_links/13232/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1340,
+        "title": "ANSI/ISO C++ Professional Programmer&#39;s Handbook",
+        "img": "https://imagebsj.netlify.app/1340.jpeg",
+        "author": "",
+        "language": "英文",
+        "publishYear": 1992,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1340/webstorage_links/13188/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1321,
+        "title": "Herb Schildt&#39;s C++ Programming Cookbook",
+        "img": "https://imagebsj.netlify.app/1321.jpeg",
+        "author": "Herbert Schildt",
+        "language": "英文",
+        "publishYear": 2008,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1321/webstorage_links/13150/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1314,
+        "title": "C++ by Dissection",
+        "img": "https://imagebsj.netlify.app/1314.jpeg",
+        "author": "Ira Pohl",
+        "language": "英文",
+        "publishYear": 2001,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1314/webstorage_links/13136/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1276,
+        "title": "C++ Primer (第三版)",
+        "img": "https://imagebsj.netlify.app/1276.jpeg",
+        "author": "Stanley B. Lippman and Josee Lajoie 著 潘爱民 张丽 译",
+        "language": "中文",
+        "publishYear": 2007,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1276/webstorage_links/13062/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1275,
+        "title": "C++语言的设计和演化",
+        "img": "https://imagebsj.netlify.app/1275.jpeg",
+        "author": "Bjarne Stroustrup 著 裘宗燕 译",
+        "language": "中文",
+        "publishYear": 2007,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1275/webstorage_links/13060/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1268,
+        "title": "C++ Primer 3rd Edition",
+        "img": "https://imagebsj.netlify.app/1268.jpeg",
+        "author": "Stanley B. Lippman and Josee Lajoie",
+        "language": "英文",
+        "publishYear": 2002,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1268/webstorage_links/13046/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1180,
+        "title": "Beginning Visual C++ 2012",
+        "img": "https://imagebsj.netlify.app/1180.jpeg",
+        "author": "Ivor Horton",
+        "language": "英文",
+        "publishYear": 2012,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1180/webstorage_links/12874/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1156,
+        "title": "C/C++嵌入式系统编程",
+        "img": "https://imagebsj.netlify.app/1156.jpeg",
+        "author": "Micbael Barr 著 于志宏 译",
+        "language": "中文",
+        "publishYear": 2007,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1156/webstorage_links/12826/to_link"
+            }
+        ]
+    },
+    {
+        "id": 1095,
+        "title": "C++程序设计原理与实践",
+        "img": "https://imagebsj.netlify.app/1095.jpeg",
+        "author": "Bjarne Stroustrup",
+        "language": "中文",
+        "publishYear": 2010,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1095/webstorage_links/12704/to_link"
             }
         ]
     },
@@ -669,6 +1957,38 @@
         ]
     },
     {
+        "id": 1009,
+        "title": "C++ Strategy and Tactics",
+        "img": "https://imagebsj.netlify.app/1009.jpeg",
+        "author": "Robert B. Murray",
+        "language": "英文",
+        "publishYear": 1993,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/1009/webstorage_links/12534/to_link"
+            }
+        ]
+    },
+    {
+        "id": 972,
+        "title": "你必须知道的204个Visual C++开发问题",
+        "img": "https://imagebsj.netlify.app/972.jpeg",
+        "author": "范立峰 和 李世欣",
+        "language": "中文",
+        "publishYear": 2010,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/972/webstorage_links/15458/to_link"
+            }
+        ]
+    },
+    {
         "id": 967,
         "title": "UNIX/Linux下curses库开发指南",
         "img": "https://imagebsj.netlify.app/967.jpeg",
@@ -681,6 +2001,54 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/967/webstorage_links/15448/to_link"
+            }
+        ]
+    },
+    {
+        "id": 966,
+        "title": "Pro Android C++ with the NDK",
+        "img": "https://imagebsj.netlify.app/966.jpeg",
+        "author": "Onur Cinar",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/966/webstorage_links/15446/to_link"
+            }
+        ]
+    },
+    {
+        "id": 961,
+        "title": "C++ How to Program 7th Edition",
+        "img": "https://imagebsj.netlify.app/961.jpeg",
+        "author": "Paul Deitel and Harvey Deitel",
+        "language": "英文",
+        "publishYear": 2010,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/961/webstorage_links/15436/to_link"
+            }
+        ]
+    },
+    {
+        "id": 914,
+        "title": "An Introduction to Design Patterns in C++ with Qt 2nd Edition",
+        "img": "https://imagebsj.netlify.app/914.jpeg",
+        "author": "Alan Ezust and Paul Ezust",
+        "language": "英文",
+        "publishYear": 2011,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/914/webstorage_links/15342/to_link"
             }
         ]
     },
@@ -701,6 +2069,54 @@
         ]
     },
     {
+        "id": 866,
+        "title": "Guide to Scientific Computing in C++",
+        "img": "https://imagebsj.netlify.app/866.jpeg",
+        "author": "Joe Pitt-Francis and Jonathan Whiteley",
+        "language": "英文",
+        "publishYear": 2012,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/866/webstorage_links/15246/to_link"
+            }
+        ]
+    },
+    {
+        "id": 859,
+        "title": "Data Structures Using C++ 2nd Edition",
+        "img": "https://imagebsj.netlify.app/859.jpeg",
+        "author": "D.S. Malik",
+        "language": "英文",
+        "publishYear": 2009,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/859/webstorage_links/15232/to_link"
+            }
+        ]
+    },
+    {
+        "id": 828,
+        "title": "Big C++ 2nd Edition",
+        "img": "https://imagebsj.netlify.app/828.jpeg",
+        "author": "Cay Horstmann and Timothy A. Budd",
+        "language": "英文",
+        "publishYear": 2008,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/828/webstorage_links/15170/to_link"
+            }
+        ]
+    },
+    {
         "id": 825,
         "title": "Mastering Algorithms with C",
         "img": "https://imagebsj.netlify.app/825.jpeg",
@@ -717,6 +2133,38 @@
         ]
     },
     {
+        "id": 822,
+        "title": "C++ Programs to Accompany Programming Logic and Design",
+        "img": "https://imagebsj.netlify.app/822.jpeg",
+        "author": "Jo Ann Smith",
+        "language": "英文",
+        "publishYear": 2009,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/822/webstorage_links/15158/to_link"
+            }
+        ]
+    },
+    {
+        "id": 813,
+        "title": "Starting Out with C++ Early Objects 7th Edition",
+        "img": "https://imagebsj.netlify.app/813.jpeg",
+        "author": "Tony Gaddis, Judy Walters and Godfrey Muganda",
+        "language": "英文",
+        "publishYear": 2010,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/813/webstorage_links/15140/to_link"
+            }
+        ]
+    },
+    {
         "id": 741,
         "title": "C语言核心技术",
         "img": "https://imagebsj.netlify.app/741.jpeg",
@@ -729,6 +2177,22 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/741/webstorage_links/14992/to_link"
+            }
+        ]
+    },
+    {
+        "id": 701,
+        "title": "C++入门经典(第三版)",
+        "img": "https://imagebsj.netlify.app/701.jpeg",
+        "author": "Ivor Horton",
+        "language": "中文",
+        "publishYear": 2006,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/701/webstorage_links/14914/to_link"
             }
         ]
     },
@@ -797,6 +2261,38 @@
         ]
     },
     {
+        "id": 370,
+        "title": "Safe C++",
+        "img": "https://imagebsj.netlify.app/370.jpeg",
+        "author": "Vladimir Kushnir",
+        "language": "英文",
+        "publishYear": 2012,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/370/webstorage_links/14257/to_link"
+            }
+        ]
+    },
+    {
+        "id": 326,
+        "title": "More Effective C++",
+        "img": "https://imagebsj.netlify.app/326.jpeg",
+        "author": "Scott Meyers",
+        "language": "英文",
+        "publishYear": 1995,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/326/webstorage_links/14169/to_link"
+            }
+        ]
+    },
+    {
         "id": 159,
         "title": "Linux设备驱动程序(第三版)",
         "img": "https://imagebsj.netlify.app/159.jpeg",
@@ -809,6 +2305,38 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/159/webstorage_links/13835/to_link"
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "title": "Effective C++ 3rd Edition",
+        "img": "https://imagebsj.netlify.app/124.jpeg",
+        "author": "Scott Meyers",
+        "language": "英文",
+        "publishYear": 2005,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/124/webstorage_links/13765/to_link"
+            }
+        ]
+    },
+    {
+        "id": 77,
+        "title": "C++ Concurrency in Action",
+        "img": "https://imagebsj.netlify.app/77.jpeg",
+        "author": "Anthony Williams",
+        "language": "英文",
+        "publishYear": 2011,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/77/webstorage_links/13671/to_link"
             }
         ]
     },
@@ -829,6 +2357,22 @@
         ]
     },
     {
+        "id": 66,
+        "title": "C++ Primer 5th Edition",
+        "img": "https://imagebsj.netlify.app/66.jpeg",
+        "author": "Stanley B. Lippman, Josée LaJoie, Barbara E. Moo",
+        "language": "英文",
+        "publishYear": 2012,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/66/webstorage_links/13649/to_link"
+            }
+        ]
+    },
+    {
         "id": 59,
         "title": "21st Century C",
         "img": "https://imagebsj.netlify.app/59.jpeg",
@@ -841,6 +2385,54 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/59/webstorage_links/13635/to_link"
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "title": "The C++ Standard Library 2nd Edition",
+        "img": "https://imagebsj.netlify.app/31.jpeg",
+        "author": "Nicolai M. Josuttis",
+        "language": "英文",
+        "publishYear": 2012,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/31/webstorage_links/13579/to_link"
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "title": "Microsoft Visual C++ Windows Applications by Example",
+        "img": "https://imagebsj.netlify.app/27.jpeg",
+        "author": "Stefan Björnander",
+        "language": "英文",
+        "publishYear": 2008,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/27/webstorage_links/13571/to_link"
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "title": "C++ in a Nutshell",
+        "img": "https://imagebsj.netlify.app/26.jpeg",
+        "author": "Ray Lischner",
+        "language": "英文",
+        "publishYear": 2012,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/26/webstorage_links/13569/to_link"
             }
         ]
     },

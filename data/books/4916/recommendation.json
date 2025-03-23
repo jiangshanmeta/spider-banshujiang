@@ -1,5 +1,105 @@
 [
     {
+        "id": 4945,
+        "title": "OpenCV 4计算机视觉: Python语言实现(第3版)",
+        "img": "http://image.banshujiang.cn/4945.jpeg?timestamp=1740747789508",
+        "author": "[加]Joseph Howse [爱]Joe Minichino [译]刘冰、高博",
+        "language": "中文",
+        "publishYear": 2021,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4945/webstorage_links/23944/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4945/webstorage_links/23943/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4944,
+        "title": "Neural Networks from Scratch in Python",
+        "img": "http://image.banshujiang.cn/4944.jpeg?timestamp=1742606586447",
+        "author": "Harrison Kinsley &amp; Daniel Kukieła",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4944/webstorage_links/23940/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4938,
+        "title": "LangChain入门指南(扫描版)",
+        "img": "http://image.banshujiang.cn/4938.jpeg?timestamp=1740655077848",
+        "author": "李特丽、康轶文",
+        "language": "中文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4938/webstorage_links/23922/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4936,
+        "title": "Hands-On Generative AI with Transformers and Diffusion Models",
+        "img": "http://image.banshujiang.cn/4936.jpeg?timestamp=1740654789484",
+        "author": "Omar Sanseviero, Pedro Cuenca, Apolinário Passos, and Jonathan Whitaker",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4936/webstorage_links/23916/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4936/webstorage_links/23915/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4935,
+        "title": "Hands-On Unsupervised Learning Using Python",
+        "img": "http://image.banshujiang.cn/4935.jpeg?timestamp=1740654446690",
+        "author": "Ankur A. Patel",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4935/webstorage_links/23912/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4935/webstorage_links/23911/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4935/webstorage_links/23910/to_link"
+            }
+        ]
+    },
+    {
         "id": 4933,
         "title": "Generative AI in Action",
         "img": "http://image.banshujiang.cn/4933.jpeg?timestamp=1740654126304",
@@ -187,111 +287,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/4920/webstorage_links/23874/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4919,
-        "title": "机器学习实战: 基于Scikit-Learn、Keras和 TensorFlow(第2版)",
-        "img": "http://image.banshujiang.cn/4919.jpeg?timestamp=1740144965370",
-        "author": "[法]奥雷利安·杰龙 [译]宋能辉、李娴",
-        "language": "中文",
-        "publishYear": 2020,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4919/webstorage_links/23870/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4918,
-        "title": "机器学习公式详解",
-        "img": "http://image.banshujiang.cn/4918.jpeg?timestamp=1740144719029",
-        "author": "谢文睿、秦州",
-        "language": "中文",
-        "publishYear": 2020,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4918/webstorage_links/23868/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4918/webstorage_links/23866/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4918/webstorage_links/23867/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4918/webstorage_links/23865/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4917,
-        "title": "动手学深度学习",
-        "img": "http://image.banshujiang.cn/4917.jpeg?timestamp=1740144579350",
-        "author": "Aston Zhang, Zachary C. Lipton, Mu Li, and Alexander J. Smola",
-        "language": "中文",
-        "publishYear": 2019,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4917/webstorage_links/23860/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4913,
-        "title": "Deep Learning with JAX",
-        "img": "http://image.banshujiang.cn/4913.jpeg?timestamp=1739608736845",
-        "author": "Grigory Sapunov",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4913/webstorage_links/23850/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4913/webstorage_links/23849/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4909,
-        "title": "Machine Learning Production Systems",
-        "img": "http://image.banshujiang.cn/4909.jpeg?timestamp=1739088272702",
-        "author": "Robert Crowe, Hannes Hapke, Emily Caveness, and Di Zhu",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4909/webstorage_links/23834/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4909/webstorage_links/23833/to_link"
             }
         ]
     }
