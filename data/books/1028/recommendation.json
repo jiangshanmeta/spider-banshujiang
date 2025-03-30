@@ -100,6 +100,22 @@
         ]
     },
     {
+        "id": 4946,
+        "title": "PHP Crash Course",
+        "img": "https://gitee.com/nswish/banshujiang.img/raw/main/4946.jpeg",
+        "author": "Matt Smith",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "PHP",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4946/webstorage_links/23946/to_link"
+            }
+        ]
+    },
+    {
         "id": 4835,
         "title": "Learning PHP",
         "img": "http://image.banshujiang.cn/4835.jpeg?timestamp=1731738290402",
@@ -306,22 +322,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4429/webstorage_links/21857/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4428,
-        "title": "Ext JS实战(第2版)",
-        "img": "http://image.banshujiang.cn/4428.jpeg?timestamp=1723343708723",
-        "author": "[ 美]Jesus Garcia、 Grgur Grisogono、Jacob K. Andresen [译]卢雄飞、田雷鹏、郜忠富",
-        "language": "中文",
-        "publishYear": 2015,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4428/webstorage_links/21855/to_link"
             }
         ]
     }

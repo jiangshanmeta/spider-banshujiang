@@ -94073,5 +94073,211 @@
                 "link": "/e_books/4945/webstorage_links/23943/to_link"
             }
         ]
+    },
+    {
+        "id": 4946,
+        "title": "PHP Crash Course",
+        "img": "https://gitee.com/nswish/banshujiang.img/raw/main/4946.jpeg",
+        "author": "Matt Smith",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "PHP",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4946/webstorage_links/23946/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4947,
+        "title": "Platform Engineering",
+        "img": "https://gitee.com/nswish/banshujiang.img/raw/main/4947.jpeg",
+        "author": "Camille Fournier and Ian Nowland",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4947/webstorage_links/23950/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4947/webstorage_links/23949/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4948,
+        "title": "Powerful Python",
+        "img": "https://gitee.com/nswish/banshujiang.img/raw/main/4948.jpeg",
+        "author": "Aaron Maxwell",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4948/webstorage_links/23954/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4948/webstorage_links/23953/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4949,
+        "title": "Prompt Engineering for LLMs",
+        "img": "https://gitee.com/nswish/banshujiang.img/raw/main/4949.jpeg",
+        "author": "John Berryman and Albert Ziegler",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4949/webstorage_links/23958/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4949/webstorage_links/23957/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4950,
+        "title": "Python 神经网络编程(扫描版)",
+        "img": "https://gitee.com/nswish/banshujiang.img/raw/main/4950.jpeg",
+        "author": "[英]Tariq Rashid [译]林赐",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4950/webstorage_links/23960/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4951,
+        "title": "Python自然语言处理实战(扫描版)",
+        "img": "https://gitee.com/nswish/banshujiang.img/raw/main/4951.jpeg",
+        "author": "涂铭、刘祥、刘树春",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4951/webstorage_links/23962/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4952,
+        "title": "Reinforcement Learning for Finance",
+        "img": "https://gitee.com/nswish/banshujiang.img/raw/main/4952.jpeg",
+        "author": "Yves Hilpisch",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4952/webstorage_links/23966/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4952/webstorage_links/23965/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4953,
+        "title": "Snowflake Data Engineering",
+        "img": "https://gitee.com/nswish/banshujiang.img/raw/main/4953.jpeg",
+        "author": "Maja Ferle",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4953/webstorage_links/23970/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4953/webstorage_links/23969/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4954,
+        "title": "Statistical Methods for Machine Learning",
+        "img": "https://gitee.com/nswish/banshujiang.img/raw/main/4954.jpeg",
+        "author": "Jason Brownlee",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4954/webstorage_links/23972/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4955,
+        "title": "Terraform Cookbook",
+        "img": "https://gitee.com/nswish/banshujiang.img/raw/main/4955.jpeg",
+        "author": "Kerim Satirli and Taylor Dolezal",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4955/webstorage_links/23978/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4955/webstorage_links/23977/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4956,
+        "title": "The Art of Asking ChatGPT for High-Quality Answers",
+        "img": "https://gitee.com/nswish/banshujiang.img/raw/main/4956.jpeg",
+        "author": "Ibrahim John",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4956/webstorage_links/23980/to_link"
+            }
+        ]
     }
 ]

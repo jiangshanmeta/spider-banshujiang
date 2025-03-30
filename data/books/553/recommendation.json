@@ -1,5 +1,21 @@
 [
     {
+        "id": 4946,
+        "title": "PHP Crash Course",
+        "img": "https://gitee.com/nswish/banshujiang.img/raw/main/4946.jpeg",
+        "author": "Matt Smith",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "PHP",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4946/webstorage_links/23946/to_link"
+            }
+        ]
+    },
+    {
         "id": 4836,
         "title": "Learning PHP, MySQL &amp; JavaScript 5th Edition",
         "img": "http://image.banshujiang.cn/4836.jpeg?timestamp=1731738370095",
@@ -331,27 +347,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3787/webstorage_links/19330/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3773,
-        "title": "Magento PHP Developer&#39;s Guide",
-        "img": "https://imagebsj.netlify.app/3773.jpeg",
-        "author": "Allan MacGregor",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "PHP",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3773/webstorage_links/19303/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3773/webstorage_links/19302/to_link"
             }
         ]
     }

@@ -1,5 +1,58 @@
 [
     {
+        "id": 4952,
+        "title": "Reinforcement Learning for Finance",
+        "img": "https://gitee.com/nswish/banshujiang.img/raw/main/4952.jpeg",
+        "author": "Yves Hilpisch",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4952/webstorage_links/23966/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4952/webstorage_links/23965/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4951,
+        "title": "Python自然语言处理实战(扫描版)",
+        "img": "https://gitee.com/nswish/banshujiang.img/raw/main/4951.jpeg",
+        "author": "涂铭、刘祥、刘树春",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4951/webstorage_links/23962/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4950,
+        "title": "Python 神经网络编程(扫描版)",
+        "img": "https://gitee.com/nswish/banshujiang.img/raw/main/4950.jpeg",
+        "author": "[英]Tariq Rashid [译]林赐",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4950/webstorage_links/23960/to_link"
+            }
+        ]
+    },
+    {
         "id": 4945,
         "title": "OpenCV 4计算机视觉: Python语言实现(第3版)",
         "img": "http://image.banshujiang.cn/4945.jpeg?timestamp=1740747789508",
@@ -229,64 +282,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4418/webstorage_links/21829/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4417,
-        "title": "NLTK基础教程: 用NTLK和Python库构建机器学习应用",
-        "img": "http://image.banshujiang.cn/4417.jpeg?timestamp=1722765758795",
-        "author": "[印度]Nitin Hardeniya [译]凌杰",
-        "language": "中文",
-        "publishYear": 2017,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4417/webstorage_links/21827/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4001,
-        "title": "Deep Learning for Finance",
-        "img": "http://image.banshujiang.cn/4001.jpeg?timestamp=1714913452504",
-        "author": "Sofien Kaabar",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4001/webstorage_links/20168/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4001/webstorage_links/20167/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3993,
-        "title": "OpenAI GPT For Python Developers 2nd Edition",
-        "img": "http://image.banshujiang.cn/3993.jpeg?timestamp=1714644935614",
-        "author": "Aymen El Amri",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3993/webstorage_links/20136/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3993/webstorage_links/20135/to_link"
             }
         ]
     }

@@ -1,5 +1,79 @@
 [
     {
+        "id": 4952,
+        "title": "Reinforcement Learning for Finance",
+        "img": "https://gitee.com/nswish/banshujiang.img/raw/main/4952.jpeg",
+        "author": "Yves Hilpisch",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4952/webstorage_links/23966/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4952/webstorage_links/23965/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4951,
+        "title": "Python自然语言处理实战(扫描版)",
+        "img": "https://gitee.com/nswish/banshujiang.img/raw/main/4951.jpeg",
+        "author": "涂铭、刘祥、刘树春",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4951/webstorage_links/23962/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4950,
+        "title": "Python 神经网络编程(扫描版)",
+        "img": "https://gitee.com/nswish/banshujiang.img/raw/main/4950.jpeg",
+        "author": "[英]Tariq Rashid [译]林赐",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4950/webstorage_links/23960/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4948,
+        "title": "Powerful Python",
+        "img": "https://gitee.com/nswish/banshujiang.img/raw/main/4948.jpeg",
+        "author": "Aaron Maxwell",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4948/webstorage_links/23954/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4948/webstorage_links/23953/to_link"
+            }
+        ]
+    },
+    {
         "id": 4945,
         "title": "OpenCV 4计算机视觉: Python语言实现(第3版)",
         "img": "http://image.banshujiang.cn/4945.jpeg?timestamp=1740747789508",
@@ -238,110 +312,6 @@
                 "fmt": "AZW3",
                 "title": "城通网盘",
                 "link": "/e_books/4802/webstorage_links/23390/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4778,
-        "title": "Building Machine Learning Systems with Python 2nd Edition",
-        "img": "http://image.banshujiang.cn/4778.jpeg?timestamp=1730535811753",
-        "author": "Luis Pedro and Coelho Willi Richert",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4778/webstorage_links/23312/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4778/webstorage_links/23310/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4778/webstorage_links/23311/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4762,
-        "title": "Data Wrangling with Python",
-        "img": "http://image.banshujiang.cn/4762.jpeg?timestamp=1730534411227",
-        "author": "Jacqueline Kazil and Katharine Jarmul",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4762/webstorage_links/23230/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4762/webstorage_links/23228/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4762/webstorage_links/23229/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4756,
-        "title": "Hello Raspberry Pi!",
-        "img": "http://image.banshujiang.cn/4756.jpeg?timestamp=1730533247510",
-        "author": "Ryan Heitz",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4756/webstorage_links/23198/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4756/webstorage_links/23196/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4756/webstorage_links/23197/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4715,
-        "title": "Think Python 2nd Edition",
-        "img": "http://image.banshujiang.cn/4715.jpeg?timestamp=1729930327073",
-        "author": "Allen B. Downey",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4715/webstorage_links/23035/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4715/webstorage_links/23033/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4715/webstorage_links/23034/to_link"
             }
         ]
     }
