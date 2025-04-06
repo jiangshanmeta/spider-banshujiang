@@ -1,5 +1,31 @@
 [
     {
+        "id": 4960,
+        "title": "MySQL技术内幕: InnoDB存储引擎(第2版)",
+        "img": "http://image.banshujiang.cn/4960.jpeg",
+        "author": "姜承尧",
+        "language": "中文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4960/webstorage_links/23995/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4960/webstorage_links/23996/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4960/webstorage_links/23994/to_link"
+            }
+        ]
+    },
+    {
         "id": 4842,
         "title": "MySQL必知必会",
         "img": "http://image.banshujiang.cn/4842.jpeg?timestamp=1731739091437",

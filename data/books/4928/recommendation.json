@@ -1,5 +1,105 @@
 [
     {
+        "id": 4967,
+        "title": "Data Preparation for Machine Learning",
+        "img": "http://image.banshujiang.cn/4967.jpeg",
+        "author": "Jason Brownlee",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4967/webstorage_links/24025/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4966,
+        "title": "ChatGPT for Writers",
+        "img": "http://image.banshujiang.cn/4966.jpeg",
+        "author": "Sean A Williams",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4966/webstorage_links/24023/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4962,
+        "title": "AI 3.0",
+        "img": "http://image.banshujiang.cn/4962.jpeg",
+        "author": "[美]Melanie Mitchell [译]王飞跃",
+        "language": "中文",
+        "publishYear": 2021,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4962/webstorage_links/24015/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4962/webstorage_links/24013/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4962/webstorage_links/24014/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4962/webstorage_links/24012/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4959,
+        "title": "The Developer’s Playbook for Large Language Model Security",
+        "img": "http://image.banshujiang.cn/4959.jpeg",
+        "author": "Steve Wilson",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4959/webstorage_links/23990/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4959/webstorage_links/23989/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4957,
+        "title": "The Art of Prompt Engineering with chatGPT",
+        "img": "http://image.banshujiang.cn/4957.jpeg",
+        "author": "Nathan Hunter",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4957/webstorage_links/23982/to_link"
+            }
+        ]
+    },
+    {
         "id": 4956,
         "title": "The Art of Asking ChatGPT for High-Quality Answers",
         "img": "https://gitee.com/nswish/banshujiang.img/raw/main/4956.jpeg",
@@ -202,91 +302,6 @@
                 "fmt": "AZW3",
                 "title": "城通网盘",
                 "link": "/e_books/4935/webstorage_links/23910/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4933,
-        "title": "Generative AI in Action",
-        "img": "http://image.banshujiang.cn/4933.jpeg?timestamp=1740654126304",
-        "author": "Amit Bahree",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4933/webstorage_links/23904/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4933/webstorage_links/23903/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4930,
-        "title": "Deep Learning",
-        "img": "http://image.banshujiang.cn/4930.jpeg?timestamp=1740226395498",
-        "author": "Ian Goodfellow, Yoshua Bengio and Aaron Courville",
-        "language": "英文",
-        "publishYear": 2017,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4930/webstorage_links/23894/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4927,
-        "title": "图解机器学习(扫描版)",
-        "img": "http://image.banshujiang.cn/4927.jpeg?timestamp=1740225909215",
-        "author": "[日]杉山将 [译]许永伟",
-        "language": "中文",
-        "publishYear": 2015,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4927/webstorage_links/23888/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4926,
-        "title": "统计学习方法(第2版)",
-        "img": "http://image.banshujiang.cn/4926.jpeg?timestamp=1740225767093",
-        "author": "李航",
-        "language": "中文",
-        "publishYear": 2019,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4926/webstorage_links/23886/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4925,
-        "title": "深入浅出图神经网络: GNN原理解析",
-        "img": "http://image.banshujiang.cn/4925.jpeg?timestamp=1740225654280",
-        "author": "刘忠雨、李彦霖、周洋",
-        "language": "中文",
-        "publishYear": 2019,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4925/webstorage_links/23884/to_link"
             }
         ]
     }

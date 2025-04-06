@@ -1,0 +1,313 @@
+[
+    {
+        "id": 4966,
+        "title": "ChatGPT for Writers",
+        "img": "http://image.banshujiang.cn/4966.jpeg",
+        "author": "Sean A Williams",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4966/webstorage_links/24023/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4962,
+        "title": "AI 3.0",
+        "img": "http://image.banshujiang.cn/4962.jpeg",
+        "author": "[美]Melanie Mitchell [译]王飞跃",
+        "language": "中文",
+        "publishYear": 2021,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4962/webstorage_links/24015/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4962/webstorage_links/24013/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4962/webstorage_links/24014/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4962/webstorage_links/24012/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4959,
+        "title": "The Developer’s Playbook for Large Language Model Security",
+        "img": "http://image.banshujiang.cn/4959.jpeg",
+        "author": "Steve Wilson",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4959/webstorage_links/23990/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4959/webstorage_links/23989/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4957,
+        "title": "The Art of Prompt Engineering with chatGPT",
+        "img": "http://image.banshujiang.cn/4957.jpeg",
+        "author": "Nathan Hunter",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4957/webstorage_links/23982/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4956,
+        "title": "The Art of Asking ChatGPT for High-Quality Answers",
+        "img": "https://gitee.com/nswish/banshujiang.img/raw/main/4956.jpeg",
+        "author": "Ibrahim John",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4956/webstorage_links/23980/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4954,
+        "title": "Statistical Methods for Machine Learning",
+        "img": "https://gitee.com/nswish/banshujiang.img/raw/main/4954.jpeg",
+        "author": "Jason Brownlee",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4954/webstorage_links/23972/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4952,
+        "title": "Reinforcement Learning for Finance",
+        "img": "https://gitee.com/nswish/banshujiang.img/raw/main/4952.jpeg",
+        "author": "Yves Hilpisch",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4952/webstorage_links/23966/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4952/webstorage_links/23965/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4951,
+        "title": "Python自然语言处理实战(扫描版)",
+        "img": "https://gitee.com/nswish/banshujiang.img/raw/main/4951.jpeg",
+        "author": "涂铭、刘祥、刘树春",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4951/webstorage_links/23962/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4950,
+        "title": "Python 神经网络编程(扫描版)",
+        "img": "https://gitee.com/nswish/banshujiang.img/raw/main/4950.jpeg",
+        "author": "[英]Tariq Rashid [译]林赐",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4950/webstorage_links/23960/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4949,
+        "title": "Prompt Engineering for LLMs",
+        "img": "https://gitee.com/nswish/banshujiang.img/raw/main/4949.jpeg",
+        "author": "John Berryman and Albert Ziegler",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4949/webstorage_links/23958/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4949/webstorage_links/23957/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4945,
+        "title": "OpenCV 4计算机视觉: Python语言实现(第3版)",
+        "img": "http://image.banshujiang.cn/4945.jpeg?timestamp=1740747789508",
+        "author": "[加]Joseph Howse [爱]Joe Minichino [译]刘冰、高博",
+        "language": "中文",
+        "publishYear": 2021,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4945/webstorage_links/23944/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4945/webstorage_links/23943/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4944,
+        "title": "Neural Networks from Scratch in Python",
+        "img": "http://image.banshujiang.cn/4944.jpeg?timestamp=1742606586447",
+        "author": "Harrison Kinsley &amp; Daniel Kukieła",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4944/webstorage_links/23940/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4938,
+        "title": "LangChain入门指南(扫描版)",
+        "img": "http://image.banshujiang.cn/4938.jpeg?timestamp=1740655077848",
+        "author": "李特丽、康轶文",
+        "language": "中文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4938/webstorage_links/23922/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4936,
+        "title": "Hands-On Generative AI with Transformers and Diffusion Models",
+        "img": "http://image.banshujiang.cn/4936.jpeg?timestamp=1740654789484",
+        "author": "Omar Sanseviero, Pedro Cuenca, Apolinário Passos, and Jonathan Whitaker",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4936/webstorage_links/23916/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4936/webstorage_links/23915/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4935,
+        "title": "Hands-On Unsupervised Learning Using Python",
+        "img": "http://image.banshujiang.cn/4935.jpeg?timestamp=1740654446690",
+        "author": "Ankur A. Patel",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4935/webstorage_links/23912/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4935/webstorage_links/23911/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4935/webstorage_links/23910/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4933,
+        "title": "Generative AI in Action",
+        "img": "http://image.banshujiang.cn/4933.jpeg?timestamp=1740654126304",
+        "author": "Amit Bahree",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4933/webstorage_links/23904/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4933/webstorage_links/23903/to_link"
+            }
+        ]
+    }
+]
