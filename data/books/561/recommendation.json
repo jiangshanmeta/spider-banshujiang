@@ -1,5 +1,21 @@
 [
     {
+        "id": 4972,
+        "title": "OpenAI GPT For Python Developers",
+        "img": "http://image.banshujiang.cn/4972.jpeg",
+        "author": "Aymen El Amri",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4972/webstorage_links/24035/to_link"
+            }
+        ]
+    },
+    {
         "id": 4952,
         "title": "Reinforcement Learning for Finance",
         "img": "https://gitee.com/nswish/banshujiang.img/raw/main/4952.jpeg",
@@ -291,32 +307,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4867/webstorage_links/23673/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4841,
-        "title": "MongoDB权威指南(第2版)",
-        "img": "http://image.banshujiang.cn/4841.jpeg?timestamp=1731738998904",
-        "author": "[美]Kristina Chodorow [译]邓强、王明辉",
-        "language": "中文",
-        "publishYear": 2014,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4841/webstorage_links/23560/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4841/webstorage_links/23558/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4841/webstorage_links/23559/to_link"
             }
         ]
     }

@@ -1,5 +1,57 @@
 [
     {
+        "id": 4974,
+        "title": "PHP核心技术与最佳实践",
+        "img": "http://image.banshujiang.cn/4974.jpeg",
+        "author": "列旭松 陈文",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "PHP",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4974/webstorage_links/24046/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4974/webstorage_links/24047/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4974/webstorage_links/24045/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4973,
+        "title": "PHP、MySQL和Apache入门经典（第5版）",
+        "img": "http://image.banshujiang.cn/4973.jpeg",
+        "author": "[美]Julie C.Meloni [译]李军",
+        "language": "中文",
+        "publishYear": 2013,
+        "programLanguage": "PHP",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4973/webstorage_links/24040/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4973/webstorage_links/24041/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4973/webstorage_links/24039/to_link"
+            }
+        ]
+    },
+    {
         "id": 4946,
         "title": "PHP Crash Course",
         "img": "https://gitee.com/nswish/banshujiang.img/raw/main/4946.jpeg",
@@ -310,53 +362,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4466/webstorage_links/22012/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4463,
-        "title": "Learning PHP, MySQL &amp; JavaScript 4th Editiion",
-        "img": "http://image.banshujiang.cn/4463.jpeg?timestamp=1723875148984",
-        "author": "Robin Nixon",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "PHP",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4463/webstorage_links/21999/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4463/webstorage_links/21998/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4318,
-        "title": "WordPress: the missing manual 2nd Edition",
-        "img": "http://image.banshujiang.cn/4318.jpeg?timestamp=1720924817079",
-        "author": "Matthew MacDonald",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "PHP",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4318/webstorage_links/21489/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4318/webstorage_links/21487/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4318/webstorage_links/21488/to_link"
             }
         ]
     }

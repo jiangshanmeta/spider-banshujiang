@@ -1,5 +1,21 @@
 [
     {
+        "id": 4972,
+        "title": "OpenAI GPT For Python Developers",
+        "img": "http://image.banshujiang.cn/4972.jpeg",
+        "author": "Aymen El Amri",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4972/webstorage_links/24035/to_link"
+            }
+        ]
+    },
+    {
         "id": 4952,
         "title": "Reinforcement Learning for Finance",
         "img": "https://gitee.com/nswish/banshujiang.img/raw/main/4952.jpeg",
@@ -266,22 +282,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4484/webstorage_links/22083/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4418,
-        "title": "Python深度学习",
-        "img": "http://image.banshujiang.cn/4418.jpeg?timestamp=1722765846602",
-        "author": "[美]弗朗索瓦·肖莱 [译]张亮",
-        "language": "中文",
-        "publishYear": 2018,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4418/webstorage_links/21829/to_link"
             }
         ]
     }

@@ -1,0 +1,353 @@
+[
+    {
+        "id": 4973,
+        "title": "PHP、MySQL和Apache入门经典（第5版）",
+        "img": "http://image.banshujiang.cn/4973.jpeg",
+        "author": "[美]Julie C.Meloni [译]李军",
+        "language": "中文",
+        "publishYear": 2013,
+        "programLanguage": "PHP",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4973/webstorage_links/24040/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4973/webstorage_links/24041/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4973/webstorage_links/24039/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4946,
+        "title": "PHP Crash Course",
+        "img": "https://gitee.com/nswish/banshujiang.img/raw/main/4946.jpeg",
+        "author": "Matt Smith",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "PHP",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4946/webstorage_links/23946/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4836,
+        "title": "Learning PHP, MySQL &amp; JavaScript 5th Edition",
+        "img": "http://image.banshujiang.cn/4836.jpeg?timestamp=1731738370095",
+        "author": "Robin Nixon",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "PHP",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4836/webstorage_links/23538/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4836/webstorage_links/23537/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4835,
+        "title": "Learning PHP",
+        "img": "http://image.banshujiang.cn/4835.jpeg?timestamp=1731738290402",
+        "author": "David Sklar",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "PHP",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4835/webstorage_links/23534/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4835/webstorage_links/23533/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4798,
+        "title": "The essentials of Object Oriented PHP",
+        "img": "http://image.banshujiang.cn/4798.jpeg?timestamp=1731121711559",
+        "author": "Joseph Benharosh",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "PHP",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4798/webstorage_links/23377/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4742,
+        "title": "Deploying PHP Applications",
+        "img": "http://image.banshujiang.cn/4742.jpeg?timestamp=1730530436412",
+        "author": "Niklas Modess",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "PHP",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4742/webstorage_links/23118/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4714,
+        "title": "PHP Web Services 2nd Edition",
+        "img": "http://image.banshujiang.cn/4714.jpeg?timestamp=1729930251680",
+        "author": "Lorna Jane Mitchell",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "PHP",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4714/webstorage_links/23029/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4714/webstorage_links/23027/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4714/webstorage_links/23028/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4505,
+        "title": "Easy Laravel 5",
+        "img": "http://image.banshujiang.cn/4505.jpeg?timestamp=1725188404283",
+        "author": "W. Jason Gilmore",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "PHP",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4505/webstorage_links/22181/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4505/webstorage_links/22179/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4505/webstorage_links/22180/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4466,
+        "title": "Modern PHP",
+        "img": "http://image.banshujiang.cn/4466.jpeg?timestamp=1723875424632",
+        "author": "Josh Lockhart",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "PHP",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4466/webstorage_links/22013/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4466/webstorage_links/22012/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4463,
+        "title": "Learning PHP, MySQL &amp; JavaScript 4th Editiion",
+        "img": "http://image.banshujiang.cn/4463.jpeg?timestamp=1723875148984",
+        "author": "Robin Nixon",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "PHP",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4463/webstorage_links/21999/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4463/webstorage_links/21998/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4318,
+        "title": "WordPress: the missing manual 2nd Edition",
+        "img": "http://image.banshujiang.cn/4318.jpeg?timestamp=1720924817079",
+        "author": "Matthew MacDonald",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "PHP",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4318/webstorage_links/21489/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4318/webstorage_links/21487/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4318/webstorage_links/21488/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4314,
+        "title": "PHP Cookbook 3rd Edition",
+        "img": "http://image.banshujiang.cn/4314.jpeg?timestamp=1720264467996",
+        "author": "David Sklar and Adam Trachtenberg",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "PHP",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4314/webstorage_links/21465/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4314/webstorage_links/21463/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4314/webstorage_links/21464/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4267,
+        "title": "Learning PHP, MySQL, JavaScript, CSS &amp; HTML5 3nd Edition",
+        "img": "http://image.banshujiang.cn/4267.jpeg?timestamp=1719918558759",
+        "author": "Robin Nixon",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "PHP",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4267/webstorage_links/21287/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4267/webstorage_links/21288/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4161,
+        "title": "Building Web Apps with WordPress",
+        "img": "http://image.banshujiang.cn/4161.jpeg?timestamp=1718515346829",
+        "author": "Brian Messenlehner and Jason Coleman",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "PHP",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4161/webstorage_links/20753/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4161/webstorage_links/20751/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4161/webstorage_links/20752/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3787,
+        "title": "PHP Quick Scripting Reference",
+        "img": "https://imagebsj.netlify.app/3787.jpeg",
+        "author": "Mikael Olsson",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "PHP",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3787/webstorage_links/19331/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3787/webstorage_links/19330/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3773,
+        "title": "Magento PHP Developer&#39;s Guide",
+        "img": "https://imagebsj.netlify.app/3773.jpeg",
+        "author": "Allan MacGregor",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "PHP",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3773/webstorage_links/19303/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3773/webstorage_links/19302/to_link"
+            }
+        ]
+    }
+]

@@ -32,6 +32,22 @@
         ]
     },
     {
+        "id": 4972,
+        "title": "OpenAI GPT For Python Developers",
+        "img": "http://image.banshujiang.cn/4972.jpeg",
+        "author": "Aymen El Amri",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4972/webstorage_links/24035/to_link"
+            }
+        ]
+    },
+    {
         "id": 4952,
         "title": "Reinforcement Learning for Finance",
         "img": "https://gitee.com/nswish/banshujiang.img/raw/main/4952.jpeg",
@@ -276,32 +292,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4875/webstorage_links/23702/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4870,
-        "title": "Data Science from Scratch 2nd Edition",
-        "img": "http://image.banshujiang.cn/4870.jpeg?timestamp=1732888533546",
-        "author": "Joel Grus",
-        "language": "英文",
-        "publishYear": 2019,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4870/webstorage_links/23690/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4870/webstorage_links/23689/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4870/webstorage_links/23688/to_link"
             }
         ]
     }

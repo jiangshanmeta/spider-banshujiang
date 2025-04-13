@@ -1,5 +1,31 @@
 [
     {
+        "id": 4973,
+        "title": "PHP、MySQL和Apache入门经典（第5版）",
+        "img": "http://image.banshujiang.cn/4973.jpeg",
+        "author": "[美]Julie C.Meloni [译]李军",
+        "language": "中文",
+        "publishYear": 2013,
+        "programLanguage": "PHP",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4973/webstorage_links/24040/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4973/webstorage_links/24041/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4973/webstorage_links/24039/to_link"
+            }
+        ]
+    },
+    {
         "id": 4836,
         "title": "Learning PHP, MySQL &amp; JavaScript 5th Edition",
         "img": "http://image.banshujiang.cn/4836.jpeg?timestamp=1731738370095",
@@ -228,6 +254,32 @@
         ]
     },
     {
+        "id": 4974,
+        "title": "PHP核心技术与最佳实践",
+        "img": "http://image.banshujiang.cn/4974.jpeg",
+        "author": "列旭松 陈文",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "PHP",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4974/webstorage_links/24046/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4974/webstorage_links/24047/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4974/webstorage_links/24045/to_link"
+            }
+        ]
+    },
+    {
         "id": 4960,
         "title": "MySQL技术内幕: InnoDB存储引擎(第2版)",
         "img": "http://image.banshujiang.cn/4960.jpeg",
@@ -250,38 +302,6 @@
                 "fmt": "AZW3",
                 "title": "城通网盘",
                 "link": "/e_books/4960/webstorage_links/23994/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4946,
-        "title": "PHP Crash Course",
-        "img": "https://gitee.com/nswish/banshujiang.img/raw/main/4946.jpeg",
-        "author": "Matt Smith",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "PHP",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4946/webstorage_links/23946/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4842,
-        "title": "MySQL必知必会",
-        "img": "http://image.banshujiang.cn/4842.jpeg?timestamp=1731739091437",
-        "author": "[英]Ben Forta [译]刘晓霞、钟鸣",
-        "language": "中文",
-        "publishYear": 2009,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4842/webstorage_links/23562/to_link"
             }
         ]
     }

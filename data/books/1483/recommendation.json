@@ -1,5 +1,57 @@
 [
     {
+        "id": 4974,
+        "title": "PHP核心技术与最佳实践",
+        "img": "http://image.banshujiang.cn/4974.jpeg",
+        "author": "列旭松 陈文",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "PHP",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4974/webstorage_links/24046/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4974/webstorage_links/24047/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4974/webstorage_links/24045/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4973,
+        "title": "PHP、MySQL和Apache入门经典（第5版）",
+        "img": "http://image.banshujiang.cn/4973.jpeg",
+        "author": "[美]Julie C.Meloni [译]李军",
+        "language": "中文",
+        "publishYear": 2013,
+        "programLanguage": "PHP",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4973/webstorage_links/24040/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4973/webstorage_links/24041/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4973/webstorage_links/24039/to_link"
+            }
+        ]
+    },
+    {
         "id": 4946,
         "title": "PHP Crash Course",
         "img": "https://gitee.com/nswish/banshujiang.img/raw/main/4946.jpeg",
@@ -305,48 +357,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/4161/webstorage_links/20752/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4062,
-        "title": "Oracle PL/SQL Programming 6th Edition",
-        "img": "http://image.banshujiang.cn/4062.jpeg?timestamp=1717198252186",
-        "author": "Steven Feuerstein",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "SQL",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4062/webstorage_links/20392/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4062/webstorage_links/20391/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3837,
-        "title": "Expert Consolidation in Oracle Database 12c",
-        "img": "http://image.banshujiang.cn/3837.jpeg?timestamp=1713636080748",
-        "author": "Martin Bach",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3837/webstorage_links/19526/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3837/webstorage_links/19525/to_link"
             }
         ]
     }

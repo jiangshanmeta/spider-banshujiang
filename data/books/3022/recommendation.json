@@ -85,6 +85,139 @@
         ]
     },
     {
+        "id": 4977,
+        "title": "The ChatGPT Goldrush: Profiting from The AI Revolution",
+        "img": "http://image.banshujiang.cn/4977.jpeg",
+        "author": "Mark Adelson",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4977/webstorage_links/24055/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4976,
+        "title": "The Age of AI",
+        "img": "http://image.banshujiang.cn/4976.jpeg",
+        "author": "Henry A. Kissinger, Eric Schmidt and Daniel Huttenlocher",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4976/webstorage_links/24052/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4976/webstorage_links/24053/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4975,
+        "title": "TensorFlow in 1 Day: Make your own Neural Network",
+        "img": "http://image.banshujiang.cn/4975.jpeg",
+        "author": "Krishna Rungta",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4975/webstorage_links/24049/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4972,
+        "title": "OpenAI GPT For Python Developers",
+        "img": "http://image.banshujiang.cn/4972.jpeg",
+        "author": "Aymen El Amri",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4972/webstorage_links/24035/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4971,
+        "title": "Mastering ChatGPT: 21 Prompts Templates for Effortless Writing",
+        "img": "http://image.banshujiang.cn/4971.jpeg",
+        "author": "Cea West",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4971/webstorage_links/24033/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4970,
+        "title": "LLM Engineer’s Handbook",
+        "img": "http://image.banshujiang.cn/4970.jpeg",
+        "author": "Paul Iusztin and Maxime Labonne",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4970/webstorage_links/24031/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4969,
+        "title": "How to Build Your Career in AI",
+        "img": "http://image.banshujiang.cn/4969.jpeg",
+        "author": "Andrew Ng",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4969/webstorage_links/24029/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4968,
+        "title": "GPT图解：大模型是怎样构建的",
+        "img": "http://image.banshujiang.cn/4968.jpeg",
+        "author": "黄佳",
+        "language": "中文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4968/webstorage_links/24027/to_link"
+            }
+        ]
+    },
+    {
         "id": 4967,
         "title": "Data Preparation for Machine Learning",
         "img": "http://image.banshujiang.cn/4967.jpeg",
@@ -144,149 +277,6 @@
                 "fmt": "AZW3",
                 "title": "城通网盘",
                 "link": "/e_books/4962/webstorage_links/24012/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4959,
-        "title": "The Developer’s Playbook for Large Language Model Security",
-        "img": "http://image.banshujiang.cn/4959.jpeg",
-        "author": "Steve Wilson",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4959/webstorage_links/23990/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4959/webstorage_links/23989/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4957,
-        "title": "The Art of Prompt Engineering with chatGPT",
-        "img": "http://image.banshujiang.cn/4957.jpeg",
-        "author": "Nathan Hunter",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4957/webstorage_links/23982/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4956,
-        "title": "The Art of Asking ChatGPT for High-Quality Answers",
-        "img": "https://gitee.com/nswish/banshujiang.img/raw/main/4956.jpeg",
-        "author": "Ibrahim John",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4956/webstorage_links/23980/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4954,
-        "title": "Statistical Methods for Machine Learning",
-        "img": "https://gitee.com/nswish/banshujiang.img/raw/main/4954.jpeg",
-        "author": "Jason Brownlee",
-        "language": "英文",
-        "publishYear": 2019,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4954/webstorage_links/23972/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4952,
-        "title": "Reinforcement Learning for Finance",
-        "img": "https://gitee.com/nswish/banshujiang.img/raw/main/4952.jpeg",
-        "author": "Yves Hilpisch",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4952/webstorage_links/23966/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4952/webstorage_links/23965/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4951,
-        "title": "Python自然语言处理实战(扫描版)",
-        "img": "https://gitee.com/nswish/banshujiang.img/raw/main/4951.jpeg",
-        "author": "涂铭、刘祥、刘树春",
-        "language": "中文",
-        "publishYear": 2018,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4951/webstorage_links/23962/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4950,
-        "title": "Python 神经网络编程(扫描版)",
-        "img": "https://gitee.com/nswish/banshujiang.img/raw/main/4950.jpeg",
-        "author": "[英]Tariq Rashid [译]林赐",
-        "language": "中文",
-        "publishYear": 2018,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4950/webstorage_links/23960/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4949,
-        "title": "Prompt Engineering for LLMs",
-        "img": "https://gitee.com/nswish/banshujiang.img/raw/main/4949.jpeg",
-        "author": "John Berryman and Albert Ziegler",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4949/webstorage_links/23958/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4949/webstorage_links/23957/to_link"
             }
         ]
     }
