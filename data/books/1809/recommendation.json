@@ -48,6 +48,38 @@
         ]
     },
     {
+        "id": 4993,
+        "title": "Core Java  Volume I: Fundamentals 13th Edition",
+        "img": "http://image.banshujiang.cn/4993.jpeg",
+        "author": "Cay S. Horstmann",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4993/webstorage_links/24103/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4992,
+        "title": "Core Java  Volume II: Advanced Features 13th Edition",
+        "img": "http://image.banshujiang.cn/4992.jpeg",
+        "author": "Cay S. Horstmann",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4992/webstorage_links/24101/to_link"
+            }
+        ]
+    },
+    {
         "id": 4973,
         "title": "PHP、MySQL和Apache入门经典（第5版）",
         "img": "http://image.banshujiang.cn/4973.jpeg",
@@ -295,58 +327,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/4745/webstorage_links/23130/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4744,
-        "title": "Maven实战",
-        "img": "http://image.banshujiang.cn/4744.jpeg?timestamp=1730530696036",
-        "author": "许晓斌",
-        "language": "中文",
-        "publishYear": 2010,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4744/webstorage_links/23125/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4744/webstorage_links/23126/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4744/webstorage_links/23124/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4739,
-        "title": "Building Maintainable Software Java Edition",
-        "img": "http://image.banshujiang.cn/4739.jpeg?timestamp=1729935520480",
-        "author": "Joost Visser",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4739/webstorage_links/23112/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4739/webstorage_links/23110/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4739/webstorage_links/23111/to_link"
             }
         ]
     }

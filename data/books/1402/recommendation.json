@@ -16,6 +16,38 @@
         ]
     },
     {
+        "id": 4993,
+        "title": "Core Java  Volume I: Fundamentals 13th Edition",
+        "img": "http://image.banshujiang.cn/4993.jpeg",
+        "author": "Cay S. Horstmann",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4993/webstorage_links/24103/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4992,
+        "title": "Core Java  Volume II: Advanced Features 13th Edition",
+        "img": "http://image.banshujiang.cn/4992.jpeg",
+        "author": "Cay S. Horstmann",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4992/webstorage_links/24101/to_link"
+            }
+        ]
+    },
+    {
         "id": 4910,
         "title": "Optimizing Cloud Native Java 2nd Edition",
         "img": "http://image.banshujiang.cn/4910.jpeg?timestamp=1739088468585",
@@ -315,38 +347,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/4707/webstorage_links/22986/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4651,
-        "title": "Core Java: for The Impatient 4th Edition",
-        "img": "http://image.banshujiang.cn/4651.jpeg?timestamp=1729323430330",
-        "author": "Cay S. Horstmann",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4651/webstorage_links/22777/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4641,
-        "title": "高性能Android应用开发",
-        "img": "http://image.banshujiang.cn/4641.jpeg?timestamp=1729257994689",
-        "author": "[美]Doug Sillars [译]王若兰、周丹红、夏恩龙、陈文超、李欣欣",
-        "language": "中文",
-        "publishYear": 2016,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4641/webstorage_links/22753/to_link"
             }
         ]
     }

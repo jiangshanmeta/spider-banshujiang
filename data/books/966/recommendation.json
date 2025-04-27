@@ -21,6 +21,27 @@
         ]
     },
     {
+        "id": 5000,
+        "title": "Learning Modern C++ for Finance",
+        "img": "http://image.banshujiang.cn/5000.jpeg",
+        "author": "Daniel Hanson",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5000/webstorage_links/24127/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5000/webstorage_links/24126/to_link"
+            }
+        ]
+    },
+    {
         "id": 4801,
         "title": "Android Programming: The Big Nerd Ranch Guide 3rd Edition",
         "img": "http://image.banshujiang.cn/4801.jpeg?timestamp=1731733327450",
@@ -306,22 +327,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4338/webstorage_links/21553/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4295,
-        "title": "21st Century C 2nd Edition",
-        "img": "http://image.banshujiang.cn/4295.jpeg?timestamp=1720240158960",
-        "author": "Ben Klemens",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "C",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4295/webstorage_links/21373/to_link"
             }
         ]
     }

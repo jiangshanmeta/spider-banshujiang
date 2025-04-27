@@ -1,5 +1,37 @@
 [
     {
+        "id": 4993,
+        "title": "Core Java  Volume I: Fundamentals 13th Edition",
+        "img": "http://image.banshujiang.cn/4993.jpeg",
+        "author": "Cay S. Horstmann",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4993/webstorage_links/24103/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4992,
+        "title": "Core Java  Volume II: Advanced Features 13th Edition",
+        "img": "http://image.banshujiang.cn/4992.jpeg",
+        "author": "Cay S. Horstmann",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4992/webstorage_links/24101/to_link"
+            }
+        ]
+    },
+    {
         "id": 4910,
         "title": "Optimizing Cloud Native Java 2nd Edition",
         "img": "http://image.banshujiang.cn/4910.jpeg?timestamp=1739088468585",
@@ -315,53 +347,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4641/webstorage_links/22753/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4596,
-        "title": "Programming Google App Engine with Java",
-        "img": "http://image.banshujiang.cn/4596.jpeg?timestamp=1728020951922",
-        "author": "Dan Sanderson",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4596/webstorage_links/22645/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4596/webstorage_links/22643/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4596/webstorage_links/22644/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4589,
-        "title": "Minecraft Modding with Forge",
-        "img": "http://image.banshujiang.cn/4589.jpeg?timestamp=1728020324328",
-        "author": "Arun Gupta and Aditya Gupta",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4589/webstorage_links/22609/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4589/webstorage_links/22608/to_link"
             }
         ]
     }

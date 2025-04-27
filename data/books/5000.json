@@ -1,0 +1,21 @@
+{
+    "id": 5000,
+    "title": "Learning Modern C++ for Finance",
+    "img": "http://image.banshujiang.cn/5000.jpeg",
+    "author": "Daniel Hanson",
+    "language": "英文",
+    "publishYear": 2024,
+    "programLanguage": "C++",
+    "formats": [
+        {
+            "fmt": "PDF",
+            "title": "城通网盘",
+            "link": "/e_books/5000/webstorage_links/24127/to_link"
+        },
+        {
+            "fmt": "EPUB",
+            "title": "城通网盘",
+            "link": "/e_books/5000/webstorage_links/24126/to_link"
+        }
+    ]
+}

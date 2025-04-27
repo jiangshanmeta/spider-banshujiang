@@ -94907,5 +94907,216 @@
                 "link": "/e_books/4989/webstorage_links/24091/to_link"
             }
         ]
+    },
+    {
+        "id": 4990,
+        "title": "玩转ChatGPT：秒变AI写作高手",
+        "img": "http://image.banshujiang.cn/4990.jpeg",
+        "author": "唐振伟",
+        "language": "中文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4990/webstorage_links/24095/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4990/webstorage_links/24094/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4991,
+        "title": "Become a Great Engineering Leader",
+        "img": "http://image.banshujiang.cn/4991.jpeg",
+        "author": "James Stanier",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4991/webstorage_links/24099/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4991/webstorage_links/24098/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4992,
+        "title": "Core Java  Volume II: Advanced Features 13th Edition",
+        "img": "http://image.banshujiang.cn/4992.jpeg",
+        "author": "Cay S. Horstmann",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4992/webstorage_links/24101/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4993,
+        "title": "Core Java  Volume I: Fundamentals 13th Edition",
+        "img": "http://image.banshujiang.cn/4993.jpeg",
+        "author": "Cay S. Horstmann",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4993/webstorage_links/24103/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4994,
+        "title": "Designing Distributed Systems 2nd Edition",
+        "img": "http://image.banshujiang.cn/4994.jpeg",
+        "author": "Brendan Burns",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4994/webstorage_links/24107/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4994/webstorage_links/24106/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4995,
+        "title": "DuckDB: Up and Running",
+        "img": "http://image.banshujiang.cn/4995.jpeg",
+        "author": "Wei-Meng Lee",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4995/webstorage_links/24111/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4995/webstorage_links/24110/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4996,
+        "title": "Facilitating Software Architecture",
+        "img": "http://image.banshujiang.cn/4996.jpeg",
+        "author": "Andrew Harmel-Law",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4996/webstorage_links/24115/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4996/webstorage_links/24114/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4997,
+        "title": "Introduction to Computer Organization: Arm",
+        "img": "http://image.banshujiang.cn/4997.jpeg",
+        "author": "Robert G. Plantz",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4997/webstorage_links/24117/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4998,
+        "title": "Kotlin from Scratch: A Project-Based Introduction for the Intrepid Programmer",
+        "img": "http://image.banshujiang.cn/4998.jpeg",
+        "author": "Faisal Islam",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Kotlin",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4998/webstorage_links/24119/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4999,
+        "title": "Lead Developer Career Guide",
+        "img": "http://image.banshujiang.cn/4999.jpeg",
+        "author": "Shelley Benhoff",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4999/webstorage_links/24123/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4999/webstorage_links/24122/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5000,
+        "title": "Learning Modern C++ for Finance",
+        "img": "http://image.banshujiang.cn/5000.jpeg",
+        "author": "Daniel Hanson",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5000/webstorage_links/24127/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5000/webstorage_links/24126/to_link"
+            }
+        ]
     }
 ]

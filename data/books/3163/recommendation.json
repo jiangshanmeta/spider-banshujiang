@@ -1,5 +1,21 @@
 [
     {
+        "id": 4998,
+        "title": "Kotlin from Scratch: A Project-Based Introduction for the Intrepid Programmer",
+        "img": "http://image.banshujiang.cn/4998.jpeg",
+        "author": "Faisal Islam",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Kotlin",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4998/webstorage_links/24119/to_link"
+            }
+        ]
+    },
+    {
         "id": 4801,
         "title": "Android Programming: The Big Nerd Ranch Guide 3rd Edition",
         "img": "http://image.banshujiang.cn/4801.jpeg?timestamp=1731733327450",
@@ -331,22 +347,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/3007/webstorage_links/16067/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2917,
-        "title": "Kotlin Multiplatform by Tutorials",
-        "img": "https://imagebsj.netlify.app/2917.jpeg",
-        "author": "Kevin D. Moore",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "Kotlin",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2917/webstorage_links/10703/to_link"
             }
         ]
     }

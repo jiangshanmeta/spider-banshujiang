@@ -21,6 +21,27 @@
         ]
     },
     {
+        "id": 4990,
+        "title": "玩转ChatGPT：秒变AI写作高手",
+        "img": "http://image.banshujiang.cn/4990.jpeg",
+        "author": "唐振伟",
+        "language": "中文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4990/webstorage_links/24095/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4990/webstorage_links/24094/to_link"
+            }
+        ]
+    },
+    {
         "id": 4988,
         "title": "玩转ChatGPT：秒变AI提问和追问高手",
         "img": "http://image.banshujiang.cn/4988.jpeg",
@@ -276,22 +297,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4971/webstorage_links/24033/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4970,
-        "title": "LLM Engineer’s Handbook",
-        "img": "http://image.banshujiang.cn/4970.jpeg",
-        "author": "Paul Iusztin and Maxime Labonne",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4970/webstorage_links/24031/to_link"
             }
         ]
     }

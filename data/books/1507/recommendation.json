@@ -1,5 +1,26 @@
 [
     {
+        "id": 5000,
+        "title": "Learning Modern C++ for Finance",
+        "img": "http://image.banshujiang.cn/5000.jpeg",
+        "author": "Daniel Hanson",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5000/webstorage_links/24127/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5000/webstorage_links/24126/to_link"
+            }
+        ]
+    },
+    {
         "id": 4740,
         "title": "C in a Nutshell 2nd Edition",
         "img": "http://image.banshujiang.cn/4740.jpeg?timestamp=1729935600160",
@@ -306,32 +327,6 @@
                 "fmt": "AZW3",
                 "title": "城通网盘",
                 "link": "/e_books/4213/webstorage_links/21016/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4212,
-        "title": "C和指针",
-        "img": "http://image.banshujiang.cn/4212.jpeg?timestamp=1718972344449",
-        "author": "[美]Kenneth.A.Reek [译]徐波",
-        "language": "中文",
-        "publishYear": 2020,
-        "programLanguage": "C",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4212/webstorage_links/21012/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4212/webstorage_links/21013/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4212/webstorage_links/21011/to_link"
             }
         ]
     }

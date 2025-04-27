@@ -64,6 +64,38 @@
         ]
     },
     {
+        "id": 4993,
+        "title": "Core Java  Volume I: Fundamentals 13th Edition",
+        "img": "http://image.banshujiang.cn/4993.jpeg",
+        "author": "Cay S. Horstmann",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4993/webstorage_links/24103/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4992,
+        "title": "Core Java  Volume II: Advanced Features 13th Edition",
+        "img": "http://image.banshujiang.cn/4992.jpeg",
+        "author": "Cay S. Horstmann",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4992/webstorage_links/24101/to_link"
+            }
+        ]
+    },
+    {
         "id": 4910,
         "title": "Optimizing Cloud Native Java 2nd Edition",
         "img": "http://image.banshujiang.cn/4910.jpeg?timestamp=1739088468585",
@@ -290,53 +322,6 @@
                 "fmt": "AZW3",
                 "title": "城通网盘",
                 "link": "/e_books/4747/webstorage_links/23141/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4746,
-        "title": "Java从入门到精通(第4版)",
-        "img": "http://image.banshujiang.cn/4746.jpeg?timestamp=1730531048147",
-        "author": "明日科技",
-        "language": "中文",
-        "publishYear": 2008,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4746/webstorage_links/23135/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4746/webstorage_links/23136/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4746/webstorage_links/23134/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4745,
-        "title": "Java编程的逻辑",
-        "img": "http://image.banshujiang.cn/4745.jpeg?timestamp=1730530814916",
-        "author": "马俊昌",
-        "language": "中文",
-        "publishYear": 2018,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4745/webstorage_links/23129/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4745/webstorage_links/23130/to_link"
             }
         ]
     }

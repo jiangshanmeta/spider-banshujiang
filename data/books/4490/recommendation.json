@@ -80,6 +80,27 @@
         ]
     },
     {
+        "id": 5000,
+        "title": "Learning Modern C++ for Finance",
+        "img": "http://image.banshujiang.cn/5000.jpeg",
+        "author": "Daniel Hanson",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5000/webstorage_links/24127/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5000/webstorage_links/24126/to_link"
+            }
+        ]
+    },
+    {
         "id": 4868,
         "title": "Linux Basics for Hackers",
         "img": "http://image.banshujiang.cn/4868.jpeg?timestamp=1732888061253",
@@ -291,27 +312,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4690/webstorage_links/22896/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4671,
-        "title": "Linux Kernel Programming 2nd Edition",
-        "img": "http://image.banshujiang.cn/4671.jpeg?timestamp=1729348067081",
-        "author": "Kaiwan N. Billimoria",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4671/webstorage_links/22843/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4671/webstorage_links/22842/to_link"
             }
         ]
     }

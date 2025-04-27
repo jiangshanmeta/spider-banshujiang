@@ -1,5 +1,26 @@
 [
     {
+        "id": 4990,
+        "title": "玩转ChatGPT：秒变AI写作高手",
+        "img": "http://image.banshujiang.cn/4990.jpeg",
+        "author": "唐振伟",
+        "language": "中文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4990/webstorage_links/24095/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4990/webstorage_links/24094/to_link"
+            }
+        ]
+    },
+    {
         "id": 4988,
         "title": "玩转ChatGPT：秒变AI提问和追问高手",
         "img": "http://image.banshujiang.cn/4988.jpeg",
@@ -266,22 +287,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4969/webstorage_links/24029/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4968,
-        "title": "GPT图解：大模型是怎样构建的",
-        "img": "http://image.banshujiang.cn/4968.jpeg",
-        "author": "黄佳",
-        "language": "中文",
-        "publishYear": 2023,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4968/webstorage_links/24027/to_link"
             }
         ]
     }
