@@ -1,5 +1,42 @@
 [
     {
+        "id": 5009,
+        "title": "特征提取与图像处理(第二版)(扫描版)",
+        "img": "http://image.banshujiang.cn/5009.jpeg",
+        "author": "[英]Mark S. Nixon, Alberto S. Aguado [译]实英、杨高波",
+        "language": "中文",
+        "publishYear": 2010,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5009/webstorage_links/24151/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5003,
+        "title": "Programming with GitHub Copilot",
+        "img": "http://image.banshujiang.cn/5003.jpeg",
+        "author": "Kurt Dowswell",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5003/webstorage_links/24139/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5003/webstorage_links/24138/to_link"
+            }
+        ]
+    },
+    {
         "id": 4990,
         "title": "玩转ChatGPT：秒变AI写作高手",
         "img": "http://image.banshujiang.cn/4990.jpeg",
@@ -260,38 +297,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4972/webstorage_links/24035/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4971,
-        "title": "Mastering ChatGPT: 21 Prompts Templates for Effortless Writing",
-        "img": "http://image.banshujiang.cn/4971.jpeg",
-        "author": "Cea West",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4971/webstorage_links/24033/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4970,
-        "title": "LLM Engineer’s Handbook",
-        "img": "http://image.banshujiang.cn/4970.jpeg",
-        "author": "Paul Iusztin and Maxime Labonne",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4970/webstorage_links/24031/to_link"
             }
         ]
     }

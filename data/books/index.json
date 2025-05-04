@@ -95118,5 +95118,196 @@
                 "link": "/e_books/5000/webstorage_links/24126/to_link"
             }
         ]
+    },
+    {
+        "id": 5001,
+        "title": "Logs and Telemetry",
+        "img": "http://image.banshujiang.cn/5001.jpeg",
+        "author": "Phil Wilkins",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5001/webstorage_links/24131/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5001/webstorage_links/24130/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5002,
+        "title": "Pragmatic Unit Testing in Java with JUnit 3rd Edition",
+        "img": "http://image.banshujiang.cn/5002.jpeg",
+        "author": "Jeff Langr",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5002/webstorage_links/24135/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5002/webstorage_links/24134/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5003,
+        "title": "Programming with GitHub Copilot",
+        "img": "http://image.banshujiang.cn/5003.jpeg",
+        "author": "Kurt Dowswell",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5003/webstorage_links/24139/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5003/webstorage_links/24138/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5004,
+        "title": "The Art of Arm Assembly Volume 1",
+        "img": "http://image.banshujiang.cn/5004.jpeg",
+        "author": "Randall Hyde",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5004/webstorage_links/24141/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5005,
+        "title": "The Art of Mac Malware Volume 2 Detecting Malicious Software",
+        "img": "http://image.banshujiang.cn/5005.jpeg",
+        "author": "Patrick Wardle",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5005/webstorage_links/24143/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5006,
+        "title": "We, Programmers",
+        "img": "http://image.banshujiang.cn/5006.jpeg",
+        "author": "Robert C. Martin",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5006/webstorage_links/24145/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5007,
+        "title": "星闪无线短距离通信技术(SparkLiink 1.0)产业化推进白皮书",
+        "img": "http://image.banshujiang.cn/5007.jpeg",
+        "author": "",
+        "language": "中文",
+        "publishYear": 2022,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5007/webstorage_links/24147/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5008,
+        "title": "挑战程序设计竞赛2：算法和数据结构",
+        "img": "http://image.banshujiang.cn/5008.jpeg",
+        "author": "[日]渡部有隆 [译]支鹏浩",
+        "language": "中文",
+        "publishYear": 2016,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5008/webstorage_links/24149/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5009,
+        "title": "特征提取与图像处理(第二版)(扫描版)",
+        "img": "http://image.banshujiang.cn/5009.jpeg",
+        "author": "[英]Mark S. Nixon, Alberto S. Aguado [译]实英、杨高波",
+        "language": "中文",
+        "publishYear": 2010,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5009/webstorage_links/24151/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5010,
+        "title": "算法导论(第3版)",
+        "img": "http://image.banshujiang.cn/5010.jpeg",
+        "author": "[美]Thomas H. Carmen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein [译]殷建平、徐云、王刚、刘晓光、苏明、邹恒明、王宏志",
+        "language": "中文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5010/webstorage_links/24153/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5011,
+        "title": "计算机组成与设计：硬件/软件接口(第5版)",
+        "img": "http://image.banshujiang.cn/5011.jpeg",
+        "author": "[美]David A. Patterson and John L. Hennessy [译]易江芳、刘先华",
+        "language": "中文",
+        "publishYear": 2020,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5011/webstorage_links/24155/to_link"
+            }
+        ]
     }
 ]
