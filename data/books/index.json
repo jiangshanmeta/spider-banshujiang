@@ -95309,5 +95309,186 @@
                 "link": "/e_books/5011/webstorage_links/24155/to_link"
             }
         ]
+    },
+    {
+        "id": 5012,
+        "title": "计算机科学导论(第3版)(扫描版)",
+        "img": "http://image.banshujiang.cn/5012.jpeg",
+        "author": "[美]贝赫鲁兹 [译]刘艺、刘哲雨",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5012/webstorage_links/24157/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5013,
+        "title": "机器学习理论导引",
+        "img": "http://image.banshujiang.cn/5013.jpeg",
+        "author": "周志华、王魏、高尉、张利军",
+        "language": "中文",
+        "publishYear": 2020,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5013/webstorage_links/24159/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5014,
+        "title": "从零开始：机器学习的数学原理和算法实践",
+        "img": "http://image.banshujiang.cn/5014.jpeg",
+        "author": "大威",
+        "language": "中文",
+        "publishYear": 2021,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5014/webstorage_links/24161/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5015,
+        "title": "编译原理(第3版)(扫描版)",
+        "img": "http://image.banshujiang.cn/5015.jpeg",
+        "author": "王生原、董渊、张素琴、吕映芝、蒋维杜",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5015/webstorage_links/24163/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5016,
+        "title": "编译原理(第2版)(扫描版)",
+        "img": "http://image.banshujiang.cn/5016.jpeg",
+        "author": "[美]Alfred V. Aho, Monica S. Lam, Ravi Sethi and Jeffrey D. Ullman [译]赵建华、郑滔、戴新宇",
+        "language": "中文",
+        "publishYear": 2009,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5016/webstorage_links/24165/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5017,
+        "title": "AI-Driven Cybersecurity and Threat Intelligence",
+        "img": "http://image.banshujiang.cn/5017.jpeg",
+        "author": "Iqbal H. Sarker",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5017/webstorage_links/24167/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5018,
+        "title": "All in One CompTIA Linux+ Certification Exam Guide 2nd Edition",
+        "img": "http://image.banshujiang.cn/5018.jpeg",
+        "author": "Ted Jordan and Sandor Strohmayer",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5018/webstorage_links/24169/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5019,
+        "title": "CompTIA Security+ Get Certified Get Ahead SYO-701 Study Guide",
+        "img": "http://image.banshujiang.cn/5019.jpeg",
+        "author": "Darril Gibson and Joe Shelley",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5019/webstorage_links/24173/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5019/webstorage_links/24172/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5020,
+        "title": "FPGA EDA: Design Principles and Implementation",
+        "img": "http://image.banshujiang.cn/5020.jpeg",
+        "author": "Kaihui Tu, Xifan Tang, Cunxi Yu, Lana Josipovic and Zhufei Chu",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5020/webstorage_links/24175/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5021,
+        "title": "Graph Databases: Applications on Social Media Analytics and Smart Cities",
+        "img": "http://image.banshujiang.cn/5021.jpeg",
+        "author": "Christos Tjortjis",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5021/webstorage_links/24177/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5022,
+        "title": "grep: Pocket Reference",
+        "img": "http://image.banshujiang.cn/5022.jpeg",
+        "author": "John Bambenek and Agnieszka Klus",
+        "language": "英文",
+        "publishYear": 2009,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5022/webstorage_links/24179/to_link"
+            }
+        ]
     }
 ]

@@ -1,0 +1,303 @@
+[
+    {
+        "id": 5017,
+        "title": "AI-Driven Cybersecurity and Threat Intelligence",
+        "img": "http://image.banshujiang.cn/5017.jpeg",
+        "author": "Iqbal H. Sarker",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5017/webstorage_links/24167/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5013,
+        "title": "机器学习理论导引",
+        "img": "http://image.banshujiang.cn/5013.jpeg",
+        "author": "周志华、王魏、高尉、张利军",
+        "language": "中文",
+        "publishYear": 2020,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5013/webstorage_links/24159/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5009,
+        "title": "特征提取与图像处理(第二版)(扫描版)",
+        "img": "http://image.banshujiang.cn/5009.jpeg",
+        "author": "[英]Mark S. Nixon, Alberto S. Aguado [译]实英、杨高波",
+        "language": "中文",
+        "publishYear": 2010,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5009/webstorage_links/24151/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5003,
+        "title": "Programming with GitHub Copilot",
+        "img": "http://image.banshujiang.cn/5003.jpeg",
+        "author": "Kurt Dowswell",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5003/webstorage_links/24139/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5003/webstorage_links/24138/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4990,
+        "title": "玩转ChatGPT：秒变AI写作高手",
+        "img": "http://image.banshujiang.cn/4990.jpeg",
+        "author": "唐振伟",
+        "language": "中文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4990/webstorage_links/24095/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4990/webstorage_links/24094/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4988,
+        "title": "玩转ChatGPT：秒变AI提问和追问高手",
+        "img": "http://image.banshujiang.cn/4988.jpeg",
+        "author": "唐振伟",
+        "language": "中文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4988/webstorage_links/24089/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4988/webstorage_links/24088/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4987,
+        "title": " 神经网络与深度学习",
+        "img": "http://image.banshujiang.cn/4987.jpeg",
+        "author": "邱锡鹏",
+        "language": "中文",
+        "publishYear": 2020,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4987/webstorage_links/24085/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4986,
+        "title": "深度学习进阶：自然语言处理",
+        "img": "http://image.banshujiang.cn/4986.jpeg",
+        "author": "[日]斋藤康毅 [译]陆宇杰",
+        "language": "中文",
+        "publishYear": 2020,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4986/webstorage_links/24083/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4985,
+        "title": "人工智能之知识图谱",
+        "img": "http://image.banshujiang.cn/4985.jpeg",
+        "author": "清华大学人工智能研究院",
+        "language": "中文",
+        "publishYear": 2019,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4985/webstorage_links/24081/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4984,
+        "title": "人工智能导论(扫描版)",
+        "img": "http://image.banshujiang.cn/4984.jpeg",
+        "author": "廉师友",
+        "language": "中文",
+        "publishYear": 2020,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4984/webstorage_links/24079/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4982,
+        "title": "大模型应用开发极简入门：基于 GPT-4 和 ChatGPT",
+        "img": "http://image.banshujiang.cn/4982.jpeg",
+        "author": "[比]Olivier Caelen [法]Marie-Alice Blete [译]何文斯",
+        "language": "中文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4982/webstorage_links/24074/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4982/webstorage_links/24075/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4981,
+        "title": "百面机器学习：算法工程师带你去面试",
+        "img": "http://image.banshujiang.cn/4981.jpeg",
+        "author": "葫芦娃",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4981/webstorage_links/24071/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4981/webstorage_links/24070/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4980,
+        "title": "白话机器学习算法",
+        "img": "http://image.banshujiang.cn/4980.jpeg",
+        "author": "[新加坡]黄莉婷 苏川集 [译]武传海",
+        "language": "中文",
+        "publishYear": 2019,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4980/webstorage_links/24067/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4979,
+        "title": "白话机器学习的数学",
+        "img": "http://image.banshujiang.cn/4979.jpeg",
+        "author": "[日]立石贤吾 [译]郑明智",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4979/webstorage_links/24065/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4979/webstorage_links/24063/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4979/webstorage_links/24064/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4979/webstorage_links/24062/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4977,
+        "title": "The ChatGPT Goldrush: Profiting from The AI Revolution",
+        "img": "http://image.banshujiang.cn/4977.jpeg",
+        "author": "Mark Adelson",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4977/webstorage_links/24055/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4976,
+        "title": "The Age of AI",
+        "img": "http://image.banshujiang.cn/4976.jpeg",
+        "author": "Henry A. Kissinger, Eric Schmidt and Daniel Huttenlocher",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4976/webstorage_links/24052/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4976/webstorage_links/24053/to_link"
+            }
+        ]
+    }
+]

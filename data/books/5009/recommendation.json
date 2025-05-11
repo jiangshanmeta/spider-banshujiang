@@ -1,5 +1,53 @@
 [
     {
+        "id": 5017,
+        "title": "AI-Driven Cybersecurity and Threat Intelligence",
+        "img": "http://image.banshujiang.cn/5017.jpeg",
+        "author": "Iqbal H. Sarker",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5017/webstorage_links/24167/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5014,
+        "title": "从零开始：机器学习的数学原理和算法实践",
+        "img": "http://image.banshujiang.cn/5014.jpeg",
+        "author": "大威",
+        "language": "中文",
+        "publishYear": 2021,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5014/webstorage_links/24161/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5013,
+        "title": "机器学习理论导引",
+        "img": "http://image.banshujiang.cn/5013.jpeg",
+        "author": "周志华、王魏、高尉、张利军",
+        "language": "中文",
+        "publishYear": 2020,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5013/webstorage_links/24159/to_link"
+            }
+        ]
+    },
+    {
         "id": 5003,
         "title": "Programming with GitHub Copilot",
         "img": "http://image.banshujiang.cn/5003.jpeg",
@@ -249,54 +297,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/4976/webstorage_links/24053/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4975,
-        "title": "TensorFlow in 1 Day: Make your own Neural Network",
-        "img": "http://image.banshujiang.cn/4975.jpeg",
-        "author": "Krishna Rungta",
-        "language": "英文",
-        "publishYear": 2018,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4975/webstorage_links/24049/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4972,
-        "title": "OpenAI GPT For Python Developers",
-        "img": "http://image.banshujiang.cn/4972.jpeg",
-        "author": "Aymen El Amri",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4972/webstorage_links/24035/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4971,
-        "title": "Mastering ChatGPT: 21 Prompts Templates for Effortless Writing",
-        "img": "http://image.banshujiang.cn/4971.jpeg",
-        "author": "Cea West",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4971/webstorage_links/24033/to_link"
             }
         ]
     }
