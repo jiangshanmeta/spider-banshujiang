@@ -26,6 +26,32 @@
         ]
     },
     {
+        "id": 5028,
+        "title": "TensorFlow技术解析与实战",
+        "img": "http://image.banshujiang.cn/5028.jpeg",
+        "author": "李嘉璇",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5028/webstorage_links/24198/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/5028/webstorage_links/24199/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/5028/webstorage_links/24197/to_link"
+            }
+        ]
+    },
+    {
         "id": 5017,
         "title": "AI-Driven Cybersecurity and Threat Intelligence",
         "img": "http://image.banshujiang.cn/5017.jpeg",
@@ -271,37 +297,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4980/webstorage_links/24067/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4979,
-        "title": "白话机器学习的数学",
-        "img": "http://image.banshujiang.cn/4979.jpeg",
-        "author": "[日]立石贤吾 [译]郑明智",
-        "language": "中文",
-        "publishYear": 2017,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4979/webstorage_links/24065/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4979/webstorage_links/24063/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4979/webstorage_links/24064/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4979/webstorage_links/24062/to_link"
             }
         ]
     }

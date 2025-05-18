@@ -1,5 +1,21 @@
 [
     {
+        "id": 5025,
+        "title": "Qt 6 C++ 开发指南",
+        "img": "http://image.banshujiang.cn/5025.jpeg",
+        "author": "王维波、栗宝鹃、侯春望",
+        "language": "中文",
+        "publishYear": 2023,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5025/webstorage_links/24189/to_link"
+            }
+        ]
+    },
+    {
         "id": 5000,
         "title": "Learning Modern C++ for Finance",
         "img": "http://image.banshujiang.cn/5000.jpeg",
@@ -306,27 +322,6 @@
                 "fmt": "AZW3",
                 "title": "城通网盘",
                 "link": "/e_books/4214/webstorage_links/21021/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4213,
-        "title": "C++ Primer Plus（第6版）",
-        "img": "http://image.banshujiang.cn/4213.jpeg?timestamp=1718972662923",
-        "author": "[美] Stephen Prata [译]张海龙、袁国忠",
-        "language": "中文",
-        "publishYear": 2012,
-        "programLanguage": "C++",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4213/webstorage_links/21017/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4213/webstorage_links/21016/to_link"
             }
         ]
     }

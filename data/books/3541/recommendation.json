@@ -164,6 +164,38 @@
         ]
     },
     {
+        "id": 5033,
+        "title": "An Introduction to Statistical Learning with Applications in Python",
+        "img": "http://image.banshujiang.cn/5033.jpeg",
+        "author": "Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani and Jonathan Taylor",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5033/webstorage_links/24213/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5024,
+        "title": "Python数据结构与算法分析(第2版)",
+        "img": "http://image.banshujiang.cn/5024.jpeg",
+        "author": "[美]Bradley N. Miller and David L. Ranum [译]吕能、刁寿钧",
+        "language": "中文",
+        "publishYear": 2019,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5024/webstorage_links/24187/to_link"
+            }
+        ]
+    },
+    {
         "id": 4972,
         "title": "OpenAI GPT For Python Developers",
         "img": "http://image.banshujiang.cn/4972.jpeg",
@@ -250,43 +282,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4948/webstorage_links/23953/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4945,
-        "title": "OpenCV 4计算机视觉: Python语言实现(第3版)",
-        "img": "http://image.banshujiang.cn/4945.jpeg?timestamp=1740747789508",
-        "author": "[加]Joseph Howse [爱]Joe Minichino [译]刘冰、高博",
-        "language": "中文",
-        "publishYear": 2021,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4945/webstorage_links/23944/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4945/webstorage_links/23943/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4944,
-        "title": "Neural Networks from Scratch in Python",
-        "img": "http://image.banshujiang.cn/4944.jpeg?timestamp=1742606586447",
-        "author": "Harrison Kinsley &amp; Daniel Kukieła",
-        "language": "英文",
-        "publishYear": 2020,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4944/webstorage_links/23940/to_link"
             }
         ]
     }

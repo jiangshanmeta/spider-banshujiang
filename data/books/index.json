@@ -95490,5 +95490,211 @@
                 "link": "/e_books/5022/webstorage_links/24179/to_link"
             }
         ]
+    },
+    {
+        "id": 5023,
+        "title": "PostgreSQL实战",
+        "img": "http://image.banshujiang.cn/5023.jpeg",
+        "author": "谭峰、张文升",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5023/webstorage_links/24184/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/5023/webstorage_links/24185/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/5023/webstorage_links/24183/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5024,
+        "title": "Python数据结构与算法分析(第2版)",
+        "img": "http://image.banshujiang.cn/5024.jpeg",
+        "author": "[美]Bradley N. Miller and David L. Ranum [译]吕能、刁寿钧",
+        "language": "中文",
+        "publishYear": 2019,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5024/webstorage_links/24187/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5025,
+        "title": "Qt 6 C++ 开发指南",
+        "img": "http://image.banshujiang.cn/5025.jpeg",
+        "author": "王维波、栗宝鹃、侯春望",
+        "language": "中文",
+        "publishYear": 2023,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5025/webstorage_links/24189/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5026,
+        "title": "Quantum Computing by Practice 2nd Edition",
+        "img": "http://image.banshujiang.cn/5026.jpeg",
+        "author": "Vladimir Silva",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5026/webstorage_links/24191/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5027,
+        "title": "Semiconductor Physics 2nd Edition",
+        "img": "http://image.banshujiang.cn/5027.jpeg",
+        "author": "Karl W. Bo¨er and Udo W. Pohl",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5027/webstorage_links/24193/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5028,
+        "title": "TensorFlow技术解析与实战",
+        "img": "http://image.banshujiang.cn/5028.jpeg",
+        "author": "李嘉璇",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5028/webstorage_links/24198/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/5028/webstorage_links/24199/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/5028/webstorage_links/24197/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5029,
+        "title": "Unity Shader入门精要",
+        "img": "http://image.banshujiang.cn/5029.jpeg",
+        "author": "冯乐乐",
+        "language": "中文",
+        "publishYear": 2004,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5029/webstorage_links/24202/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/5029/webstorage_links/24203/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5030,
+        "title": "白话区块链",
+        "img": "http://image.banshujiang.cn/5030.jpeg",
+        "author": "蒋勇、文延、嘉文",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5030/webstorage_links/24206/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/5030/webstorage_links/24207/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5031,
+        "title": "Advanced LaTeX in Academia",
+        "img": "http://image.banshujiang.cn/5031.jpeg",
+        "author": "Marco Öchsner and Andreas Öchsner",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5031/webstorage_links/24209/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5032,
+        "title": "An Introduction to Generalized Linear Models 4th Edition",
+        "img": "http://image.banshujiang.cn/5032.jpeg",
+        "author": "Annette J. Dobson and Adrian G. Barnett",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5032/webstorage_links/24211/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5033,
+        "title": "An Introduction to Statistical Learning with Applications in Python",
+        "img": "http://image.banshujiang.cn/5033.jpeg",
+        "author": "Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani and Jonathan Taylor",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5033/webstorage_links/24213/to_link"
+            }
+        ]
     }
 ]

@@ -1,5 +1,31 @@
 [
     {
+        "id": 5023,
+        "title": "PostgreSQL实战",
+        "img": "http://image.banshujiang.cn/5023.jpeg",
+        "author": "谭峰、张文升",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5023/webstorage_links/24184/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/5023/webstorage_links/24185/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/5023/webstorage_links/24183/to_link"
+            }
+        ]
+    },
+    {
         "id": 4663,
         "title": "High Performance PostgreSQL for Rails",
         "img": "http://image.banshujiang.cn/4663.jpeg?timestamp=1729328041416",
@@ -301,22 +327,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/1033/webstorage_links/12582/to_link"
-            }
-        ]
-    },
-    {
-        "id": 1030,
-        "title": "PostgreSQL 8 for Windows",
-        "img": "https://imagebsj.netlify.app/1030.jpeg",
-        "author": "Richard Blum",
-        "language": "英文",
-        "publishYear": 2007,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/1030/webstorage_links/12576/to_link"
             }
         ]
     }

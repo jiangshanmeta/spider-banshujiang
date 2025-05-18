@@ -1,5 +1,37 @@
 [
     {
+        "id": 5033,
+        "title": "An Introduction to Statistical Learning with Applications in Python",
+        "img": "http://image.banshujiang.cn/5033.jpeg",
+        "author": "Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani and Jonathan Taylor",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5033/webstorage_links/24213/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5024,
+        "title": "Python数据结构与算法分析(第2版)",
+        "img": "http://image.banshujiang.cn/5024.jpeg",
+        "author": "[美]Bradley N. Miller and David L. Ranum [译]吕能、刁寿钧",
+        "language": "中文",
+        "publishYear": 2019,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5024/webstorage_links/24187/to_link"
+            }
+        ]
+    },
+    {
         "id": 4972,
         "title": "OpenAI GPT For Python Developers",
         "img": "http://image.banshujiang.cn/4972.jpeg",
@@ -260,43 +292,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4875/webstorage_links/23702/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4867,
-        "title": "Impractical Python Projects",
-        "img": "http://image.banshujiang.cn/4867.jpeg?timestamp=1732887956954",
-        "author": "Lee Vaughan",
-        "language": "英文",
-        "publishYear": 2018,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4867/webstorage_links/23674/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4867/webstorage_links/23673/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4806,
-        "title": "Mission Python",
-        "img": "http://image.banshujiang.cn/4806.jpeg?timestamp=1731734287888",
-        "author": "Sean Mcmanus",
-        "language": "英文",
-        "publishYear": 2018,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4806/webstorage_links/23406/to_link"
             }
         ]
     }
