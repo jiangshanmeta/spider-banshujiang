@@ -32,6 +32,22 @@
         ]
     },
     {
+        "id": 5039,
+        "title": "Data Preparation for Machine Learning",
+        "img": "http://image.banshujiang.cn/5039.jpeg",
+        "author": "Jason Brownlee",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5039/webstorage_links/24225/to_link"
+            }
+        ]
+    },
+    {
         "id": 5033,
         "title": "An Introduction to Statistical Learning with Applications in Python",
         "img": "http://image.banshujiang.cn/5033.jpeg",
@@ -271,22 +287,6 @@
                 "fmt": "AZW3",
                 "title": "城通网盘",
                 "link": "/e_books/4935/webstorage_links/23910/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4915,
-        "title": "Effective Python 3rd Edition",
-        "img": "http://image.banshujiang.cn/4915.jpeg?timestamp=1739608950965",
-        "author": "Brett Slatkin",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4915/webstorage_links/23856/to_link"
             }
         ]
     }

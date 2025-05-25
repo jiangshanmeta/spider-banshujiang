@@ -1,5 +1,53 @@
 [
     {
+        "id": 5039,
+        "title": "Data Preparation for Machine Learning",
+        "img": "http://image.banshujiang.cn/5039.jpeg",
+        "author": "Jason Brownlee",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5039/webstorage_links/24225/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5037,
+        "title": "Computer Vision: Algorithms and Applications 2nd Edition",
+        "img": "http://image.banshujiang.cn/5037.jpeg",
+        "author": "Richard Szeliski",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5037/webstorage_links/24221/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5036,
+        "title": "Building LLM Powered Applications",
+        "img": "http://image.banshujiang.cn/5036.jpeg",
+        "author": "Valentina Alto",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5036/webstorage_links/24219/to_link"
+            }
+        ]
+    },
+    {
         "id": 5028,
         "title": "TensorFlow技术解析与实战",
         "img": "http://image.banshujiang.cn/5028.jpeg",

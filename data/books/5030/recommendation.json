@@ -1,5 +1,21 @@
 [
     {
+        "id": 5043,
+        "title": "Ethereum Smart Contract Development",
+        "img": "http://image.banshujiang.cn/5043.jpeg",
+        "author": "Mayukh Mukhopadhyay",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5043/webstorage_links/24233/to_link"
+            }
+        ]
+    },
+    {
         "id": 4624,
         "title": "去中心化应用： 区块链技术概述",
         "img": "http://image.banshujiang.cn/4624.jpeg?timestamp=1728997369590",

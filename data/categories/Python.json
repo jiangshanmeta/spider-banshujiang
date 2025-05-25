@@ -1,5 +1,21 @@
 [
     {
+        "id": 5039,
+        "title": "Data Preparation for Machine Learning",
+        "img": "http://image.banshujiang.cn/5039.jpeg",
+        "author": "Jason Brownlee",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5039/webstorage_links/24225/to_link"
+            }
+        ]
+    },
+    {
         "id": 5033,
         "title": "An Introduction to Statistical Learning with Applications in Python",
         "img": "http://image.banshujiang.cn/5033.jpeg",

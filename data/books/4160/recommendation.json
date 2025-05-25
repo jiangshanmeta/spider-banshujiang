@@ -1,5 +1,21 @@
 [
     {
+        "id": 5034,
+        "title": "An Introduction to Statistical Learning with Applications in R 2nd Edition",
+        "img": "http://image.banshujiang.cn/5034.jpeg",
+        "author": "Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5034/webstorage_links/24215/to_link"
+            }
+        ]
+    },
+    {
         "id": 4884,
         "title": "R Graphics Cookbook 2nd Edition",
         "img": "http://image.banshujiang.cn/4884.jpeg?timestamp=1738846403333",
@@ -291,22 +307,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/4180/webstorage_links/20850/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4135,
-        "title": "R for The Rest of Us: a Statistics-free Introduction",
-        "img": "http://image.banshujiang.cn/4135.jpeg?timestamp=1718463688525",
-        "author": "David Keyes",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "R",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4135/webstorage_links/20637/to_link"
             }
         ]
     }

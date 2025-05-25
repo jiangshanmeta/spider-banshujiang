@@ -1,5 +1,21 @@
 [
     {
+        "id": 5039,
+        "title": "Data Preparation for Machine Learning",
+        "img": "http://image.banshujiang.cn/5039.jpeg",
+        "author": "Jason Brownlee",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5039/webstorage_links/24225/to_link"
+            }
+        ]
+    },
+    {
         "id": 5024,
         "title": "Python数据结构与算法分析(第2版)",
         "img": "http://image.banshujiang.cn/5024.jpeg",
@@ -276,32 +292,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4875/webstorage_links/23702/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4870,
-        "title": "Data Science from Scratch 2nd Edition",
-        "img": "http://image.banshujiang.cn/4870.jpeg?timestamp=1732888533546",
-        "author": "Joel Grus",
-        "language": "英文",
-        "publishYear": 2019,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4870/webstorage_links/23690/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4870/webstorage_links/23689/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4870/webstorage_links/23688/to_link"
             }
         ]
     }

@@ -26,6 +26,54 @@
         ]
     },
     {
+        "id": 5039,
+        "title": "Data Preparation for Machine Learning",
+        "img": "http://image.banshujiang.cn/5039.jpeg",
+        "author": "Jason Brownlee",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5039/webstorage_links/24225/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5037,
+        "title": "Computer Vision: Algorithms and Applications 2nd Edition",
+        "img": "http://image.banshujiang.cn/5037.jpeg",
+        "author": "Richard Szeliski",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5037/webstorage_links/24221/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5036,
+        "title": "Building LLM Powered Applications",
+        "img": "http://image.banshujiang.cn/5036.jpeg",
+        "author": "Valentina Alto",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5036/webstorage_links/24219/to_link"
+            }
+        ]
+    },
+    {
         "id": 5028,
         "title": "TensorFlow技术解析与实战",
         "img": "http://image.banshujiang.cn/5028.jpeg",
@@ -239,64 +287,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4984/webstorage_links/24079/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4982,
-        "title": "大模型应用开发极简入门：基于 GPT-4 和 ChatGPT",
-        "img": "http://image.banshujiang.cn/4982.jpeg",
-        "author": "[比]Olivier Caelen [法]Marie-Alice Blete [译]何文斯",
-        "language": "中文",
-        "publishYear": 2023,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4982/webstorage_links/24074/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4982/webstorage_links/24075/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4981,
-        "title": "百面机器学习：算法工程师带你去面试",
-        "img": "http://image.banshujiang.cn/4981.jpeg",
-        "author": "葫芦娃",
-        "language": "中文",
-        "publishYear": 2018,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4981/webstorage_links/24071/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4981/webstorage_links/24070/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4980,
-        "title": "白话机器学习算法",
-        "img": "http://image.banshujiang.cn/4980.jpeg",
-        "author": "[新加坡]黄莉婷 苏川集 [译]武传海",
-        "language": "中文",
-        "publishYear": 2019,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4980/webstorage_links/24067/to_link"
             }
         ]
     }

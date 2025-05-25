@@ -1,5 +1,21 @@
 [
     {
+        "id": 5039,
+        "title": "Data Preparation for Machine Learning",
+        "img": "http://image.banshujiang.cn/5039.jpeg",
+        "author": "Jason Brownlee",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5039/webstorage_links/24225/to_link"
+            }
+        ]
+    },
+    {
         "id": 4972,
         "title": "OpenAI GPT For Python Developers",
         "img": "http://image.banshujiang.cn/4972.jpeg",
@@ -271,22 +287,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4485/webstorage_links/22085/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4484,
-        "title": "Python机器学习基础教程",
-        "img": "http://image.banshujiang.cn/4484.jpeg?timestamp=1723950193033",
-        "author": "[德]Andreas C. Müller [美]Sarah Guido [译]张亮",
-        "language": "中文",
-        "publishYear": 2018,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4484/webstorage_links/22083/to_link"
             }
         ]
     }

@@ -95696,5 +95696,181 @@
                 "link": "/e_books/5033/webstorage_links/24213/to_link"
             }
         ]
+    },
+    {
+        "id": 5034,
+        "title": "An Introduction to Statistical Learning with Applications in R 2nd Edition",
+        "img": "http://image.banshujiang.cn/5034.jpeg",
+        "author": "Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5034/webstorage_links/24215/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5035,
+        "title": "Applied Regression Analysis and Generalized Linear Models 3rd Edition",
+        "img": "http://image.banshujiang.cn/5035.jpeg",
+        "author": "John Fox",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5035/webstorage_links/24217/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5036,
+        "title": "Building LLM Powered Applications",
+        "img": "http://image.banshujiang.cn/5036.jpeg",
+        "author": "Valentina Alto",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5036/webstorage_links/24219/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5037,
+        "title": "Computer Vision: Algorithms and Applications 2nd Edition",
+        "img": "http://image.banshujiang.cn/5037.jpeg",
+        "author": "Richard Szeliski",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5037/webstorage_links/24221/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5038,
+        "title": "Data Analysis with Excel",
+        "img": "http://image.banshujiang.cn/5038.jpeg",
+        "author": "",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5038/webstorage_links/24223/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5039,
+        "title": "Data Preparation for Machine Learning",
+        "img": "http://image.banshujiang.cn/5039.jpeg",
+        "author": "Jason Brownlee",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5039/webstorage_links/24225/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5040,
+        "title": "Data Smart: Using Data Science to Transform Information into Insight 2nd Edition",
+        "img": "http://image.banshujiang.cn/5040.jpeg",
+        "author": "Jordan Goldmeier",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5040/webstorage_links/24227/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5041,
+        "title": "Essential Discrete Mathematics for Computer Science",
+        "img": "http://image.banshujiang.cn/5041.jpeg",
+        "author": "Harry Lewis and Rachel Zax",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5041/webstorage_links/24229/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5042,
+        "title": "Essentials of Stochastic Processes 3rd Edition",
+        "img": "http://image.banshujiang.cn/5042.jpeg",
+        "author": "Richard Durrett",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5042/webstorage_links/24231/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5043,
+        "title": "Ethereum Smart Contract Development",
+        "img": "http://image.banshujiang.cn/5043.jpeg",
+        "author": "Mayukh Mukhopadhyay",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5043/webstorage_links/24233/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5044,
+        "title": "Fixing Bad UX Designs",
+        "img": "http://image.banshujiang.cn/5044.jpeg",
+        "author": "Lisandra Maioli",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5044/webstorage_links/24235/to_link"
+            }
+        ]
     }
 ]
