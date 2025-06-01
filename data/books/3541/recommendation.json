@@ -164,6 +164,22 @@
         ]
     },
     {
+        "id": 5055,
+        "title": "MySQL for Python",
+        "img": "http://image.banshujiang.cn/5055.jpeg",
+        "author": "Albert Lukaszewski",
+        "language": "英文",
+        "publishYear": 2010,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5055/webstorage_links/24257/to_link"
+            }
+        ]
+    },
+    {
         "id": 5039,
         "title": "Data Preparation for Machine Learning",
         "img": "http://image.banshujiang.cn/5039.jpeg",
@@ -261,22 +277,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4951/webstorage_links/23962/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4950,
-        "title": "Python 神经网络编程(扫描版)",
-        "img": "https://gitee.com/nswish/banshujiang.img/raw/main/4950.jpeg",
-        "author": "[英]Tariq Rashid [译]林赐",
-        "language": "中文",
-        "publishYear": 2018,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4950/webstorage_links/23960/to_link"
             }
         ]
     }

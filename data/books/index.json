@@ -95872,5 +95872,181 @@
                 "link": "/e_books/5044/webstorage_links/24235/to_link"
             }
         ]
+    },
+    {
+        "id": 5045,
+        "title": "Generalized Linear Models With Examples in R",
+        "img": "http://image.banshujiang.cn/5045.jpeg",
+        "author": "Peter K. Dunn and Gordon K. Smyth",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5045/webstorage_links/24237/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5046,
+        "title": "Hackers: Heroes of The Computer Revolution",
+        "img": "http://image.banshujiang.cn/5046.jpeg",
+        "author": "Steven Levy",
+        "language": "英文",
+        "publishYear": 2010,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5046/webstorage_links/24239/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5047,
+        "title": "Hacking Multifactor Authentication",
+        "img": "http://image.banshujiang.cn/5047.jpeg",
+        "author": "Roger A. Grimes",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5047/webstorage_links/24241/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5048,
+        "title": "Handbook of Research on Machine and Deep Learning Applications for Cyber Security",
+        "img": "http://image.banshujiang.cn/5048.jpeg",
+        "author": "Padmavathi Ganapathi and D. Shanmugapriya",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5048/webstorage_links/24243/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5049,
+        "title": "Handbook of SCADA / Control Systems Security 2nd Edition",
+        "img": "http://image.banshujiang.cn/5049.jpeg",
+        "author": "Robert Radvanovsky and Jacob Brodsky",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5049/webstorage_links/24245/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5050,
+        "title": "Introduction to Deep Learning",
+        "img": "http://image.banshujiang.cn/5050.jpeg",
+        "author": "Eugene Charniak",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5050/webstorage_links/24247/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5051,
+        "title": "Large Language Models: A Deep Dive",
+        "img": "http://image.banshujiang.cn/5051.jpeg",
+        "author": "Uday Kamath, Kevin Keenan, Garrett Somers and Sarah Sorenson",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5051/webstorage_links/24249/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5052,
+        "title": "Learn SQL (using MySQL) in One Day and Learn It Well",
+        "img": "http://image.banshujiang.cn/5052.jpeg",
+        "author": "Jamie Chan",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5052/webstorage_links/24251/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5053,
+        "title": "Matplotlib 2.x By Example",
+        "img": "http://image.banshujiang.cn/5053.jpeg",
+        "author": "Allen Yu, Claire Chung and Aldrin Yim",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5053/webstorage_links/24253/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5054,
+        "title": "MQTT Essentials: A Lightweight IoT Protocol",
+        "img": "http://image.banshujiang.cn/5054.jpeg",
+        "author": "Gastón C. Hillar",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5054/webstorage_links/24255/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5055,
+        "title": "MySQL for Python",
+        "img": "http://image.banshujiang.cn/5055.jpeg",
+        "author": "Albert Lukaszewski",
+        "language": "英文",
+        "publishYear": 2010,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5055/webstorage_links/24257/to_link"
+            }
+        ]
     }
 ]

@@ -249,54 +249,34 @@
         ]
     },
     {
-        "id": 4974,
-        "title": "PHP核心技术与最佳实践",
-        "img": "http://image.banshujiang.cn/4974.jpeg",
-        "author": "列旭松 陈文",
-        "language": "中文",
-        "publishYear": 2018,
-        "programLanguage": "PHP",
+        "id": 5055,
+        "title": "MySQL for Python",
+        "img": "http://image.banshujiang.cn/5055.jpeg",
+        "author": "Albert Lukaszewski",
+        "language": "英文",
+        "publishYear": 2010,
+        "programLanguage": "Python",
         "formats": [
             {
-                "fmt": "EPUB",
+                "fmt": "PDF",
                 "title": "城通网盘",
-                "link": "/e_books/4974/webstorage_links/24046/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4974/webstorage_links/24047/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4974/webstorage_links/24045/to_link"
+                "link": "/e_books/5055/webstorage_links/24257/to_link"
             }
         ]
     },
     {
-        "id": 4960,
-        "title": "MySQL技术内幕: InnoDB存储引擎(第2版)",
-        "img": "http://image.banshujiang.cn/4960.jpeg",
-        "author": "姜承尧",
-        "language": "中文",
-        "publishYear": 2013,
+        "id": 5052,
+        "title": "Learn SQL (using MySQL) in One Day and Learn It Well",
+        "img": "http://image.banshujiang.cn/5052.jpeg",
+        "author": "Jamie Chan",
+        "language": "英文",
+        "publishYear": 2018,
         "programLanguage": "",
         "formats": [
             {
-                "fmt": "EPUB",
+                "fmt": "PDF",
                 "title": "城通网盘",
-                "link": "/e_books/4960/webstorage_links/23995/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4960/webstorage_links/23996/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4960/webstorage_links/23994/to_link"
+                "link": "/e_books/5052/webstorage_links/24251/to_link"
             }
         ]
     }

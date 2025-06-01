@@ -1,0 +1,313 @@
+[
+    {
+        "id": 5034,
+        "title": "An Introduction to Statistical Learning with Applications in R 2nd Edition",
+        "img": "http://image.banshujiang.cn/5034.jpeg",
+        "author": "Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5034/webstorage_links/24215/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4884,
+        "title": "R Graphics Cookbook 2nd Edition",
+        "img": "http://image.banshujiang.cn/4884.jpeg?timestamp=1738846403333",
+        "author": "Winston Chang",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4884/webstorage_links/23728/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4827,
+        "title": "Graphing Data with R",
+        "img": "http://image.banshujiang.cn/4827.jpeg?timestamp=1731737601009",
+        "author": "John Jay Hilfiger",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4827/webstorage_links/23500/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4827/webstorage_links/23498/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4827/webstorage_links/23499/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4794,
+        "title": "Report Writing for Data Science in R",
+        "img": "http://image.banshujiang.cn/4794.jpeg?timestamp=1731121316387",
+        "author": "Roger D. Peng",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4794/webstorage_links/23370/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4780,
+        "title": "R Programming for Data Science",
+        "img": "http://image.banshujiang.cn/4780.jpeg?timestamp=1730536008718",
+        "author": "Roger D. Peng",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4780/webstorage_links/23318/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4741,
+        "title": "Data Wrangling with R",
+        "img": "http://image.banshujiang.cn/4741.jpeg?timestamp=1730530303477",
+        "author": "Bradley C. Boehmke",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4741/webstorage_links/23116/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4719,
+        "title": "Exploratory Data Analysis with R",
+        "img": "http://image.banshujiang.cn/4719.jpeg?timestamp=1729930844696",
+        "author": "Roger D. Peng",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4719/webstorage_links/23048/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4629,
+        "title": "精通机器学习：基于R(第2版)",
+        "img": "http://image.banshujiang.cn/4629.jpeg?timestamp=1728998015871",
+        "author": "[美]Cory Lesmeister [译]陈光欣",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4629/webstorage_links/22729/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4600,
+        "title": "R Packages",
+        "img": "http://image.banshujiang.cn/4600.jpeg?timestamp=1728021258440",
+        "author": "Hadley Wickham",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4600/webstorage_links/22671/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4600/webstorage_links/22669/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4600/webstorage_links/22670/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4600/webstorage_links/22668/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4551,
+        "title": "Data Science in the Cloud with Microsoft Azure Machine Learning and R",
+        "img": "http://image.banshujiang.cn/4551.jpeg?timestamp=1727949568357",
+        "author": "Stephen F. Elston",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4551/webstorage_links/22416/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4519,
+        "title": "R in Action 2nd Edition",
+        "img": "http://image.banshujiang.cn/4519.jpeg?timestamp=1727835970550",
+        "author": "Robert I. Kabacoff",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4519/webstorage_links/22245/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4519/webstorage_links/22243/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4519/webstorage_links/22244/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4423,
+        "title": "R数据科学",
+        "img": "http://image.banshujiang.cn/4423.jpeg?timestamp=1722771010047",
+        "author": "[新西兰]哈德利· 威克姆 [美]加勒特· 格罗勒芒德 [译]陈光欣",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4423/webstorage_links/21845/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4387,
+        "title": "学习R",
+        "img": "http://image.banshujiang.cn/4387.jpeg?timestamp=1722052138566",
+        "author": "[美]Richard Cotton [译]刘军",
+        "language": "中文",
+        "publishYear": 2014,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4387/webstorage_links/21715/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4301,
+        "title": "Hands-On Programming with R",
+        "img": "http://image.banshujiang.cn/4301.jpeg?timestamp=1720241384292",
+        "author": "Garrett Grolemund",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4301/webstorage_links/21400/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4301/webstorage_links/21399/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4199,
+        "title": "Machine Learning with R",
+        "img": "http://image.banshujiang.cn/4199.jpeg?timestamp=1718626986663",
+        "author": "Brett Lantz",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4199/webstorage_links/20947/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4199/webstorage_links/20946/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4180,
+        "title": "Introduction to R for Quantitative Finance",
+        "img": "http://image.banshujiang.cn/4180.jpeg?timestamp=1718526700730",
+        "author": "Gergely Daróczi等",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4180/webstorage_links/20851/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4180/webstorage_links/20849/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4180/webstorage_links/20850/to_link"
+            }
+        ]
+    }
+]
