@@ -1,0 +1,283 @@
+[
+    {
+        "id": 5051,
+        "title": "Large Language Models: A Deep Dive",
+        "img": "http://image.banshujiang.cn/5051.jpeg",
+        "author": "Uday Kamath, Kevin Keenan, Garrett Somers and Sarah Sorenson",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5051/webstorage_links/24249/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5050,
+        "title": "Introduction to Deep Learning",
+        "img": "http://image.banshujiang.cn/5050.jpeg",
+        "author": "Eugene Charniak",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5050/webstorage_links/24247/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5048,
+        "title": "Handbook of Research on Machine and Deep Learning Applications for Cyber Security",
+        "img": "http://image.banshujiang.cn/5048.jpeg",
+        "author": "Padmavathi Ganapathi and D. Shanmugapriya",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5048/webstorage_links/24243/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5039,
+        "title": "Data Preparation for Machine Learning",
+        "img": "http://image.banshujiang.cn/5039.jpeg",
+        "author": "Jason Brownlee",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5039/webstorage_links/24225/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5037,
+        "title": "Computer Vision: Algorithms and Applications 2nd Edition",
+        "img": "http://image.banshujiang.cn/5037.jpeg",
+        "author": "Richard Szeliski",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5037/webstorage_links/24221/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5036,
+        "title": "Building LLM Powered Applications",
+        "img": "http://image.banshujiang.cn/5036.jpeg",
+        "author": "Valentina Alto",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5036/webstorage_links/24219/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5028,
+        "title": "TensorFlow技术解析与实战",
+        "img": "http://image.banshujiang.cn/5028.jpeg",
+        "author": "李嘉璇",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5028/webstorage_links/24198/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/5028/webstorage_links/24199/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/5028/webstorage_links/24197/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5017,
+        "title": "AI-Driven Cybersecurity and Threat Intelligence",
+        "img": "http://image.banshujiang.cn/5017.jpeg",
+        "author": "Iqbal H. Sarker",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5017/webstorage_links/24167/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5014,
+        "title": "从零开始：机器学习的数学原理和算法实践",
+        "img": "http://image.banshujiang.cn/5014.jpeg",
+        "author": "大威",
+        "language": "中文",
+        "publishYear": 2021,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5014/webstorage_links/24161/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5013,
+        "title": "机器学习理论导引",
+        "img": "http://image.banshujiang.cn/5013.jpeg",
+        "author": "周志华、王魏、高尉、张利军",
+        "language": "中文",
+        "publishYear": 2020,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5013/webstorage_links/24159/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5009,
+        "title": "特征提取与图像处理(第二版)(扫描版)",
+        "img": "http://image.banshujiang.cn/5009.jpeg",
+        "author": "[英]Mark S. Nixon, Alberto S. Aguado [译]实英、杨高波",
+        "language": "中文",
+        "publishYear": 2010,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5009/webstorage_links/24151/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5003,
+        "title": "Programming with GitHub Copilot",
+        "img": "http://image.banshujiang.cn/5003.jpeg",
+        "author": "Kurt Dowswell",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5003/webstorage_links/24139/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5003/webstorage_links/24138/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4990,
+        "title": "玩转ChatGPT：秒变AI写作高手",
+        "img": "http://image.banshujiang.cn/4990.jpeg",
+        "author": "唐振伟",
+        "language": "中文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4990/webstorage_links/24095/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4990/webstorage_links/24094/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4988,
+        "title": "玩转ChatGPT：秒变AI提问和追问高手",
+        "img": "http://image.banshujiang.cn/4988.jpeg",
+        "author": "唐振伟",
+        "language": "中文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4988/webstorage_links/24089/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4988/webstorage_links/24088/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4987,
+        "title": " 神经网络与深度学习",
+        "img": "http://image.banshujiang.cn/4987.jpeg",
+        "author": "邱锡鹏",
+        "language": "中文",
+        "publishYear": 2020,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4987/webstorage_links/24085/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4986,
+        "title": "深度学习进阶：自然语言处理",
+        "img": "http://image.banshujiang.cn/4986.jpeg",
+        "author": "[日]斋藤康毅 [译]陆宇杰",
+        "language": "中文",
+        "publishYear": 2020,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4986/webstorage_links/24083/to_link"
+            }
+        ]
+    }
+]

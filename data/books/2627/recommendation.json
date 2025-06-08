@@ -26,6 +26,38 @@
         ]
     },
     {
+        "id": 5059,
+        "title": "Probability and Statistics for Machine Learning",
+        "img": "http://image.banshujiang.cn/5059.jpeg",
+        "author": "Charu C. Aggarwal",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5059/webstorage_links/24265/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5056,
+        "title": "Node.js: The Comprehensive Guide",
+        "img": "http://image.banshujiang.cn/5056.jpeg",
+        "author": "Sebastian Springer",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5056/webstorage_links/24259/to_link"
+            }
+        ]
+    },
+    {
         "id": 5051,
         "title": "Large Language Models: A Deep Dive",
         "img": "http://image.banshujiang.cn/5051.jpeg",
@@ -250,43 +282,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4990/webstorage_links/24094/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4988,
-        "title": "玩转ChatGPT：秒变AI提问和追问高手",
-        "img": "http://image.banshujiang.cn/4988.jpeg",
-        "author": "唐振伟",
-        "language": "中文",
-        "publishYear": 2024,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4988/webstorage_links/24089/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4988/webstorage_links/24088/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4987,
-        "title": " 神经网络与深度学习",
-        "img": "http://image.banshujiang.cn/4987.jpeg",
-        "author": "邱锡鹏",
-        "language": "中文",
-        "publishYear": 2020,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4987/webstorage_links/24085/to_link"
             }
         ]
     }

@@ -1,5 +1,21 @@
 [
     {
+        "id": 5064,
+        "title": "Web Scraping with Python 2nd Edition",
+        "img": "http://image.banshujiang.cn/5064.jpeg",
+        "author": "Ryan Mitchell",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5064/webstorage_links/24275/to_link"
+            }
+        ]
+    },
+    {
         "id": 5055,
         "title": "MySQL for Python",
         "img": "http://image.banshujiang.cn/5055.jpeg",
@@ -271,27 +287,6 @@
                 "fmt": "AZW3",
                 "title": "城通网盘",
                 "link": "/e_books/4935/webstorage_links/23910/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4881,
-        "title": "Natural Language Processing with PyTorch",
-        "img": "http://image.banshujiang.cn/4881.jpeg?timestamp=1738845954896",
-        "author": "Delip Rao and Brian McMahan",
-        "language": "英文",
-        "publishYear": 2019,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4881/webstorage_links/23718/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4881/webstorage_links/23717/to_link"
             }
         ]
     }

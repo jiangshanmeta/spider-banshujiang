@@ -1,5 +1,21 @@
 [
     {
+        "id": 5056,
+        "title": "Node.js: The Comprehensive Guide",
+        "img": "http://image.banshujiang.cn/5056.jpeg",
+        "author": "Sebastian Springer",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5056/webstorage_links/24259/to_link"
+            }
+        ]
+    },
+    {
         "id": 4931,
         "title": "Eloquent Javascript 4th Edition",
         "img": "http://image.banshujiang.cn/4931.jpeg?timestamp=1740226572615",
@@ -311,22 +327,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4726/webstorage_links/23068/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4722,
-        "title": "jQuery实战(第2版)",
-        "img": "http://image.banshujiang.cn/4722.jpeg?timestamp=1729931949622",
-        "author": "[美]Bear Bibeault、Yehuda Katz [译]三生石上",
-        "language": "中文",
-        "publishYear": 2012,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4722/webstorage_links/23054/to_link"
             }
         ]
     }

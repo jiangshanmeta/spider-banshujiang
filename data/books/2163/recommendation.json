@@ -1,5 +1,21 @@
 [
     {
+        "id": 5057,
+        "title": "Practical Guide to Oracle SQL, T-SQL and MySQL",
+        "img": "http://image.banshujiang.cn/5057.jpeg",
+        "author": "Preston Zhang",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "SQL",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5057/webstorage_links/24261/to_link"
+            }
+        ]
+    },
+    {
         "id": 5023,
         "title": "PostgreSQL实战",
         "img": "http://image.banshujiang.cn/5023.jpeg",
@@ -341,27 +357,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3957/webstorage_links/20003/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3943,
-        "title": "Learning Snowflake SQL and Scripting",
-        "img": "http://image.banshujiang.cn/3943.jpeg?timestamp=1714575780787",
-        "author": "Generate, Retrieve, and Automate Snowflake Data",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "SQL",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3943/webstorage_links/19952/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3943/webstorage_links/19951/to_link"
             }
         ]
     }

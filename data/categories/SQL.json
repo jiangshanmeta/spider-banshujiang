@@ -1,5 +1,21 @@
 [
     {
+        "id": 5057,
+        "title": "Practical Guide to Oracle SQL, T-SQL and MySQL",
+        "img": "http://image.banshujiang.cn/5057.jpeg",
+        "author": "Preston Zhang",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "SQL",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5057/webstorage_links/24261/to_link"
+            }
+        ]
+    },
+    {
         "id": 4767,
         "title": "Getting Started with SQL",
         "img": "http://image.banshujiang.cn/4767.jpeg?timestamp=1730534791423",

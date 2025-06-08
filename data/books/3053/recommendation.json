@@ -1,5 +1,21 @@
 [
     {
+        "id": 5059,
+        "title": "Probability and Statistics for Machine Learning",
+        "img": "http://image.banshujiang.cn/5059.jpeg",
+        "author": "Charu C. Aggarwal",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5059/webstorage_links/24265/to_link"
+            }
+        ]
+    },
+    {
         "id": 5051,
         "title": "Large Language Models: A Deep Dive",
         "img": "http://image.banshujiang.cn/5051.jpeg",
@@ -261,22 +277,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4987/webstorage_links/24085/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4986,
-        "title": "深度学习进阶：自然语言处理",
-        "img": "http://image.banshujiang.cn/4986.jpeg",
-        "author": "[日]斋藤康毅 [译]陆宇杰",
-        "language": "中文",
-        "publishYear": 2020,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4986/webstorage_links/24083/to_link"
             }
         ]
     }

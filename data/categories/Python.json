@@ -1,5 +1,21 @@
 [
     {
+        "id": 5064,
+        "title": "Web Scraping with Python 2nd Edition",
+        "img": "http://image.banshujiang.cn/5064.jpeg",
+        "author": "Ryan Mitchell",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5064/webstorage_links/24275/to_link"
+            }
+        ]
+    },
+    {
         "id": 5055,
         "title": "MySQL for Python",
         "img": "http://image.banshujiang.cn/5055.jpeg",

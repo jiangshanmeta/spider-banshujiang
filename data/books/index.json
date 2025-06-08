@@ -96048,5 +96048,186 @@
                 "link": "/e_books/5055/webstorage_links/24257/to_link"
             }
         ]
+    },
+    {
+        "id": 5056,
+        "title": "Node.js: The Comprehensive Guide",
+        "img": "http://image.banshujiang.cn/5056.jpeg",
+        "author": "Sebastian Springer",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5056/webstorage_links/24259/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5057,
+        "title": "Practical Guide to Oracle SQL, T-SQL and MySQL",
+        "img": "http://image.banshujiang.cn/5057.jpeg",
+        "author": "Preston Zhang",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "SQL",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5057/webstorage_links/24261/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5058,
+        "title": "Practical Web Penetration Testing",
+        "img": "http://image.banshujiang.cn/5058.jpeg",
+        "author": "Gus Khawaja",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5058/webstorage_links/24263/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5059,
+        "title": "Probability and Statistics for Machine Learning",
+        "img": "http://image.banshujiang.cn/5059.jpeg",
+        "author": "Charu C. Aggarwal",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5059/webstorage_links/24265/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5060,
+        "title": "Road to Kubernetes",
+        "img": "http://image.banshujiang.cn/5060.jpeg",
+        "author": "Justin Mitchel",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5060/webstorage_links/24267/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5061,
+        "title": "ROS Robotics By Example",
+        "img": "http://image.banshujiang.cn/5061.jpeg",
+        "author": "Carol Fairchild and Dr. Thomas L. Harman",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5061/webstorage_links/24269/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5062,
+        "title": "System Design Interview: An Insider&#39;s Guide Volume 2 (扫描版)",
+        "img": "http://image.banshujiang.cn/5062.jpeg",
+        "author": "Alex Xu and Sahn Lam",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5062/webstorage_links/24271/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5063,
+        "title": "The Art of Attack",
+        "img": "http://image.banshujiang.cn/5063.jpeg",
+        "author": "Maxie Reynolds",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5063/webstorage_links/24273/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5064,
+        "title": "Web Scraping with Python 2nd Edition",
+        "img": "http://image.banshujiang.cn/5064.jpeg",
+        "author": "Ryan Mitchell",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5064/webstorage_links/24275/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5065,
+        "title": "Web Security: Learning HTTP Security Headers",
+        "img": "http://image.banshujiang.cn/5065.jpeg",
+        "author": "Liran Tal",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5065/webstorage_links/24277/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5066,
+        "title": "Wireshark数据包分析实战(第3版)",
+        "img": "http://image.banshujiang.cn/5066.jpeg",
+        "author": "[美]Chris Sanders [译]诸葛建伟、陆宇翔、曾皓辰",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5066/webstorage_links/24281/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5066/webstorage_links/24280/to_link"
+            }
+        ]
     }
 ]
