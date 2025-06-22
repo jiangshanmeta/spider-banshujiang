@@ -1,5 +1,89 @@
 [
     {
+        "id": 5087,
+        "title": "Learn Python Generative AI",
+        "img": "http://image.banshujiang.cn/5087.jpeg?timestamp=1746066994092",
+        "author": "Zonunfeli Ralte and Indrajit Kar",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5087/webstorage_links/24349/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5087/webstorage_links/24348/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5086,
+        "title": "LangChain Crash Course",
+        "img": "http://image.banshujiang.cn/5086.jpeg?timestamp=1746202013524",
+        "author": "Greg Lim",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5086/webstorage_links/24345/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5081,
+        "title": "用Python动手学机器学习",
+        "img": "http://image.banshujiang.cn/5081.jpeg?timestamp=1746065700089",
+        "author": "[日]伊藤真 [译]郑明智、司磊",
+        "language": "中文",
+        "publishYear": 2021,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5081/webstorage_links/24331/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/5081/webstorage_links/24330/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5072,
+        "title": "Python Cookbook(第3版)",
+        "img": "http://image.banshujiang.cn/5072.jpeg?timestamp=1745047627335",
+        "author": "[美]David Beazley Brian K.Jones [译]陈舸",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5072/webstorage_links/24304/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/5072/webstorage_links/24305/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/5072/webstorage_links/24303/to_link"
+            }
+        ]
+    },
+    {
         "id": 5064,
         "title": "Web Scraping with Python 2nd Edition",
         "img": "http://image.banshujiang.cn/5064.jpeg",
@@ -203,85 +287,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4940/webstorage_links/23927/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4938,
-        "title": "LangChain入门指南(扫描版)",
-        "img": "http://image.banshujiang.cn/4938.jpeg?timestamp=1740655077848",
-        "author": "李特丽、康轶文",
-        "language": "中文",
-        "publishYear": 2024,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4938/webstorage_links/23922/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4937,
-        "title": "Hands-On Prescriptive Analytics: Optimizing Your Decision Making with Python",
-        "img": "http://image.banshujiang.cn/4937.jpeg?timestamp=1740654884103",
-        "author": "Walter R. Paczkowski",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4937/webstorage_links/23920/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4937/webstorage_links/23919/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4935,
-        "title": "Hands-On Unsupervised Learning Using Python",
-        "img": "http://image.banshujiang.cn/4935.jpeg?timestamp=1740654446690",
-        "author": "Ankur A. Patel",
-        "language": "英文",
-        "publishYear": 2019,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4935/webstorage_links/23912/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4935/webstorage_links/23911/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4935/webstorage_links/23910/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4915,
-        "title": "Effective Python 3rd Edition",
-        "img": "http://image.banshujiang.cn/4915.jpeg?timestamp=1739608950965",
-        "author": "Brett Slatkin",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4915/webstorage_links/23856/to_link"
             }
         ]
     }

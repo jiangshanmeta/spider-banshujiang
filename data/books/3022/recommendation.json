@@ -85,6 +85,186 @@
         ]
     },
     {
+        "id": 5088,
+        "title": "Practical AI for Cybersecurity",
+        "img": "http://image.banshujiang.cn/5088.jpeg?timestamp=1746067092271",
+        "author": "Ravi Das",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5088/webstorage_links/24351/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5087,
+        "title": "Learn Python Generative AI",
+        "img": "http://image.banshujiang.cn/5087.jpeg?timestamp=1746066994092",
+        "author": "Zonunfeli Ralte and Indrajit Kar",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5087/webstorage_links/24349/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5087/webstorage_links/24348/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5086,
+        "title": "LangChain Crash Course",
+        "img": "http://image.banshujiang.cn/5086.jpeg?timestamp=1746202013524",
+        "author": "Greg Lim",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5086/webstorage_links/24345/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5085,
+        "title": "Human Compatible: Artifical Intelligence and the Problem of Control",
+        "img": "http://image.banshujiang.cn/5085.jpeg?timestamp=1746066713084",
+        "author": "Stuart Russell",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5085/webstorage_links/24342/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/5085/webstorage_links/24343/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/5085/webstorage_links/24341/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5083,
+        "title": "Generative AI",
+        "img": "http://image.banshujiang.cn/5083.jpeg?timestamp=1746066446671",
+        "author": "Tom Taulli",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5083/webstorage_links/24335/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5082,
+        "title": "Coding with AI For Dummies",
+        "img": "http://image.banshujiang.cn/5082.jpeg?timestamp=1746066285502",
+        "author": "Chris Minnick",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5082/webstorage_links/24333/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5081,
+        "title": "用Python动手学机器学习",
+        "img": "http://image.banshujiang.cn/5081.jpeg?timestamp=1746065700089",
+        "author": "[日]伊藤真 [译]郑明智、司磊",
+        "language": "中文",
+        "publishYear": 2021,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5081/webstorage_links/24331/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/5081/webstorage_links/24330/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5080,
+        "title": "Chatgpt Prompts Mastering",
+        "img": "http://image.banshujiang.cn/5080.jpeg?timestamp=1745506972868",
+        "author": "Christian Brown",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5080/webstorage_links/24327/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5079,
+        "title": "Better Deep Learning",
+        "img": "http://image.banshujiang.cn/5079.jpeg?timestamp=1745505959395",
+        "author": "Jason Brownlee",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5079/webstorage_links/24325/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5070,
+        "title": "统计学习导论：基于R应用(扫描版)",
+        "img": "http://image.banshujiang.cn/5070.jpeg?timestamp=1743688054910",
+        "author": "[美]James G. [译]王星",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5070/webstorage_links/24295/to_link"
+            }
+        ]
+    },
+    {
         "id": 5059,
         "title": "Probability and Statistics for Machine Learning",
         "img": "http://image.banshujiang.cn/5059.jpeg",
@@ -97,176 +277,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/5059/webstorage_links/24265/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5051,
-        "title": "Large Language Models: A Deep Dive",
-        "img": "http://image.banshujiang.cn/5051.jpeg",
-        "author": "Uday Kamath, Kevin Keenan, Garrett Somers and Sarah Sorenson",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5051/webstorage_links/24249/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5050,
-        "title": "Introduction to Deep Learning",
-        "img": "http://image.banshujiang.cn/5050.jpeg",
-        "author": "Eugene Charniak",
-        "language": "英文",
-        "publishYear": 2018,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5050/webstorage_links/24247/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5048,
-        "title": "Handbook of Research on Machine and Deep Learning Applications for Cyber Security",
-        "img": "http://image.banshujiang.cn/5048.jpeg",
-        "author": "Padmavathi Ganapathi and D. Shanmugapriya",
-        "language": "英文",
-        "publishYear": 2020,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5048/webstorage_links/24243/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5045,
-        "title": "Generalized Linear Models With Examples in R",
-        "img": "http://image.banshujiang.cn/5045.jpeg",
-        "author": "Peter K. Dunn and Gordon K. Smyth",
-        "language": "英文",
-        "publishYear": 2018,
-        "programLanguage": "R",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5045/webstorage_links/24237/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5039,
-        "title": "Data Preparation for Machine Learning",
-        "img": "http://image.banshujiang.cn/5039.jpeg",
-        "author": "Jason Brownlee",
-        "language": "英文",
-        "publishYear": 2020,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5039/webstorage_links/24225/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5037,
-        "title": "Computer Vision: Algorithms and Applications 2nd Edition",
-        "img": "http://image.banshujiang.cn/5037.jpeg",
-        "author": "Richard Szeliski",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5037/webstorage_links/24221/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5036,
-        "title": "Building LLM Powered Applications",
-        "img": "http://image.banshujiang.cn/5036.jpeg",
-        "author": "Valentina Alto",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5036/webstorage_links/24219/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5034,
-        "title": "An Introduction to Statistical Learning with Applications in R 2nd Edition",
-        "img": "http://image.banshujiang.cn/5034.jpeg",
-        "author": "Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani",
-        "language": "英文",
-        "publishYear": 2021,
-        "programLanguage": "R",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5034/webstorage_links/24215/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5028,
-        "title": "TensorFlow技术解析与实战",
-        "img": "http://image.banshujiang.cn/5028.jpeg",
-        "author": "李嘉璇",
-        "language": "中文",
-        "publishYear": 2017,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/5028/webstorage_links/24198/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/5028/webstorage_links/24199/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/5028/webstorage_links/24197/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5017,
-        "title": "AI-Driven Cybersecurity and Threat Intelligence",
-        "img": "http://image.banshujiang.cn/5017.jpeg",
-        "author": "Iqbal H. Sarker",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5017/webstorage_links/24167/to_link"
             }
         ]
     }

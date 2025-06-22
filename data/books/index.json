@@ -96229,5 +96229,417 @@
                 "link": "/e_books/5066/webstorage_links/24280/to_link"
             }
         ]
+    },
+    {
+        "id": 5067,
+        "title": "编程竞赛宝典：C++语言和算法入门",
+        "img": "http://image.banshujiang.cn/5067.jpeg?timestamp=1743687580422",
+        "author": "张新华",
+        "language": "中文",
+        "publishYear": 2021,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5067/webstorage_links/24287/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5067/webstorage_links/24286/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/5067/webstorage_links/24285/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5068,
+        "title": "ERP原理与应用教程(第3版)(扫描版)",
+        "img": "http://image.banshujiang.cn/5068.jpeg?timestamp=1743687737251",
+        "author": "周玉清、刘伯莹、周强",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5068/webstorage_links/24289/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5069,
+        "title": "Flink原理、实战与性能优化",
+        "img": "http://image.banshujiang.cn/5069.jpeg?timestamp=1743687841865",
+        "author": "张利兵",
+        "language": "中文",
+        "publishYear": 2019,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5069/webstorage_links/24293/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5069/webstorage_links/24292/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5070,
+        "title": "统计学习导论：基于R应用(扫描版)",
+        "img": "http://image.banshujiang.cn/5070.jpeg?timestamp=1743688054910",
+        "author": "[美]James G. [译]王星",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5070/webstorage_links/24295/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5071,
+        "title": "SVG精髓(第2版)",
+        "img": "http://image.banshujiang.cn/5071.jpeg?timestamp=1745047364952",
+        "author": "[美]J. David Eisenberg [加]Amelia Bellamy-Royds [译]易郑超、何鹏飞",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5071/webstorage_links/24299/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5072,
+        "title": "Python Cookbook(第3版)",
+        "img": "http://image.banshujiang.cn/5072.jpeg?timestamp=1745047627335",
+        "author": "[美]David Beazley Brian K.Jones [译]陈舸",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5072/webstorage_links/24304/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/5072/webstorage_links/24305/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/5072/webstorage_links/24303/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5073,
+        "title": "SASS与Compass实战",
+        "img": "http://image.banshujiang.cn/5073.jpeg?timestamp=1745500274622",
+        "author": "[美]Wynn Netherland、Nathan Weizenbaum、Chris Eppstein and Brandon Mathis [译]刘炬光、赵锦江、张浩然",
+        "language": "中文",
+        "publishYear": 2014,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5073/webstorage_links/24307/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5074,
+        "title": "设计数据密集型应用",
+        "img": "http://image.banshujiang.cn/5074.jpeg?timestamp=1745500457989",
+        "author": "[美]Martin Kleppmann [译]冯若航",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5074/webstorage_links/24311/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5074/webstorage_links/24310/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5075,
+        "title": "LaTeX入门",
+        "img": "http://image.banshujiang.cn/5075.jpeg?timestamp=1745500587923",
+        "author": "刘海洋",
+        "language": "中文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5075/webstorage_links/24313/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5076,
+        "title": "Flink内核：原理与实现",
+        "img": "http://image.banshujiang.cn/5076.jpeg?timestamp=1745500883091",
+        "author": "冯飞、崔鹏云、陈冠华",
+        "language": "中文",
+        "publishYear": 2020,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5076/webstorage_links/24317/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5076/webstorage_links/24316/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5077,
+        "title": "华为数据之道",
+        "img": "http://image.banshujiang.cn/5077.jpeg?timestamp=1745501012576",
+        "author": "华为公司数据管理部",
+        "language": "中文",
+        "publishYear": 2020,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5077/webstorage_links/24321/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5077/webstorage_links/24320/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5078,
+        "title": "Artificial Unintelligence",
+        "img": "http://image.banshujiang.cn/5078.jpeg?timestamp=1745505485967",
+        "author": "Meredith Broussard",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5078/webstorage_links/24323/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5079,
+        "title": "Better Deep Learning",
+        "img": "http://image.banshujiang.cn/5079.jpeg?timestamp=1745505959395",
+        "author": "Jason Brownlee",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5079/webstorage_links/24325/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5080,
+        "title": "Chatgpt Prompts Mastering",
+        "img": "http://image.banshujiang.cn/5080.jpeg?timestamp=1745506972868",
+        "author": "Christian Brown",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5080/webstorage_links/24327/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5081,
+        "title": "用Python动手学机器学习",
+        "img": "http://image.banshujiang.cn/5081.jpeg?timestamp=1746065700089",
+        "author": "[日]伊藤真 [译]郑明智、司磊",
+        "language": "中文",
+        "publishYear": 2021,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5081/webstorage_links/24331/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/5081/webstorage_links/24330/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5082,
+        "title": "Coding with AI For Dummies",
+        "img": "http://image.banshujiang.cn/5082.jpeg?timestamp=1746066285502",
+        "author": "Chris Minnick",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5082/webstorage_links/24333/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5083,
+        "title": "Generative AI",
+        "img": "http://image.banshujiang.cn/5083.jpeg?timestamp=1746066446671",
+        "author": "Tom Taulli",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5083/webstorage_links/24335/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5084,
+        "title": "Computational Statistics in Data Science",
+        "img": "http://image.banshujiang.cn/5084.jpeg?timestamp=1746066560062",
+        "author": "Walter W. Piegorsch, Richard A. Levine, Hao Helen Zhang and Thomas C. M. Lee",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5084/webstorage_links/24337/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5085,
+        "title": "Human Compatible: Artifical Intelligence and the Problem of Control",
+        "img": "http://image.banshujiang.cn/5085.jpeg?timestamp=1746066713084",
+        "author": "Stuart Russell",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5085/webstorage_links/24342/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/5085/webstorage_links/24343/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/5085/webstorage_links/24341/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5086,
+        "title": "LangChain Crash Course",
+        "img": "http://image.banshujiang.cn/5086.jpeg?timestamp=1746202013524",
+        "author": "Greg Lim",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5086/webstorage_links/24345/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5087,
+        "title": "Learn Python Generative AI",
+        "img": "http://image.banshujiang.cn/5087.jpeg?timestamp=1746066994092",
+        "author": "Zonunfeli Ralte and Indrajit Kar",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5087/webstorage_links/24349/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5087/webstorage_links/24348/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5088,
+        "title": "Practical AI for Cybersecurity",
+        "img": "http://image.banshujiang.cn/5088.jpeg?timestamp=1746067092271",
+        "author": "Ravi Das",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5088/webstorage_links/24351/to_link"
+            }
+        ]
     }
 ]

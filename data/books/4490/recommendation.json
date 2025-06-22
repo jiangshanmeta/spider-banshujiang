@@ -80,6 +80,32 @@
         ]
     },
     {
+        "id": 5067,
+        "title": "编程竞赛宝典：C++语言和算法入门",
+        "img": "http://image.banshujiang.cn/5067.jpeg?timestamp=1743687580422",
+        "author": "张新华",
+        "language": "中文",
+        "publishYear": 2021,
+        "programLanguage": "C++",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5067/webstorage_links/24287/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5067/webstorage_links/24286/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/5067/webstorage_links/24285/to_link"
+            }
+        ]
+    },
+    {
         "id": 5025,
         "title": "Qt 6 C++ 开发指南",
         "img": "http://image.banshujiang.cn/5025.jpeg",
@@ -291,22 +317,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4725/webstorage_links/23066/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4724,
-        "title": "Linux Shell脚本攻略(第3版)",
-        "img": "http://image.banshujiang.cn/4724.jpeg?timestamp=1729932242241",
-        "author": "[美]Clif Flynt [印]Sarath Lakshman、Shantanu Tushar",
-        "language": "中文",
-        "publishYear": 2018,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4724/webstorage_links/23064/to_link"
             }
         ]
     }

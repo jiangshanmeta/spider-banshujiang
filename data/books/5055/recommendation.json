@@ -1,5 +1,89 @@
 [
     {
+        "id": 5087,
+        "title": "Learn Python Generative AI",
+        "img": "http://image.banshujiang.cn/5087.jpeg?timestamp=1746066994092",
+        "author": "Zonunfeli Ralte and Indrajit Kar",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5087/webstorage_links/24349/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5087/webstorage_links/24348/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5086,
+        "title": "LangChain Crash Course",
+        "img": "http://image.banshujiang.cn/5086.jpeg?timestamp=1746202013524",
+        "author": "Greg Lim",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5086/webstorage_links/24345/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5081,
+        "title": "用Python动手学机器学习",
+        "img": "http://image.banshujiang.cn/5081.jpeg?timestamp=1746065700089",
+        "author": "[日]伊藤真 [译]郑明智、司磊",
+        "language": "中文",
+        "publishYear": 2021,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5081/webstorage_links/24331/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/5081/webstorage_links/24330/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5072,
+        "title": "Python Cookbook(第3版)",
+        "img": "http://image.banshujiang.cn/5072.jpeg?timestamp=1745047627335",
+        "author": "[美]David Beazley Brian K.Jones [译]陈舸",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5072/webstorage_links/24304/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/5072/webstorage_links/24305/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/5072/webstorage_links/24303/to_link"
+            }
+        ]
+    },
+    {
         "id": 5064,
         "title": "Web Scraping with Python 2nd Edition",
         "img": "http://image.banshujiang.cn/5064.jpeg",
@@ -218,80 +302,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4948/webstorage_links/23953/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4945,
-        "title": "OpenCV 4计算机视觉: Python语言实现(第3版)",
-        "img": "http://image.banshujiang.cn/4945.jpeg?timestamp=1740747789508",
-        "author": "[加]Joseph Howse [爱]Joe Minichino [译]刘冰、高博",
-        "language": "中文",
-        "publishYear": 2021,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4945/webstorage_links/23944/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4945/webstorage_links/23943/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4944,
-        "title": "Neural Networks from Scratch in Python",
-        "img": "http://image.banshujiang.cn/4944.jpeg?timestamp=1742606586447",
-        "author": "Harrison Kinsley &amp; Daniel Kukieła",
-        "language": "英文",
-        "publishYear": 2020,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4944/webstorage_links/23940/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4940,
-        "title": "Learning the Pandas Library",
-        "img": "http://image.banshujiang.cn/4940.jpeg?timestamp=1740655596628",
-        "author": "Matt Harrison",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4940/webstorage_links/23928/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4940/webstorage_links/23927/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4938,
-        "title": "LangChain入门指南(扫描版)",
-        "img": "http://image.banshujiang.cn/4938.jpeg?timestamp=1740655077848",
-        "author": "李特丽、康轶文",
-        "language": "中文",
-        "publishYear": 2024,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4938/webstorage_links/23922/to_link"
             }
         ]
     }

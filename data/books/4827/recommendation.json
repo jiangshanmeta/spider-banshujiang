@@ -1,5 +1,21 @@
 [
     {
+        "id": 5070,
+        "title": "统计学习导论：基于R应用(扫描版)",
+        "img": "http://image.banshujiang.cn/5070.jpeg?timestamp=1743688054910",
+        "author": "[美]James G. [译]王星",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "R",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5070/webstorage_links/24295/to_link"
+            }
+        ]
+    },
+    {
         "id": 5045,
         "title": "Generalized Linear Models With Examples in R",
         "img": "http://image.banshujiang.cn/5045.jpeg",
@@ -271,32 +287,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4199/webstorage_links/20946/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4180,
-        "title": "Introduction to R for Quantitative Finance",
-        "img": "http://image.banshujiang.cn/4180.jpeg?timestamp=1718526700730",
-        "author": "Gergely Daróczi等",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "R",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4180/webstorage_links/20851/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4180/webstorage_links/20849/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4180/webstorage_links/20850/to_link"
             }
         ]
     }
