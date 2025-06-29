@@ -1,5 +1,37 @@
 [
     {
+        "id": 5099,
+        "title": "Interactive Applications Using Matplotlib",
+        "img": "http://image.banshujiang.cn/5099.jpeg?timestamp=1746188360818",
+        "author": "Benjamin V. Root",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5099/webstorage_links/24383/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5098,
+        "title": "Effective Pandas: Patterns for Data Manipulation",
+        "img": "http://image.banshujiang.cn/5098.jpeg?timestamp=1746188194507",
+        "author": "Matt Harrison",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5098/webstorage_links/24381/to_link"
+            }
+        ]
+    },
+    {
         "id": 5087,
         "title": "Learn Python Generative AI",
         "img": "http://image.banshujiang.cn/5087.jpeg?timestamp=1746066994092",
@@ -245,43 +277,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4945/webstorage_links/23943/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4944,
-        "title": "Neural Networks from Scratch in Python",
-        "img": "http://image.banshujiang.cn/4944.jpeg?timestamp=1742606586447",
-        "author": "Harrison Kinsley &amp; Daniel Kukieła",
-        "language": "英文",
-        "publishYear": 2020,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4944/webstorage_links/23940/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4940,
-        "title": "Learning the Pandas Library",
-        "img": "http://image.banshujiang.cn/4940.jpeg?timestamp=1740655596628",
-        "author": "Matt Harrison",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4940/webstorage_links/23928/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4940/webstorage_links/23927/to_link"
             }
         ]
     }

@@ -1,5 +1,37 @@
 [
     {
+        "id": 5099,
+        "title": "Interactive Applications Using Matplotlib",
+        "img": "http://image.banshujiang.cn/5099.jpeg?timestamp=1746188360818",
+        "author": "Benjamin V. Root",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5099/webstorage_links/24383/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5098,
+        "title": "Effective Pandas: Patterns for Data Manipulation",
+        "img": "http://image.banshujiang.cn/5098.jpeg?timestamp=1746188194507",
+        "author": "Matt Harrison",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5098/webstorage_links/24381/to_link"
+            }
+        ]
+    },
+    {
         "id": 5087,
         "title": "Learn Python Generative AI",
         "img": "http://image.banshujiang.cn/5087.jpeg?timestamp=1746066994092",
@@ -265,43 +297,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4951/webstorage_links/23962/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4950,
-        "title": "Python 神经网络编程(扫描版)",
-        "img": "https://gitee.com/nswish/banshujiang.img/raw/main/4950.jpeg",
-        "author": "[英]Tariq Rashid [译]林赐",
-        "language": "中文",
-        "publishYear": 2018,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4950/webstorage_links/23960/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4948,
-        "title": "Powerful Python",
-        "img": "https://gitee.com/nswish/banshujiang.img/raw/main/4948.jpeg",
-        "author": "Aaron Maxwell",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4948/webstorage_links/23954/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4948/webstorage_links/23953/to_link"
             }
         ]
     }
