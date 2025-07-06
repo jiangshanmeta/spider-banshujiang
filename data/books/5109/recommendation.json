@@ -1,0 +1,278 @@
+[
+    {
+        "id": 5110,
+        "title": "NumPy Beginner&#39;s Guide 3rd Edition",
+        "img": "http://image.banshujiang.cn/5110.jpeg?timestamp=1746190512931",
+        "author": "Ivan Idris",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5110/webstorage_links/24405/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5108,
+        "title": "Numerical Python 2nd Edition",
+        "img": "http://image.banshujiang.cn/5108.jpeg?timestamp=1746190281428",
+        "author": "Robert Johansson",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5108/webstorage_links/24401/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5107,
+        "title": "深入浅出Pandas： 利用Python进行数据处理与分析",
+        "img": "http://image.banshujiang.cn/5107.jpeg?timestamp=1746190194557",
+        "author": "李庆辉",
+        "language": "中文",
+        "publishYear": 2021,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5107/webstorage_links/24399/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5106,
+        "title": "Matplotlib Tutorial",
+        "img": "http://image.banshujiang.cn/5106.jpeg?timestamp=1746190041515",
+        "author": "Tab W. Keith",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5106/webstorage_links/24397/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5105,
+        "title": "matplotlib Plotting Cookbook",
+        "img": "http://image.banshujiang.cn/5105.jpeg?timestamp=1746189941022",
+        "author": "Alexandre Devert",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5105/webstorage_links/24395/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5104,
+        "title": "Matplotlib for Python Developers",
+        "img": "http://image.banshujiang.cn/5104.jpeg?timestamp=1746189850297",
+        "author": "Sandro Tosi",
+        "language": "英文",
+        "publishYear": 2009,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5104/webstorage_links/24393/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5103,
+        "title": "Matplotlib for Python Developers 2nd Edition",
+        "img": "http://image.banshujiang.cn/5103.jpeg?timestamp=1746189680449",
+        "author": "Aldrin Yim, Claire Chung and Allen Yu",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5103/webstorage_links/24391/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5102,
+        "title": "Mastering matplotlib",
+        "img": "http://image.banshujiang.cn/5102.jpeg?timestamp=1746189561845",
+        "author": "Duncan M. McGreggor",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5102/webstorage_links/24389/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5101,
+        "title": "Mastering Data Analysis with Python: A Comprehensive Guide to NumPy, Pandas, and Matplotlib",
+        "img": "http://image.banshujiang.cn/5101.jpeg?timestamp=1746189274988",
+        "author": "Rajender Kumar",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5101/webstorage_links/24387/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5100,
+        "title": "Learning pandas",
+        "img": "http://image.banshujiang.cn/5100.jpeg?timestamp=1746188433306",
+        "author": "Michael Heydt",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5100/webstorage_links/24385/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5099,
+        "title": "Interactive Applications Using Matplotlib",
+        "img": "http://image.banshujiang.cn/5099.jpeg?timestamp=1746188360818",
+        "author": "Benjamin V. Root",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5099/webstorage_links/24383/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5098,
+        "title": "Effective Pandas: Patterns for Data Manipulation",
+        "img": "http://image.banshujiang.cn/5098.jpeg?timestamp=1746188194507",
+        "author": "Matt Harrison",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5098/webstorage_links/24381/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5087,
+        "title": "Learn Python Generative AI",
+        "img": "http://image.banshujiang.cn/5087.jpeg?timestamp=1746066994092",
+        "author": "Zonunfeli Ralte and Indrajit Kar",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5087/webstorage_links/24349/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5087/webstorage_links/24348/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5086,
+        "title": "LangChain Crash Course",
+        "img": "http://image.banshujiang.cn/5086.jpeg?timestamp=1746202013524",
+        "author": "Greg Lim",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5086/webstorage_links/24345/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5081,
+        "title": "用Python动手学机器学习",
+        "img": "http://image.banshujiang.cn/5081.jpeg?timestamp=1746065700089",
+        "author": "[日]伊藤真 [译]郑明智、司磊",
+        "language": "中文",
+        "publishYear": 2021,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5081/webstorage_links/24331/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/5081/webstorage_links/24330/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5072,
+        "title": "Python Cookbook(第3版)",
+        "img": "http://image.banshujiang.cn/5072.jpeg?timestamp=1745047627335",
+        "author": "[美]David Beazley Brian K.Jones [译]陈舸",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5072/webstorage_links/24304/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/5072/webstorage_links/24305/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/5072/webstorage_links/24303/to_link"
+            }
+        ]
+    }
+]
