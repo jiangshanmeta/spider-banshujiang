@@ -1,0 +1,268 @@
+[
+    {
+        "id": 5120,
+        "title": "Python NumPy Beginners: NumPy Specialization For Data Scientists",
+        "img": "http://image.banshujiang.cn/5120.jpeg?timestamp=1746192087351",
+        "author": "AI Publishing",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5120/webstorage_links/24428/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5119,
+        "title": "Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython 2nd Edition",
+        "img": "http://image.banshujiang.cn/5119.jpeg?timestamp=1746191936870",
+        "author": "Wes McKinney",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "百度网盘",
+                "link": "/e_books/5119/webstorage_links/24426/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5118,
+        "title": "Python Data Science",
+        "img": "http://image.banshujiang.cn/5118.jpeg?timestamp=1746191835532",
+        "author": "Steve Blair",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5118/webstorage_links/24425/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5118/webstorage_links/24424/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5117,
+        "title": "Python Data Analytics 3rd Edition",
+        "img": "http://image.banshujiang.cn/5117.jpeg?timestamp=1746191762509",
+        "author": "Fabio Nelli",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5117/webstorage_links/24421/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5116,
+        "title": "Python Beginner To Pro",
+        "img": "http://image.banshujiang.cn/5116.jpeg?timestamp=1746191683450",
+        "author": "",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5116/webstorage_links/24419/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5115,
+        "title": "Pandas数据处理与分析",
+        "img": "http://image.banshujiang.cn/5115.jpeg?timestamp=1746191400305",
+        "author": "耿远昊",
+        "language": "中文",
+        "publishYear": 2022,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5115/webstorage_links/24417/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5114,
+        "title": "Pandas in 7 Days",
+        "img": "http://image.banshujiang.cn/5114.jpeg?timestamp=1746191234468",
+        "author": "Fabio Nelli",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5114/webstorage_links/24415/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5114/webstorage_links/24414/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5113,
+        "title": "NumPy攻略：Python科学计算与数据分析(扫描版)",
+        "img": "http://image.banshujiang.cn/5113.jpeg?timestamp=1746191031950",
+        "author": "[印尼]Ivan Idris [译]张崇明",
+        "language": "中文",
+        "publishYear": 2013,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5113/webstorage_links/24411/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5111,
+        "title": "NumPy Essentials",
+        "img": "http://image.banshujiang.cn/5111.jpeg?timestamp=1746190667685",
+        "author": "Leo(Liang-Huan) Chin and Tanmay Dutta",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5111/webstorage_links/24407/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5110,
+        "title": "NumPy Beginner&#39;s Guide 3rd Edition",
+        "img": "http://image.banshujiang.cn/5110.jpeg?timestamp=1746190512931",
+        "author": "Ivan Idris",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5110/webstorage_links/24405/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5109,
+        "title": "Numpy tutorialspoint",
+        "img": "http://image.banshujiang.cn/5109.jpeg?timestamp=1746190419102",
+        "author": "tutorialspoint",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5109/webstorage_links/24403/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5108,
+        "title": "Numerical Python 2nd Edition",
+        "img": "http://image.banshujiang.cn/5108.jpeg?timestamp=1746190281428",
+        "author": "Robert Johansson",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5108/webstorage_links/24401/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5107,
+        "title": "深入浅出Pandas： 利用Python进行数据处理与分析",
+        "img": "http://image.banshujiang.cn/5107.jpeg?timestamp=1746190194557",
+        "author": "李庆辉",
+        "language": "中文",
+        "publishYear": 2021,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5107/webstorage_links/24399/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5106,
+        "title": "Matplotlib Tutorial",
+        "img": "http://image.banshujiang.cn/5106.jpeg?timestamp=1746190041515",
+        "author": "Tab W. Keith",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5106/webstorage_links/24397/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5105,
+        "title": "matplotlib Plotting Cookbook",
+        "img": "http://image.banshujiang.cn/5105.jpeg?timestamp=1746189941022",
+        "author": "Alexandre Devert",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5105/webstorage_links/24395/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5104,
+        "title": "Matplotlib for Python Developers",
+        "img": "http://image.banshujiang.cn/5104.jpeg?timestamp=1746189850297",
+        "author": "Sandro Tosi",
+        "language": "英文",
+        "publishYear": 2009,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5104/webstorage_links/24393/to_link"
+            }
+        ]
+    }
+]
