@@ -1,5 +1,101 @@
 [
     {
+        "id": 5132,
+        "title": "AI-Powered Search",
+        "img": "http://image.banshujiang.cn/5132.jpeg?timestamp=1746249132492",
+        "author": "Trey Grainger, Doug Turnbull and Max Irwin",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5132/webstorage_links/24454/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5131,
+        "title": "AI for Emerging Verticals: Human-robot computing, sensing and networking",
+        "img": "http://image.banshujiang.cn/5131.jpeg?timestamp=1746249054592",
+        "author": "Muhammad Zeeshan Shakir and Naeem Ramzan",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5131/webstorage_links/24452/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5130,
+        "title": "AI and IoT-Based Intelligent Automation in Robotics",
+        "img": "http://image.banshujiang.cn/5130.jpeg?timestamp=1746245975506",
+        "author": "Ashutosh Kumar Dubey, Abhishek Kumar, S. Rakesh Kumar, N. Gayathri and Prasenjit Das",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5130/webstorage_links/24450/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5129,
+        "title": "AI Agents in Action",
+        "img": "http://image.banshujiang.cn/5129.jpeg?timestamp=1746245865334",
+        "author": "Micheal Lanham",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5129/webstorage_links/24448/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5128,
+        "title": "30-second AI and Robotics",
+        "img": "http://image.banshujiang.cn/5128.jpeg?timestamp=1746245613819",
+        "author": "Luis de Miranda",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5128/webstorage_links/24446/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5127,
+        "title": "大模型应用开发-动手做AI Agent",
+        "img": "http://image.banshujiang.cn/5127.jpeg?timestamp=1746244999279",
+        "author": "黄佳",
+        "language": "中文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5127/webstorage_links/24444/to_link"
+            }
+        ]
+    },
+    {
         "id": 5097,
         "title": "Google Prompt Engineering",
         "img": "http://image.banshujiang.cn/5097.jpeg?timestamp=1746188030302",
