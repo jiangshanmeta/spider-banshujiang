@@ -164,6 +164,38 @@
         ]
     },
     {
+        "id": 5143,
+        "title": "Learning LangChain: Building AI and LLM Applications with LangChain and LangGraph",
+        "img": "http://image.banshujiang.cn/5143.jpeg?timestamp=1746274319615",
+        "author": "Mayo Oshin and Nuno Campos",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5143/webstorage_links/24480/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5135,
+        "title": "Clean Code Principles And Patterns(Python Edition)",
+        "img": "http://image.banshujiang.cn/5135.jpeg?timestamp=1746249527582",
+        "author": "Petri Silen",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5135/webstorage_links/24460/to_link"
+            }
+        ]
+    },
+    {
         "id": 5126,
         "title": "The College Panda SAT Math: advanced Guide and Workbook 2nd Edition",
         "img": "http://image.banshujiang.cn/5126.jpeg?timestamp=1746193253084",
@@ -245,38 +277,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/5122/webstorage_links/24433/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5120,
-        "title": "Python NumPy Beginners: NumPy Specialization For Data Scientists",
-        "img": "http://image.banshujiang.cn/5120.jpeg?timestamp=1746192087351",
-        "author": "AI Publishing",
-        "language": "英文",
-        "publishYear": 2021,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5120/webstorage_links/24428/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5119,
-        "title": "Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython 2nd Edition",
-        "img": "http://image.banshujiang.cn/5119.jpeg?timestamp=1746191936870",
-        "author": "Wes McKinney",
-        "language": "英文",
-        "publishYear": 2017,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "百度网盘",
-                "link": "/e_books/5119/webstorage_links/24426/to_link"
             }
         ]
     }

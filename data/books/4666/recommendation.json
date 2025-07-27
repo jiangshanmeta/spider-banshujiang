@@ -1,5 +1,21 @@
 [
     {
+        "id": 5143,
+        "title": "Learning LangChain: Building AI and LLM Applications with LangChain and LangGraph",
+        "img": "http://image.banshujiang.cn/5143.jpeg?timestamp=1746274319615",
+        "author": "Mayo Oshin and Nuno Campos",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5143/webstorage_links/24480/to_link"
+            }
+        ]
+    },
+    {
         "id": 5087,
         "title": "Learn Python Generative AI",
         "img": "http://image.banshujiang.cn/5087.jpeg?timestamp=1746066994092",
@@ -281,22 +297,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4688/webstorage_links/22889/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4630,
-        "title": "精通Python自然语言处理",
-        "img": "http://image.banshujiang.cn/4630.jpeg?timestamp=1728998145308",
-        "author": "[印度]Deepti Chopra、Nisheeth Joshi、Iti Mathur [译]王威",
-        "language": "中文",
-        "publishYear": 2017,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4630/webstorage_links/22731/to_link"
             }
         ]
     }

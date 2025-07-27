@@ -1,5 +1,122 @@
 [
     {
+        "id": 5143,
+        "title": "Learning LangChain: Building AI and LLM Applications with LangChain and LangGraph",
+        "img": "http://image.banshujiang.cn/5143.jpeg?timestamp=1746274319615",
+        "author": "Mayo Oshin and Nuno Campos",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5143/webstorage_links/24480/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5142,
+        "title": "Large Language Models Projects: Apply and Implement Strategies for Large Language Models",
+        "img": "http://image.banshujiang.cn/5142.jpeg?timestamp=1746274131386",
+        "author": "Pere Martra",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5142/webstorage_links/24478/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5141,
+        "title": "Large Language Models: Concepts, Techniques and Applications",
+        "img": "http://image.banshujiang.cn/5141.jpeg?timestamp=1746250938517",
+        "author": "John Atkinson‑Abutridy",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5141/webstorage_links/24476/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5140,
+        "title": "Introduction to AI Robotics 2nd Edition",
+        "img": "http://image.banshujiang.cn/5140.jpeg?timestamp=1746250600854",
+        "author": "Robin R. Murphy",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5140/webstorage_links/24474/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5140/webstorage_links/24473/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5136,
+        "title": "EU Policy and Legal Framework for Artificial Intelligence, Robotics and Related Technologies - The AI Act",
+        "img": "http://image.banshujiang.cn/5136.jpeg?timestamp=1746249750144",
+        "author": "Nikos Th. Nikolinakos",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5136/webstorage_links/24462/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5134,
+        "title": "Building AI-Powered Products",
+        "img": "http://image.banshujiang.cn/5134.jpeg?timestamp=1746249380826",
+        "author": "Dr. Marily Nika",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5134/webstorage_links/24458/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5133,
+        "title": "Apocalyptic AI: Visions of Heaven in Robotics, Artificial Intelligence, and Virtual Reality",
+        "img": "http://image.banshujiang.cn/5133.jpeg?timestamp=1746249225018",
+        "author": "Robert M. Geraci",
+        "language": "英文",
+        "publishYear": 2010,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5133/webstorage_links/24456/to_link"
+            }
+        ]
+    },
+    {
         "id": 5132,
         "title": "AI-Powered Search",
         "img": "http://image.banshujiang.cn/5132.jpeg?timestamp=1746249132492",
@@ -155,128 +272,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/5095/webstorage_links/24372/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5094,
-        "title": "The Principles of Deep Learning Theory",
-        "img": "http://image.banshujiang.cn/5094.jpeg?timestamp=1746187251587",
-        "author": "Daniel A. Roberts and Sho Yaida",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5094/webstorage_links/24367/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5093,
-        "title": "The DeepSeek Millionaire",
-        "img": "http://image.banshujiang.cn/5093.jpeg?timestamp=1746187047402",
-        "author": "Collins Asein",
-        "language": "英文",
-        "publishYear": 2025,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/5093/webstorage_links/24365/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5092,
-        "title": "Atlas of AI",
-        "img": "http://image.banshujiang.cn/5092.jpeg?timestamp=1746067988504",
-        "author": "Kate Crawford",
-        "language": "英文",
-        "publishYear": 2021,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/5092/webstorage_links/24363/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/5092/webstorage_links/24362/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5091,
-        "title": "The AI Playbook",
-        "img": "http://image.banshujiang.cn/5091.jpeg?timestamp=1746067802074",
-        "author": "Eric Siegel",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5091/webstorage_links/24358/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/5091/webstorage_links/24357/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5090,
-        "title": "Retrieval-Augmented Generation (RAG): Empowering Large Language Models (LLMs)",
-        "img": "http://image.banshujiang.cn/5090.jpeg?timestamp=1746067448546",
-        "author": "Dr. Ray Islam",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/5090/webstorage_links/24355/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5089,
-        "title": "Python Pandas for Beginners: Pandas Specialization for Data Scientists",
-        "img": "http://image.banshujiang.cn/5089.jpeg?timestamp=1746067289244",
-        "author": "AI Publishing",
-        "language": "英文",
-        "publishYear": 2021,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5089/webstorage_links/24353/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5088,
-        "title": "Practical AI for Cybersecurity",
-        "img": "http://image.banshujiang.cn/5088.jpeg?timestamp=1746067092271",
-        "author": "Ravi Das",
-        "language": "英文",
-        "publishYear": 2021,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5088/webstorage_links/24351/to_link"
             }
         ]
     }

@@ -85,6 +85,22 @@
         ]
     },
     {
+        "id": 5139,
+        "title": "Hands-on Test-Driven Development Using Ruby, Ruby on Rails, and RSpec",
+        "img": "http://image.banshujiang.cn/5139.jpeg?timestamp=1746250392705",
+        "author": "Greg Donald",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Ruby",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5139/webstorage_links/24470/to_link"
+            }
+        ]
+    },
+    {
         "id": 4836,
         "title": "Learning PHP, MySQL &amp; JavaScript 5th Edition",
         "img": "http://image.banshujiang.cn/4836.jpeg?timestamp=1731738370095",
@@ -306,22 +322,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4429/webstorage_links/21857/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4428,
-        "title": "Ext JS实战(第2版)",
-        "img": "http://image.banshujiang.cn/4428.jpeg?timestamp=1723343708723",
-        "author": "[ 美]Jesus Garcia、 Grgur Grisogono、Jacob K. Andresen [译]卢雄飞、田雷鹏、郜忠富",
-        "language": "中文",
-        "publishYear": 2015,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4428/webstorage_links/21855/to_link"
             }
         ]
     }

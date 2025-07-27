@@ -1,5 +1,42 @@
 [
     {
+        "id": 5138,
+        "title": "Groovy程序设计",
+        "img": "http://image.banshujiang.cn/5138.jpeg?timestamp=1746250285892",
+        "author": "[美]Venkat Subramaniam [译]臧秀涛",
+        "language": "中文",
+        "publishYear": 2013,
+        "programLanguage": "Groovy",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5138/webstorage_links/24468/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/5138/webstorage_links/24467/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5137,
+        "title": "Groovy tutorialspoint",
+        "img": "http://image.banshujiang.cn/5137.jpeg?timestamp=1746250132178",
+        "author": "tutorialspoint",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Groovy",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5137/webstorage_links/24464/to_link"
+            }
+        ]
+    },
+    {
         "id": 4512,
         "title": "Grails in Action 2nd Edition",
         "img": "http://image.banshujiang.cn/4512.jpeg?timestamp=1727833277901",

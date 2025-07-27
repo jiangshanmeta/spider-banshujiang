@@ -16,6 +16,22 @@
         ]
     },
     {
+        "id": 5139,
+        "title": "Hands-on Test-Driven Development Using Ruby, Ruby on Rails, and RSpec",
+        "img": "http://image.banshujiang.cn/5139.jpeg?timestamp=1746250392705",
+        "author": "Greg Donald",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Ruby",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5139/webstorage_links/24470/to_link"
+            }
+        ]
+    },
+    {
         "id": 4774,
         "title": "Switching to the Mac El Capitan Edition the missing manual",
         "img": "http://image.banshujiang.cn/4774.jpeg?timestamp=1730535398787",
@@ -301,27 +317,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3541/webstorage_links/18435/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3521,
-        "title": "Agile Web Development with Rails 7",
-        "img": "http://image.banshujiang.cn/3521.jpeg?timestamp=1696770038701",
-        "author": "Sam Ruby",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "Ruby",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3521/webstorage_links/18343/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3521/webstorage_links/18342/to_link"
             }
         ]
     }
