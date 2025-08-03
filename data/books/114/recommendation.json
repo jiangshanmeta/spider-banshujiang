@@ -16,6 +16,38 @@
         ]
     },
     {
+        "id": 5153,
+        "title": "Rails: Novice to Ninja 3rd Edition",
+        "img": "http://image.banshujiang.cn/5153.jpeg?timestamp=1746275716138",
+        "author": "Glenn Goodrich and Patrick Lenz",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Ruby",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5153/webstorage_links/24502/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5146,
+        "title": "Mastering Ruby on Rails: A Beginner’s Guide",
+        "img": "http://image.banshujiang.cn/5146.jpeg?timestamp=1746274705040",
+        "author": "Sufyan bin Uzayr",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "Ruby",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5146/webstorage_links/24486/to_link"
+            }
+        ]
+    },
+    {
         "id": 5139,
         "title": "Hands-on Test-Driven Development Using Ruby, Ruby on Rails, and RSpec",
         "img": "http://image.banshujiang.cn/5139.jpeg?timestamp=1746250392705",
@@ -275,48 +307,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3560/webstorage_links/18500/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3559,
-        "title": "Modern Concurrency in Swift 2nd Edition",
-        "img": "http://image.banshujiang.cn/3559.jpeg?timestamp=1697274441182",
-        "author": "Marin Todorov",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3559/webstorage_links/18497/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3559/webstorage_links/18496/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3541,
-        "title": "Advanced Apple Debugging &amp; Reverse Engineering",
-        "img": "http://image.banshujiang.cn/3541.jpeg?timestamp=1697273649437",
-        "author": "Walter Tyree",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3541/webstorage_links/18434/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3541/webstorage_links/18435/to_link"
             }
         ]
     }

@@ -1,5 +1,21 @@
 [
     {
+        "id": 5149,
+        "title": "Python Machine Learning for Beginners",
+        "img": "http://image.banshujiang.cn/5149.jpeg?timestamp=1746275153318",
+        "author": "AI Publishing",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5149/webstorage_links/24492/to_link"
+            }
+        ]
+    },
+    {
         "id": 5143,
         "title": "Learning LangChain: Building AI and LLM Applications with LangChain and LangGraph",
         "img": "http://image.banshujiang.cn/5143.jpeg?timestamp=1746274319615",
@@ -271,22 +287,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4688/webstorage_links/22889/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4666,
-        "title": "Learn Generative AI with PyTorch",
-        "img": "http://image.banshujiang.cn/4666.jpeg?timestamp=1729328299203",
-        "author": "Mark Liu",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4666/webstorage_links/22829/to_link"
             }
         ]
     }

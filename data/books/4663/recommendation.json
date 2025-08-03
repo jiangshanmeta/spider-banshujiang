@@ -1,5 +1,37 @@
 [
     {
+        "id": 5153,
+        "title": "Rails: Novice to Ninja 3rd Edition",
+        "img": "http://image.banshujiang.cn/5153.jpeg?timestamp=1746275716138",
+        "author": "Glenn Goodrich and Patrick Lenz",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Ruby",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5153/webstorage_links/24502/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5146,
+        "title": "Mastering Ruby on Rails: A Beginner’s Guide",
+        "img": "http://image.banshujiang.cn/5146.jpeg?timestamp=1746274705040",
+        "author": "Sufyan bin Uzayr",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "Ruby",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5146/webstorage_links/24486/to_link"
+            }
+        ]
+    },
+    {
         "id": 5139,
         "title": "Hands-on Test-Driven Development Using Ruby, Ruby on Rails, and RSpec",
         "img": "http://image.banshujiang.cn/5139.jpeg?timestamp=1746250392705",
@@ -285,48 +317,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3521/webstorage_links/18342/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3498,
-        "title": "Mastering PostgreSQL 15 5th Edition",
-        "img": "http://image.banshujiang.cn/3498.jpeg?timestamp=1696560531353",
-        "author": "Hans-Jürgen Schönig",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3498/webstorage_links/18254/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3498/webstorage_links/18255/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3459,
-        "title": "PostgreSQL High Performance Cookbook",
-        "img": "http://image.banshujiang.cn/3459.jpeg?timestamp=1693646005292",
-        "author": "Chitij Chauhan and Dinesh Kumar",
-        "language": "英文",
-        "publishYear": 2017,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3459/webstorage_links/18067/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3459/webstorage_links/18066/to_link"
             }
         ]
     }

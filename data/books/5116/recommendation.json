@@ -1,5 +1,90 @@
 [
     {
+        "id": 5152,
+        "title": "Python数据可视化之matplotlib实践",
+        "img": "http://image.banshujiang.cn/5152.jpeg?timestamp=1746275615210",
+        "author": "刘大成",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5152/webstorage_links/24500/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5151,
+        "title": "Python数据可视化编程实战（第2版）",
+        "img": "http://image.banshujiang.cn/5151.jpeg?timestamp=1746275463933",
+        "author": "[爱尔兰]Igor Milovanović [法]Dimitry Foures [意大利]Giuseppe Vettigli [译]颛清山",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5151/webstorage_links/24498/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5151/webstorage_links/24497/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5150,
+        "title": "Python数据分析：活用Pandas库(扫描版)",
+        "img": "http://image.banshujiang.cn/5150.jpeg?timestamp=1746275299888",
+        "author": "[美]Daniel Y. Chen [译]武传海",
+        "language": "中文",
+        "publishYear": 2020,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5150/webstorage_links/24494/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5149,
+        "title": "Python Machine Learning for Beginners",
+        "img": "http://image.banshujiang.cn/5149.jpeg?timestamp=1746275153318",
+        "author": "AI Publishing",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5149/webstorage_links/24492/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5147,
+        "title": "Mastering SciPy",
+        "img": "http://image.banshujiang.cn/5147.jpeg?timestamp=1746274871398",
+        "author": "Francisco J. Blanco-Silva",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5147/webstorage_links/24488/to_link"
+            }
+        ]
+    },
+    {
         "id": 5143,
         "title": "Learning LangChain: Building AI and LLM Applications with LangChain and LangGraph",
         "img": "http://image.banshujiang.cn/5143.jpeg?timestamp=1746274319615",
@@ -182,91 +267,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/5117/webstorage_links/24421/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5115,
-        "title": "Pandas数据处理与分析",
-        "img": "http://image.banshujiang.cn/5115.jpeg?timestamp=1746191400305",
-        "author": "耿远昊",
-        "language": "中文",
-        "publishYear": 2022,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5115/webstorage_links/24417/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5114,
-        "title": "Pandas in 7 Days",
-        "img": "http://image.banshujiang.cn/5114.jpeg?timestamp=1746191234468",
-        "author": "Fabio Nelli",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5114/webstorage_links/24415/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/5114/webstorage_links/24414/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5113,
-        "title": "NumPy攻略：Python科学计算与数据分析(扫描版)",
-        "img": "http://image.banshujiang.cn/5113.jpeg?timestamp=1746191031950",
-        "author": "[印尼]Ivan Idris [译]张崇明",
-        "language": "中文",
-        "publishYear": 2013,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5113/webstorage_links/24411/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5112,
-        "title": "Numpy Programming For Beginners: Quick Start Guide",
-        "img": "http://image.banshujiang.cn/5112.jpeg?timestamp=1746190793140",
-        "author": "Ray Yao",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5112/webstorage_links/24409/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5111,
-        "title": "NumPy Essentials",
-        "img": "http://image.banshujiang.cn/5111.jpeg?timestamp=1746190667685",
-        "author": "Leo(Liang-Huan) Chin and Tanmay Dutta",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/5111/webstorage_links/24407/to_link"
             }
         ]
     }

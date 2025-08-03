@@ -97571,5 +97571,186 @@
                 "link": "/e_books/5143/webstorage_links/24480/to_link"
             }
         ]
+    },
+    {
+        "id": 5144,
+        "title": "LLMs in Production: From Language Models To Successful Products",
+        "img": "http://image.banshujiang.cn/5144.jpeg?timestamp=1746274461473",
+        "author": "Christopher Brousseau and Matthew Sharp",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5144/webstorage_links/24482/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5145,
+        "title": "Machine Learning System Design: With End-to-End Examples",
+        "img": "http://image.banshujiang.cn/5145.jpeg?timestamp=1746274602436",
+        "author": "Valerii Babushkin and Arseny Kravchenko",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5145/webstorage_links/24484/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5146,
+        "title": "Mastering Ruby on Rails: A Beginner’s Guide",
+        "img": "http://image.banshujiang.cn/5146.jpeg?timestamp=1746274705040",
+        "author": "Sufyan bin Uzayr",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "Ruby",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5146/webstorage_links/24486/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5147,
+        "title": "Mastering SciPy",
+        "img": "http://image.banshujiang.cn/5147.jpeg?timestamp=1746274871398",
+        "author": "Francisco J. Blanco-Silva",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5147/webstorage_links/24488/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5148,
+        "title": "Natural Language Processing in Action 2nd Edition",
+        "img": "http://image.banshujiang.cn/5148.jpeg?timestamp=1746274973679",
+        "author": "Hobson Lane and Maria Dyshel",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5148/webstorage_links/24490/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5149,
+        "title": "Python Machine Learning for Beginners",
+        "img": "http://image.banshujiang.cn/5149.jpeg?timestamp=1746275153318",
+        "author": "AI Publishing",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5149/webstorage_links/24492/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5150,
+        "title": "Python数据分析：活用Pandas库(扫描版)",
+        "img": "http://image.banshujiang.cn/5150.jpeg?timestamp=1746275299888",
+        "author": "[美]Daniel Y. Chen [译]武传海",
+        "language": "中文",
+        "publishYear": 2020,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5150/webstorage_links/24494/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5151,
+        "title": "Python数据可视化编程实战（第2版）",
+        "img": "http://image.banshujiang.cn/5151.jpeg?timestamp=1746275463933",
+        "author": "[爱尔兰]Igor Milovanović [法]Dimitry Foures [意大利]Giuseppe Vettigli [译]颛清山",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5151/webstorage_links/24498/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5151/webstorage_links/24497/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5152,
+        "title": "Python数据可视化之matplotlib实践",
+        "img": "http://image.banshujiang.cn/5152.jpeg?timestamp=1746275615210",
+        "author": "刘大成",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5152/webstorage_links/24500/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5153,
+        "title": "Rails: Novice to Ninja 3rd Edition",
+        "img": "http://image.banshujiang.cn/5153.jpeg?timestamp=1746275716138",
+        "author": "Glenn Goodrich and Patrick Lenz",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Ruby",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5153/webstorage_links/24502/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5154,
+        "title": "Robotics, AI and the Future of Law",
+        "img": "http://image.banshujiang.cn/5154.jpeg?timestamp=1746275860954",
+        "author": "Marcelo Corrales, Mark Fenwick and Nikolaus Forgó",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5154/webstorage_links/24504/to_link"
+            }
+        ]
     }
 ]

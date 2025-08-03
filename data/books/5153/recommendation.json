@@ -1,0 +1,333 @@
+[
+    {
+        "id": 5146,
+        "title": "Mastering Ruby on Rails: A Beginner’s Guide",
+        "img": "http://image.banshujiang.cn/5146.jpeg?timestamp=1746274705040",
+        "author": "Sufyan bin Uzayr",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "Ruby",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5146/webstorage_links/24486/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5139,
+        "title": "Hands-on Test-Driven Development Using Ruby, Ruby on Rails, and RSpec",
+        "img": "http://image.banshujiang.cn/5139.jpeg?timestamp=1746250392705",
+        "author": "Greg Donald",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Ruby",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5139/webstorage_links/24470/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4663,
+        "title": "High Performance PostgreSQL for Rails",
+        "img": "http://image.banshujiang.cn/4663.jpeg?timestamp=1729328041416",
+        "author": "Andrew Atkinson",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Ruby",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4663/webstorage_links/22821/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4663/webstorage_links/22819/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4663/webstorage_links/22820/to_link"
+            },
+            {
+                "fmt": "CODE",
+                "title": "城通网盘",
+                "link": "/e_books/4663/webstorage_links/22818/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4520,
+        "title": "Rails 4 in Action",
+        "img": "http://image.banshujiang.cn/4520.jpeg?timestamp=1727836143814",
+        "author": "Ryan Bigg, Yehuda Katz, Steve Klabnik and Rebecca Skinner",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Ruby",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4520/webstorage_links/22247/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4317,
+        "title": "Ruby Cookbook Early Release 2nd Edition",
+        "img": "http://image.banshujiang.cn/4317.jpeg?timestamp=1720923577229",
+        "author": "Lucas Carlson and Leonard Richardson",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "Ruby",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4317/webstorage_links/21483/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4104,
+        "title": "Learn Enough Ruby To Be Dangerous",
+        "img": "http://image.banshujiang.cn/4104.jpeg?timestamp=1717517100941",
+        "author": "Michael Hartl",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "Ruby",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4104/webstorage_links/20545/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4104/webstorage_links/20544/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4036,
+        "title": "Ruby on Rails Tutorial 7th Edition",
+        "img": "http://image.banshujiang.cn/4036.jpeg?timestamp=1715950043170",
+        "author": "Michael Hartl",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Ruby",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4036/webstorage_links/20298/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4036/webstorage_links/20297/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3744,
+        "title": "BeginningRails 4 3rd Edition",
+        "img": "http://image.banshujiang.cn/3744.jpeg?timestamp=1712323977169",
+        "author": "Adam Gamble, Clovers Carneiro Jr. and Rida Al Barazi",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Ruby",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3744/webstorage_links/19161/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3744/webstorage_links/19160/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3560,
+        "title": "Modern Front-End Development for Rails 2nd Edition",
+        "img": "http://image.banshujiang.cn/3560.jpeg?timestamp=1697274521342",
+        "author": "Noel Rappin",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "Ruby",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3560/webstorage_links/18501/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3560/webstorage_links/18500/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3521,
+        "title": "Agile Web Development with Rails 7",
+        "img": "http://image.banshujiang.cn/3521.jpeg?timestamp=1696770038701",
+        "author": "Sam Ruby",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Ruby",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3521/webstorage_links/18343/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3521/webstorage_links/18342/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3105,
+        "title": "Ruby on Rails Tutorial 6th Edition",
+        "img": "https://imagebsj.netlify.app/3105.jpeg",
+        "author": "Michael Hartl",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "Ruby",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3105/webstorage_links/16470/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2807,
+        "title": "Agile Web Development with Rails 6",
+        "img": "https://imagebsj.netlify.app/2807.jpeg",
+        "author": "Sam Ruby",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "Ruby",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2807/webstorage_links/10217/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2807/webstorage_links/10216/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2617,
+        "title": "Modern Front-End Development for Rails",
+        "img": "https://imagebsj.netlify.app/2617.jpeg",
+        "author": "Noel Rappin",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Ruby",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2617/webstorage_links/9122/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2617/webstorage_links/9124/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/2617/webstorage_links/9123/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2310,
+        "title": "Ruby Performance Optimization",
+        "img": "https://imagebsj.netlify.app/2310.jpeg",
+        "author": "Alexander Dymo",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Ruby",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2310/webstorage_links/15714/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2310/webstorage_links/15712/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/2310/webstorage_links/15713/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2253,
+        "title": "The Well-Grounded Rubyist 3rd Edition",
+        "img": "https://imagebsj.netlify.app/2253.jpeg",
+        "author": "David A. Black Joseph Leo III",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "Ruby",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2253/webstorage_links/15619/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2233,
+        "title": "Docker for Rails Developers",
+        "img": "https://imagebsj.netlify.app/2233.jpeg",
+        "author": "Rob Isenberg",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "Ruby",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2233/webstorage_links/15593/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2233/webstorage_links/15592/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/2233/webstorage_links/15591/to_link"
+            }
+        ]
+    }
+]

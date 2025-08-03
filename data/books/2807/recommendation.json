@@ -80,6 +80,38 @@
         ]
     },
     {
+        "id": 5153,
+        "title": "Rails: Novice to Ninja 3rd Edition",
+        "img": "http://image.banshujiang.cn/5153.jpeg?timestamp=1746275716138",
+        "author": "Glenn Goodrich and Patrick Lenz",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Ruby",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5153/webstorage_links/24502/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5146,
+        "title": "Mastering Ruby on Rails: A Beginner’s Guide",
+        "img": "http://image.banshujiang.cn/5146.jpeg?timestamp=1746274705040",
+        "author": "Sufyan bin Uzayr",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "Ruby",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5146/webstorage_links/24486/to_link"
+            }
+        ]
+    },
+    {
         "id": 5139,
         "title": "Hands-on Test-Driven Development Using Ruby, Ruby on Rails, and RSpec",
         "img": "http://image.banshujiang.cn/5139.jpeg?timestamp=1746250392705",
@@ -280,43 +312,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4481/webstorage_links/22071/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4463,
-        "title": "Learning PHP, MySQL &amp; JavaScript 4th Editiion",
-        "img": "http://image.banshujiang.cn/4463.jpeg?timestamp=1723875148984",
-        "author": "Robin Nixon",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "PHP",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4463/webstorage_links/21999/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4463/webstorage_links/21998/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4429,
-        "title": "Flask Web开发: 基于Python的Web应用开发实战",
-        "img": "http://image.banshujiang.cn/4429.jpeg?timestamp=1723343837786",
-        "author": "[美]Miguel Grinberg [译]安道",
-        "language": "中文",
-        "publishYear": 2015,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4429/webstorage_links/21857/to_link"
             }
         ]
     }

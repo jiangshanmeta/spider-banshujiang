@@ -1,0 +1,303 @@
+[
+    {
+        "id": 5143,
+        "title": "Learning LangChain: Building AI and LLM Applications with LangChain and LangGraph",
+        "img": "http://image.banshujiang.cn/5143.jpeg?timestamp=1746274319615",
+        "author": "Mayo Oshin and Nuno Campos",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5143/webstorage_links/24480/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5087,
+        "title": "Learn Python Generative AI",
+        "img": "http://image.banshujiang.cn/5087.jpeg?timestamp=1746066994092",
+        "author": "Zonunfeli Ralte and Indrajit Kar",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5087/webstorage_links/24349/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5087/webstorage_links/24348/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5086,
+        "title": "LangChain Crash Course",
+        "img": "http://image.banshujiang.cn/5086.jpeg?timestamp=1746202013524",
+        "author": "Greg Lim",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5086/webstorage_links/24345/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5081,
+        "title": "用Python动手学机器学习",
+        "img": "http://image.banshujiang.cn/5081.jpeg?timestamp=1746065700089",
+        "author": "[日]伊藤真 [译]郑明智、司磊",
+        "language": "中文",
+        "publishYear": 2021,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5081/webstorage_links/24331/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/5081/webstorage_links/24330/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5039,
+        "title": "Data Preparation for Machine Learning",
+        "img": "http://image.banshujiang.cn/5039.jpeg",
+        "author": "Jason Brownlee",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5039/webstorage_links/24225/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4972,
+        "title": "OpenAI GPT For Python Developers",
+        "img": "http://image.banshujiang.cn/4972.jpeg",
+        "author": "Aymen El Amri",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4972/webstorage_links/24035/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4952,
+        "title": "Reinforcement Learning for Finance",
+        "img": "https://gitee.com/nswish/banshujiang.img/raw/main/4952.jpeg",
+        "author": "Yves Hilpisch",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4952/webstorage_links/23966/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4952/webstorage_links/23965/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4951,
+        "title": "Python自然语言处理实战(扫描版)",
+        "img": "https://gitee.com/nswish/banshujiang.img/raw/main/4951.jpeg",
+        "author": "涂铭、刘祥、刘树春",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4951/webstorage_links/23962/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4950,
+        "title": "Python 神经网络编程(扫描版)",
+        "img": "https://gitee.com/nswish/banshujiang.img/raw/main/4950.jpeg",
+        "author": "[英]Tariq Rashid [译]林赐",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4950/webstorage_links/23960/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4945,
+        "title": "OpenCV 4计算机视觉: Python语言实现(第3版)",
+        "img": "http://image.banshujiang.cn/4945.jpeg?timestamp=1740747789508",
+        "author": "[加]Joseph Howse [爱]Joe Minichino [译]刘冰、高博",
+        "language": "中文",
+        "publishYear": 2021,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4945/webstorage_links/23944/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4945/webstorage_links/23943/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4944,
+        "title": "Neural Networks from Scratch in Python",
+        "img": "http://image.banshujiang.cn/4944.jpeg?timestamp=1742606586447",
+        "author": "Harrison Kinsley &amp; Daniel Kukieła",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4944/webstorage_links/23940/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4938,
+        "title": "LangChain入门指南(扫描版)",
+        "img": "http://image.banshujiang.cn/4938.jpeg?timestamp=1740655077848",
+        "author": "李特丽、康轶文",
+        "language": "中文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4938/webstorage_links/23922/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4935,
+        "title": "Hands-On Unsupervised Learning Using Python",
+        "img": "http://image.banshujiang.cn/4935.jpeg?timestamp=1740654446690",
+        "author": "Ankur A. Patel",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4935/webstorage_links/23912/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4935/webstorage_links/23911/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/4935/webstorage_links/23910/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4881,
+        "title": "Natural Language Processing with PyTorch",
+        "img": "http://image.banshujiang.cn/4881.jpeg?timestamp=1738845954896",
+        "author": "Delip Rao and Brian McMahan",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4881/webstorage_links/23718/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4881/webstorage_links/23717/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4778,
+        "title": "Building Machine Learning Systems with Python 2nd Edition",
+        "img": "http://image.banshujiang.cn/4778.jpeg?timestamp=1730535811753",
+        "author": "Luis Pedro and Coelho Willi Richert",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4778/webstorage_links/23312/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4778/webstorage_links/23310/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/4778/webstorage_links/23311/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4688,
+        "title": "Starting Data Analytics with Generative AI and Python",
+        "img": "http://image.banshujiang.cn/4688.jpeg?timestamp=1729913287980",
+        "author": "Artur Guja, Marlena Siwiak and Marian Siwiak",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4688/webstorage_links/22889/to_link"
+            }
+        ]
+    }
+]

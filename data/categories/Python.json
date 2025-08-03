@@ -1,5 +1,90 @@
 [
     {
+        "id": 5152,
+        "title": "Python数据可视化之matplotlib实践",
+        "img": "http://image.banshujiang.cn/5152.jpeg?timestamp=1746275615210",
+        "author": "刘大成",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5152/webstorage_links/24500/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5151,
+        "title": "Python数据可视化编程实战（第2版）",
+        "img": "http://image.banshujiang.cn/5151.jpeg?timestamp=1746275463933",
+        "author": "[爱尔兰]Igor Milovanović [法]Dimitry Foures [意大利]Giuseppe Vettigli [译]颛清山",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5151/webstorage_links/24498/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5151/webstorage_links/24497/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5150,
+        "title": "Python数据分析：活用Pandas库(扫描版)",
+        "img": "http://image.banshujiang.cn/5150.jpeg?timestamp=1746275299888",
+        "author": "[美]Daniel Y. Chen [译]武传海",
+        "language": "中文",
+        "publishYear": 2020,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5150/webstorage_links/24494/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5149,
+        "title": "Python Machine Learning for Beginners",
+        "img": "http://image.banshujiang.cn/5149.jpeg?timestamp=1746275153318",
+        "author": "AI Publishing",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5149/webstorage_links/24492/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5147,
+        "title": "Mastering SciPy",
+        "img": "http://image.banshujiang.cn/5147.jpeg?timestamp=1746274871398",
+        "author": "Francisco J. Blanco-Silva",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5147/webstorage_links/24488/to_link"
+            }
+        ]
+    },
+    {
         "id": 5143,
         "title": "Learning LangChain: Building AI and LLM Applications with LangChain and LangGraph",
         "img": "http://image.banshujiang.cn/5143.jpeg?timestamp=1746274319615",
