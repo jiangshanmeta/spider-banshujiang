@@ -1,5 +1,53 @@
 [
     {
+        "id": 5163,
+        "title": "Jupyter Notebook 101",
+        "img": "http://image.banshujiang.cn/5163.jpeg?timestamp=1746362618761",
+        "author": "Michael Driscoll",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5163/webstorage_links/24528/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5162,
+        "title": "JupyterLab 101",
+        "img": "http://image.banshujiang.cn/5162.jpeg?timestamp=1746362485052",
+        "author": "Michael Driscoll",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5162/webstorage_links/24526/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5161,
+        "title": "Learn Python with Jupyter",
+        "img": "http://image.banshujiang.cn/5161.jpeg?timestamp=1746362318496",
+        "author": "Serena Bonaretti",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5161/webstorage_links/24522/to_link"
+            }
+        ]
+    },
+    {
         "id": 5152,
         "title": "Python数据可视化之matplotlib实践",
         "img": "http://image.banshujiang.cn/5152.jpeg?timestamp=1746275615210",

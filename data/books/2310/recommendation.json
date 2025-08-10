@@ -1,5 +1,42 @@
 [
     {
+        "id": 5156,
+        "title": "Ruby on Rails 教程：通过Rails学习Web开发(原书第6版)",
+        "img": "http://image.banshujiang.cn/5156.jpeg?timestamp=1746276208480",
+        "author": "[美]Michael Hartl [译]安道",
+        "language": "中文",
+        "publishYear": 2021,
+        "programLanguage": "Ruby",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5156/webstorage_links/24510/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5155,
+        "title": "Ruby on Rails Background Jobs with Sidekiq",
+        "img": "http://image.banshujiang.cn/5155.jpeg?timestamp=1746275963090",
+        "author": "David Bryant Copeland",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Ruby",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5155/webstorage_links/24508/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5155/webstorage_links/24507/to_link"
+            }
+        ]
+    },
+    {
         "id": 5153,
         "title": "Rails: Novice to Ninja 3rd Edition",
         "img": "http://image.banshujiang.cn/5153.jpeg?timestamp=1746275716138",
@@ -275,48 +312,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/2617/webstorage_links/9123/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2253,
-        "title": "The Well-Grounded Rubyist 3rd Edition",
-        "img": "https://imagebsj.netlify.app/2253.jpeg",
-        "author": "David A. Black Joseph Leo III",
-        "language": "英文",
-        "publishYear": 2019,
-        "programLanguage": "Ruby",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2253/webstorage_links/15619/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2233,
-        "title": "Docker for Rails Developers",
-        "img": "https://imagebsj.netlify.app/2233.jpeg",
-        "author": "Rob Isenberg",
-        "language": "英文",
-        "publishYear": 2019,
-        "programLanguage": "Ruby",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2233/webstorage_links/15593/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2233/webstorage_links/15592/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/2233/webstorage_links/15591/to_link"
             }
         ]
     }

@@ -95,6 +95,38 @@
         ]
     },
     {
+        "id": 5159,
+        "title": "The Rise of AI Agents: Integrating AI, Blockchain Technologies and Quantum Computing",
+        "img": "http://image.banshujiang.cn/5159.jpeg?timestamp=1746276487955",
+        "author": "Petar Radanliev",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5159/webstorage_links/24516/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5158,
+        "title": "The Future of Work: Robots, AI and Automation",
+        "img": "http://image.banshujiang.cn/5158.jpeg?timestamp=1746276392490",
+        "author": "Darrell M. West",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5158/webstorage_links/24514/to_link"
+            }
+        ]
+    },
+    {
         "id": 5154,
         "title": "Robotics, AI and the Future of Law",
         "img": "http://image.banshujiang.cn/5154.jpeg?timestamp=1746275860954",
@@ -240,38 +272,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/5140/webstorage_links/24473/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5136,
-        "title": "EU Policy and Legal Framework for Artificial Intelligence, Robotics and Related Technologies - The AI Act",
-        "img": "http://image.banshujiang.cn/5136.jpeg?timestamp=1746249750144",
-        "author": "Nikos Th. Nikolinakos",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5136/webstorage_links/24462/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5134,
-        "title": "Building AI-Powered Products",
-        "img": "http://image.banshujiang.cn/5134.jpeg?timestamp=1746249380826",
-        "author": "Dr. Marily Nika",
-        "language": "英文",
-        "publishYear": 2025,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/5134/webstorage_links/24458/to_link"
             }
         ]
     }

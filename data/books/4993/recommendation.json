@@ -1,5 +1,37 @@
 [
     {
+        "id": 5165,
+        "title": "Apache RocketMQ 从入门到实战",
+        "img": "http://image.banshujiang.cn/5165.jpeg?timestamp=1746875924894",
+        "author": "丁威",
+        "language": "中文",
+        "publishYear": 2020,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5165/webstorage_links/24534/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5164,
+        "title": "云原生消息队列 Apache RocketMQ",
+        "img": "http://image.banshujiang.cn/5164.jpeg?timestamp=1746875828489",
+        "author": "尘央",
+        "language": "中文",
+        "publishYear": 2020,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5164/webstorage_links/24532/to_link"
+            }
+        ]
+    },
+    {
         "id": 5002,
         "title": "Pragmatic Unit Testing in Java with JUnit 3rd Edition",
         "img": "http://image.banshujiang.cn/5002.jpeg",
@@ -310,48 +342,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/4739/webstorage_links/23111/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4707,
-        "title": "Java Persistence with Hibernate 2nd Edition",
-        "img": "http://image.banshujiang.cn/4707.jpeg?timestamp=1729929053638",
-        "author": "Christian Bauer, Gavin King and Gary Gregory",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4707/webstorage_links/22987/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4707/webstorage_links/22985/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4707/webstorage_links/22986/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4651,
-        "title": "Core Java: for The Impatient 4th Edition",
-        "img": "http://image.banshujiang.cn/4651.jpeg?timestamp=1729323430330",
-        "author": "Cay S. Horstmann",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4651/webstorage_links/22777/to_link"
             }
         ]
     }

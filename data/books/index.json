@@ -97752,5 +97752,191 @@
                 "link": "/e_books/5154/webstorage_links/24504/to_link"
             }
         ]
+    },
+    {
+        "id": 5155,
+        "title": "Ruby on Rails Background Jobs with Sidekiq",
+        "img": "http://image.banshujiang.cn/5155.jpeg?timestamp=1746275963090",
+        "author": "David Bryant Copeland",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Ruby",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5155/webstorage_links/24508/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5155/webstorage_links/24507/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5156,
+        "title": "Ruby on Rails 教程：通过Rails学习Web开发(原书第6版)",
+        "img": "http://image.banshujiang.cn/5156.jpeg?timestamp=1746276208480",
+        "author": "[美]Michael Hartl [译]安道",
+        "language": "中文",
+        "publishYear": 2021,
+        "programLanguage": "Ruby",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5156/webstorage_links/24510/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5157,
+        "title": "Shopify Application Development",
+        "img": "http://image.banshujiang.cn/5157.jpeg?timestamp=1746276284952",
+        "author": "Michael Larkin",
+        "language": "英文",
+        "publishYear": 2014,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5157/webstorage_links/24512/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5158,
+        "title": "The Future of Work: Robots, AI and Automation",
+        "img": "http://image.banshujiang.cn/5158.jpeg?timestamp=1746276392490",
+        "author": "Darrell M. West",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5158/webstorage_links/24514/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5159,
+        "title": "The Rise of AI Agents: Integrating AI, Blockchain Technologies and Quantum Computing",
+        "img": "http://image.banshujiang.cn/5159.jpeg?timestamp=1746276487955",
+        "author": "Petar Radanliev",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5159/webstorage_links/24516/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5160,
+        "title": "Terraform in Depth: Infrastructure as Code with Terraform and Opentofu",
+        "img": "http://image.banshujiang.cn/5160.jpeg?timestamp=1746276827562",
+        "author": "Robert Hafner",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5160/webstorage_links/24520/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5160/webstorage_links/24519/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5161,
+        "title": "Learn Python with Jupyter",
+        "img": "http://image.banshujiang.cn/5161.jpeg?timestamp=1746362318496",
+        "author": "Serena Bonaretti",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5161/webstorage_links/24522/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5162,
+        "title": "JupyterLab 101",
+        "img": "http://image.banshujiang.cn/5162.jpeg?timestamp=1746362485052",
+        "author": "Michael Driscoll",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5162/webstorage_links/24526/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5163,
+        "title": "Jupyter Notebook 101",
+        "img": "http://image.banshujiang.cn/5163.jpeg?timestamp=1746362618761",
+        "author": "Michael Driscoll",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5163/webstorage_links/24528/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5164,
+        "title": "云原生消息队列 Apache RocketMQ",
+        "img": "http://image.banshujiang.cn/5164.jpeg?timestamp=1746875828489",
+        "author": "尘央",
+        "language": "中文",
+        "publishYear": 2020,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5164/webstorage_links/24532/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5165,
+        "title": "Apache RocketMQ 从入门到实战",
+        "img": "http://image.banshujiang.cn/5165.jpeg?timestamp=1746875924894",
+        "author": "丁威",
+        "language": "中文",
+        "publishYear": 2020,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5165/webstorage_links/24534/to_link"
+            }
+        ]
     }
 ]

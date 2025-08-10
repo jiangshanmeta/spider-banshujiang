@@ -53,6 +53,38 @@
         ]
     },
     {
+        "id": 5165,
+        "title": "Apache RocketMQ 从入门到实战",
+        "img": "http://image.banshujiang.cn/5165.jpeg?timestamp=1746875924894",
+        "author": "丁威",
+        "language": "中文",
+        "publishYear": 2020,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5165/webstorage_links/24534/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5164,
+        "title": "云原生消息队列 Apache RocketMQ",
+        "img": "http://image.banshujiang.cn/5164.jpeg?timestamp=1746875828489",
+        "author": "尘央",
+        "language": "中文",
+        "publishYear": 2020,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5164/webstorage_links/24532/to_link"
+            }
+        ]
+    },
+    {
         "id": 5002,
         "title": "Pragmatic Unit Testing in Java with JUnit 3rd Edition",
         "img": "http://image.banshujiang.cn/5002.jpeg",
@@ -275,63 +307,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/4757/webstorage_links/23203/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4747,
-        "title": "Java核心技术-卷I-基础知识(第10版)",
-        "img": "http://image.banshujiang.cn/4747.jpeg?timestamp=1730531712709",
-        "author": "[美]Cay S. Hostmann [译]周立新、陈波、邝劲筠、杜永萍",
-        "language": "中文",
-        "publishYear": 2016,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4747/webstorage_links/23144/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4747/webstorage_links/23142/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4747/webstorage_links/23143/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4747/webstorage_links/23141/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4746,
-        "title": "Java从入门到精通(第4版)",
-        "img": "http://image.banshujiang.cn/4746.jpeg?timestamp=1730531048147",
-        "author": "明日科技",
-        "language": "中文",
-        "publishYear": 2008,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4746/webstorage_links/23135/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4746/webstorage_links/23136/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4746/webstorage_links/23134/to_link"
             }
         ]
     }

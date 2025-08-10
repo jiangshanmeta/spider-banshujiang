@@ -64,6 +64,38 @@
         ]
     },
     {
+        "id": 5165,
+        "title": "Apache RocketMQ 从入门到实战",
+        "img": "http://image.banshujiang.cn/5165.jpeg?timestamp=1746875924894",
+        "author": "丁威",
+        "language": "中文",
+        "publishYear": 2020,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5165/webstorage_links/24534/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5164,
+        "title": "云原生消息队列 Apache RocketMQ",
+        "img": "http://image.banshujiang.cn/5164.jpeg?timestamp=1746875828489",
+        "author": "尘央",
+        "language": "中文",
+        "publishYear": 2020,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5164/webstorage_links/24532/to_link"
+            }
+        ]
+    },
+    {
         "id": 5002,
         "title": "Pragmatic Unit Testing in Java with JUnit 3rd Edition",
         "img": "http://image.banshujiang.cn/5002.jpeg",
@@ -260,58 +292,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4782/webstorage_links/23327/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4781,
-        "title": "Android Programming: The Big Nerd Ranch Guide 2nd Edition",
-        "img": "http://image.banshujiang.cn/4781.jpeg?timestamp=1731120000030",
-        "author": "Bill Phillips, Chris Stewart, Brian Hardy and Kristin Marsicano",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4781/webstorage_links/23324/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4781/webstorage_links/23322/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4781/webstorage_links/23323/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4757,
-        "title": "Java Testing with Spock",
-        "img": "http://image.banshujiang.cn/4757.jpeg?timestamp=1730533325393",
-        "author": "Konstantinos Kapelonis",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4757/webstorage_links/23204/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4757/webstorage_links/23202/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4757/webstorage_links/23203/to_link"
             }
         ]
     }

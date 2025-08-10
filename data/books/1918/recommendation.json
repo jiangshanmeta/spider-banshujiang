@@ -85,6 +85,43 @@
         ]
     },
     {
+        "id": 5156,
+        "title": "Ruby on Rails 教程：通过Rails学习Web开发(原书第6版)",
+        "img": "http://image.banshujiang.cn/5156.jpeg?timestamp=1746276208480",
+        "author": "[美]Michael Hartl [译]安道",
+        "language": "中文",
+        "publishYear": 2021,
+        "programLanguage": "Ruby",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5156/webstorage_links/24510/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5155,
+        "title": "Ruby on Rails Background Jobs with Sidekiq",
+        "img": "http://image.banshujiang.cn/5155.jpeg?timestamp=1746275963090",
+        "author": "David Bryant Copeland",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Ruby",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5155/webstorage_links/24508/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5155/webstorage_links/24507/to_link"
+            }
+        ]
+    },
+    {
         "id": 5153,
         "title": "Rails: Novice to Ninja 3rd Edition",
         "img": "http://image.banshujiang.cn/5153.jpeg?timestamp=1746275716138",
@@ -270,53 +307,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/4505/webstorage_links/22180/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4487,
-        "title": "Full Stack JavaScript Development with MEAN",
-        "img": "http://image.banshujiang.cn/4487.jpeg?timestamp=1723950583814",
-        "author": "Adam Bretz and Colin J. Ihrig",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4487/webstorage_links/22095/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4487/webstorage_links/22093/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4487/webstorage_links/22094/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4487/webstorage_links/22092/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4481,
-        "title": "MEAN Web Development",
-        "img": "http://image.banshujiang.cn/4481.jpeg?timestamp=1723949786288",
-        "author": "Amos Q. Haviv",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4481/webstorage_links/22071/to_link"
             }
         ]
     }

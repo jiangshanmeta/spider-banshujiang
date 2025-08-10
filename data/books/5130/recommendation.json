@@ -1,5 +1,37 @@
 [
     {
+        "id": 5159,
+        "title": "The Rise of AI Agents: Integrating AI, Blockchain Technologies and Quantum Computing",
+        "img": "http://image.banshujiang.cn/5159.jpeg?timestamp=1746276487955",
+        "author": "Petar Radanliev",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5159/webstorage_links/24516/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5158,
+        "title": "The Future of Work: Robots, AI and Automation",
+        "img": "http://image.banshujiang.cn/5158.jpeg?timestamp=1746276392490",
+        "author": "Darrell M. West",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5158/webstorage_links/24514/to_link"
+            }
+        ]
+    },
+    {
         "id": 5154,
         "title": "Robotics, AI and the Future of Law",
         "img": "http://image.banshujiang.cn/5154.jpeg?timestamp=1746275860954",
@@ -225,38 +257,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/5131/webstorage_links/24452/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5129,
-        "title": "AI Agents in Action",
-        "img": "http://image.banshujiang.cn/5129.jpeg?timestamp=1746245865334",
-        "author": "Micheal Lanham",
-        "language": "英文",
-        "publishYear": 2025,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5129/webstorage_links/24448/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5128,
-        "title": "30-second AI and Robotics",
-        "img": "http://image.banshujiang.cn/5128.jpeg?timestamp=1746245613819",
-        "author": "Luis de Miranda",
-        "language": "英文",
-        "publishYear": 2019,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/5128/webstorage_links/24446/to_link"
             }
         ]
     }

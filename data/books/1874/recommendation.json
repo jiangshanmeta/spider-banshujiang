@@ -16,6 +16,38 @@
         ]
     },
     {
+        "id": 5165,
+        "title": "Apache RocketMQ 从入门到实战",
+        "img": "http://image.banshujiang.cn/5165.jpeg?timestamp=1746875924894",
+        "author": "丁威",
+        "language": "中文",
+        "publishYear": 2020,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5165/webstorage_links/24534/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5164,
+        "title": "云原生消息队列 Apache RocketMQ",
+        "img": "http://image.banshujiang.cn/5164.jpeg?timestamp=1746875828489",
+        "author": "尘央",
+        "language": "中文",
+        "publishYear": 2020,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5164/webstorage_links/24532/to_link"
+            }
+        ]
+    },
+    {
         "id": 5002,
         "title": "Pragmatic Unit Testing in Java with JUnit 3rd Edition",
         "img": "http://image.banshujiang.cn/5002.jpeg",
@@ -290,58 +322,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/4745/webstorage_links/23130/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4744,
-        "title": "Maven实战",
-        "img": "http://image.banshujiang.cn/4744.jpeg?timestamp=1730530696036",
-        "author": "许晓斌",
-        "language": "中文",
-        "publishYear": 2010,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4744/webstorage_links/23125/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4744/webstorage_links/23126/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4744/webstorage_links/23124/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4739,
-        "title": "Building Maintainable Software Java Edition",
-        "img": "http://image.banshujiang.cn/4739.jpeg?timestamp=1729935520480",
-        "author": "Joost Visser",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4739/webstorage_links/23112/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4739/webstorage_links/23110/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4739/webstorage_links/23111/to_link"
             }
         ]
     }
