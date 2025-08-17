@@ -32,6 +32,96 @@
         ]
     },
     {
+        "id": 5176,
+        "title": "Hands-On Bitcoin Programming with Python",
+        "img": "http://image.banshujiang.cn/5176.jpeg?timestamp=1746882105120",
+        "author": "Harish Kumar Garg",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5176/webstorage_links/24566/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5176/webstorage_links/24565/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5170,
+        "title": "Practical Data Science with Jupyter 2nd Edition",
+        "img": "http://image.banshujiang.cn/5170.jpeg?timestamp=1746878225692",
+        "author": "Prateek Gupta",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5170/webstorage_links/24546/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5170/webstorage_links/24545/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5169,
+        "title": "Machine Learning Concepts with Python and the Jupyter Notebook Environment: Using Tensorflow 2.0",
+        "img": "http://image.banshujiang.cn/5169.jpeg?timestamp=1746876323628",
+        "author": "Nikita Silaparasetty",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5169/webstorage_links/24542/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5168,
+        "title": "Jupyter入门与实战",
+        "img": "http://image.banshujiang.cn/5168.jpeg?timestamp=1746876230144",
+        "author": "冯立超",
+        "language": "中文",
+        "publishYear": 2021,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5168/webstorage_links/24540/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5167,
+        "title": "Jupyter Cookbook",
+        "img": "http://image.banshujiang.cn/5167.jpeg?timestamp=1746876122901",
+        "author": "Dan Toomey",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5167/webstorage_links/24538/to_link"
+            }
+        ]
+    },
+    {
         "id": 5163,
         "title": "Jupyter Notebook 101",
         "img": "http://image.banshujiang.cn/5163.jpeg?timestamp=1746362618761",
@@ -177,86 +267,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/5143/webstorage_links/24480/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5135,
-        "title": "Clean Code Principles And Patterns(Python Edition)",
-        "img": "http://image.banshujiang.cn/5135.jpeg?timestamp=1746249527582",
-        "author": "Petri Silen",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5135/webstorage_links/24460/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5126,
-        "title": "The College Panda SAT Math: advanced Guide and Workbook 2nd Edition",
-        "img": "http://image.banshujiang.cn/5126.jpeg?timestamp=1746193253084",
-        "author": "Nielson Phu",
-        "language": "英文",
-        "publishYear": 2020,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5126/webstorage_links/24442/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5125,
-        "title": "The College Panda 10 Practice Tests for the SAT Math(扫描版)",
-        "img": "http://image.banshujiang.cn/5125.jpeg?timestamp=1746193159998",
-        "author": "Nielson Phu",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5125/webstorage_links/24440/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5124,
-        "title": "The College Panda SAT Math: Advanced Guide and Workbook",
-        "img": "http://image.banshujiang.cn/5124.jpeg?timestamp=1746192994981",
-        "author": "Nielson Phu",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5124/webstorage_links/24438/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5123,
-        "title": "The College Panda SAT Essay: The Battle-tested Guide",
-        "img": "http://image.banshujiang.cn/5123.jpeg?timestamp=1746192827111",
-        "author": "Nielson Phu",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5123/webstorage_links/24436/to_link"
             }
         ]
     }

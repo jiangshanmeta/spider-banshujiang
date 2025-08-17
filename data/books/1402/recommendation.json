@@ -16,6 +16,101 @@
         ]
     },
     {
+        "id": 5174,
+        "title": "RocketMQ实战与原理解析",
+        "img": "http://image.banshujiang.cn/5174.jpeg?timestamp=1746878692689",
+        "author": "杨开元",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5174/webstorage_links/24559/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/5174/webstorage_links/24560/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/5174/webstorage_links/24558/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5173,
+        "title": "RocketMQ实战",
+        "img": "http://image.banshujiang.cn/5173.jpeg?timestamp=1746878538219",
+        "author": "丁威、梁勇",
+        "language": "中文",
+        "publishYear": 2022,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5173/webstorage_links/24554/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5172,
+        "title": "RocketMQ技术内幕：RocketMQ架构设计与实现原理(第2版)",
+        "img": "http://image.banshujiang.cn/5172.jpeg?timestamp=1746878405365",
+        "author": "丁威、张登、周继锋",
+        "language": "中文",
+        "publishYear": 2021,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5172/webstorage_links/24552/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5172/webstorage_links/24551/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5171,
+        "title": "RocketMQ分布式消息中间件：核心原理与最佳实践",
+        "img": "http://image.banshujiang.cn/5171.jpeg?timestamp=1746878330398",
+        "author": "李伟",
+        "language": "中文",
+        "publishYear": 2020,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5171/webstorage_links/24548/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5166,
+        "title": "Apache RocketMQ 源码解析",
+        "img": "http://image.banshujiang.cn/5166.jpeg?timestamp=1746876044514",
+        "author": "丁威",
+        "language": "中文",
+        "publishYear": 2020,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5166/webstorage_links/24536/to_link"
+            }
+        ]
+    },
+    {
         "id": 5165,
         "title": "Apache RocketMQ 从入门到实战",
         "img": "http://image.banshujiang.cn/5165.jpeg?timestamp=1746875924894",
@@ -192,136 +287,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4782/webstorage_links/23327/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4781,
-        "title": "Android Programming: The Big Nerd Ranch Guide 2nd Edition",
-        "img": "http://image.banshujiang.cn/4781.jpeg?timestamp=1731120000030",
-        "author": "Bill Phillips, Chris Stewart, Brian Hardy and Kristin Marsicano",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4781/webstorage_links/23324/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4781/webstorage_links/23322/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4781/webstorage_links/23323/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4757,
-        "title": "Java Testing with Spock",
-        "img": "http://image.banshujiang.cn/4757.jpeg?timestamp=1730533325393",
-        "author": "Konstantinos Kapelonis",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4757/webstorage_links/23204/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4757/webstorage_links/23202/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4757/webstorage_links/23203/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4747,
-        "title": "Java核心技术-卷I-基础知识(第10版)",
-        "img": "http://image.banshujiang.cn/4747.jpeg?timestamp=1730531712709",
-        "author": "[美]Cay S. Hostmann [译]周立新、陈波、邝劲筠、杜永萍",
-        "language": "中文",
-        "publishYear": 2016,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4747/webstorage_links/23144/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4747/webstorage_links/23142/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4747/webstorage_links/23143/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4747/webstorage_links/23141/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4746,
-        "title": "Java从入门到精通(第4版)",
-        "img": "http://image.banshujiang.cn/4746.jpeg?timestamp=1730531048147",
-        "author": "明日科技",
-        "language": "中文",
-        "publishYear": 2008,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4746/webstorage_links/23135/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4746/webstorage_links/23136/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4746/webstorage_links/23134/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4745,
-        "title": "Java编程的逻辑",
-        "img": "http://image.banshujiang.cn/4745.jpeg?timestamp=1730530814916",
-        "author": "马俊昌",
-        "language": "中文",
-        "publishYear": 2018,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4745/webstorage_links/23129/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4745/webstorage_links/23130/to_link"
             }
         ]
     }

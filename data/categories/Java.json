@@ -1,5 +1,100 @@
 [
     {
+        "id": 5174,
+        "title": "RocketMQ实战与原理解析",
+        "img": "http://image.banshujiang.cn/5174.jpeg?timestamp=1746878692689",
+        "author": "杨开元",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5174/webstorage_links/24559/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/5174/webstorage_links/24560/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/5174/webstorage_links/24558/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5173,
+        "title": "RocketMQ实战",
+        "img": "http://image.banshujiang.cn/5173.jpeg?timestamp=1746878538219",
+        "author": "丁威、梁勇",
+        "language": "中文",
+        "publishYear": 2022,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5173/webstorage_links/24554/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5172,
+        "title": "RocketMQ技术内幕：RocketMQ架构设计与实现原理(第2版)",
+        "img": "http://image.banshujiang.cn/5172.jpeg?timestamp=1746878405365",
+        "author": "丁威、张登、周继锋",
+        "language": "中文",
+        "publishYear": 2021,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5172/webstorage_links/24552/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5172/webstorage_links/24551/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5171,
+        "title": "RocketMQ分布式消息中间件：核心原理与最佳实践",
+        "img": "http://image.banshujiang.cn/5171.jpeg?timestamp=1746878330398",
+        "author": "李伟",
+        "language": "中文",
+        "publishYear": 2020,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5171/webstorage_links/24548/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5166,
+        "title": "Apache RocketMQ 源码解析",
+        "img": "http://image.banshujiang.cn/5166.jpeg?timestamp=1746876044514",
+        "author": "丁威",
+        "language": "中文",
+        "publishYear": 2020,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5166/webstorage_links/24536/to_link"
+            }
+        ]
+    },
+    {
         "id": 5165,
         "title": "Apache RocketMQ 从入门到实战",
         "img": "http://image.banshujiang.cn/5165.jpeg?timestamp=1746875924894",

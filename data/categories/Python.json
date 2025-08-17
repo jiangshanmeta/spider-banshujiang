@@ -1,5 +1,95 @@
 [
     {
+        "id": 5176,
+        "title": "Hands-On Bitcoin Programming with Python",
+        "img": "http://image.banshujiang.cn/5176.jpeg?timestamp=1746882105120",
+        "author": "Harish Kumar Garg",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5176/webstorage_links/24566/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5176/webstorage_links/24565/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5170,
+        "title": "Practical Data Science with Jupyter 2nd Edition",
+        "img": "http://image.banshujiang.cn/5170.jpeg?timestamp=1746878225692",
+        "author": "Prateek Gupta",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5170/webstorage_links/24546/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5170/webstorage_links/24545/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5169,
+        "title": "Machine Learning Concepts with Python and the Jupyter Notebook Environment: Using Tensorflow 2.0",
+        "img": "http://image.banshujiang.cn/5169.jpeg?timestamp=1746876323628",
+        "author": "Nikita Silaparasetty",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5169/webstorage_links/24542/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5168,
+        "title": "Jupyter入门与实战",
+        "img": "http://image.banshujiang.cn/5168.jpeg?timestamp=1746876230144",
+        "author": "冯立超",
+        "language": "中文",
+        "publishYear": 2021,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5168/webstorage_links/24540/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5167,
+        "title": "Jupyter Cookbook",
+        "img": "http://image.banshujiang.cn/5167.jpeg?timestamp=1746876122901",
+        "author": "Dan Toomey",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5167/webstorage_links/24538/to_link"
+            }
+        ]
+    },
+    {
         "id": 5163,
         "title": "Jupyter Notebook 101",
         "img": "http://image.banshujiang.cn/5163.jpeg?timestamp=1746362618761",
