@@ -95,6 +95,54 @@
         ]
     },
     {
+        "id": 5187,
+        "title": "Machine Learning",
+        "img": "http://image.banshujiang.cn/5187.jpeg?timestamp=1751122690444",
+        "author": "Dr S. Sridhar and Dr M. Vijayalakshmi",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5187/webstorage_links/24587/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5185,
+        "title": "Machine Learning",
+        "img": "http://image.banshujiang.cn/5185.jpeg?timestamp=1751122485481",
+        "author": "Saikat Dutt, Subramanian Chandramouli and Amit Kumar Das",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5185/webstorage_links/24583/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5179,
+        "title": "scikit-learn Cookbook 2nd Edition",
+        "img": "http://image.banshujiang.cn/5179.jpeg?timestamp=1746882388123",
+        "author": "Julian Avila and Trent Hauck",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5179/webstorage_links/24572/to_link"
+            }
+        ]
+    },
+    {
         "id": 5159,
         "title": "The Rise of AI Agents: Integrating AI, Blockchain Technologies and Quantum Computing",
         "img": "http://image.banshujiang.cn/5159.jpeg?timestamp=1746276487955",
@@ -219,59 +267,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/5143/webstorage_links/24480/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5142,
-        "title": "Large Language Models Projects: Apply and Implement Strategies for Large Language Models",
-        "img": "http://image.banshujiang.cn/5142.jpeg?timestamp=1746274131386",
-        "author": "Pere Martra",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5142/webstorage_links/24478/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5141,
-        "title": "Large Language Models: Concepts, Techniques and Applications",
-        "img": "http://image.banshujiang.cn/5141.jpeg?timestamp=1746250938517",
-        "author": "John Atkinson‑Abutridy",
-        "language": "英文",
-        "publishYear": 2025,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5141/webstorage_links/24476/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5140,
-        "title": "Introduction to AI Robotics 2nd Edition",
-        "img": "http://image.banshujiang.cn/5140.jpeg?timestamp=1746250600854",
-        "author": "Robin R. Murphy",
-        "language": "英文",
-        "publishYear": 2019,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5140/webstorage_links/24474/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/5140/webstorage_links/24473/to_link"
             }
         ]
     }

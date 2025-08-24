@@ -1,5 +1,21 @@
 [
     {
+        "id": 5179,
+        "title": "scikit-learn Cookbook 2nd Edition",
+        "img": "http://image.banshujiang.cn/5179.jpeg?timestamp=1746882388123",
+        "author": "Julian Avila and Trent Hauck",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5179/webstorage_links/24572/to_link"
+            }
+        ]
+    },
+    {
         "id": 5149,
         "title": "Python Machine Learning for Beginners",
         "img": "http://image.banshujiang.cn/5149.jpeg?timestamp=1746275153318",
@@ -271,22 +287,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/4778/webstorage_links/23311/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4688,
-        "title": "Starting Data Analytics with Generative AI and Python",
-        "img": "http://image.banshujiang.cn/4688.jpeg?timestamp=1729913287980",
-        "author": "Artur Guja, Marlena Siwiak and Marian Siwiak",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4688/webstorage_links/22889/to_link"
             }
         ]
     }

@@ -1,5 +1,53 @@
 [
     {
+        "id": 5187,
+        "title": "Machine Learning",
+        "img": "http://image.banshujiang.cn/5187.jpeg?timestamp=1751122690444",
+        "author": "Dr S. Sridhar and Dr M. Vijayalakshmi",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5187/webstorage_links/24587/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5185,
+        "title": "Machine Learning",
+        "img": "http://image.banshujiang.cn/5185.jpeg?timestamp=1751122485481",
+        "author": "Saikat Dutt, Subramanian Chandramouli and Amit Kumar Das",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5185/webstorage_links/24583/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5179,
+        "title": "scikit-learn Cookbook 2nd Edition",
+        "img": "http://image.banshujiang.cn/5179.jpeg?timestamp=1746882388123",
+        "author": "Julian Avila and Trent Hauck",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5179/webstorage_links/24572/to_link"
+            }
+        ]
+    },
+    {
         "id": 5159,
         "title": "The Rise of AI Agents: Integrating AI, Blockchain Technologies and Quantum Computing",
         "img": "http://image.banshujiang.cn/5159.jpeg?timestamp=1746276487955",
@@ -204,54 +252,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/5133/webstorage_links/24456/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5132,
-        "title": "AI-Powered Search",
-        "img": "http://image.banshujiang.cn/5132.jpeg?timestamp=1746249132492",
-        "author": "Trey Grainger, Doug Turnbull and Max Irwin",
-        "language": "英文",
-        "publishYear": 2025,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5132/webstorage_links/24454/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5131,
-        "title": "AI for Emerging Verticals: Human-robot computing, sensing and networking",
-        "img": "http://image.banshujiang.cn/5131.jpeg?timestamp=1746249054592",
-        "author": "Muhammad Zeeshan Shakir and Naeem Ramzan",
-        "language": "英文",
-        "publishYear": 2021,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5131/webstorage_links/24452/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5130,
-        "title": "AI and IoT-Based Intelligent Automation in Robotics",
-        "img": "http://image.banshujiang.cn/5130.jpeg?timestamp=1746245975506",
-        "author": "Ashutosh Kumar Dubey, Abhishek Kumar, S. Rakesh Kumar, N. Gayathri and Prasenjit Das",
-        "language": "英文",
-        "publishYear": 2021,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5130/webstorage_links/24450/to_link"
             }
         ]
     }

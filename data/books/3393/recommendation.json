@@ -1,5 +1,21 @@
 [
     {
+        "id": 5179,
+        "title": "scikit-learn Cookbook 2nd Edition",
+        "img": "http://image.banshujiang.cn/5179.jpeg?timestamp=1746882388123",
+        "author": "Julian Avila and Trent Hauck",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5179/webstorage_links/24572/to_link"
+            }
+        ]
+    },
+    {
         "id": 5149,
         "title": "Python Machine Learning for Beginners",
         "img": "http://image.banshujiang.cn/5149.jpeg?timestamp=1746275153318",
@@ -271,32 +287,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4881/webstorage_links/23717/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4778,
-        "title": "Building Machine Learning Systems with Python 2nd Edition",
-        "img": "http://image.banshujiang.cn/4778.jpeg?timestamp=1730535811753",
-        "author": "Luis Pedro and Coelho Willi Richert",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4778/webstorage_links/23312/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4778/webstorage_links/23310/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4778/webstorage_links/23311/to_link"
             }
         ]
     }

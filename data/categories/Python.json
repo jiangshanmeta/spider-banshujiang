@@ -1,5 +1,85 @@
 [
     {
+        "id": 5184,
+        "title": "Learning SciPy for Numerical and Scientific Computing 2nd Edition",
+        "img": "http://image.banshujiang.cn/5184.jpeg?timestamp=1751122332708",
+        "author": "Sergio J. Rojas G., Erik A Christensen and Francisco J. Blanco-Silva",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5184/webstorage_links/24581/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5183,
+        "title": "Learning Jupyter",
+        "img": "http://image.banshujiang.cn/5183.jpeg?timestamp=1751122219636",
+        "author": "Dan Toomey",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5183/webstorage_links/24579/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5182,
+        "title": "Instant SymPy Starter",
+        "img": "http://image.banshujiang.cn/5182.jpeg?timestamp=1751122100537",
+        "author": "Ronan Lamy",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5182/webstorage_links/24577/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5179,
+        "title": "scikit-learn Cookbook 2nd Edition",
+        "img": "http://image.banshujiang.cn/5179.jpeg?timestamp=1746882388123",
+        "author": "Julian Avila and Trent Hauck",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5179/webstorage_links/24572/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5177,
+        "title": "Hands-On Data Science with Anaconda",
+        "img": "http://image.banshujiang.cn/5177.jpeg?timestamp=1746882222618",
+        "author": "Dr. Yuxing Yan and James Yan",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5177/webstorage_links/24568/to_link"
+            }
+        ]
+    },
+    {
         "id": 5176,
         "title": "Hands-On Bitcoin Programming with Python",
         "img": "http://image.banshujiang.cn/5176.jpeg?timestamp=1746882105120",

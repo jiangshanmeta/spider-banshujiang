@@ -98139,5 +98139,181 @@
                 "link": "/e_books/5176/webstorage_links/24565/to_link"
             }
         ]
+    },
+    {
+        "id": 5177,
+        "title": "Hands-On Data Science with Anaconda",
+        "img": "http://image.banshujiang.cn/5177.jpeg?timestamp=1746882222618",
+        "author": "Dr. Yuxing Yan and James Yan",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5177/webstorage_links/24568/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5178,
+        "title": "Raising Young Coders: A Parent’s Guide to Teaching Programming at Home",
+        "img": "http://image.banshujiang.cn/5178.jpeg?timestamp=1746882296338",
+        "author": "Cassandra Chin",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5178/webstorage_links/24570/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5179,
+        "title": "scikit-learn Cookbook 2nd Edition",
+        "img": "http://image.banshujiang.cn/5179.jpeg?timestamp=1746882388123",
+        "author": "Julian Avila and Trent Hauck",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5179/webstorage_links/24572/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5180,
+        "title": "SciPy Programming Succinctly",
+        "img": "http://image.banshujiang.cn/5180.jpeg?timestamp=1746882478355",
+        "author": "James McCaffrey",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5180/webstorage_links/24574/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5181,
+        "title": "Best Practices in Data Cleaning",
+        "img": "http://image.banshujiang.cn/5181.jpeg?timestamp=1751121844067",
+        "author": "Jason W. Osborne",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5181/webstorage_links/24576/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5182,
+        "title": "Instant SymPy Starter",
+        "img": "http://image.banshujiang.cn/5182.jpeg?timestamp=1751122100537",
+        "author": "Ronan Lamy",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5182/webstorage_links/24577/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5183,
+        "title": "Learning Jupyter",
+        "img": "http://image.banshujiang.cn/5183.jpeg?timestamp=1751122219636",
+        "author": "Dan Toomey",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5183/webstorage_links/24579/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5184,
+        "title": "Learning SciPy for Numerical and Scientific Computing 2nd Edition",
+        "img": "http://image.banshujiang.cn/5184.jpeg?timestamp=1751122332708",
+        "author": "Sergio J. Rojas G., Erik A Christensen and Francisco J. Blanco-Silva",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5184/webstorage_links/24581/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5185,
+        "title": "Machine Learning",
+        "img": "http://image.banshujiang.cn/5185.jpeg?timestamp=1751122485481",
+        "author": "Saikat Dutt, Subramanian Chandramouli and Amit Kumar Das",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5185/webstorage_links/24583/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5186,
+        "title": "Machine Learning: Foundations, Methodologies, and Applications",
+        "img": "http://image.banshujiang.cn/5186.jpeg?timestamp=1751122575557",
+        "author": "Kay Chen Tan and Dacheng Tao",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5186/webstorage_links/24585/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5187,
+        "title": "Machine Learning",
+        "img": "http://image.banshujiang.cn/5187.jpeg?timestamp=1751122690444",
+        "author": "Dr S. Sridhar and Dr M. Vijayalakshmi",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5187/webstorage_links/24587/to_link"
+            }
+        ]
     }
 ]

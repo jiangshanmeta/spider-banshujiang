@@ -1,0 +1,273 @@
+[
+    {
+        "id": 5184,
+        "title": "Learning SciPy for Numerical and Scientific Computing 2nd Edition",
+        "img": "http://image.banshujiang.cn/5184.jpeg?timestamp=1751122332708",
+        "author": "Sergio J. Rojas G., Erik A Christensen and Francisco J. Blanco-Silva",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5184/webstorage_links/24581/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5183,
+        "title": "Learning Jupyter",
+        "img": "http://image.banshujiang.cn/5183.jpeg?timestamp=1751122219636",
+        "author": "Dan Toomey",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5183/webstorage_links/24579/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5179,
+        "title": "scikit-learn Cookbook 2nd Edition",
+        "img": "http://image.banshujiang.cn/5179.jpeg?timestamp=1746882388123",
+        "author": "Julian Avila and Trent Hauck",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5179/webstorage_links/24572/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5177,
+        "title": "Hands-On Data Science with Anaconda",
+        "img": "http://image.banshujiang.cn/5177.jpeg?timestamp=1746882222618",
+        "author": "Dr. Yuxing Yan and James Yan",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5177/webstorage_links/24568/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5176,
+        "title": "Hands-On Bitcoin Programming with Python",
+        "img": "http://image.banshujiang.cn/5176.jpeg?timestamp=1746882105120",
+        "author": "Harish Kumar Garg",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5176/webstorage_links/24566/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5176/webstorage_links/24565/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5170,
+        "title": "Practical Data Science with Jupyter 2nd Edition",
+        "img": "http://image.banshujiang.cn/5170.jpeg?timestamp=1746878225692",
+        "author": "Prateek Gupta",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5170/webstorage_links/24546/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5170/webstorage_links/24545/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5169,
+        "title": "Machine Learning Concepts with Python and the Jupyter Notebook Environment: Using Tensorflow 2.0",
+        "img": "http://image.banshujiang.cn/5169.jpeg?timestamp=1746876323628",
+        "author": "Nikita Silaparasetty",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5169/webstorage_links/24542/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5168,
+        "title": "Jupyter入门与实战",
+        "img": "http://image.banshujiang.cn/5168.jpeg?timestamp=1746876230144",
+        "author": "冯立超",
+        "language": "中文",
+        "publishYear": 2021,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5168/webstorage_links/24540/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5167,
+        "title": "Jupyter Cookbook",
+        "img": "http://image.banshujiang.cn/5167.jpeg?timestamp=1746876122901",
+        "author": "Dan Toomey",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5167/webstorage_links/24538/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5163,
+        "title": "Jupyter Notebook 101",
+        "img": "http://image.banshujiang.cn/5163.jpeg?timestamp=1746362618761",
+        "author": "Michael Driscoll",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5163/webstorage_links/24528/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5162,
+        "title": "JupyterLab 101",
+        "img": "http://image.banshujiang.cn/5162.jpeg?timestamp=1746362485052",
+        "author": "Michael Driscoll",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5162/webstorage_links/24526/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5161,
+        "title": "Learn Python with Jupyter",
+        "img": "http://image.banshujiang.cn/5161.jpeg?timestamp=1746362318496",
+        "author": "Serena Bonaretti",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5161/webstorage_links/24522/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5152,
+        "title": "Python数据可视化之matplotlib实践",
+        "img": "http://image.banshujiang.cn/5152.jpeg?timestamp=1746275615210",
+        "author": "刘大成",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5152/webstorage_links/24500/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5151,
+        "title": "Python数据可视化编程实战（第2版）",
+        "img": "http://image.banshujiang.cn/5151.jpeg?timestamp=1746275463933",
+        "author": "[爱尔兰]Igor Milovanović [法]Dimitry Foures [意大利]Giuseppe Vettigli [译]颛清山",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5151/webstorage_links/24498/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5151/webstorage_links/24497/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5150,
+        "title": "Python数据分析：活用Pandas库(扫描版)",
+        "img": "http://image.banshujiang.cn/5150.jpeg?timestamp=1746275299888",
+        "author": "[美]Daniel Y. Chen [译]武传海",
+        "language": "中文",
+        "publishYear": 2020,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5150/webstorage_links/24494/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5149,
+        "title": "Python Machine Learning for Beginners",
+        "img": "http://image.banshujiang.cn/5149.jpeg?timestamp=1746275153318",
+        "author": "AI Publishing",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5149/webstorage_links/24492/to_link"
+            }
+        ]
+    }
+]
