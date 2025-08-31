@@ -98315,5 +98315,138 @@
                 "link": "/e_books/5187/webstorage_links/24587/to_link"
             }
         ]
+    },
+    {
+        "id": 5188,
+        "title": "Math for Programming",
+        "img": "http://image.banshujiang.cn/5188.jpeg?timestamp=1751122796129",
+        "author": "Ronald T. Kneusel",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5188/webstorage_links/24589/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5189,
+        "title": "Programming Arduino: Getting Started with Sketches 3rd Edition",
+        "img": "http://image.banshujiang.cn/5189.jpeg?timestamp=1751123034255",
+        "author": "Simon Monk",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5189/webstorage_links/24591/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5190,
+        "title": "Programming for Absolute Beginners: Using the JavaScript Programming Language",
+        "img": "http://image.banshujiang.cn/5190.jpeg?timestamp=1751123113165",
+        "author": "Jonathan Bartlett",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5190/webstorage_links/24593/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5191,
+        "title": "Programming for Problem-solving with C",
+        "img": "http://image.banshujiang.cn/5191.jpeg?timestamp=1753581282834",
+        "author": "Dr. Kamaldeep",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "C",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5191/webstorage_links/24600/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5191/webstorage_links/24601/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5192,
+        "title": "Programming with Rust",
+        "img": "http://image.banshujiang.cn/5192.jpeg?timestamp=1753583341485",
+        "author": "Donis Marshall",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Rust",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5192/webstorage_links/24603/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5193,
+        "title": "Python Advanced Programming",
+        "img": "http://image.banshujiang.cn/5193.jpeg?timestamp=1754129850614",
+        "author": "Marcus Richards",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5193/webstorage_links/24605/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5194,
+        "title": "Python Adventures for Young Coders",
+        "img": "http://image.banshujiang.cn/5194.jpeg?timestamp=1754130085115",
+        "author": "Alaa Tharwat",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5194/webstorage_links/24607/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5195,
+        "title": "Ansible Configuration Management 2nd Edition",
+        "img": "http://image.banshujiang.cn/5195.jpeg?timestamp=1754130283051",
+        "author": "Daniel Hall",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5195/webstorage_links/24609/to_link"
+            }
+        ]
     }
 ]

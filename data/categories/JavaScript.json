@@ -1,5 +1,21 @@
 [
     {
+        "id": 5190,
+        "title": "Programming for Absolute Beginners: Using the JavaScript Programming Language",
+        "img": "http://image.banshujiang.cn/5190.jpeg?timestamp=1751123113165",
+        "author": "Jonathan Bartlett",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5190/webstorage_links/24593/to_link"
+            }
+        ]
+    },
+    {
         "id": 5056,
         "title": "Node.js: The Comprehensive Guide",
         "img": "http://image.banshujiang.cn/5056.jpeg",

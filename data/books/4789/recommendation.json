@@ -1,5 +1,21 @@
 [
     {
+        "id": 5190,
+        "title": "Programming for Absolute Beginners: Using the JavaScript Programming Language",
+        "img": "http://image.banshujiang.cn/5190.jpeg?timestamp=1751123113165",
+        "author": "Jonathan Bartlett",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5190/webstorage_links/24593/to_link"
+            }
+        ]
+    },
+    {
         "id": 5056,
         "title": "Node.js: The Comprehensive Guide",
         "img": "http://image.banshujiang.cn/5056.jpeg",
@@ -306,22 +322,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4729/webstorage_links/23074/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4726,
-        "title": "MEAN Web开发",
-        "img": "http://image.banshujiang.cn/4726.jpeg?timestamp=1729932675954",
-        "author": "[以色列]Amos Q. Haviv [译]陈世帝",
-        "language": "中文",
-        "publishYear": 2015,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4726/webstorage_links/23068/to_link"
             }
         ]
     }

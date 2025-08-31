@@ -26,6 +26,22 @@
         ]
     },
     {
+        "id": 5190,
+        "title": "Programming for Absolute Beginners: Using the JavaScript Programming Language",
+        "img": "http://image.banshujiang.cn/5190.jpeg?timestamp=1751123113165",
+        "author": "Jonathan Bartlett",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5190/webstorage_links/24593/to_link"
+            }
+        ]
+    },
+    {
         "id": 5187,
         "title": "Machine Learning",
         "img": "http://image.banshujiang.cn/5187.jpeg?timestamp=1751122690444",
@@ -251,22 +267,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/5140/webstorage_links/24473/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5136,
-        "title": "EU Policy and Legal Framework for Artificial Intelligence, Robotics and Related Technologies - The AI Act",
-        "img": "http://image.banshujiang.cn/5136.jpeg?timestamp=1746249750144",
-        "author": "Nikos Th. Nikolinakos",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5136/webstorage_links/24462/to_link"
             }
         ]
     }
