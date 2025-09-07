@@ -85,6 +85,48 @@
         ]
     },
     {
+        "id": 5206,
+        "title": "Machine Learning for Tabular Data",
+        "img": "http://image.banshujiang.cn/5206.jpeg?timestamp=1754138628045",
+        "author": "Mark Ryan and Luca Massaron",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5206/webstorage_links/24649/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5206/webstorage_links/24648/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5204,
+        "title": "Graph Neural Networks in Action",
+        "img": "http://image.banshujiang.cn/5204.jpeg?timestamp=1754138455918",
+        "author": "Keita Broadwater and Namid Stillman",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5204/webstorage_links/24641/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5204/webstorage_links/24640/to_link"
+            }
+        ]
+    },
+    {
         "id": 5187,
         "title": "Machine Learning",
         "img": "http://image.banshujiang.cn/5187.jpeg?timestamp=1751122690444",
@@ -225,38 +267,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/5145/webstorage_links/24484/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5144,
-        "title": "LLMs in Production: From Language Models To Successful Products",
-        "img": "http://image.banshujiang.cn/5144.jpeg?timestamp=1746274461473",
-        "author": "Christopher Brousseau and Matthew Sharp",
-        "language": "英文",
-        "publishYear": 2025,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5144/webstorage_links/24482/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5143,
-        "title": "Learning LangChain: Building AI and LLM Applications with LangChain and LangGraph",
-        "img": "http://image.banshujiang.cn/5143.jpeg?timestamp=1746274319615",
-        "author": "Mayo Oshin and Nuno Campos",
-        "language": "英文",
-        "publishYear": 2025,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5143/webstorage_links/24480/to_link"
             }
         ]
     }

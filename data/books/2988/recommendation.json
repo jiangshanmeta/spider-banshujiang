@@ -100,6 +100,27 @@
         ]
     },
     {
+        "id": 5205,
+        "title": "Learn SQL in a Month of Lunches",
+        "img": "http://image.banshujiang.cn/5205.jpeg?timestamp=1754138535856",
+        "author": "Jeff Iannucci",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "SQL",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5205/webstorage_links/24645/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5205/webstorage_links/24644/to_link"
+            }
+        ]
+    },
+    {
         "id": 5057,
         "title": "Practical Guide to Oracle SQL, T-SQL and MySQL",
         "img": "http://image.banshujiang.cn/5057.jpeg",
@@ -306,27 +327,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3884/webstorage_links/19713/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3045,
-        "title": "Learning SQL 3rd Edition",
-        "img": "https://imagebsj.netlify.app/3045.jpeg",
-        "author": "Alan Beaulieu",
-        "language": "英文",
-        "publishYear": 2020,
-        "programLanguage": "SQL",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3045/webstorage_links/16202/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3045/webstorage_links/16203/to_link"
             }
         ]
     }

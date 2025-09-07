@@ -98448,5 +98448,226 @@
                 "link": "/e_books/5195/webstorage_links/24609/to_link"
             }
         ]
+    },
+    {
+        "id": 5196,
+        "title": "Ansible for DevOps",
+        "img": "http://image.banshujiang.cn/5196.jpeg?timestamp=1754130387672",
+        "author": "Jeff Geerling",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5196/webstorage_links/24611/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5197,
+        "title": "Ansible Playbook Essentials",
+        "img": "http://image.banshujiang.cn/5197.jpeg?timestamp=1754130752486",
+        "author": "Gourav Shah",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5197/webstorage_links/24614/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/5197/webstorage_links/24615/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5198,
+        "title": "Become an Effective Software Engineering Manager",
+        "img": "http://image.banshujiang.cn/5198.jpeg?timestamp=1754130856075",
+        "author": "James Stanier",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5198/webstorage_links/24617/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5199,
+        "title": "Creative Coding For Kids",
+        "img": "http://image.banshujiang.cn/5199.jpeg?timestamp=1754131000736",
+        "author": "",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5199/webstorage_links/24619/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5200,
+        "title": "Extending Ansible",
+        "img": "http://image.banshujiang.cn/5200.jpeg?timestamp=1754131072820",
+        "author": "Rishabh Das",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5200/webstorage_links/24621/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5201,
+        "title": "Python极客项目编程",
+        "img": "http://image.banshujiang.cn/5201.jpeg?timestamp=1754131588407",
+        "author": "[美] Mahesh Venkitachalam [译]王海鹏",
+        "language": "中文",
+        "publishYear": 2016,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5201/webstorage_links/24626/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/5201/webstorage_links/24627/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/5201/webstorage_links/24625/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5202,
+        "title": "Effective Data Analysis",
+        "img": "http://image.banshujiang.cn/5202.jpeg?timestamp=1754138284631",
+        "author": "Mona Khalil",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5202/webstorage_links/24631/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5202/webstorage_links/24630/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5203,
+        "title": "Go in Practice 2nd Edition",
+        "img": "http://image.banshujiang.cn/5203.jpeg?timestamp=1754138373124",
+        "author": "Nathan Kozyra, Matt Butcher and Matt Farina",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Go",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5203/webstorage_links/24637/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5203/webstorage_links/24636/to_link"
+            },
+            {
+                "fmt": "CODE",
+                "title": "城通网盘",
+                "link": "/e_books/5203/webstorage_links/24635/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5204,
+        "title": "Graph Neural Networks in Action",
+        "img": "http://image.banshujiang.cn/5204.jpeg?timestamp=1754138455918",
+        "author": "Keita Broadwater and Namid Stillman",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5204/webstorage_links/24641/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5204/webstorage_links/24640/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5205,
+        "title": "Learn SQL in a Month of Lunches",
+        "img": "http://image.banshujiang.cn/5205.jpeg?timestamp=1754138535856",
+        "author": "Jeff Iannucci",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "SQL",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5205/webstorage_links/24645/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5205/webstorage_links/24644/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5206,
+        "title": "Machine Learning for Tabular Data",
+        "img": "http://image.banshujiang.cn/5206.jpeg?timestamp=1754138628045",
+        "author": "Mark Ryan and Luca Massaron",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5206/webstorage_links/24649/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5206/webstorage_links/24648/to_link"
+            }
+        ]
     }
 ]

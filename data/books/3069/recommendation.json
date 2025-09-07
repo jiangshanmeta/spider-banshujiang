@@ -21,6 +21,48 @@
         ]
     },
     {
+        "id": 5206,
+        "title": "Machine Learning for Tabular Data",
+        "img": "http://image.banshujiang.cn/5206.jpeg?timestamp=1754138628045",
+        "author": "Mark Ryan and Luca Massaron",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5206/webstorage_links/24649/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5206/webstorage_links/24648/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5204,
+        "title": "Graph Neural Networks in Action",
+        "img": "http://image.banshujiang.cn/5204.jpeg?timestamp=1754138455918",
+        "author": "Keita Broadwater and Namid Stillman",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5204/webstorage_links/24641/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5204/webstorage_links/24640/to_link"
+            }
+        ]
+    },
+    {
         "id": 5190,
         "title": "Programming for Absolute Beginners: Using the JavaScript Programming Language",
         "img": "http://image.banshujiang.cn/5190.jpeg?timestamp=1751123113165",
@@ -225,43 +267,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/5142/webstorage_links/24478/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5141,
-        "title": "Large Language Models: Concepts, Techniques and Applications",
-        "img": "http://image.banshujiang.cn/5141.jpeg?timestamp=1746250938517",
-        "author": "John Atkinson‑Abutridy",
-        "language": "英文",
-        "publishYear": 2025,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5141/webstorage_links/24476/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5140,
-        "title": "Introduction to AI Robotics 2nd Edition",
-        "img": "http://image.banshujiang.cn/5140.jpeg?timestamp=1746250600854",
-        "author": "Robin R. Murphy",
-        "language": "英文",
-        "publishYear": 2019,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5140/webstorage_links/24474/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/5140/webstorage_links/24473/to_link"
             }
         ]
     }

@@ -1,5 +1,31 @@
 [
     {
+        "id": 5201,
+        "title": "Python极客项目编程",
+        "img": "http://image.banshujiang.cn/5201.jpeg?timestamp=1754131588407",
+        "author": "[美] Mahesh Venkitachalam [译]王海鹏",
+        "language": "中文",
+        "publishYear": 2016,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5201/webstorage_links/24626/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/5201/webstorage_links/24627/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/5201/webstorage_links/24625/to_link"
+            }
+        ]
+    },
+    {
         "id": 5194,
         "title": "Python Adventures for Young Coders",
         "img": "http://image.banshujiang.cn/5194.jpeg?timestamp=1754130085115",
@@ -246,27 +272,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/5161/webstorage_links/24522/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5151,
-        "title": "Python数据可视化编程实战（第2版）",
-        "img": "http://image.banshujiang.cn/5151.jpeg?timestamp=1746275463933",
-        "author": "[爱尔兰]Igor Milovanović [法]Dimitry Foures [意大利]Giuseppe Vettigli [译]颛清山",
-        "language": "中文",
-        "publishYear": 2015,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5151/webstorage_links/24498/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/5151/webstorage_links/24497/to_link"
             }
         ]
     }

@@ -1,0 +1,268 @@
+[
+    {
+        "id": 5204,
+        "title": "Graph Neural Networks in Action",
+        "img": "http://image.banshujiang.cn/5204.jpeg?timestamp=1754138455918",
+        "author": "Keita Broadwater and Namid Stillman",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5204/webstorage_links/24641/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5204/webstorage_links/24640/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5187,
+        "title": "Machine Learning",
+        "img": "http://image.banshujiang.cn/5187.jpeg?timestamp=1751122690444",
+        "author": "Dr S. Sridhar and Dr M. Vijayalakshmi",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5187/webstorage_links/24587/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5185,
+        "title": "Machine Learning",
+        "img": "http://image.banshujiang.cn/5185.jpeg?timestamp=1751122485481",
+        "author": "Saikat Dutt, Subramanian Chandramouli and Amit Kumar Das",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5185/webstorage_links/24583/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5179,
+        "title": "scikit-learn Cookbook 2nd Edition",
+        "img": "http://image.banshujiang.cn/5179.jpeg?timestamp=1746882388123",
+        "author": "Julian Avila and Trent Hauck",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5179/webstorage_links/24572/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5159,
+        "title": "The Rise of AI Agents: Integrating AI, Blockchain Technologies and Quantum Computing",
+        "img": "http://image.banshujiang.cn/5159.jpeg?timestamp=1746276487955",
+        "author": "Petar Radanliev",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5159/webstorage_links/24516/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5158,
+        "title": "The Future of Work: Robots, AI and Automation",
+        "img": "http://image.banshujiang.cn/5158.jpeg?timestamp=1746276392490",
+        "author": "Darrell M. West",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5158/webstorage_links/24514/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5154,
+        "title": "Robotics, AI and the Future of Law",
+        "img": "http://image.banshujiang.cn/5154.jpeg?timestamp=1746275860954",
+        "author": "Marcelo Corrales, Mark Fenwick and Nikolaus Forgó",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5154/webstorage_links/24504/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5149,
+        "title": "Python Machine Learning for Beginners",
+        "img": "http://image.banshujiang.cn/5149.jpeg?timestamp=1746275153318",
+        "author": "AI Publishing",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5149/webstorage_links/24492/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5148,
+        "title": "Natural Language Processing in Action 2nd Edition",
+        "img": "http://image.banshujiang.cn/5148.jpeg?timestamp=1746274973679",
+        "author": "Hobson Lane and Maria Dyshel",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5148/webstorage_links/24490/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5145,
+        "title": "Machine Learning System Design: With End-to-End Examples",
+        "img": "http://image.banshujiang.cn/5145.jpeg?timestamp=1746274602436",
+        "author": "Valerii Babushkin and Arseny Kravchenko",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5145/webstorage_links/24484/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5144,
+        "title": "LLMs in Production: From Language Models To Successful Products",
+        "img": "http://image.banshujiang.cn/5144.jpeg?timestamp=1746274461473",
+        "author": "Christopher Brousseau and Matthew Sharp",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5144/webstorage_links/24482/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5143,
+        "title": "Learning LangChain: Building AI and LLM Applications with LangChain and LangGraph",
+        "img": "http://image.banshujiang.cn/5143.jpeg?timestamp=1746274319615",
+        "author": "Mayo Oshin and Nuno Campos",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5143/webstorage_links/24480/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5142,
+        "title": "Large Language Models Projects: Apply and Implement Strategies for Large Language Models",
+        "img": "http://image.banshujiang.cn/5142.jpeg?timestamp=1746274131386",
+        "author": "Pere Martra",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5142/webstorage_links/24478/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5141,
+        "title": "Large Language Models: Concepts, Techniques and Applications",
+        "img": "http://image.banshujiang.cn/5141.jpeg?timestamp=1746250938517",
+        "author": "John Atkinson‑Abutridy",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5141/webstorage_links/24476/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5140,
+        "title": "Introduction to AI Robotics 2nd Edition",
+        "img": "http://image.banshujiang.cn/5140.jpeg?timestamp=1746250600854",
+        "author": "Robin R. Murphy",
+        "language": "英文",
+        "publishYear": 2019,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5140/webstorage_links/24474/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5140/webstorage_links/24473/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5136,
+        "title": "EU Policy and Legal Framework for Artificial Intelligence, Robotics and Related Technologies - The AI Act",
+        "img": "http://image.banshujiang.cn/5136.jpeg?timestamp=1746249750144",
+        "author": "Nikos Th. Nikolinakos",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5136/webstorage_links/24462/to_link"
+            }
+        ]
+    }
+]

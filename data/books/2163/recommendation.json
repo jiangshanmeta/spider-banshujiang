@@ -1,5 +1,26 @@
 [
     {
+        "id": 5205,
+        "title": "Learn SQL in a Month of Lunches",
+        "img": "http://image.banshujiang.cn/5205.jpeg?timestamp=1754138535856",
+        "author": "Jeff Iannucci",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "SQL",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5205/webstorage_links/24645/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5205/webstorage_links/24644/to_link"
+            }
+        ]
+    },
+    {
         "id": 5057,
         "title": "Practical Guide to Oracle SQL, T-SQL and MySQL",
         "img": "http://image.banshujiang.cn/5057.jpeg",
@@ -336,27 +357,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3975/webstorage_links/20073/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3957,
-        "title": "Learn PostgreSQL",
-        "img": "http://image.banshujiang.cn/3957.jpeg?timestamp=1714638902228",
-        "author": "Luca Ferrari and Enrico Pirozzi",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3957/webstorage_links/20004/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3957/webstorage_links/20003/to_link"
             }
         ]
     }

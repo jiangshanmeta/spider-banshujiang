@@ -1,5 +1,31 @@
 [
     {
+        "id": 5203,
+        "title": "Go in Practice 2nd Edition",
+        "img": "http://image.banshujiang.cn/5203.jpeg?timestamp=1754138373124",
+        "author": "Nathan Kozyra, Matt Butcher and Matt Farina",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Go",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5203/webstorage_links/24637/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5203/webstorage_links/24636/to_link"
+            },
+            {
+                "fmt": "CODE",
+                "title": "城通网盘",
+                "link": "/e_books/5203/webstorage_links/24635/to_link"
+            }
+        ]
+    },
+    {
         "id": 4712,
         "title": "Introducing Go",
         "img": "http://image.banshujiang.cn/4712.jpeg?timestamp=1729930055203",
