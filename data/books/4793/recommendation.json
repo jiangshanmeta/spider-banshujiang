@@ -1,5 +1,21 @@
 [
     {
+        "id": 5212,
+        "title": "React快速上手开发",
+        "img": "http://image.banshujiang.cn/5212.jpeg?timestamp=1754140533725",
+        "author": "[保]Stoyan Stefanov [译]张俊达",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5212/webstorage_links/24677/to_link"
+            }
+        ]
+    },
+    {
         "id": 5190,
         "title": "Programming for Absolute Beginners: Using the JavaScript Programming Language",
         "img": "http://image.banshujiang.cn/5190.jpeg?timestamp=1751123113165",
@@ -311,22 +327,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4730/webstorage_links/23076/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4729,
-        "title": "Node.js开发指南",
-        "img": "http://image.banshujiang.cn/4729.jpeg?timestamp=1729933137590",
-        "author": "BYVoid",
-        "language": "中文",
-        "publishYear": 2012,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4729/webstorage_links/23074/to_link"
             }
         ]
     }

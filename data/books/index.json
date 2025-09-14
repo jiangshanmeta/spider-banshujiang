@@ -98669,5 +98669,251 @@
                 "link": "/e_books/5206/webstorage_links/24648/to_link"
             }
         ]
+    },
+    {
+        "id": 5207,
+        "title": "Terraform in Depth",
+        "img": "http://image.banshujiang.cn/5207.jpeg?timestamp=1754138703199",
+        "author": "Robert Hafner",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5207/webstorage_links/24653/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5207/webstorage_links/24652/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5208,
+        "title": "The Quick Python Book 4th Edition",
+        "img": "http://image.banshujiang.cn/5208.jpeg?timestamp=1754138791444",
+        "author": "Naomi Ceder",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5208/webstorage_links/24657/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5208/webstorage_links/24656/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5209,
+        "title": "Python学习手册(第4版)",
+        "img": "http://image.banshujiang.cn/5209.jpeg?timestamp=1754139789019",
+        "author": "[美]鲁特兹 [译]李军、刘红伟",
+        "language": "中文",
+        "publishYear": 2011,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5209/webstorage_links/24661/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/5209/webstorage_links/24660/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5210,
+        "title": "Python自动化运维：技术与最佳实践",
+        "img": "http://image.banshujiang.cn/5210.jpeg?timestamp=1754139928763",
+        "author": "刘天斯",
+        "language": "中文",
+        "publishYear": 2014,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5210/webstorage_links/24666/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/5210/webstorage_links/24667/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/5210/webstorage_links/24665/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5211,
+        "title": "RabbitMQ实战指南",
+        "img": "http://image.banshujiang.cn/5211.jpeg?timestamp=1754140402179",
+        "author": "朱忠华",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5211/webstorage_links/24675/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5211/webstorage_links/24673/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/5211/webstorage_links/24674/to_link"
+            },
+            {
+                "fmt": "AZW",
+                "title": "城通网盘",
+                "link": "/e_books/5211/webstorage_links/24672/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5212,
+        "title": "React快速上手开发",
+        "img": "http://image.banshujiang.cn/5212.jpeg?timestamp=1754140533725",
+        "author": "[保]Stoyan Stefanov [译]张俊达",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5212/webstorage_links/24677/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5213,
+        "title": "Redis开发与运维",
+        "img": "http://image.banshujiang.cn/5213.jpeg?timestamp=1754140627534",
+        "author": "付磊、张益军",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5213/webstorage_links/24679/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5214,
+        "title": "Redis入门指南（第2版）",
+        "img": "http://image.banshujiang.cn/5214.jpeg?timestamp=1754140765146",
+        "author": "李子骅",
+        "language": "中文",
+        "publishYear": 2015,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5214/webstorage_links/24684/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/5214/webstorage_links/24685/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/5214/webstorage_links/24683/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5215,
+        "title": "Redis设计与实现",
+        "img": "http://image.banshujiang.cn/5215.jpeg?timestamp=1754140852109",
+        "author": "黄健宏",
+        "language": "中文",
+        "publishYear": 2014,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5215/webstorage_links/24690/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/5215/webstorage_links/24691/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/5215/webstorage_links/24689/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5216,
+        "title": "AI for Everyday IT",
+        "img": "http://image.banshujiang.cn/5216.jpeg?timestamp=1754188259921",
+        "author": "Chrissy Lemaire and Brandon Abshire",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5216/webstorage_links/24695/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5216/webstorage_links/24694/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5217,
+        "title": "Building Web APIs with ASP.NET Core",
+        "img": "http://image.banshujiang.cn/5217.jpeg?timestamp=1754188346320",
+        "author": "Valerio De Sanctis",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5217/webstorage_links/24699/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5217/webstorage_links/24698/to_link"
+            }
+        ]
     }
 ]

@@ -1,5 +1,26 @@
 [
     {
+        "id": 5216,
+        "title": "AI for Everyday IT",
+        "img": "http://image.banshujiang.cn/5216.jpeg?timestamp=1754188259921",
+        "author": "Chrissy Lemaire and Brandon Abshire",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5216/webstorage_links/24695/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5216/webstorage_links/24694/to_link"
+            }
+        ]
+    },
+    {
         "id": 5206,
         "title": "Machine Learning for Tabular Data",
         "img": "http://image.banshujiang.cn/5206.jpeg?timestamp=1754138628045",
@@ -246,27 +267,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/5141/webstorage_links/24476/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5140,
-        "title": "Introduction to AI Robotics 2nd Edition",
-        "img": "http://image.banshujiang.cn/5140.jpeg?timestamp=1746250600854",
-        "author": "Robin R. Murphy",
-        "language": "英文",
-        "publishYear": 2019,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5140/webstorage_links/24474/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/5140/webstorage_links/24473/to_link"
             }
         ]
     }

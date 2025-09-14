@@ -85,6 +85,27 @@
         ]
     },
     {
+        "id": 5216,
+        "title": "AI for Everyday IT",
+        "img": "http://image.banshujiang.cn/5216.jpeg?timestamp=1754188259921",
+        "author": "Chrissy Lemaire and Brandon Abshire",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5216/webstorage_links/24695/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5216/webstorage_links/24694/to_link"
+            }
+        ]
+    },
+    {
         "id": 5206,
         "title": "Machine Learning for Tabular Data",
         "img": "http://image.banshujiang.cn/5206.jpeg?timestamp=1754138628045",
@@ -251,22 +272,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/5148/webstorage_links/24490/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5145,
-        "title": "Machine Learning System Design: With End-to-End Examples",
-        "img": "http://image.banshujiang.cn/5145.jpeg?timestamp=1746274602436",
-        "author": "Valerii Babushkin and Arseny Kravchenko",
-        "language": "英文",
-        "publishYear": 2025,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5145/webstorage_links/24484/to_link"
             }
         ]
     }

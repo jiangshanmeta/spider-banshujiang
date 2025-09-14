@@ -164,6 +164,74 @@
         ]
     },
     {
+        "id": 5210,
+        "title": "Python自动化运维：技术与最佳实践",
+        "img": "http://image.banshujiang.cn/5210.jpeg?timestamp=1754139928763",
+        "author": "刘天斯",
+        "language": "中文",
+        "publishYear": 2014,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5210/webstorage_links/24666/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/5210/webstorage_links/24667/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/5210/webstorage_links/24665/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5209,
+        "title": "Python学习手册(第4版)",
+        "img": "http://image.banshujiang.cn/5209.jpeg?timestamp=1754139789019",
+        "author": "[美]鲁特兹 [译]李军、刘红伟",
+        "language": "中文",
+        "publishYear": 2011,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5209/webstorage_links/24661/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/5209/webstorage_links/24660/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5208,
+        "title": "The Quick Python Book 4th Edition",
+        "img": "http://image.banshujiang.cn/5208.jpeg?timestamp=1754138791444",
+        "author": "Naomi Ceder",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5208/webstorage_links/24657/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5208/webstorage_links/24656/to_link"
+            }
+        ]
+    },
+    {
         "id": 5201,
         "title": "Python极客项目编程",
         "img": "http://image.banshujiang.cn/5201.jpeg?timestamp=1754131588407",
@@ -234,54 +302,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/5184/webstorage_links/24581/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5183,
-        "title": "Learning Jupyter",
-        "img": "http://image.banshujiang.cn/5183.jpeg?timestamp=1751122219636",
-        "author": "Dan Toomey",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/5183/webstorage_links/24579/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5182,
-        "title": "Instant SymPy Starter",
-        "img": "http://image.banshujiang.cn/5182.jpeg?timestamp=1751122100537",
-        "author": "Ronan Lamy",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5182/webstorage_links/24577/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5179,
-        "title": "scikit-learn Cookbook 2nd Edition",
-        "img": "http://image.banshujiang.cn/5179.jpeg?timestamp=1746882388123",
-        "author": "Julian Avila and Trent Hauck",
-        "language": "英文",
-        "publishYear": 2017,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5179/webstorage_links/24572/to_link"
             }
         ]
     }

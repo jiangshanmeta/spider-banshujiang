@@ -1,5 +1,73 @@
 [
     {
+        "id": 5210,
+        "title": "Python自动化运维：技术与最佳实践",
+        "img": "http://image.banshujiang.cn/5210.jpeg?timestamp=1754139928763",
+        "author": "刘天斯",
+        "language": "中文",
+        "publishYear": 2014,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5210/webstorage_links/24666/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/5210/webstorage_links/24667/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/5210/webstorage_links/24665/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5209,
+        "title": "Python学习手册(第4版)",
+        "img": "http://image.banshujiang.cn/5209.jpeg?timestamp=1754139789019",
+        "author": "[美]鲁特兹 [译]李军、刘红伟",
+        "language": "中文",
+        "publishYear": 2011,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5209/webstorage_links/24661/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/5209/webstorage_links/24660/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5208,
+        "title": "The Quick Python Book 4th Edition",
+        "img": "http://image.banshujiang.cn/5208.jpeg?timestamp=1754138791444",
+        "author": "Naomi Ceder",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5208/webstorage_links/24657/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5208/webstorage_links/24656/to_link"
+            }
+        ]
+    },
+    {
         "id": 5194,
         "title": "Python Adventures for Young Coders",
         "img": "http://image.banshujiang.cn/5194.jpeg?timestamp=1754130085115",
@@ -214,54 +282,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/5163/webstorage_links/24528/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5162,
-        "title": "JupyterLab 101",
-        "img": "http://image.banshujiang.cn/5162.jpeg?timestamp=1746362485052",
-        "author": "Michael Driscoll",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5162/webstorage_links/24526/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5161,
-        "title": "Learn Python with Jupyter",
-        "img": "http://image.banshujiang.cn/5161.jpeg?timestamp=1746362318496",
-        "author": "Serena Bonaretti",
-        "language": "英文",
-        "publishYear": 2025,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5161/webstorage_links/24522/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5152,
-        "title": "Python数据可视化之matplotlib实践",
-        "img": "http://image.banshujiang.cn/5152.jpeg?timestamp=1746275615210",
-        "author": "刘大成",
-        "language": "中文",
-        "publishYear": 2018,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5152/webstorage_links/24500/to_link"
             }
         ]
     }

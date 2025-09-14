@@ -1,5 +1,26 @@
 [
     {
+        "id": 5217,
+        "title": "Building Web APIs with ASP.NET Core",
+        "img": "http://image.banshujiang.cn/5217.jpeg?timestamp=1754188346320",
+        "author": "Valerio De Sanctis",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5217/webstorage_links/24699/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5217/webstorage_links/24698/to_link"
+            }
+        ]
+    },
+    {
         "id": 4905,
         "title": "Head First C# 5rd Edition",
         "img": "http://image.banshujiang.cn/4905.jpeg?timestamp=1739087428076",
@@ -295,27 +316,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4114/webstorage_links/20577/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4082,
-        "title": "Clean Architecture with .NET",
-        "img": "http://image.banshujiang.cn/4082.jpeg?timestamp=1717238207513",
-        "author": "Dino Esposito",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "C#",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4082/webstorage_links/20467/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4082/webstorage_links/20466/to_link"
             }
         ]
     }

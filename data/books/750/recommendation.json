@@ -106,6 +106,27 @@
         ]
     },
     {
+        "id": 5217,
+        "title": "Building Web APIs with ASP.NET Core",
+        "img": "http://image.banshujiang.cn/5217.jpeg?timestamp=1754188346320",
+        "author": "Valerio De Sanctis",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5217/webstorage_links/24699/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5217/webstorage_links/24698/to_link"
+            }
+        ]
+    },
+    {
         "id": 4905,
         "title": "Head First C# 5rd Edition",
         "img": "http://image.banshujiang.cn/4905.jpeg?timestamp=1739087428076",
@@ -296,32 +317,6 @@
                 "fmt": "AZW3",
                 "title": "城通网盘",
                 "link": "/e_books/4546/webstorage_links/22388/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4540,
-        "title": "C# 6.0 Pocket Reference",
-        "img": "http://image.banshujiang.cn/4540.jpeg?timestamp=1727874259663",
-        "author": "Joseph Albahari &amp; Ben Albahari",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "C#",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4540/webstorage_links/22355/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4540/webstorage_links/22353/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4540/webstorage_links/22354/to_link"
             }
         ]
     }

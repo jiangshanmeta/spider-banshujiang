@@ -21,6 +21,43 @@
         ]
     },
     {
+        "id": 5216,
+        "title": "AI for Everyday IT",
+        "img": "http://image.banshujiang.cn/5216.jpeg?timestamp=1754188259921",
+        "author": "Chrissy Lemaire and Brandon Abshire",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5216/webstorage_links/24695/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5216/webstorage_links/24694/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5212,
+        "title": "React快速上手开发",
+        "img": "http://image.banshujiang.cn/5212.jpeg?timestamp=1754140533725",
+        "author": "[保]Stoyan Stefanov [译]张俊达",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5212/webstorage_links/24677/to_link"
+            }
+        ]
+    },
+    {
         "id": 5206,
         "title": "Machine Learning for Tabular Data",
         "img": "http://image.banshujiang.cn/5206.jpeg?timestamp=1754138628045",
@@ -235,38 +272,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/5144/webstorage_links/24482/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5143,
-        "title": "Learning LangChain: Building AI and LLM Applications with LangChain and LangGraph",
-        "img": "http://image.banshujiang.cn/5143.jpeg?timestamp=1746274319615",
-        "author": "Mayo Oshin and Nuno Campos",
-        "language": "英文",
-        "publishYear": 2025,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5143/webstorage_links/24480/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5142,
-        "title": "Large Language Models Projects: Apply and Implement Strategies for Large Language Models",
-        "img": "http://image.banshujiang.cn/5142.jpeg?timestamp=1746274131386",
-        "author": "Pere Martra",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5142/webstorage_links/24478/to_link"
             }
         ]
     }
