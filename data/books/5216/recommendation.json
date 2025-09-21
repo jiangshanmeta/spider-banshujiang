@@ -1,5 +1,37 @@
 [
     {
+        "id": 5227,
+        "title": "Learning AI Tools in Tableau",
+        "img": "http://image.banshujiang.cn/5227.jpeg?timestamp=1754189142302",
+        "author": "Ann Jackson",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5227/webstorage_links/24725/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5224,
+        "title": "How Large Language Models Work",
+        "img": "http://image.banshujiang.cn/5224.jpeg?timestamp=1754188862491",
+        "author": "Edward Raff, Drew Farris and Stella Biderman",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5224/webstorage_links/24719/to_link"
+            }
+        ]
+    },
+    {
         "id": 5206,
         "title": "Machine Learning for Tabular Data",
         "img": "http://image.banshujiang.cn/5206.jpeg?timestamp=1754138628045",
@@ -230,43 +262,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/5142/webstorage_links/24478/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5141,
-        "title": "Large Language Models: Concepts, Techniques and Applications",
-        "img": "http://image.banshujiang.cn/5141.jpeg?timestamp=1746250938517",
-        "author": "John Atkinson‑Abutridy",
-        "language": "英文",
-        "publishYear": 2025,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5141/webstorage_links/24476/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5140,
-        "title": "Introduction to AI Robotics 2nd Edition",
-        "img": "http://image.banshujiang.cn/5140.jpeg?timestamp=1746250600854",
-        "author": "Robin R. Murphy",
-        "language": "英文",
-        "publishYear": 2019,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5140/webstorage_links/24474/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/5140/webstorage_links/24473/to_link"
             }
         ]
     }

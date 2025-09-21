@@ -1,5 +1,26 @@
 [
     {
+        "id": 5218,
+        "title": "C# Concurrency",
+        "img": "http://image.banshujiang.cn/5218.jpeg?timestamp=1754188411028",
+        "author": "Nir Dobovizki",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5218/webstorage_links/24703/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5218/webstorage_links/24702/to_link"
+            }
+        ]
+    },
+    {
         "id": 5217,
         "title": "Building Web APIs with ASP.NET Core",
         "img": "http://image.banshujiang.cn/5217.jpeg?timestamp=1754188346320",
@@ -307,21 +328,5 @@
         "publishYear": 2014,
         "programLanguage": "C#",
         "formats": []
-    },
-    {
-        "id": 4114,
-        "title": ".NET in Action 2nd Edition",
-        "img": "http://image.banshujiang.cn/4114.jpeg?timestamp=1718111531642",
-        "author": "Dustin Metzgar",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "C#",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4114/webstorage_links/20577/to_link"
-            }
-        ]
     }
 ]

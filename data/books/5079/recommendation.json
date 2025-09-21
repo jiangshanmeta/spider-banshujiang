@@ -1,5 +1,37 @@
 [
     {
+        "id": 5227,
+        "title": "Learning AI Tools in Tableau",
+        "img": "http://image.banshujiang.cn/5227.jpeg?timestamp=1754189142302",
+        "author": "Ann Jackson",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5227/webstorage_links/24725/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5224,
+        "title": "How Large Language Models Work",
+        "img": "http://image.banshujiang.cn/5224.jpeg?timestamp=1754188862491",
+        "author": "Edward Raff, Drew Farris and Stella Biderman",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5224/webstorage_links/24719/to_link"
+            }
+        ]
+    },
+    {
         "id": 5216,
         "title": "AI for Everyday IT",
         "img": "http://image.banshujiang.cn/5216.jpeg?timestamp=1754188259921",
@@ -235,38 +267,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/5143/webstorage_links/24480/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5142,
-        "title": "Large Language Models Projects: Apply and Implement Strategies for Large Language Models",
-        "img": "http://image.banshujiang.cn/5142.jpeg?timestamp=1746274131386",
-        "author": "Pere Martra",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5142/webstorage_links/24478/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5141,
-        "title": "Large Language Models: Concepts, Techniques and Applications",
-        "img": "http://image.banshujiang.cn/5141.jpeg?timestamp=1746250938517",
-        "author": "John Atkinson‑Abutridy",
-        "language": "英文",
-        "publishYear": 2025,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5141/webstorage_links/24476/to_link"
             }
         ]
     }

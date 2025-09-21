@@ -106,6 +106,27 @@
         ]
     },
     {
+        "id": 5218,
+        "title": "C# Concurrency",
+        "img": "http://image.banshujiang.cn/5218.jpeg?timestamp=1754188411028",
+        "author": "Nir Dobovizki",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5218/webstorage_links/24703/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5218/webstorage_links/24702/to_link"
+            }
+        ]
+    },
+    {
         "id": 5217,
         "title": "Building Web APIs with ASP.NET Core",
         "img": "http://image.banshujiang.cn/5217.jpeg?timestamp=1754188346320",
@@ -291,32 +312,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/4547/webstorage_links/22395/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4546,
-        "title": "C# 6.0 Cookbook 4th Edition",
-        "img": "http://image.banshujiang.cn/4546.jpeg?timestamp=1727874863672",
-        "author": "Jay Hilyard and Stephen Teilhet",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "C#",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4546/webstorage_links/22390/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4546/webstorage_links/22389/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4546/webstorage_links/22388/to_link"
             }
         ]
     }

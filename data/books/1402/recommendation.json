@@ -16,6 +16,22 @@
         ]
     },
     {
+        "id": 5225,
+        "title": "Java Cookbook 5th Edition",
+        "img": "http://image.banshujiang.cn/5225.jpeg?timestamp=1754188938132",
+        "author": "Ian F. Darwin",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5225/webstorage_links/24721/to_link"
+            }
+        ]
+    },
+    {
         "id": 5174,
         "title": "RocketMQ实战与原理解析",
         "img": "http://image.banshujiang.cn/5174.jpeg?timestamp=1746878692689",
@@ -266,27 +282,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4784/webstorage_links/23336/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4782,
-        "title": "Hello, Android 4th Edition",
-        "img": "http://image.banshujiang.cn/4782.jpeg?timestamp=1731120133719",
-        "author": "Ed Burnette",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4782/webstorage_links/23328/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4782/webstorage_links/23327/to_link"
             }
         ]
     }

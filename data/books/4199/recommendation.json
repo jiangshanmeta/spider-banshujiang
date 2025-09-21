@@ -90,6 +90,38 @@
         ]
     },
     {
+        "id": 5227,
+        "title": "Learning AI Tools in Tableau",
+        "img": "http://image.banshujiang.cn/5227.jpeg?timestamp=1754189142302",
+        "author": "Ann Jackson",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5227/webstorage_links/24725/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5224,
+        "title": "How Large Language Models Work",
+        "img": "http://image.banshujiang.cn/5224.jpeg?timestamp=1754188862491",
+        "author": "Edward Raff, Drew Farris and Stella Biderman",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5224/webstorage_links/24719/to_link"
+            }
+        ]
+    },
+    {
         "id": 5216,
         "title": "AI for Everyday IT",
         "img": "http://image.banshujiang.cn/5216.jpeg?timestamp=1754188259921",
@@ -245,38 +277,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/5154/webstorage_links/24504/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5149,
-        "title": "Python Machine Learning for Beginners",
-        "img": "http://image.banshujiang.cn/5149.jpeg?timestamp=1746275153318",
-        "author": "AI Publishing",
-        "language": "英文",
-        "publishYear": 2020,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/5149/webstorage_links/24492/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5148,
-        "title": "Natural Language Processing in Action 2nd Edition",
-        "img": "http://image.banshujiang.cn/5148.jpeg?timestamp=1746274973679",
-        "author": "Hobson Lane and Maria Dyshel",
-        "language": "英文",
-        "publishYear": 2025,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5148/webstorage_links/24490/to_link"
             }
         ]
     }

@@ -1,5 +1,37 @@
 [
     {
+        "id": 5221,
+        "title": "Full Stack JavaScript Strategies",
+        "img": "http://image.banshujiang.cn/5221.jpeg?timestamp=1754188614113",
+        "author": "Milecia McGregor",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5221/webstorage_links/24711/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5220,
+        "title": "Efficient Node.js",
+        "img": "http://image.banshujiang.cn/5220.jpeg?timestamp=1754188546006",
+        "author": "Samer Buna",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5220/webstorage_links/24709/to_link"
+            }
+        ]
+    },
+    {
         "id": 5212,
         "title": "React快速上手开发",
         "img": "http://image.banshujiang.cn/5212.jpeg?timestamp=1754140533725",
@@ -290,38 +322,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4732/webstorage_links/23080/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4731,
-        "title": "Node即学即用",
-        "img": "http://image.banshujiang.cn/4731.jpeg?timestamp=1729934153756",
-        "author": "[英]Tom Hughes-Croucher、Mike Wilson",
-        "language": "中文",
-        "publishYear": 2013,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4731/webstorage_links/23078/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4730,
-        "title": "Node.js实战",
-        "img": "http://image.banshujiang.cn/4730.jpeg?timestamp=1729933255340",
-        "author": "[美]Mike Cantelon、Marc Harter、T. J. Holowaychuk、Nathan Rajlich [译]吴海星",
-        "language": "中文",
-        "publishYear": 2014,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4730/webstorage_links/23076/to_link"
             }
         ]
     }

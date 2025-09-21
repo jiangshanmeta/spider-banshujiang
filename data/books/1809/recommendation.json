@@ -48,6 +48,22 @@
         ]
     },
     {
+        "id": 5225,
+        "title": "Java Cookbook 5th Edition",
+        "img": "http://image.banshujiang.cn/5225.jpeg?timestamp=1754188938132",
+        "author": "Ian F. Darwin",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5225/webstorage_links/24721/to_link"
+            }
+        ]
+    },
+    {
         "id": 5174,
         "title": "RocketMQ实战与原理解析",
         "img": "http://image.banshujiang.cn/5174.jpeg?timestamp=1746878692689",
@@ -271,22 +287,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4910/webstorage_links/23837/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4895,
-        "title": "Java 9 High Performance",
-        "img": "http://image.banshujiang.cn/4895.jpeg?timestamp=1739085642505",
-        "author": "Mayur Ramgir",
-        "language": "英文",
-        "publishYear": 2017,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4895/webstorage_links/23776/to_link"
             }
         ]
     }
