@@ -16,6 +16,27 @@
         ]
     },
     {
+        "id": 5232,
+        "title": "Building Android Projects with Kotlin",
+        "img": "http://image.banshujiang.cn/5232.jpeg?timestamp=1756548544145",
+        "author": "Pankaj Kumar",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Kotlin",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5232/webstorage_links/24743/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5232/webstorage_links/24742/to_link"
+            }
+        ]
+    },
+    {
         "id": 5067,
         "title": "编程竞赛宝典：C++语言和算法入门",
         "img": "http://image.banshujiang.cn/5067.jpeg?timestamp=1743687580422",
@@ -306,32 +327,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4501/webstorage_links/22165/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4490,
-        "title": "Linux多线程服务端编程：使用muduo C++网络库",
-        "img": "http://image.banshujiang.cn/4490.jpeg?timestamp=1728110768945",
-        "author": "陈硕",
-        "language": "中文",
-        "publishYear": 2013,
-        "programLanguage": "C++",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4490/webstorage_links/22110/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4490/webstorage_links/22111/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4490/webstorage_links/22109/to_link"
             }
         ]
     }

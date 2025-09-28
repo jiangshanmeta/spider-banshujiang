@@ -1,5 +1,26 @@
 [
     {
+        "id": 5232,
+        "title": "Building Android Projects with Kotlin",
+        "img": "http://image.banshujiang.cn/5232.jpeg?timestamp=1756548544145",
+        "author": "Pankaj Kumar",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Kotlin",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5232/webstorage_links/24743/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5232/webstorage_links/24742/to_link"
+            }
+        ]
+    },
+    {
         "id": 4998,
         "title": "Kotlin from Scratch: A Project-Based Introduction for the Intrepid Programmer",
         "img": "http://image.banshujiang.cn/4998.jpeg",
@@ -331,22 +352,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3064/webstorage_links/16277/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3007,
-        "title": "Android Programming 4th Edition",
-        "img": "https://imagebsj.netlify.app/3007.jpeg",
-        "author": "Kristin Marsicano, Brian Gardner, Bill Phillips and Chris Stewart",
-        "language": "英文",
-        "publishYear": 2019,
-        "programLanguage": "Kotlin",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3007/webstorage_links/16067/to_link"
             }
         ]
     }

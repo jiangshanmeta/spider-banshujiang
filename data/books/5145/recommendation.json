@@ -1,5 +1,106 @@
 [
     {
+        "id": 5237,
+        "title": "Designing Large Language Model Applications",
+        "img": "http://image.banshujiang.cn/5237.jpeg?timestamp=1757143325939",
+        "author": " Suhas Pai",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5237/webstorage_links/24753/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5236,
+        "title": "DeepSeek从入门到精通",
+        "img": "http://image.banshujiang.cn/5236.jpeg?timestamp=1757142807084",
+        "author": "曾英杰",
+        "language": "中文",
+        "publishYear": 2025,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5236/webstorage_links/24751/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5235,
+        "title": "DeepSeek Unlocked",
+        "img": "http://image.banshujiang.cn/5235.jpeg?timestamp=1757142327050",
+        "author": "Tavian F. Draven",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5235/webstorage_links/24749/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5234,
+        "title": "Building Embodied AI Systems: The Agents, the Architecture Principles, Challenges, and Application Domains",
+        "img": "http://image.banshujiang.cn/5234.jpeg?timestamp=1757142129098",
+        "author": "Pethuru Raj",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5234/webstorage_links/24747/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5233,
+        "title": "AI Value Creators",
+        "img": "http://image.banshujiang.cn/5233.jpeg?timestamp=1757134917785",
+        "author": "Rob Thomas, Paul Zikopoulos and Kate Soule",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5233/webstorage_links/24745/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5229,
+        "title": "Software Testing with Generative AI",
+        "img": "http://image.banshujiang.cn/5229.jpeg?timestamp=1754189323805",
+        "author": "Mark Winteringham",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5229/webstorage_links/24731/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5229/webstorage_links/24730/to_link"
+            }
+        ]
+    },
+    {
         "id": 5227,
         "title": "Learning AI Tools in Tableau",
         "img": "http://image.banshujiang.cn/5227.jpeg?timestamp=1754189142302",
@@ -171,102 +272,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/5158/webstorage_links/24514/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5154,
-        "title": "Robotics, AI and the Future of Law",
-        "img": "http://image.banshujiang.cn/5154.jpeg?timestamp=1746275860954",
-        "author": "Marcelo Corrales, Mark Fenwick and Nikolaus Forgó",
-        "language": "英文",
-        "publishYear": 2018,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5154/webstorage_links/24504/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5149,
-        "title": "Python Machine Learning for Beginners",
-        "img": "http://image.banshujiang.cn/5149.jpeg?timestamp=1746275153318",
-        "author": "AI Publishing",
-        "language": "英文",
-        "publishYear": 2020,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/5149/webstorage_links/24492/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5148,
-        "title": "Natural Language Processing in Action 2nd Edition",
-        "img": "http://image.banshujiang.cn/5148.jpeg?timestamp=1746274973679",
-        "author": "Hobson Lane and Maria Dyshel",
-        "language": "英文",
-        "publishYear": 2025,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5148/webstorage_links/24490/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5144,
-        "title": "LLMs in Production: From Language Models To Successful Products",
-        "img": "http://image.banshujiang.cn/5144.jpeg?timestamp=1746274461473",
-        "author": "Christopher Brousseau and Matthew Sharp",
-        "language": "英文",
-        "publishYear": 2025,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5144/webstorage_links/24482/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5143,
-        "title": "Learning LangChain: Building AI and LLM Applications with LangChain and LangGraph",
-        "img": "http://image.banshujiang.cn/5143.jpeg?timestamp=1746274319615",
-        "author": "Mayo Oshin and Nuno Campos",
-        "language": "英文",
-        "publishYear": 2025,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5143/webstorage_links/24480/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5142,
-        "title": "Large Language Models Projects: Apply and Implement Strategies for Large Language Models",
-        "img": "http://image.banshujiang.cn/5142.jpeg?timestamp=1746274131386",
-        "author": "Pere Martra",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5142/webstorage_links/24478/to_link"
             }
         ]
     }

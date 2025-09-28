@@ -1,5 +1,26 @@
 [
     {
+        "id": 5232,
+        "title": "Building Android Projects with Kotlin",
+        "img": "http://image.banshujiang.cn/5232.jpeg?timestamp=1756548544145",
+        "author": "Pankaj Kumar",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Kotlin",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5232/webstorage_links/24743/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5232/webstorage_links/24742/to_link"
+            }
+        ]
+    },
+    {
         "id": 4801,
         "title": "Android Programming: The Big Nerd Ranch Guide 3rd Edition",
         "img": "http://image.banshujiang.cn/4801.jpeg?timestamp=1731733327450",
@@ -311,27 +332,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/2903/webstorage_links/10645/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2808,
-        "title": "Android Animations by Tutorials",
-        "img": "https://imagebsj.netlify.app/2808.jpeg",
-        "author": "Filip Babić, Prateek Prasad &amp; Alex Sullivan",
-        "language": "英文",
-        "publishYear": 2021,
-        "programLanguage": "Kotlin",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2808/webstorage_links/10221/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2808/webstorage_links/10220/to_link"
             }
         ]
     }
