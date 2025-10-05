@@ -1,5 +1,74 @@
 [
     {
+        "id": 5243,
+        "title": "Kotlin实战",
+        "img": "http://image.banshujiang.cn/5243.jpeg?timestamp=1757209871307",
+        "author": "[美]Dmitry Jemerov, Svetlana Isakova [译]覃宇、罗丽、李思阳、蒋杨海",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "Kotlin",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5243/webstorage_links/24767/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5242,
+        "title": "Kotlin Programming Cookbook",
+        "img": "http://image.banshujiang.cn/5242.jpeg?timestamp=1757144654504",
+        "author": "Aanand Shekhar Roy and Rashi Karanpuria",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "Kotlin",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5242/webstorage_links/24765/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5241,
+        "title": "Kotlin and Android Development featuring Jetpack",
+        "img": "http://image.banshujiang.cn/5241.jpeg?timestamp=1757144252887",
+        "author": "Michael Fazio",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Kotlin",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5241/webstorage_links/24762/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5241/webstorage_links/24761/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5240,
+        "title": "Kotlin: An Illustrated Guide",
+        "img": "http://image.banshujiang.cn/5240.jpeg?timestamp=1757144149886",
+        "author": "Dave Leeds",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Kotlin",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5240/webstorage_links/24759/to_link"
+            }
+        ]
+    },
+    {
         "id": 5232,
         "title": "Building Android Projects with Kotlin",
         "img": "http://image.banshujiang.cn/5232.jpeg?timestamp=1756548544145",
@@ -248,105 +317,6 @@
                 "fmt": "CODE",
                 "title": "城通网盘",
                 "link": "/e_books/3131/webstorage_links/16598/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3129,
-        "title": "Kotlin Coroutines by Tutorials 2nd Edition",
-        "img": "https://imagebsj.netlify.app/3129.jpeg",
-        "author": "Filip Babić and Nishant Srivastava",
-        "language": "英文",
-        "publishYear": 2019,
-        "programLanguage": "Kotlin",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3129/webstorage_links/16590/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3129/webstorage_links/16589/to_link"
-            },
-            {
-                "fmt": "CODE",
-                "title": "城通网盘",
-                "link": "/e_books/3129/webstorage_links/16588/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3126,
-        "title": "Data Structures &amp; Algorithms in Kotlin",
-        "img": "https://imagebsj.netlify.app/3126.jpeg",
-        "author": "Irina Galata &amp; Matei Suica",
-        "language": "英文",
-        "publishYear": 2019,
-        "programLanguage": "Kotlin",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3126/webstorage_links/16577/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3126/webstorage_links/16576/to_link"
-            },
-            {
-                "fmt": "CODE",
-                "title": "城通网盘",
-                "link": "/e_books/3126/webstorage_links/16578/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3122,
-        "title": "Android Test-Driven Development by Tutorials",
-        "img": "https://imagebsj.netlify.app/3122.jpeg",
-        "author": "Lance Gleason, Victoria Gonda and Fernando Sproviero",
-        "language": "英文",
-        "publishYear": 2019,
-        "programLanguage": "Kotlin",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3122/webstorage_links/16556/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3122/webstorage_links/16555/to_link"
-            },
-            {
-                "fmt": "CODE",
-                "title": "城通网盘",
-                "link": "/e_books/3122/webstorage_links/16554/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3064,
-        "title": "Real-World Android by Tutorials 2nd Edition",
-        "img": "https://imagebsj.netlify.app/3064.jpeg",
-        "author": "Ricardo Costeira, Subhrajyoti Sen, Kolin Stürt &amp; Antonio Roa-Valverde",
-        "language": "英文",
-        "publishYear": 2022,
-        "programLanguage": "Kotlin",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3064/webstorage_links/16278/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3064/webstorage_links/16277/to_link"
             }
         ]
     }

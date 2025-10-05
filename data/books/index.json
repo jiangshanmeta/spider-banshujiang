@@ -99270,5 +99270,143 @@
                 "link": "/e_books/5237/webstorage_links/24753/to_link"
             }
         ]
+    },
+    {
+        "id": 5238,
+        "title": "FastAPI Cookbook",
+        "img": "http://image.banshujiang.cn/5238.jpeg?timestamp=1757143436860",
+        "author": "Giunio De Luca",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5238/webstorage_links/24755/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5239,
+        "title": "Game Theory Explained: A Mathematical Introduction with Optimization",
+        "img": "http://image.banshujiang.cn/5239.jpeg?timestamp=1757143647362",
+        "author": "Christopher Griffin",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5239/webstorage_links/24757/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5240,
+        "title": "Kotlin: An Illustrated Guide",
+        "img": "http://image.banshujiang.cn/5240.jpeg?timestamp=1757144149886",
+        "author": "Dave Leeds",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Kotlin",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5240/webstorage_links/24759/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5241,
+        "title": "Kotlin and Android Development featuring Jetpack",
+        "img": "http://image.banshujiang.cn/5241.jpeg?timestamp=1757144252887",
+        "author": "Michael Fazio",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Kotlin",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5241/webstorage_links/24762/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5241/webstorage_links/24761/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5242,
+        "title": "Kotlin Programming Cookbook",
+        "img": "http://image.banshujiang.cn/5242.jpeg?timestamp=1757144654504",
+        "author": "Aanand Shekhar Roy and Rashi Karanpuria",
+        "language": "英文",
+        "publishYear": 2018,
+        "programLanguage": "Kotlin",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5242/webstorage_links/24765/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5243,
+        "title": "Kotlin实战",
+        "img": "http://image.banshujiang.cn/5243.jpeg?timestamp=1757209871307",
+        "author": "[美]Dmitry Jemerov, Svetlana Isakova [译]覃宇、罗丽、李思阳、蒋杨海",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "Kotlin",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5243/webstorage_links/24767/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5244,
+        "title": "Generative AI Apps with LangChain and Python",
+        "img": "http://image.banshujiang.cn/5244.jpeg?timestamp=1757210071579",
+        "author": "Rabi Jay",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5244/webstorage_links/24769/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5245,
+        "title": "iOS 17 App Development for Beginners",
+        "img": "http://image.banshujiang.cn/5245.jpeg?timestamp=1757210180384",
+        "author": "Arpit Kulsreshtha",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5245/webstorage_links/24773/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5245/webstorage_links/24772/to_link"
+            }
+        ]
     }
 ]

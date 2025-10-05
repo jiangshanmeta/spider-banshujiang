@@ -1,5 +1,26 @@
 [
     {
+        "id": 5245,
+        "title": "iOS 17 App Development for Beginners",
+        "img": "http://image.banshujiang.cn/5245.jpeg?timestamp=1757210180384",
+        "author": "Arpit Kulsreshtha",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5245/webstorage_links/24773/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5245/webstorage_links/24772/to_link"
+            }
+        ]
+    },
+    {
         "id": 4899,
         "title": "Swift Programming: The Big Nerd Ranch Guide",
         "img": "http://image.banshujiang.cn/4899.jpeg?timestamp=1739086533192",
@@ -316,27 +337,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4579/webstorage_links/22566/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4503,
-        "title": "Core Data by Tutorials 2nd Edition",
-        "img": "http://image.banshujiang.cn/4503.jpeg?timestamp=1725188115009",
-        "author": "Aaron Douglas, Saul Mora, Matthew Morey and Pietro Rea",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4503/webstorage_links/22171/to_link"
-            },
-            {
-                "fmt": "CODE",
-                "title": "城通网盘",
-                "link": "/e_books/4503/webstorage_links/22170/to_link"
             }
         ]
     }

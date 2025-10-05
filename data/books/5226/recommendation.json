@@ -1,5 +1,21 @@
 [
     {
+        "id": 5238,
+        "title": "FastAPI Cookbook",
+        "img": "http://image.banshujiang.cn/5238.jpeg?timestamp=1757143436860",
+        "author": "Giunio De Luca",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5238/webstorage_links/24755/to_link"
+            }
+        ]
+    },
+    {
         "id": 5210,
         "title": "Python自动化运维：技术与最佳实践",
         "img": "http://image.banshujiang.cn/5210.jpeg?timestamp=1754139928763",
@@ -276,22 +292,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/5168/webstorage_links/24540/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5167,
-        "title": "Jupyter Cookbook",
-        "img": "http://image.banshujiang.cn/5167.jpeg?timestamp=1746876122901",
-        "author": "Dan Toomey",
-        "language": "英文",
-        "publishYear": 2018,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/5167/webstorage_links/24538/to_link"
             }
         ]
     }

@@ -16,6 +16,27 @@
         ]
     },
     {
+        "id": 5245,
+        "title": "iOS 17 App Development for Beginners",
+        "img": "http://image.banshujiang.cn/5245.jpeg?timestamp=1757210180384",
+        "author": "Arpit Kulsreshtha",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5245/webstorage_links/24773/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5245/webstorage_links/24772/to_link"
+            }
+        ]
+    },
+    {
         "id": 4899,
         "title": "Swift Programming: The Big Nerd Ranch Guide",
         "img": "http://image.banshujiang.cn/4899.jpeg?timestamp=1739086533192",
@@ -306,32 +327,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/4593/webstorage_links/22628/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4582,
-        "title": "iOS Swift Game Development Cookbook 2nd Edition",
-        "img": "http://image.banshujiang.cn/4582.jpeg?timestamp=1728013483931",
-        "author": "Jonathon Manning and Paris Buttfield-Addison",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4582/webstorage_links/22579/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4582/webstorage_links/22577/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4582/webstorage_links/22578/to_link"
             }
         ]
     }

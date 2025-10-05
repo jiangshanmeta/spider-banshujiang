@@ -1,5 +1,21 @@
 [
     {
+        "id": 5238,
+        "title": "FastAPI Cookbook",
+        "img": "http://image.banshujiang.cn/5238.jpeg?timestamp=1757143436860",
+        "author": "Giunio De Luca",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5238/webstorage_links/24755/to_link"
+            }
+        ]
+    },
+    {
         "id": 5226,
         "title": "Learning Python 6th Edition",
         "img": "http://image.banshujiang.cn/5226.jpeg?timestamp=1754189011394",

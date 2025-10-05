@@ -1,5 +1,21 @@
 [
     {
+        "id": 5244,
+        "title": "Generative AI Apps with LangChain and Python",
+        "img": "http://image.banshujiang.cn/5244.jpeg?timestamp=1757210071579",
+        "author": "Rabi Jay",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5244/webstorage_links/24769/to_link"
+            }
+        ]
+    },
+    {
         "id": 5236,
         "title": "DeepSeek从入门到精通",
         "img": "http://image.banshujiang.cn/5236.jpeg?timestamp=1757142807084",
@@ -256,22 +272,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/5158/webstorage_links/24514/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5154,
-        "title": "Robotics, AI and the Future of Law",
-        "img": "http://image.banshujiang.cn/5154.jpeg?timestamp=1746275860954",
-        "author": "Marcelo Corrales, Mark Fenwick and Nikolaus Forgó",
-        "language": "英文",
-        "publishYear": 2018,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5154/webstorage_links/24504/to_link"
             }
         ]
     }

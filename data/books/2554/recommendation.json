@@ -1,5 +1,42 @@
 [
     {
+        "id": 5245,
+        "title": "iOS 17 App Development for Beginners",
+        "img": "http://image.banshujiang.cn/5245.jpeg?timestamp=1757210180384",
+        "author": "Arpit Kulsreshtha",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Swift",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5245/webstorage_links/24773/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5245/webstorage_links/24772/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5244,
+        "title": "Generative AI Apps with LangChain and Python",
+        "img": "http://image.banshujiang.cn/5244.jpeg?timestamp=1757210071579",
+        "author": "Rabi Jay",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5244/webstorage_links/24769/to_link"
+            }
+        ]
+    },
+    {
         "id": 5237,
         "title": "Designing Large Language Model Applications",
         "img": "http://image.banshujiang.cn/5237.jpeg?timestamp=1757143325939",
@@ -240,38 +277,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/5179/webstorage_links/24572/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5159,
-        "title": "The Rise of AI Agents: Integrating AI, Blockchain Technologies and Quantum Computing",
-        "img": "http://image.banshujiang.cn/5159.jpeg?timestamp=1746276487955",
-        "author": "Petar Radanliev",
-        "language": "英文",
-        "publishYear": 2025,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5159/webstorage_links/24516/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5158,
-        "title": "The Future of Work: Robots, AI and Automation",
-        "img": "http://image.banshujiang.cn/5158.jpeg?timestamp=1746276392490",
-        "author": "Darrell M. West",
-        "language": "英文",
-        "publishYear": 2018,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/5158/webstorage_links/24514/to_link"
             }
         ]
     }
