@@ -1,5 +1,21 @@
 [
     {
+        "id": 5251,
+        "title": "Pro Spring Boot 3 with Kotlin",
+        "img": "http://image.banshujiang.cn/5251.jpeg?timestamp=1757210782415",
+        "author": "Peter Späth and Felipe Gutierrez",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Kotlin",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5251/webstorage_links/24784/to_link"
+            }
+        ]
+    },
+    {
         "id": 5242,
         "title": "Kotlin Programming Cookbook",
         "img": "http://image.banshujiang.cn/5242.jpeg?timestamp=1757144654504",
@@ -296,32 +312,6 @@
                 "fmt": "CODE",
                 "title": "城通网盘",
                 "link": "/e_books/3142/webstorage_links/16660/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3131,
-        "title": "Advanced Android App Architecture",
-        "img": "https://imagebsj.netlify.app/3131.jpeg",
-        "author": "Yun Cheng and Aldo Olivares Domínguez",
-        "language": "英文",
-        "publishYear": 2019,
-        "programLanguage": "Kotlin",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3131/webstorage_links/16597/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3131/webstorage_links/16596/to_link"
-            },
-            {
-                "fmt": "CODE",
-                "title": "城通网盘",
-                "link": "/e_books/3131/webstorage_links/16598/to_link"
             }
         ]
     }

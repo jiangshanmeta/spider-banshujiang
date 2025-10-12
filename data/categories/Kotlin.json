@@ -1,5 +1,21 @@
 [
     {
+        "id": 5251,
+        "title": "Pro Spring Boot 3 with Kotlin",
+        "img": "http://image.banshujiang.cn/5251.jpeg?timestamp=1757210782415",
+        "author": "Peter Späth and Felipe Gutierrez",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Kotlin",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5251/webstorage_links/24784/to_link"
+            }
+        ]
+    },
+    {
         "id": 5243,
         "title": "Kotlin实战",
         "img": "http://image.banshujiang.cn/5243.jpeg?timestamp=1757209871307",

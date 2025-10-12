@@ -99408,5 +99408,117 @@
                 "link": "/e_books/5245/webstorage_links/24772/to_link"
             }
         ]
+    },
+    {
+        "id": 5246,
+        "title": "LangChain and LlamaIndex Projects Lab Book: Hooking Large Language Models Up to the Real World",
+        "img": "http://image.banshujiang.cn/5246.jpeg?timestamp=1757210308155",
+        "author": "Mark Watson",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5246/webstorage_links/24775/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5247,
+        "title": "LangChain for Life Sciences and Healthcare",
+        "img": "http://image.banshujiang.cn/5247.jpeg?timestamp=1757210433046",
+        "author": "Ivan Reznikov",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5247/webstorage_links/24777/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5248,
+        "title": "LangChain Programming For Beginners",
+        "img": "http://image.banshujiang.cn/5248.jpeg?timestamp=1757210541617",
+        "author": "Nathan Sebhastian",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5248/webstorage_links/24779/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5249,
+        "title": "Mastering  LLM Applications with LangChain and  Hugging Face",
+        "img": "http://image.banshujiang.cn/5249.jpeg?timestamp=1757210627702",
+        "author": "Hunaidkhan Pathan and Nayankumar Gajjar",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5249/webstorage_links/24780/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5250,
+        "title": "Modern Systems Programming with Scala Native",
+        "img": "http://image.banshujiang.cn/5250.jpeg?timestamp=1757210698037",
+        "author": "Richard Whaling",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5250/webstorage_links/24782/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5251,
+        "title": "Pro Spring Boot 3 with Kotlin",
+        "img": "http://image.banshujiang.cn/5251.jpeg?timestamp=1757210782415",
+        "author": "Peter Späth and Felipe Gutierrez",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Kotlin",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5251/webstorage_links/24784/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5252,
+        "title": "Programming Concurrency on the JVM: Mastering Synchronization, STM, and Actors",
+        "img": "http://image.banshujiang.cn/5252.jpeg?timestamp=1757214234484",
+        "author": "Venkat Subramaniam",
+        "language": "英文",
+        "publishYear": 2011,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5252/webstorage_links/24789/to_link"
+            }
+        ]
     }
 ]

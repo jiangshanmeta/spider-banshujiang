@@ -1,5 +1,69 @@
 [
     {
+        "id": 5249,
+        "title": "Mastering  LLM Applications with LangChain and  Hugging Face",
+        "img": "http://image.banshujiang.cn/5249.jpeg?timestamp=1757210627702",
+        "author": "Hunaidkhan Pathan and Nayankumar Gajjar",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5249/webstorage_links/24780/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5248,
+        "title": "LangChain Programming For Beginners",
+        "img": "http://image.banshujiang.cn/5248.jpeg?timestamp=1757210541617",
+        "author": "Nathan Sebhastian",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5248/webstorage_links/24779/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5247,
+        "title": "LangChain for Life Sciences and Healthcare",
+        "img": "http://image.banshujiang.cn/5247.jpeg?timestamp=1757210433046",
+        "author": "Ivan Reznikov",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5247/webstorage_links/24777/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5246,
+        "title": "LangChain and LlamaIndex Projects Lab Book: Hooking Large Language Models Up to the Real World",
+        "img": "http://image.banshujiang.cn/5246.jpeg?timestamp=1757210308155",
+        "author": "Mark Watson",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5246/webstorage_links/24775/to_link"
+            }
+        ]
+    },
+    {
         "id": 5238,
         "title": "FastAPI Cookbook",
         "img": "http://image.banshujiang.cn/5238.jpeg?timestamp=1757143436860",
@@ -213,80 +277,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/5177/webstorage_links/24568/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5176,
-        "title": "Hands-On Bitcoin Programming with Python",
-        "img": "http://image.banshujiang.cn/5176.jpeg?timestamp=1746882105120",
-        "author": "Harish Kumar Garg",
-        "language": "英文",
-        "publishYear": 2018,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5176/webstorage_links/24566/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/5176/webstorage_links/24565/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5170,
-        "title": "Practical Data Science with Jupyter 2nd Edition",
-        "img": "http://image.banshujiang.cn/5170.jpeg?timestamp=1746878225692",
-        "author": "Prateek Gupta",
-        "language": "英文",
-        "publishYear": 2021,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5170/webstorage_links/24546/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/5170/webstorage_links/24545/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5169,
-        "title": "Machine Learning Concepts with Python and the Jupyter Notebook Environment: Using Tensorflow 2.0",
-        "img": "http://image.banshujiang.cn/5169.jpeg?timestamp=1746876323628",
-        "author": "Nikita Silaparasetty",
-        "language": "英文",
-        "publishYear": 2020,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/5169/webstorage_links/24542/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5168,
-        "title": "Jupyter入门与实战",
-        "img": "http://image.banshujiang.cn/5168.jpeg?timestamp=1746876230144",
-        "author": "冯立超",
-        "language": "中文",
-        "publishYear": 2021,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5168/webstorage_links/24540/to_link"
             }
         ]
     }
