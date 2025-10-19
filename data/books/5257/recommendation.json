@@ -1,0 +1,328 @@
+[
+    {
+        "id": 5258,
+        "title": "Rust实战",
+        "img": "http://image.banshujiang.cn/5258.jpeg?timestamp=1757215012730",
+        "author": "[新]Tim McNamara",
+        "language": "中文",
+        "publishYear": 2022,
+        "programLanguage": "Rust",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5258/webstorage_links/24803/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5192,
+        "title": "Programming with Rust",
+        "img": "http://image.banshujiang.cn/5192.jpeg?timestamp=1753583341485",
+        "author": "Donis Marshall",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Rust",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5192/webstorage_links/24603/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4911,
+        "title": "Async Rust",
+        "img": "http://image.banshujiang.cn/4911.jpeg?timestamp=1739605088179",
+        "author": "Maxwell Flitton and Caroline Morton",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Rust",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4911/webstorage_links/23842/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4911/webstorage_links/23841/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4855,
+        "title": "Programming Rust",
+        "img": "http://image.banshujiang.cn/4855.jpeg?timestamp=1732351479794",
+        "author": "Jim Blandy and Jason Orendorff",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "Rust",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4855/webstorage_links/23618/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4855/webstorage_links/23617/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4664,
+        "title": "Idiomatic Rust",
+        "img": "http://image.banshujiang.cn/4664.jpeg?timestamp=1729328134804",
+        "author": "Brenden Matthew",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Rust",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4664/webstorage_links/22823/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4091,
+        "title": "Effective Rust",
+        "img": "http://image.banshujiang.cn/4091.jpeg?timestamp=1717329166519",
+        "author": "David Drysdale",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Rust",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4091/webstorage_links/20501/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4091/webstorage_links/20500/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4011,
+        "title": "Learn Rust in a Month of Lunches",
+        "img": "http://image.banshujiang.cn/4011.jpeg?timestamp=1715523366998",
+        "author": "Dave Macleod",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Rust",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4011/webstorage_links/20206/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4011/webstorage_links/20205/to_link"
+            }
+        ]
+    },
+    {
+        "id": 4007,
+        "title": "Code Like a Pro in Rust",
+        "img": "http://image.banshujiang.cn/4007.jpeg?timestamp=1715419813337",
+        "author": "Brenden Matthews",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Rust",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/4007/webstorage_links/20192/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/4007/webstorage_links/20191/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3554,
+        "title": "Rust Servers Services, and Apps",
+        "img": "http://image.banshujiang.cn/3554.jpeg?timestamp=1697274077390",
+        "author": "Prabhu Eshwarla",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Rust",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3554/webstorage_links/18475/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3369,
+        "title": "The Rust Programming Language 2nd Edition",
+        "img": "http://image.banshujiang.cn/3369.jpeg?timestamp=1677297426654",
+        "author": "Steve Klabnik and Carol Nichols",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Rust",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3369/webstorage_links/17634/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/3369/webstorage_links/17635/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3348,
+        "title": "Rust Atomics and Locks",
+        "img": "http://image.banshujiang.cn/3348.jpeg?timestamp=1676702686245",
+        "author": "Mara Bos",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Rust",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3348/webstorage_links/17557/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/3348/webstorage_links/17556/to_link"
+            }
+        ]
+    },
+    {
+        "id": 3326,
+        "title": "Rust Web Development",
+        "img": "http://image.banshujiang.cn/3326.jpeg?timestamp=1676692618056",
+        "author": "Bastian Gruber",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "Rust",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/3326/webstorage_links/17485/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2852,
+        "title": "Command-Line Rust",
+        "img": "https://imagebsj.netlify.app/2852.jpeg",
+        "author": "Ken Youens-Clark",
+        "language": "英文",
+        "publishYear": 2022,
+        "programLanguage": "Rust",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2852/webstorage_links/10453/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2852/webstorage_links/10452/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2815,
+        "title": "Fullstack Rust",
+        "img": "https://imagebsj.netlify.app/2815.jpeg",
+        "author": "Andrew Weiss",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "Rust",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2815/webstorage_links/10261/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2815/webstorage_links/10259/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/2815/webstorage_links/10260/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2794,
+        "title": "Rust for Rustaceans",
+        "img": "https://imagebsj.netlify.app/2794.jpeg",
+        "author": "Jon Gjengset",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Rust",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2794/webstorage_links/10168/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2794/webstorage_links/10167/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/2794/webstorage_links/10169/to_link"
+            }
+        ]
+    },
+    {
+        "id": 2692,
+        "title": "Rust in Action",
+        "img": "https://imagebsj.netlify.app/2692.jpeg",
+        "author": "Tim Mcnamara",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Rust",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/2692/webstorage_links/9601/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/2692/webstorage_links/9603/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/2692/webstorage_links/9602/to_link"
+            }
+        ]
+    }
+]

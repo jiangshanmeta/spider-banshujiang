@@ -1,5 +1,21 @@
 [
     {
+        "id": 5259,
+        "title": "Stable Diffusion",
+        "img": "http://image.banshujiang.cn/5259.jpeg?timestamp=1757215107388",
+        "author": "Alex Harrison",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5259/webstorage_links/24805/to_link"
+            }
+        ]
+    },
+    {
         "id": 5249,
         "title": "Mastering  LLM Applications with LangChain and  Hugging Face",
         "img": "http://image.banshujiang.cn/5249.jpeg?timestamp=1757210627702",
@@ -251,27 +267,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/5216/webstorage_links/24694/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5206,
-        "title": "Machine Learning for Tabular Data",
-        "img": "http://image.banshujiang.cn/5206.jpeg?timestamp=1754138628045",
-        "author": "Mark Ryan and Luca Massaron",
-        "language": "英文",
-        "publishYear": 2025,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5206/webstorage_links/24649/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/5206/webstorage_links/24648/to_link"
             }
         ]
     }

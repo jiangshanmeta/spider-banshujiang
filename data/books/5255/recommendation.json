@@ -1,0 +1,293 @@
+[
+    {
+        "id": 5256,
+        "title": "Python网络爬虫技术与应用",
+        "img": "http://image.banshujiang.cn/5256.jpeg?timestamp=1757214606515",
+        "author": "邓维、李贝、汤小洋",
+        "language": "中文",
+        "publishYear": 2022,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5256/webstorage_links/24799/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5256/webstorage_links/24798/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5254,
+        "title": "Python for Beginners: Mastering The Basics of Python Part 2",
+        "img": "http://image.banshujiang.cn/5254.jpeg?timestamp=1757214424130",
+        "author": "Alex Harrison",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5254/webstorage_links/24793/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5253,
+        "title": "Python for Beginners: Mastering The Basics of Python Part 3",
+        "img": "http://image.banshujiang.cn/5253.jpeg?timestamp=1757214348706",
+        "author": "Alex Harrison",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5253/webstorage_links/24791/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5249,
+        "title": "Mastering  LLM Applications with LangChain and  Hugging Face",
+        "img": "http://image.banshujiang.cn/5249.jpeg?timestamp=1757210627702",
+        "author": "Hunaidkhan Pathan and Nayankumar Gajjar",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5249/webstorage_links/24780/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5248,
+        "title": "LangChain Programming For Beginners",
+        "img": "http://image.banshujiang.cn/5248.jpeg?timestamp=1757210541617",
+        "author": "Nathan Sebhastian",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5248/webstorage_links/24779/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5247,
+        "title": "LangChain for Life Sciences and Healthcare",
+        "img": "http://image.banshujiang.cn/5247.jpeg?timestamp=1757210433046",
+        "author": "Ivan Reznikov",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5247/webstorage_links/24777/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5246,
+        "title": "LangChain and LlamaIndex Projects Lab Book: Hooking Large Language Models Up to the Real World",
+        "img": "http://image.banshujiang.cn/5246.jpeg?timestamp=1757210308155",
+        "author": "Mark Watson",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5246/webstorage_links/24775/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5238,
+        "title": "FastAPI Cookbook",
+        "img": "http://image.banshujiang.cn/5238.jpeg?timestamp=1757143436860",
+        "author": "Giunio De Luca",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5238/webstorage_links/24755/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5226,
+        "title": "Learning Python 6th Edition",
+        "img": "http://image.banshujiang.cn/5226.jpeg?timestamp=1754189011394",
+        "author": "Mark Lutz",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5226/webstorage_links/24723/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5210,
+        "title": "Python自动化运维：技术与最佳实践",
+        "img": "http://image.banshujiang.cn/5210.jpeg?timestamp=1754139928763",
+        "author": "刘天斯",
+        "language": "中文",
+        "publishYear": 2014,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5210/webstorage_links/24666/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/5210/webstorage_links/24667/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/5210/webstorage_links/24665/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5209,
+        "title": "Python学习手册(第4版)",
+        "img": "http://image.banshujiang.cn/5209.jpeg?timestamp=1754139789019",
+        "author": "[美]鲁特兹 [译]李军、刘红伟",
+        "language": "中文",
+        "publishYear": 2011,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5209/webstorage_links/24661/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/5209/webstorage_links/24660/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5208,
+        "title": "The Quick Python Book 4th Edition",
+        "img": "http://image.banshujiang.cn/5208.jpeg?timestamp=1754138791444",
+        "author": "Naomi Ceder",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5208/webstorage_links/24657/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5208/webstorage_links/24656/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5201,
+        "title": "Python极客项目编程",
+        "img": "http://image.banshujiang.cn/5201.jpeg?timestamp=1754131588407",
+        "author": "[美] Mahesh Venkitachalam [译]王海鹏",
+        "language": "中文",
+        "publishYear": 2016,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5201/webstorage_links/24626/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/5201/webstorage_links/24627/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/5201/webstorage_links/24625/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5194,
+        "title": "Python Adventures for Young Coders",
+        "img": "http://image.banshujiang.cn/5194.jpeg?timestamp=1754130085115",
+        "author": "Alaa Tharwat",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5194/webstorage_links/24607/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5193,
+        "title": "Python Advanced Programming",
+        "img": "http://image.banshujiang.cn/5193.jpeg?timestamp=1754129850614",
+        "author": "Marcus Richards",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5193/webstorage_links/24605/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5184,
+        "title": "Learning SciPy for Numerical and Scientific Computing 2nd Edition",
+        "img": "http://image.banshujiang.cn/5184.jpeg?timestamp=1751122332708",
+        "author": "Sergio J. Rojas G., Erik A Christensen and Francisco J. Blanco-Silva",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5184/webstorage_links/24581/to_link"
+            }
+        ]
+    }
+]

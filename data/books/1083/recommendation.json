@@ -32,6 +32,75 @@
         ]
     },
     {
+        "id": 5256,
+        "title": "Python网络爬虫技术与应用",
+        "img": "http://image.banshujiang.cn/5256.jpeg?timestamp=1757214606515",
+        "author": "邓维、李贝、汤小洋",
+        "language": "中文",
+        "publishYear": 2022,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5256/webstorage_links/24799/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5256/webstorage_links/24798/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5255,
+        "title": "Python for Beginners: Mastering The Basics of Python Part 1",
+        "img": "http://image.banshujiang.cn/5255.jpeg?timestamp=1757214496236",
+        "author": "Alex Harrison",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5255/webstorage_links/24795/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5254,
+        "title": "Python for Beginners: Mastering The Basics of Python Part 2",
+        "img": "http://image.banshujiang.cn/5254.jpeg?timestamp=1757214424130",
+        "author": "Alex Harrison",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5254/webstorage_links/24793/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5253,
+        "title": "Python for Beginners: Mastering The Basics of Python Part 3",
+        "img": "http://image.banshujiang.cn/5253.jpeg?timestamp=1757214348706",
+        "author": "Alex Harrison",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5253/webstorage_links/24791/to_link"
+            }
+        ]
+    },
+    {
         "id": 5249,
         "title": "Mastering  LLM Applications with LangChain and  Hugging Face",
         "img": "http://image.banshujiang.cn/5249.jpeg?timestamp=1757210627702",
@@ -218,70 +287,6 @@
                 "fmt": "AZW3",
                 "title": "城通网盘",
                 "link": "/e_books/5201/webstorage_links/24625/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5194,
-        "title": "Python Adventures for Young Coders",
-        "img": "http://image.banshujiang.cn/5194.jpeg?timestamp=1754130085115",
-        "author": "Alaa Tharwat",
-        "language": "英文",
-        "publishYear": 2025,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5194/webstorage_links/24607/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5193,
-        "title": "Python Advanced Programming",
-        "img": "http://image.banshujiang.cn/5193.jpeg?timestamp=1754129850614",
-        "author": "Marcus Richards",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5193/webstorage_links/24605/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5184,
-        "title": "Learning SciPy for Numerical and Scientific Computing 2nd Edition",
-        "img": "http://image.banshujiang.cn/5184.jpeg?timestamp=1751122332708",
-        "author": "Sergio J. Rojas G., Erik A Christensen and Francisco J. Blanco-Silva",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5184/webstorage_links/24581/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5183,
-        "title": "Learning Jupyter",
-        "img": "http://image.banshujiang.cn/5183.jpeg?timestamp=1751122219636",
-        "author": "Dan Toomey",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/5183/webstorage_links/24579/to_link"
             }
         ]
     }

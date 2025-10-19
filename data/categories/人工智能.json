@@ -1,5 +1,21 @@
 [
     {
+        "id": 5259,
+        "title": "Stable Diffusion",
+        "img": "http://image.banshujiang.cn/5259.jpeg?timestamp=1757215107388",
+        "author": "Alex Harrison",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5259/webstorage_links/24805/to_link"
+            }
+        ]
+    },
+    {
         "id": 5249,
         "title": "Mastering  LLM Applications with LangChain and  Hugging Face",
         "img": "http://image.banshujiang.cn/5249.jpeg?timestamp=1757210627702",

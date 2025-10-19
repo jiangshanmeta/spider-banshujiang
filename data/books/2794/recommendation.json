@@ -1,5 +1,37 @@
 [
     {
+        "id": 5258,
+        "title": "Rust实战",
+        "img": "http://image.banshujiang.cn/5258.jpeg?timestamp=1757215012730",
+        "author": "[新]Tim McNamara",
+        "language": "中文",
+        "publishYear": 2022,
+        "programLanguage": "Rust",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5258/webstorage_links/24803/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5257,
+        "title": "Rust编程之道",
+        "img": "http://image.banshujiang.cn/5257.jpeg?timestamp=1757214691039",
+        "author": "张汉东",
+        "language": "中文",
+        "publishYear": 2019,
+        "programLanguage": "Rust",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5257/webstorage_links/24801/to_link"
+            }
+        ]
+    },
+    {
         "id": 5192,
         "title": "Programming with Rust",
         "img": "http://image.banshujiang.cn/5192.jpeg?timestamp=1753583341485",
@@ -280,27 +312,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/2692/webstorage_links/9602/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2633,
-        "title": "Programming Rust 2nd Edition",
-        "img": "https://imagebsj.netlify.app/2633.jpeg",
-        "author": "Jim Blandy, Jason Orendorff, and Leonora F.S. Tindall",
-        "language": "英文",
-        "publishYear": 2021,
-        "programLanguage": "Rust",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2633/webstorage_links/9214/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2633/webstorage_links/9215/to_link"
             }
         ]
     }
