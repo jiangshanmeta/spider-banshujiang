@@ -164,6 +164,38 @@
         ]
     },
     {
+        "id": 5262,
+        "title": "Python网络数据采集",
+        "img": "http://image.banshujiang.cn/5262.jpeg?timestamp=1759294518512",
+        "author": "[美]Ryan Mitchell [译]陶俊杰、陈小莉",
+        "language": "中文",
+        "publishYear": 2016,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5262/webstorage_links/24811/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5261,
+        "title": "Python网络编程攻略",
+        "img": "http://image.banshujiang.cn/5261.jpeg?timestamp=1759294401677",
+        "author": "[英]Dr. M. O. Faruque Sarker [译]安道",
+        "language": "中文",
+        "publishYear": 2014,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5261/webstorage_links/24809/to_link"
+            }
+        ]
+    },
+    {
         "id": 5256,
         "title": "Python网络爬虫技术与应用",
         "img": "http://image.banshujiang.cn/5256.jpeg?timestamp=1757214606515",
@@ -245,38 +277,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/5249/webstorage_links/24780/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5248,
-        "title": "LangChain Programming For Beginners",
-        "img": "http://image.banshujiang.cn/5248.jpeg?timestamp=1757210541617",
-        "author": "Nathan Sebhastian",
-        "language": "英文",
-        "publishYear": 2025,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/5248/webstorage_links/24779/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5247,
-        "title": "LangChain for Life Sciences and Healthcare",
-        "img": "http://image.banshujiang.cn/5247.jpeg?timestamp=1757210433046",
-        "author": "Ivan Reznikov",
-        "language": "英文",
-        "publishYear": 2025,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5247/webstorage_links/24777/to_link"
             }
         ]
     }

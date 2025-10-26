@@ -99637,5 +99637,111 @@
                 "link": "/e_books/5259/webstorage_links/24805/to_link"
             }
         ]
+    },
+    {
+        "id": 5260,
+        "title": "Writing for Developers",
+        "img": "http://image.banshujiang.cn/5260.jpeg?timestamp=1757215173190",
+        "author": "Piotr Sarna and Cynthia Dunlop",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5260/webstorage_links/24807/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5261,
+        "title": "Python网络编程攻略",
+        "img": "http://image.banshujiang.cn/5261.jpeg?timestamp=1759294401677",
+        "author": "[英]Dr. M. O. Faruque Sarker [译]安道",
+        "language": "中文",
+        "publishYear": 2014,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5261/webstorage_links/24809/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5262,
+        "title": "Python网络数据采集",
+        "img": "http://image.banshujiang.cn/5262.jpeg?timestamp=1759294518512",
+        "author": "[美]Ryan Mitchell [译]陶俊杰、陈小莉",
+        "language": "中文",
+        "publishYear": 2016,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5262/webstorage_links/24811/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5263,
+        "title": "程序员的算法趣题",
+        "img": "http://image.banshujiang.cn/5263.jpeg?timestamp=1759294616287",
+        "author": "[日]增井敏克 [译]绝云",
+        "language": "中文",
+        "publishYear": 2017,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5263/webstorage_links/24813/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5264,
+        "title": "从无穷开始：科学的困惑与疆界",
+        "img": "http://image.banshujiang.cn/5264.jpeg?timestamp=1759294748349",
+        "author": "[法]让-皮埃尔·卢米涅、马克·拉雪茨-雷 [译]孙展",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5264/webstorage_links/24815/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5265,
+        "title": "深入浅出Rust",
+        "img": "http://image.banshujiang.cn/5265.jpeg?timestamp=1759294829635",
+        "author": "范长春",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "Rust",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5265/webstorage_links/24820/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/5265/webstorage_links/24821/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/5265/webstorage_links/24819/to_link"
+            }
+        ]
     }
 ]

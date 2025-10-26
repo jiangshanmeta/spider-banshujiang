@@ -1,5 +1,31 @@
 [
     {
+        "id": 5265,
+        "title": "深入浅出Rust",
+        "img": "http://image.banshujiang.cn/5265.jpeg?timestamp=1759294829635",
+        "author": "范长春",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "Rust",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5265/webstorage_links/24820/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/5265/webstorage_links/24821/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/5265/webstorage_links/24819/to_link"
+            }
+        ]
+    },
+    {
         "id": 5258,
         "title": "Rust实战",
         "img": "http://image.banshujiang.cn/5258.jpeg?timestamp=1757215012730",

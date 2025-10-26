@@ -1,5 +1,31 @@
 [
     {
+        "id": 5265,
+        "title": "深入浅出Rust",
+        "img": "http://image.banshujiang.cn/5265.jpeg?timestamp=1759294829635",
+        "author": "范长春",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "Rust",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5265/webstorage_links/24820/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/5265/webstorage_links/24821/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/5265/webstorage_links/24819/to_link"
+            }
+        ]
+    },
+    {
         "id": 5258,
         "title": "Rust实战",
         "img": "http://image.banshujiang.cn/5258.jpeg?timestamp=1757215012730",
@@ -296,32 +322,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/2794/webstorage_links/10169/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2692,
-        "title": "Rust in Action",
-        "img": "https://imagebsj.netlify.app/2692.jpeg",
-        "author": "Tim Mcnamara",
-        "language": "英文",
-        "publishYear": 2021,
-        "programLanguage": "Rust",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2692/webstorage_links/9601/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2692/webstorage_links/9603/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/2692/webstorage_links/9602/to_link"
             }
         ]
     }

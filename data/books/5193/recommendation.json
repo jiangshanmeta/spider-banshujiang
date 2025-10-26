@@ -1,5 +1,37 @@
 [
     {
+        "id": 5262,
+        "title": "Python网络数据采集",
+        "img": "http://image.banshujiang.cn/5262.jpeg?timestamp=1759294518512",
+        "author": "[美]Ryan Mitchell [译]陶俊杰、陈小莉",
+        "language": "中文",
+        "publishYear": 2016,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5262/webstorage_links/24811/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5261,
+        "title": "Python网络编程攻略",
+        "img": "http://image.banshujiang.cn/5261.jpeg?timestamp=1759294401677",
+        "author": "[英]Dr. M. O. Faruque Sarker [译]安道",
+        "language": "中文",
+        "publishYear": 2014,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5261/webstorage_links/24809/to_link"
+            }
+        ]
+    },
+    {
         "id": 5256,
         "title": "Python网络爬虫技术与应用",
         "img": "http://image.banshujiang.cn/5256.jpeg?timestamp=1757214606515",
@@ -255,38 +287,6 @@
                 "fmt": "AZW3",
                 "title": "城通网盘",
                 "link": "/e_books/5201/webstorage_links/24625/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5194,
-        "title": "Python Adventures for Young Coders",
-        "img": "http://image.banshujiang.cn/5194.jpeg?timestamp=1754130085115",
-        "author": "Alaa Tharwat",
-        "language": "英文",
-        "publishYear": 2025,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5194/webstorage_links/24607/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5184,
-        "title": "Learning SciPy for Numerical and Scientific Computing 2nd Edition",
-        "img": "http://image.banshujiang.cn/5184.jpeg?timestamp=1751122332708",
-        "author": "Sergio J. Rojas G., Erik A Christensen and Francisco J. Blanco-Silva",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5184/webstorage_links/24581/to_link"
             }
         ]
     }
