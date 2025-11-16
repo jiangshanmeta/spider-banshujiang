@@ -1,5 +1,53 @@
 [
     {
+        "id": 5270,
+        "title": "Kotlin编程权威指南",
+        "img": "http://image.banshujiang.cn/5270.jpeg?timestamp=1762655621392",
+        "author": "[美]乔希 • 斯基恩 戴维 • 格林哈尔希 [译]王明发",
+        "language": "中文",
+        "publishYear": 2019,
+        "programLanguage": "Kotlin",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5270/webstorage_links/24831/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5269,
+        "title": "Kotlin Coroutines: Deep Dive 2nd Edition",
+        "img": "http://image.banshujiang.cn/5269.jpeg?timestamp=1762655491854",
+        "author": "Marcin Moskała",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Kotlin",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5269/webstorage_links/24829/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5267,
+        "title": "Effective Kotlin",
+        "img": "http://image.banshujiang.cn/5267.jpeg?timestamp=1762654444413",
+        "author": "Marcin Moskala",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Kotlin",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5267/webstorage_links/24825/to_link"
+            }
+        ]
+    },
+    {
         "id": 5251,
         "title": "Pro Spring Boot 3 with Kotlin",
         "img": "http://image.banshujiang.cn/5251.jpeg?timestamp=1757210782415",
@@ -244,69 +292,6 @@
                 "fmt": "CODE",
                 "title": "城通网盘",
                 "link": "/e_books/3296/webstorage_links/17388/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3193,
-        "title": "Kotlin Cookbook",
-        "img": "http://image.banshujiang.cn/3193.jpeg?timestamp=1672469762936",
-        "author": "Ken Kousen",
-        "language": "英文",
-        "publishYear": 2019,
-        "programLanguage": "Kotlin",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3193/webstorage_links/16896/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3193/webstorage_links/16895/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3163,
-        "title": "The Joy of Kotlin",
-        "img": "http://image.banshujiang.cn/3163.jpeg?timestamp=1670765823846",
-        "author": "Pierre-yves Saumont",
-        "language": "英文",
-        "publishYear": 2019,
-        "programLanguage": "Kotlin",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3163/webstorage_links/16754/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3142,
-        "title": "Kotlin Apprentice 2nd Edition",
-        "img": "https://imagebsj.netlify.app/3142.jpeg",
-        "author": "Irina Galata, Joe Howard &amp; Ellen Shapiro",
-        "language": "英文",
-        "publishYear": 2019,
-        "programLanguage": "Kotlin",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3142/webstorage_links/16662/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3142/webstorage_links/16661/to_link"
-            },
-            {
-                "fmt": "CODE",
-                "title": "城通网盘",
-                "link": "/e_books/3142/webstorage_links/16660/to_link"
             }
         ]
     }

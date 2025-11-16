@@ -32,6 +32,22 @@
         ]
     },
     {
+        "id": 5268,
+        "title": "Instant Data Intensive Apps with pandas How-to",
+        "img": "http://image.banshujiang.cn/5268.jpeg?timestamp=1762655404104",
+        "author": "Trent Hauck",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5268/webstorage_links/24827/to_link"
+            }
+        ]
+    },
+    {
         "id": 5262,
         "title": "Python网络数据采集",
         "img": "http://image.banshujiang.cn/5262.jpeg?timestamp=1759294518512",
@@ -251,27 +267,6 @@
                 "fmt": "AZW3",
                 "title": "城通网盘",
                 "link": "/e_books/5210/webstorage_links/24665/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5209,
-        "title": "Python学习手册(第4版)",
-        "img": "http://image.banshujiang.cn/5209.jpeg?timestamp=1754139789019",
-        "author": "[美]鲁特兹 [译]李军、刘红伟",
-        "language": "中文",
-        "publishYear": 2011,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/5209/webstorage_links/24661/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/5209/webstorage_links/24660/to_link"
             }
         ]
     }

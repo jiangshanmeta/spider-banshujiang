@@ -164,6 +164,22 @@
         ]
     },
     {
+        "id": 5268,
+        "title": "Instant Data Intensive Apps with pandas How-to",
+        "img": "http://image.banshujiang.cn/5268.jpeg?timestamp=1762655404104",
+        "author": "Trent Hauck",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5268/webstorage_links/24827/to_link"
+            }
+        ]
+    },
+    {
         "id": 5262,
         "title": "Python网络数据采集",
         "img": "http://image.banshujiang.cn/5262.jpeg?timestamp=1759294518512",
@@ -261,22 +277,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/5253/webstorage_links/24791/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5249,
-        "title": "Mastering  LLM Applications with LangChain and  Hugging Face",
-        "img": "http://image.banshujiang.cn/5249.jpeg?timestamp=1757210627702",
-        "author": "Hunaidkhan Pathan and Nayankumar Gajjar",
-        "language": "英文",
-        "publishYear": 2025,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/5249/webstorage_links/24780/to_link"
             }
         ]
     }

@@ -99759,5 +99759,69 @@
                 "link": "/e_books/5266/webstorage_links/24823/to_link"
             }
         ]
+    },
+    {
+        "id": 5267,
+        "title": "Effective Kotlin",
+        "img": "http://image.banshujiang.cn/5267.jpeg?timestamp=1762654444413",
+        "author": "Marcin Moskala",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Kotlin",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5267/webstorage_links/24825/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5268,
+        "title": "Instant Data Intensive Apps with pandas How-to",
+        "img": "http://image.banshujiang.cn/5268.jpeg?timestamp=1762655404104",
+        "author": "Trent Hauck",
+        "language": "英文",
+        "publishYear": 2013,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5268/webstorage_links/24827/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5269,
+        "title": "Kotlin Coroutines: Deep Dive 2nd Edition",
+        "img": "http://image.banshujiang.cn/5269.jpeg?timestamp=1762655491854",
+        "author": "Marcin Moskała",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Kotlin",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5269/webstorage_links/24829/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5270,
+        "title": "Kotlin编程权威指南",
+        "img": "http://image.banshujiang.cn/5270.jpeg?timestamp=1762655621392",
+        "author": "[美]乔希 • 斯基恩 戴维 • 格林哈尔希 [译]王明发",
+        "language": "中文",
+        "publishYear": 2019,
+        "programLanguage": "Kotlin",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5270/webstorage_links/24831/to_link"
+            }
+        ]
     }
 ]
