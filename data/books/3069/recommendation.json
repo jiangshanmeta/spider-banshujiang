@@ -21,6 +21,22 @@
         ]
     },
     {
+        "id": 5272,
+        "title": "Learning Pandas 2.0",
+        "img": "http://image.banshujiang.cn/5272.jpeg?timestamp=1766199623009",
+        "author": "Matthew Rosch",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5272/webstorage_links/24835/to_link"
+            }
+        ]
+    },
+    {
         "id": 5259,
         "title": "Stable Diffusion",
         "img": "http://image.banshujiang.cn/5259.jpeg?timestamp=1757215107388",
@@ -246,22 +262,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/5224/webstorage_links/24719/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5221,
-        "title": "Full Stack JavaScript Strategies",
-        "img": "http://image.banshujiang.cn/5221.jpeg?timestamp=1754188614113",
-        "author": "Milecia McGregor",
-        "language": "英文",
-        "publishYear": 2025,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/5221/webstorage_links/24711/to_link"
             }
         ]
     }

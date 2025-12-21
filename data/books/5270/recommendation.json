@@ -1,5 +1,21 @@
 [
     {
+        "id": 5271,
+        "title": "Kotlin从小白到大牛",
+        "img": "http://image.banshujiang.cn/5271.jpeg?timestamp=1766199159751",
+        "author": "关东升",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "Kotlin",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5271/webstorage_links/24833/to_link"
+            }
+        ]
+    },
+    {
         "id": 5269,
         "title": "Kotlin Coroutines: Deep Dive 2nd Edition",
         "img": "http://image.banshujiang.cn/5269.jpeg?timestamp=1762655491854",
@@ -271,32 +287,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3388/webstorage_links/17734/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3296,
-        "title": "Reactive Programming with Kotlin",
-        "img": "http://image.banshujiang.cn/3296.jpeg?timestamp=1676087594377",
-        "author": "Alex Sullivan",
-        "language": "英文",
-        "publishYear": 2019,
-        "programLanguage": "Kotlin",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3296/webstorage_links/17389/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3296/webstorage_links/17387/to_link"
-            },
-            {
-                "fmt": "CODE",
-                "title": "城通网盘",
-                "link": "/e_books/3296/webstorage_links/17388/to_link"
             }
         ]
     }

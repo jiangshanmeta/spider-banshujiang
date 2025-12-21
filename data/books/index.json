@@ -99823,5 +99823,37 @@
                 "link": "/e_books/5270/webstorage_links/24831/to_link"
             }
         ]
+    },
+    {
+        "id": 5271,
+        "title": "Kotlin从小白到大牛",
+        "img": "http://image.banshujiang.cn/5271.jpeg?timestamp=1766199159751",
+        "author": "关东升",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "Kotlin",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5271/webstorage_links/24833/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5272,
+        "title": "Learning Pandas 2.0",
+        "img": "http://image.banshujiang.cn/5272.jpeg?timestamp=1766199623009",
+        "author": "Matthew Rosch",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5272/webstorage_links/24835/to_link"
+            }
+        ]
     }
 ]

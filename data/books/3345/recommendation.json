@@ -1,5 +1,21 @@
 [
     {
+        "id": 5272,
+        "title": "Learning Pandas 2.0",
+        "img": "http://image.banshujiang.cn/5272.jpeg?timestamp=1766199623009",
+        "author": "Matthew Rosch",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5272/webstorage_links/24835/to_link"
+            }
+        ]
+    },
+    {
         "id": 5268,
         "title": "Instant Data Intensive Apps with pandas How-to",
         "img": "http://image.banshujiang.cn/5268.jpeg?timestamp=1762655404104",
@@ -256,27 +272,6 @@
                 "fmt": "AZW3",
                 "title": "城通网盘",
                 "link": "/e_books/5209/webstorage_links/24660/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5208,
-        "title": "The Quick Python Book 4th Edition",
-        "img": "http://image.banshujiang.cn/5208.jpeg?timestamp=1754138791444",
-        "author": "Naomi Ceder",
-        "language": "英文",
-        "publishYear": 2025,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5208/webstorage_links/24657/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/5208/webstorage_links/24656/to_link"
             }
         ]
     }

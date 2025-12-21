@@ -1,5 +1,21 @@
 [
     {
+        "id": 5271,
+        "title": "Kotlin从小白到大牛",
+        "img": "http://image.banshujiang.cn/5271.jpeg?timestamp=1766199159751",
+        "author": "关东升",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "Kotlin",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5271/webstorage_links/24833/to_link"
+            }
+        ]
+    },
+    {
         "id": 5270,
         "title": "Kotlin编程权威指南",
         "img": "http://image.banshujiang.cn/5270.jpeg?timestamp=1762655621392",
@@ -266,27 +282,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/3528/webstorage_links/18364/to_link"
-            }
-        ]
-    },
-    {
-        "id": 3388,
-        "title": "Gradle Recipes for Android",
-        "img": "http://image.banshujiang.cn/3388.jpeg?timestamp=1677313529596",
-        "author": "Ken Kousen",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "Kotlin",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/3388/webstorage_links/17735/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/3388/webstorage_links/17734/to_link"
             }
         ]
     }

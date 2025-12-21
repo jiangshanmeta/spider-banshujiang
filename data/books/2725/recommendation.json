@@ -1,5 +1,21 @@
 [
     {
+        "id": 5272,
+        "title": "Learning Pandas 2.0",
+        "img": "http://image.banshujiang.cn/5272.jpeg?timestamp=1766199623009",
+        "author": "Matthew Rosch",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5272/webstorage_links/24835/to_link"
+            }
+        ]
+    },
+    {
         "id": 5249,
         "title": "Mastering  LLM Applications with LangChain and  Hugging Face",
         "img": "http://image.banshujiang.cn/5249.jpeg?timestamp=1757210627702",
@@ -251,27 +267,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4950/webstorage_links/23960/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4945,
-        "title": "OpenCV 4计算机视觉: Python语言实现(第3版)",
-        "img": "http://image.banshujiang.cn/4945.jpeg?timestamp=1740747789508",
-        "author": "[加]Joseph Howse [爱]Joe Minichino [译]刘冰、高博",
-        "language": "中文",
-        "publishYear": 2021,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4945/webstorage_links/23944/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4945/webstorage_links/23943/to_link"
             }
         ]
     }

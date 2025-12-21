@@ -1,5 +1,21 @@
 [
     {
+        "id": 5272,
+        "title": "Learning Pandas 2.0",
+        "img": "http://image.banshujiang.cn/5272.jpeg?timestamp=1766199623009",
+        "author": "Matthew Rosch",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5272/webstorage_links/24835/to_link"
+            }
+        ]
+    },
+    {
         "id": 5249,
         "title": "Mastering  LLM Applications with LangChain and  Hugging Face",
         "img": "http://image.banshujiang.cn/5249.jpeg?timestamp=1757210627702",
@@ -251,22 +267,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4945/webstorage_links/23943/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4944,
-        "title": "Neural Networks from Scratch in Python",
-        "img": "http://image.banshujiang.cn/4944.jpeg?timestamp=1742606586447",
-        "author": "Harrison Kinsley &amp; Daniel Kukieła",
-        "language": "英文",
-        "publishYear": 2020,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4944/webstorage_links/23940/to_link"
             }
         ]
     }
