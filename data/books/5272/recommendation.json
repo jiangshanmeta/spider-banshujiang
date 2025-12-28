@@ -1,5 +1,85 @@
 [
     {
+        "id": 5277,
+        "title": "Pandas 数据分析实战",
+        "img": "http://image.banshujiang.cn/5277.jpeg?timestamp=1766201103669",
+        "author": "[美]Boris Paskhaver [译]殷海英",
+        "language": "中文",
+        "publishYear": 2022,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5277/webstorage_links/24845/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5276,
+        "title": "Master Data Science and Data Analysis With Pandas",
+        "img": "http://image.banshujiang.cn/5276.jpeg?timestamp=1766200747406",
+        "author": "Arun",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5276/webstorage_links/24843/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5275,
+        "title": "Pandas Brain Teasers",
+        "img": "http://image.banshujiang.cn/5275.jpeg?timestamp=1766200390508",
+        "author": "Miki Tebeka",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5275/webstorage_links/24841/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5274,
+        "title": "Learning pandas 2nd Edition",
+        "img": "http://image.banshujiang.cn/5274.jpeg?timestamp=1766200171462",
+        "author": "Michael Heydt",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5274/webstorage_links/24839/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5273,
+        "title": "Pandas Basics",
+        "img": "http://image.banshujiang.cn/5273.jpeg?timestamp=1766199912469",
+        "author": "Oswald Campesato",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5273/webstorage_links/24837/to_link"
+            }
+        ]
+    },
+    {
         "id": 5249,
         "title": "Mastering  LLM Applications with LangChain and  Hugging Face",
         "img": "http://image.banshujiang.cn/5249.jpeg?timestamp=1757210627702",
@@ -182,96 +262,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/5039/webstorage_links/24225/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4972,
-        "title": "OpenAI GPT For Python Developers",
-        "img": "http://image.banshujiang.cn/4972.jpeg",
-        "author": "Aymen El Amri",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4972/webstorage_links/24035/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4952,
-        "title": "Reinforcement Learning for Finance",
-        "img": "https://gitee.com/nswish/banshujiang.img/raw/main/4952.jpeg",
-        "author": "Yves Hilpisch",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4952/webstorage_links/23966/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4952/webstorage_links/23965/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4951,
-        "title": "Python自然语言处理实战(扫描版)",
-        "img": "https://gitee.com/nswish/banshujiang.img/raw/main/4951.jpeg",
-        "author": "涂铭、刘祥、刘树春",
-        "language": "中文",
-        "publishYear": 2018,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4951/webstorage_links/23962/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4950,
-        "title": "Python 神经网络编程(扫描版)",
-        "img": "https://gitee.com/nswish/banshujiang.img/raw/main/4950.jpeg",
-        "author": "[英]Tariq Rashid [译]林赐",
-        "language": "中文",
-        "publishYear": 2018,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4950/webstorage_links/23960/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4945,
-        "title": "OpenCV 4计算机视觉: Python语言实现(第3版)",
-        "img": "http://image.banshujiang.cn/4945.jpeg?timestamp=1740747789508",
-        "author": "[加]Joseph Howse [爱]Joe Minichino [译]刘冰、高博",
-        "language": "中文",
-        "publishYear": 2021,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4945/webstorage_links/23944/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4945/webstorage_links/23943/to_link"
             }
         ]
     }
