@@ -1,5 +1,21 @@
 [
     {
+        "id": 5281,
+        "title": "Flask By Example",
+        "img": "http://image.banshujiang.cn/5281.jpeg?timestamp=1767425653755",
+        "author": "Gareth Dwyer",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5281/webstorage_links/24853/to_link"
+            }
+        ]
+    },
+    {
         "id": 4429,
         "title": "Flask Web开发: 基于Python的Web应用开发实战",
         "img": "http://image.banshujiang.cn/4429.jpeg?timestamp=1723343837786",
@@ -241,22 +257,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/5253/webstorage_links/24791/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5249,
-        "title": "Mastering  LLM Applications with LangChain and  Hugging Face",
-        "img": "http://image.banshujiang.cn/5249.jpeg?timestamp=1757210627702",
-        "author": "Hunaidkhan Pathan and Nayankumar Gajjar",
-        "language": "英文",
-        "publishYear": 2025,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/5249/webstorage_links/24780/to_link"
             }
         ]
     }

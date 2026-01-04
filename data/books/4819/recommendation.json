@@ -1,5 +1,21 @@
 [
     {
+        "id": 5279,
+        "title": "C# Unit Testing: NUnit, Moq, and Beyond",
+        "img": "http://image.banshujiang.cn/5279.jpeg?timestamp=1767244362529",
+        "author": "",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5279/webstorage_links/24849/to_link"
+            }
+        ]
+    },
+    {
         "id": 5218,
         "title": "C# Concurrency",
         "img": "http://image.banshujiang.cn/5218.jpeg?timestamp=1754188411028",
@@ -313,15 +329,5 @@
                 "link": "/e_books/4241/webstorage_links/21154/to_link"
             }
         ]
-    },
-    {
-        "id": 4237,
-        "title": "Professional C# 5.0 and .NET 4.5.1",
-        "img": "http://image.banshujiang.cn/4237.jpeg?timestamp=1719061544494",
-        "author": "Christian Nagel",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "C#",
-        "formats": []
     }
 ]

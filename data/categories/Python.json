@@ -1,5 +1,21 @@
 [
     {
+        "id": 5281,
+        "title": "Flask By Example",
+        "img": "http://image.banshujiang.cn/5281.jpeg?timestamp=1767425653755",
+        "author": "Gareth Dwyer",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5281/webstorage_links/24853/to_link"
+            }
+        ]
+    },
+    {
         "id": 5277,
         "title": "Pandas 数据分析实战",
         "img": "http://image.banshujiang.cn/5277.jpeg?timestamp=1766201103669",

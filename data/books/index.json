@@ -99935,5 +99935,69 @@
                 "link": "/e_books/5277/webstorage_links/24845/to_link"
             }
         ]
+    },
+    {
+        "id": 5278,
+        "title": "A Software Development Approach for Driving Competitiveness in Small Firms",
+        "img": "http://image.banshujiang.cn/5278.jpeg?timestamp=1767244257181",
+        "author": "Delroy A. Chevers",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5278/webstorage_links/24847/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5279,
+        "title": "C# Unit Testing: NUnit, Moq, and Beyond",
+        "img": "http://image.banshujiang.cn/5279.jpeg?timestamp=1767244362529",
+        "author": "",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5279/webstorage_links/24849/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5280,
+        "title": "Domain Oriented Systems Development",
+        "img": "http://image.banshujiang.cn/5280.jpeg?timestamp=1767244487243",
+        "author": "Kiyoshi Itoh, Satoshi Kumagai, and Toyohiko Hirota",
+        "language": "英文",
+        "publishYear": 2003,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5280/webstorage_links/24851/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5281,
+        "title": "Flask By Example",
+        "img": "http://image.banshujiang.cn/5281.jpeg?timestamp=1767425653755",
+        "author": "Gareth Dwyer",
+        "language": "英文",
+        "publishYear": 2016,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5281/webstorage_links/24853/to_link"
+            }
+        ]
     }
 ]

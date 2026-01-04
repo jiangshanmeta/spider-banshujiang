@@ -101,6 +101,22 @@
         ]
     },
     {
+        "id": 5279,
+        "title": "C# Unit Testing: NUnit, Moq, and Beyond",
+        "img": "http://image.banshujiang.cn/5279.jpeg?timestamp=1767244362529",
+        "author": "",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5279/webstorage_links/24849/to_link"
+            }
+        ]
+    },
+    {
         "id": 5218,
         "title": "C# Concurrency",
         "img": "http://image.banshujiang.cn/5218.jpeg?timestamp=1754188411028",
@@ -281,32 +297,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/4599/webstorage_links/22662/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4547,
-        "title": "C# 6.0 in a Nutshell 6th Edition",
-        "img": "http://image.banshujiang.cn/4547.jpeg?timestamp=1727874946653",
-        "author": "Joseph Albahari and Ben Albahari",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "C#",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4547/webstorage_links/22396/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4547/webstorage_links/22394/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4547/webstorage_links/22395/to_link"
             }
         ]
     }
