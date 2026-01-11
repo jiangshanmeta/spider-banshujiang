@@ -1,5 +1,21 @@
 [
     {
+        "id": 5282,
+        "title": "Flask Framework Cookbook 2nd Edition",
+        "img": "http://image.banshujiang.cn/5282.jpeg?timestamp=1767425814118",
+        "author": "Alexander Aronowitz",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5282/webstorage_links/24855/to_link"
+            }
+        ]
+    },
+    {
         "id": 5281,
         "title": "Flask By Example",
         "img": "http://image.banshujiang.cn/5281.jpeg?timestamp=1767425653755",
@@ -236,22 +252,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/5248/webstorage_links/24779/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5247,
-        "title": "LangChain for Life Sciences and Healthcare",
-        "img": "http://image.banshujiang.cn/5247.jpeg?timestamp=1757210433046",
-        "author": "Ivan Reznikov",
-        "language": "英文",
-        "publishYear": 2025,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5247/webstorage_links/24777/to_link"
             }
         ]
     }

@@ -1,5 +1,21 @@
 [
     {
+        "id": 5282,
+        "title": "Flask Framework Cookbook 2nd Edition",
+        "img": "http://image.banshujiang.cn/5282.jpeg?timestamp=1767425814118",
+        "author": "Alexander Aronowitz",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5282/webstorage_links/24855/to_link"
+            }
+        ]
+    },
+    {
         "id": 5281,
         "title": "Flask By Example",
         "img": "http://image.banshujiang.cn/5281.jpeg?timestamp=1767425653755",
@@ -241,22 +257,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/5249/webstorage_links/24780/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5248,
-        "title": "LangChain Programming For Beginners",
-        "img": "http://image.banshujiang.cn/5248.jpeg?timestamp=1757210541617",
-        "author": "Nathan Sebhastian",
-        "language": "英文",
-        "publishYear": 2025,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/5248/webstorage_links/24779/to_link"
             }
         ]
     }

@@ -164,6 +164,22 @@
         ]
     },
     {
+        "id": 5282,
+        "title": "Flask Framework Cookbook 2nd Edition",
+        "img": "http://image.banshujiang.cn/5282.jpeg?timestamp=1767425814118",
+        "author": "Alexander Aronowitz",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5282/webstorage_links/24855/to_link"
+            }
+        ]
+    },
+    {
         "id": 5281,
         "title": "Flask By Example",
         "img": "http://image.banshujiang.cn/5281.jpeg?timestamp=1767425653755",
@@ -256,22 +272,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/5273/webstorage_links/24837/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5272,
-        "title": "Learning Pandas 2.0",
-        "img": "http://image.banshujiang.cn/5272.jpeg?timestamp=1766199623009",
-        "author": "Matthew Rosch",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/5272/webstorage_links/24835/to_link"
             }
         ]
     }

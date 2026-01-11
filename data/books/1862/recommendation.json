@@ -100,6 +100,22 @@
         ]
     },
     {
+        "id": 5282,
+        "title": "Flask Framework Cookbook 2nd Edition",
+        "img": "http://image.banshujiang.cn/5282.jpeg?timestamp=1767425814118",
+        "author": "Alexander Aronowitz",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5282/webstorage_links/24855/to_link"
+            }
+        ]
+    },
+    {
         "id": 5281,
         "title": "Flask By Example",
         "img": "http://image.banshujiang.cn/5281.jpeg?timestamp=1767425653755",
@@ -306,37 +322,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/4714/webstorage_links/23028/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4487,
-        "title": "Full Stack JavaScript Development with MEAN",
-        "img": "http://image.banshujiang.cn/4487.jpeg?timestamp=1723950583814",
-        "author": "Adam Bretz and Colin J. Ihrig",
-        "language": "英文",
-        "publishYear": 2014,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4487/webstorage_links/22095/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4487/webstorage_links/22093/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4487/webstorage_links/22094/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4487/webstorage_links/22092/to_link"
             }
         ]
     }

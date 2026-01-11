@@ -1,5 +1,21 @@
 [
     {
+        "id": 5282,
+        "title": "Flask Framework Cookbook 2nd Edition",
+        "img": "http://image.banshujiang.cn/5282.jpeg?timestamp=1767425814118",
+        "author": "Alexander Aronowitz",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5282/webstorage_links/24855/to_link"
+            }
+        ]
+    },
+    {
         "id": 5281,
         "title": "Flask By Example",
         "img": "http://image.banshujiang.cn/5281.jpeg?timestamp=1767425653755",
@@ -341,32 +357,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/4548/webstorage_links/22401/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4542,
-        "title": "Colors, Backgrounds, and Gradients",
-        "img": "http://image.banshujiang.cn/4542.jpeg?timestamp=1727874466817",
-        "author": "Eric A. Meyer",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "CSS",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4542/webstorage_links/22367/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4542/webstorage_links/22365/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4542/webstorage_links/22366/to_link"
             }
         ]
     }
