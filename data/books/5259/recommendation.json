@@ -1,5 +1,69 @@
 [
     {
+        "id": 5291,
+        "title": "Research Tendencies and Prospect Domains for AI Development and Implementation",
+        "img": "http://image.banshujiang.cn/5291.jpeg?timestamp=1768704362267",
+        "author": "Yuriy P. Kondratenko and Anatolii I. Shevchenko",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5291/webstorage_links/24873/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5288,
+        "title": "Mastering LangChain: A Comprehensive Guide to Building Generative AI Applications",
+        "img": "http://image.banshujiang.cn/5288.jpeg?timestamp=1768703478071",
+        "author": "Sanath Raj B Narayan and Nitin Agarwal",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5288/webstorage_links/24867/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5286,
+        "title": "LangChain核心技术与LLM项目实践",
+        "img": "http://image.banshujiang.cn/5286.jpeg?timestamp=1768703266917",
+        "author": "凌峰",
+        "language": "中文",
+        "publishYear": 2025,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5286/webstorage_links/24863/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5285,
+        "title": "LangChain for JavaScript developers",
+        "img": "http://image.banshujiang.cn/5285.jpeg?timestamp=1768703143270",
+        "author": "Daniel Nastase",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5285/webstorage_links/24861/to_link"
+            }
+        ]
+    },
+    {
         "id": 5277,
         "title": "Pandas 数据分析实战",
         "img": "http://image.banshujiang.cn/5277.jpeg?timestamp=1766201103669",
@@ -188,70 +252,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/5237/webstorage_links/24753/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5236,
-        "title": "DeepSeek从入门到精通",
-        "img": "http://image.banshujiang.cn/5236.jpeg?timestamp=1757142807084",
-        "author": "曾英杰",
-        "language": "中文",
-        "publishYear": 2025,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5236/webstorage_links/24751/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5235,
-        "title": "DeepSeek Unlocked",
-        "img": "http://image.banshujiang.cn/5235.jpeg?timestamp=1757142327050",
-        "author": "Tavian F. Draven",
-        "language": "英文",
-        "publishYear": 2025,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/5235/webstorage_links/24749/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5234,
-        "title": "Building Embodied AI Systems: The Agents, the Architecture Principles, Challenges, and Application Domains",
-        "img": "http://image.banshujiang.cn/5234.jpeg?timestamp=1757142129098",
-        "author": "Pethuru Raj",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5234/webstorage_links/24747/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5233,
-        "title": "AI Value Creators",
-        "img": "http://image.banshujiang.cn/5233.jpeg?timestamp=1757134917785",
-        "author": "Rob Thomas, Paul Zikopoulos and Kate Soule",
-        "language": "英文",
-        "publishYear": 2025,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5233/webstorage_links/24745/to_link"
             }
         ]
     }

@@ -16,6 +16,38 @@
         ]
     },
     {
+        "id": 5290,
+        "title": "Mockito Made Clear: Java Unit Testing with Mocks, Stubs, and Spies",
+        "img": "http://image.banshujiang.cn/5290.jpeg?timestamp=1768703911500",
+        "author": "Ken Kousen",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5290/webstorage_links/24871/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5284,
+        "title": "Java Unit Testing with JUnit and Mockito",
+        "img": "http://image.banshujiang.cn/5284.jpeg?timestamp=1768615964004",
+        "author": "",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5284/webstorage_links/24859/to_link"
+            }
+        ]
+    },
+    {
         "id": 5225,
         "title": "Java Cookbook 5th Edition",
         "img": "http://image.banshujiang.cn/5225.jpeg?timestamp=1754188938132",
@@ -245,43 +277,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4895/webstorage_links/23776/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4888,
-        "title": "Think Java",
-        "img": "http://image.banshujiang.cn/4888.jpeg?timestamp=1738846802664",
-        "author": "Allen B. Downey and Chris Mayfield",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4888/webstorage_links/23743/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4888/webstorage_links/23742/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4784,
-        "title": "Java Performance Companion",
-        "img": "http://image.banshujiang.cn/4784.jpeg?timestamp=1731120348825",
-        "author": "Charlie Hunt, Monica Beckwith, Poonam Parhar and Bengt Rutisson",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4784/webstorage_links/23336/to_link"
             }
         ]
     }

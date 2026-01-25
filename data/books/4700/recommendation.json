@@ -89,6 +89,38 @@
         ]
     },
     {
+        "id": 5285,
+        "title": "LangChain for JavaScript developers",
+        "img": "http://image.banshujiang.cn/5285.jpeg?timestamp=1768703143270",
+        "author": "Daniel Nastase",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5285/webstorage_links/24861/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5283,
+        "title": "Jasmine Testing for Angular 4 Apps",
+        "img": "http://image.banshujiang.cn/5283.jpeg?timestamp=1768615855090",
+        "author": "",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5283/webstorage_links/24857/to_link"
+            }
+        ]
+    },
+    {
         "id": 5221,
         "title": "Full Stack JavaScript Strategies",
         "img": "http://image.banshujiang.cn/5221.jpeg?timestamp=1754188614113",
@@ -275,53 +307,6 @@
                 "fmt": "MOBI",
                 "title": "城通网盘",
                 "link": "/e_books/4792/webstorage_links/23365/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4789,
-        "title": "Functional Programming in JavaScript",
-        "img": "http://image.banshujiang.cn/4789.jpeg?timestamp=1731120828411",
-        "author": "Luis Atencio",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4789/webstorage_links/23354/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4789/webstorage_links/23353/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4788,
-        "title": "Express in Action",
-        "img": "http://image.banshujiang.cn/4788.jpeg?timestamp=1731120754545",
-        "author": "Evan M. Hahn",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4788/webstorage_links/23350/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4788/webstorage_links/23348/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4788/webstorage_links/23349/to_link"
             }
         ]
     }

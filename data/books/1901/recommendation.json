@@ -64,6 +64,38 @@
         ]
     },
     {
+        "id": 5290,
+        "title": "Mockito Made Clear: Java Unit Testing with Mocks, Stubs, and Spies",
+        "img": "http://image.banshujiang.cn/5290.jpeg?timestamp=1768703911500",
+        "author": "Ken Kousen",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5290/webstorage_links/24871/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5284,
+        "title": "Java Unit Testing with JUnit and Mockito",
+        "img": "http://image.banshujiang.cn/5284.jpeg?timestamp=1768615964004",
+        "author": "",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5284/webstorage_links/24859/to_link"
+            }
+        ]
+    },
+    {
         "id": 5282,
         "title": "Flask Framework Cookbook 2nd Edition",
         "img": "http://image.banshujiang.cn/5282.jpeg?timestamp=1767425814118",
@@ -235,43 +267,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/5164/webstorage_links/24532/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5002,
-        "title": "Pragmatic Unit Testing in Java with JUnit 3rd Edition",
-        "img": "http://image.banshujiang.cn/5002.jpeg",
-        "author": "Jeff Langr",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5002/webstorage_links/24135/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/5002/webstorage_links/24134/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4993,
-        "title": "Core Java  Volume I: Fundamentals 13th Edition",
-        "img": "http://image.banshujiang.cn/4993.jpeg",
-        "author": "Cay S. Horstmann",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4993/webstorage_links/24103/to_link"
             }
         ]
     }

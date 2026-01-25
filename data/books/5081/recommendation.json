@@ -1,5 +1,37 @@
 [
     {
+        "id": 5288,
+        "title": "Mastering LangChain: A Comprehensive Guide to Building Generative AI Applications",
+        "img": "http://image.banshujiang.cn/5288.jpeg?timestamp=1768703478071",
+        "author": "Sanath Raj B Narayan and Nitin Agarwal",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5288/webstorage_links/24867/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5286,
+        "title": "LangChain核心技术与LLM项目实践",
+        "img": "http://image.banshujiang.cn/5286.jpeg?timestamp=1768703266917",
+        "author": "凌峰",
+        "language": "中文",
+        "publishYear": 2025,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5286/webstorage_links/24863/to_link"
+            }
+        ]
+    },
+    {
         "id": 5277,
         "title": "Pandas 数据分析实战",
         "img": "http://image.banshujiang.cn/5277.jpeg?timestamp=1766201103669",
@@ -225,38 +257,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/5087/webstorage_links/24348/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5086,
-        "title": "LangChain Crash Course",
-        "img": "http://image.banshujiang.cn/5086.jpeg?timestamp=1746202013524",
-        "author": "Greg Lim",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5086/webstorage_links/24345/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5039,
-        "title": "Data Preparation for Machine Learning",
-        "img": "http://image.banshujiang.cn/5039.jpeg",
-        "author": "Jason Brownlee",
-        "language": "英文",
-        "publishYear": 2020,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5039/webstorage_links/24225/to_link"
             }
         ]
     }

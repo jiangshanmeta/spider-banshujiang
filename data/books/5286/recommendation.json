@@ -1,0 +1,263 @@
+[
+    {
+        "id": 5288,
+        "title": "Mastering LangChain: A Comprehensive Guide to Building Generative AI Applications",
+        "img": "http://image.banshujiang.cn/5288.jpeg?timestamp=1768703478071",
+        "author": "Sanath Raj B Narayan and Nitin Agarwal",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5288/webstorage_links/24867/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5277,
+        "title": "Pandas 数据分析实战",
+        "img": "http://image.banshujiang.cn/5277.jpeg?timestamp=1766201103669",
+        "author": "[美]Boris Paskhaver [译]殷海英",
+        "language": "中文",
+        "publishYear": 2022,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5277/webstorage_links/24845/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5276,
+        "title": "Master Data Science and Data Analysis With Pandas",
+        "img": "http://image.banshujiang.cn/5276.jpeg?timestamp=1766200747406",
+        "author": "Arun",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5276/webstorage_links/24843/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5275,
+        "title": "Pandas Brain Teasers",
+        "img": "http://image.banshujiang.cn/5275.jpeg?timestamp=1766200390508",
+        "author": "Miki Tebeka",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5275/webstorage_links/24841/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5274,
+        "title": "Learning pandas 2nd Edition",
+        "img": "http://image.banshujiang.cn/5274.jpeg?timestamp=1766200171462",
+        "author": "Michael Heydt",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5274/webstorage_links/24839/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5273,
+        "title": "Pandas Basics",
+        "img": "http://image.banshujiang.cn/5273.jpeg?timestamp=1766199912469",
+        "author": "Oswald Campesato",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5273/webstorage_links/24837/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5272,
+        "title": "Learning Pandas 2.0",
+        "img": "http://image.banshujiang.cn/5272.jpeg?timestamp=1766199623009",
+        "author": "Matthew Rosch",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5272/webstorage_links/24835/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5249,
+        "title": "Mastering  LLM Applications with LangChain and  Hugging Face",
+        "img": "http://image.banshujiang.cn/5249.jpeg?timestamp=1757210627702",
+        "author": "Hunaidkhan Pathan and Nayankumar Gajjar",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5249/webstorage_links/24780/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5248,
+        "title": "LangChain Programming For Beginners",
+        "img": "http://image.banshujiang.cn/5248.jpeg?timestamp=1757210541617",
+        "author": "Nathan Sebhastian",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5248/webstorage_links/24779/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5247,
+        "title": "LangChain for Life Sciences and Healthcare",
+        "img": "http://image.banshujiang.cn/5247.jpeg?timestamp=1757210433046",
+        "author": "Ivan Reznikov",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5247/webstorage_links/24777/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5246,
+        "title": "LangChain and LlamaIndex Projects Lab Book: Hooking Large Language Models Up to the Real World",
+        "img": "http://image.banshujiang.cn/5246.jpeg?timestamp=1757210308155",
+        "author": "Mark Watson",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5246/webstorage_links/24775/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5179,
+        "title": "scikit-learn Cookbook 2nd Edition",
+        "img": "http://image.banshujiang.cn/5179.jpeg?timestamp=1746882388123",
+        "author": "Julian Avila and Trent Hauck",
+        "language": "英文",
+        "publishYear": 2017,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5179/webstorage_links/24572/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5149,
+        "title": "Python Machine Learning for Beginners",
+        "img": "http://image.banshujiang.cn/5149.jpeg?timestamp=1746275153318",
+        "author": "AI Publishing",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5149/webstorage_links/24492/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5143,
+        "title": "Learning LangChain: Building AI and LLM Applications with LangChain and LangGraph",
+        "img": "http://image.banshujiang.cn/5143.jpeg?timestamp=1746274319615",
+        "author": "Mayo Oshin and Nuno Campos",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5143/webstorage_links/24480/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5087,
+        "title": "Learn Python Generative AI",
+        "img": "http://image.banshujiang.cn/5087.jpeg?timestamp=1746066994092",
+        "author": "Zonunfeli Ralte and Indrajit Kar",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5087/webstorage_links/24349/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5087/webstorage_links/24348/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5086,
+        "title": "LangChain Crash Course",
+        "img": "http://image.banshujiang.cn/5086.jpeg?timestamp=1746202013524",
+        "author": "Greg Lim",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5086/webstorage_links/24345/to_link"
+            }
+        ]
+    }
+]

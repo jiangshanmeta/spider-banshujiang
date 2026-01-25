@@ -100015,5 +100015,149 @@
                 "link": "/e_books/5282/webstorage_links/24855/to_link"
             }
         ]
+    },
+    {
+        "id": 5283,
+        "title": "Jasmine Testing for Angular 4 Apps",
+        "img": "http://image.banshujiang.cn/5283.jpeg?timestamp=1768615855090",
+        "author": "",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5283/webstorage_links/24857/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5284,
+        "title": "Java Unit Testing with JUnit and Mockito",
+        "img": "http://image.banshujiang.cn/5284.jpeg?timestamp=1768615964004",
+        "author": "",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5284/webstorage_links/24859/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5285,
+        "title": "LangChain for JavaScript developers",
+        "img": "http://image.banshujiang.cn/5285.jpeg?timestamp=1768703143270",
+        "author": "Daniel Nastase",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5285/webstorage_links/24861/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5286,
+        "title": "LangChain核心技术与LLM项目实践",
+        "img": "http://image.banshujiang.cn/5286.jpeg?timestamp=1768703266917",
+        "author": "凌峰",
+        "language": "中文",
+        "publishYear": 2025,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5286/webstorage_links/24863/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5287,
+        "title": "Learning Flask Framework",
+        "img": "http://image.banshujiang.cn/5287.jpeg?timestamp=1768703385120",
+        "author": "Matt Copperwaite and Charles Leifer",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5287/webstorage_links/24865/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5288,
+        "title": "Mastering LangChain: A Comprehensive Guide to Building Generative AI Applications",
+        "img": "http://image.banshujiang.cn/5288.jpeg?timestamp=1768703478071",
+        "author": "Sanath Raj B Narayan and Nitin Agarwal",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5288/webstorage_links/24867/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5289,
+        "title": "Mastering Nunit in C#: A Comprehensive Guide to Unit Testing",
+        "img": "http://image.banshujiang.cn/5289.jpeg?timestamp=1768703597798",
+        "author": "",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5289/webstorage_links/24869/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5290,
+        "title": "Mockito Made Clear: Java Unit Testing with Mocks, Stubs, and Spies",
+        "img": "http://image.banshujiang.cn/5290.jpeg?timestamp=1768703911500",
+        "author": "Ken Kousen",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5290/webstorage_links/24871/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5291,
+        "title": "Research Tendencies and Prospect Domains for AI Development and Implementation",
+        "img": "http://image.banshujiang.cn/5291.jpeg?timestamp=1768704362267",
+        "author": "Yuriy P. Kondratenko and Anatolii I. Shevchenko",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5291/webstorage_links/24873/to_link"
+            }
+        ]
     }
 ]

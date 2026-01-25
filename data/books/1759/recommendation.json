@@ -1,5 +1,37 @@
 [
     {
+        "id": 5285,
+        "title": "LangChain for JavaScript developers",
+        "img": "http://image.banshujiang.cn/5285.jpeg?timestamp=1768703143270",
+        "author": "Daniel Nastase",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5285/webstorage_links/24861/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5283,
+        "title": "Jasmine Testing for Angular 4 Apps",
+        "img": "http://image.banshujiang.cn/5283.jpeg?timestamp=1768615855090",
+        "author": "",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "JavaScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5283/webstorage_links/24857/to_link"
+            }
+        ]
+    },
+    {
         "id": 5245,
         "title": "iOS 17 App Development for Beginners",
         "img": "http://image.banshujiang.cn/5245.jpeg?timestamp=1757210180384",
@@ -270,38 +302,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4829/webstorage_links/23509/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4799,
-        "title": "watchOS 2 by Tutorials",
-        "img": "http://image.banshujiang.cn/4799.jpeg?timestamp=1731121807496",
-        "author": " the raywenderlich.com Tutorial Team",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "Swift",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4799/webstorage_links/23379/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4793,
-        "title": "React+d3.js",
-        "img": "http://image.banshujiang.cn/4793.jpeg?timestamp=1731121244565",
-        "author": "Swizec Teller",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4793/webstorage_links/23368/to_link"
             }
         ]
     }

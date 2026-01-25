@@ -164,6 +164,54 @@
         ]
     },
     {
+        "id": 5288,
+        "title": "Mastering LangChain: A Comprehensive Guide to Building Generative AI Applications",
+        "img": "http://image.banshujiang.cn/5288.jpeg?timestamp=1768703478071",
+        "author": "Sanath Raj B Narayan and Nitin Agarwal",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5288/webstorage_links/24867/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5287,
+        "title": "Learning Flask Framework",
+        "img": "http://image.banshujiang.cn/5287.jpeg?timestamp=1768703385120",
+        "author": "Matt Copperwaite and Charles Leifer",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5287/webstorage_links/24865/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5286,
+        "title": "LangChain核心技术与LLM项目实践",
+        "img": "http://image.banshujiang.cn/5286.jpeg?timestamp=1768703266917",
+        "author": "凌峰",
+        "language": "中文",
+        "publishYear": 2025,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5286/webstorage_links/24863/to_link"
+            }
+        ]
+    },
+    {
         "id": 5282,
         "title": "Flask Framework Cookbook 2nd Edition",
         "img": "http://image.banshujiang.cn/5282.jpeg?timestamp=1767425814118",
@@ -224,54 +272,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/5276/webstorage_links/24843/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5275,
-        "title": "Pandas Brain Teasers",
-        "img": "http://image.banshujiang.cn/5275.jpeg?timestamp=1766200390508",
-        "author": "Miki Tebeka",
-        "language": "英文",
-        "publishYear": 2021,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/5275/webstorage_links/24841/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5274,
-        "title": "Learning pandas 2nd Edition",
-        "img": "http://image.banshujiang.cn/5274.jpeg?timestamp=1766200171462",
-        "author": "Michael Heydt",
-        "language": "英文",
-        "publishYear": 2017,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5274/webstorage_links/24839/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5273,
-        "title": "Pandas Basics",
-        "img": "http://image.banshujiang.cn/5273.jpeg?timestamp=1766199912469",
-        "author": "Oswald Campesato",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5273/webstorage_links/24837/to_link"
             }
         ]
     }

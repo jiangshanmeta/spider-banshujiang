@@ -1,5 +1,37 @@
 [
     {
+        "id": 5290,
+        "title": "Mockito Made Clear: Java Unit Testing with Mocks, Stubs, and Spies",
+        "img": "http://image.banshujiang.cn/5290.jpeg?timestamp=1768703911500",
+        "author": "Ken Kousen",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5290/webstorage_links/24871/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5284,
+        "title": "Java Unit Testing with JUnit and Mockito",
+        "img": "http://image.banshujiang.cn/5284.jpeg?timestamp=1768615964004",
+        "author": "",
+        "language": "英文",
+        "publishYear": 2020,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5284/webstorage_links/24859/to_link"
+            }
+        ]
+    },
+    {
         "id": 5225,
         "title": "Java Cookbook 5th Edition",
         "img": "http://image.banshujiang.cn/5225.jpeg?timestamp=1754188938132",
@@ -245,53 +277,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4784/webstorage_links/23336/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4782,
-        "title": "Hello, Android 4th Edition",
-        "img": "http://image.banshujiang.cn/4782.jpeg?timestamp=1731120133719",
-        "author": "Ed Burnette",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4782/webstorage_links/23328/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4782/webstorage_links/23327/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4781,
-        "title": "Android Programming: The Big Nerd Ranch Guide 2nd Edition",
-        "img": "http://image.banshujiang.cn/4781.jpeg?timestamp=1731120000030",
-        "author": "Bill Phillips, Chris Stewart, Brian Hardy and Kristin Marsicano",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4781/webstorage_links/23324/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4781/webstorage_links/23322/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4781/webstorage_links/23323/to_link"
             }
         ]
     }

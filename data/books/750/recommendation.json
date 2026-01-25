@@ -106,6 +106,22 @@
         ]
     },
     {
+        "id": 5289,
+        "title": "Mastering Nunit in C#: A Comprehensive Guide to Unit Testing",
+        "img": "http://image.banshujiang.cn/5289.jpeg?timestamp=1768703597798",
+        "author": "",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "C#",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5289/webstorage_links/24869/to_link"
+            }
+        ]
+    },
+    {
         "id": 5279,
         "title": "C# Unit Testing: NUnit, Moq, and Beyond",
         "img": "http://image.banshujiang.cn/5279.jpeg?timestamp=1767244362529",
@@ -276,32 +292,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4616/webstorage_links/22703/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4599,
-        "title": "Programming WCF Services 4th Edition",
-        "img": "http://image.banshujiang.cn/4599.jpeg?timestamp=1728021202171",
-        "author": "Juval Lowy &amp; Michael Montgomery",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "C#",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4599/webstorage_links/22663/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4599/webstorage_links/22661/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4599/webstorage_links/22662/to_link"
             }
         ]
     }
