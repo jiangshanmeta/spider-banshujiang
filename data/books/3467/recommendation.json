@@ -64,6 +64,59 @@
         ]
     },
     {
+        "id": 5298,
+        "title": "Web Api Development with Python",
+        "img": "http://image.banshujiang.cn/5298.jpeg?timestamp=1769222089229",
+        "author": "Rehan Haider",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5298/webstorage_links/24889/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5298/webstorage_links/24888/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5294,
+        "title": "Spring Boot 3 and Spring Framework 6",
+        "img": "http://image.banshujiang.cn/5294.jpeg?timestamp=1768704757402",
+        "author": "Christian Ullenboom",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5294/webstorage_links/24879/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5293,
+        "title": "Spring Boot 3 Recipes 2nd Edition",
+        "img": "http://image.banshujiang.cn/5293.jpeg?timestamp=1768704647329",
+        "author": "Marten Deinum",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5293/webstorage_links/24877/to_link"
+            }
+        ]
+    },
+    {
         "id": 5290,
         "title": "Mockito Made Clear: Java Unit Testing with Mocks, Stubs, and Spies",
         "img": "http://image.banshujiang.cn/5290.jpeg?timestamp=1768703911500",
@@ -219,54 +272,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/5171/webstorage_links/24548/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5166,
-        "title": "Apache RocketMQ 源码解析",
-        "img": "http://image.banshujiang.cn/5166.jpeg?timestamp=1746876044514",
-        "author": "丁威",
-        "language": "中文",
-        "publishYear": 2020,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5166/webstorage_links/24536/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5165,
-        "title": "Apache RocketMQ 从入门到实战",
-        "img": "http://image.banshujiang.cn/5165.jpeg?timestamp=1746875924894",
-        "author": "丁威",
-        "language": "中文",
-        "publishYear": 2020,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5165/webstorage_links/24534/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5164,
-        "title": "云原生消息队列 Apache RocketMQ",
-        "img": "http://image.banshujiang.cn/5164.jpeg?timestamp=1746875828489",
-        "author": "尘央",
-        "language": "中文",
-        "publishYear": 2020,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5164/webstorage_links/24532/to_link"
             }
         ]
     }

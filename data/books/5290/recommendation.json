@@ -1,5 +1,37 @@
 [
     {
+        "id": 5294,
+        "title": "Spring Boot 3 and Spring Framework 6",
+        "img": "http://image.banshujiang.cn/5294.jpeg?timestamp=1768704757402",
+        "author": "Christian Ullenboom",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5294/webstorage_links/24879/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5293,
+        "title": "Spring Boot 3 Recipes 2nd Edition",
+        "img": "http://image.banshujiang.cn/5293.jpeg?timestamp=1768704647329",
+        "author": "Marten Deinum",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5293/webstorage_links/24877/to_link"
+            }
+        ]
+    },
+    {
         "id": 5284,
         "title": "Java Unit Testing with JUnit and Mockito",
         "img": "http://image.banshujiang.cn/5284.jpeg?timestamp=1768615964004",
@@ -245,43 +277,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4895/webstorage_links/23776/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4888,
-        "title": "Think Java",
-        "img": "http://image.banshujiang.cn/4888.jpeg?timestamp=1738846802664",
-        "author": "Allen B. Downey and Chris Mayfield",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4888/webstorage_links/23743/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4888/webstorage_links/23742/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4784,
-        "title": "Java Performance Companion",
-        "img": "http://image.banshujiang.cn/4784.jpeg?timestamp=1731120348825",
-        "author": "Charlie Hunt, Monica Beckwith, Poonam Parhar and Bengt Rutisson",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4784/webstorage_links/23336/to_link"
             }
         ]
     }

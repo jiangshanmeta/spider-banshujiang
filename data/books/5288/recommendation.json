@@ -1,5 +1,21 @@
 [
     {
+        "id": 5296,
+        "title": "Understanding Langchain: A Comprehensive Guide to Crafting Futuristic Language Model Applications",
+        "img": "http://image.banshujiang.cn/5296.jpeg?timestamp=1768704951132",
+        "author": "Jeffery Owens",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5296/webstorage_links/24883/to_link"
+            }
+        ]
+    },
+    {
         "id": 5286,
         "title": "LangChain核心技术与LLM项目实践",
         "img": "http://image.banshujiang.cn/5286.jpeg?timestamp=1768703266917",
@@ -241,22 +257,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/5087/webstorage_links/24348/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5086,
-        "title": "LangChain Crash Course",
-        "img": "http://image.banshujiang.cn/5086.jpeg?timestamp=1746202013524",
-        "author": "Greg Lim",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5086/webstorage_links/24345/to_link"
             }
         ]
     }

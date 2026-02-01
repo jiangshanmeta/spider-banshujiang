@@ -1,5 +1,26 @@
 [
     {
+        "id": 5298,
+        "title": "Web Api Development with Python",
+        "img": "http://image.banshujiang.cn/5298.jpeg?timestamp=1769222089229",
+        "author": "Rehan Haider",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5298/webstorage_links/24889/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5298/webstorage_links/24888/to_link"
+            }
+        ]
+    },
+    {
         "id": 5282,
         "title": "Flask Framework Cookbook 2nd Edition",
         "img": "http://image.banshujiang.cn/5282.jpeg?timestamp=1767425814118",
@@ -60,6 +81,38 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/1083/webstorage_links/13505/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5297,
+        "title": "Python 学习手册(上册)",
+        "img": "http://image.banshujiang.cn/5297.jpeg?timestamp=1769221745455",
+        "author": "[美]Mark Lutz [译]秦鹤 林明",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5297/webstorage_links/24885/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5296,
+        "title": "Understanding Langchain: A Comprehensive Guide to Crafting Futuristic Language Model Applications",
+        "img": "http://image.banshujiang.cn/5296.jpeg?timestamp=1768704951132",
+        "author": "Jeffery Owens",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5296/webstorage_links/24883/to_link"
             }
         ]
     },
@@ -204,54 +257,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/5272/webstorage_links/24835/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5268,
-        "title": "Instant Data Intensive Apps with pandas How-to",
-        "img": "http://image.banshujiang.cn/5268.jpeg?timestamp=1762655404104",
-        "author": "Trent Hauck",
-        "language": "英文",
-        "publishYear": 2013,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5268/webstorage_links/24827/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5262,
-        "title": "Python网络数据采集",
-        "img": "http://image.banshujiang.cn/5262.jpeg?timestamp=1759294518512",
-        "author": "[美]Ryan Mitchell [译]陶俊杰、陈小莉",
-        "language": "中文",
-        "publishYear": 2016,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5262/webstorage_links/24811/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5261,
-        "title": "Python网络编程攻略",
-        "img": "http://image.banshujiang.cn/5261.jpeg?timestamp=1759294401677",
-        "author": "[英]Dr. M. O. Faruque Sarker [译]安道",
-        "language": "中文",
-        "publishYear": 2014,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5261/webstorage_links/24809/to_link"
             }
         ]
     }

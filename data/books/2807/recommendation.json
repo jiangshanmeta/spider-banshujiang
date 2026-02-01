@@ -80,6 +80,27 @@
         ]
     },
     {
+        "id": 5298,
+        "title": "Web Api Development with Python",
+        "img": "http://image.banshujiang.cn/5298.jpeg?timestamp=1769222089229",
+        "author": "Rehan Haider",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5298/webstorage_links/24889/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5298/webstorage_links/24888/to_link"
+            }
+        ]
+    },
+    {
         "id": 5282,
         "title": "Flask Framework Cookbook 2nd Edition",
         "img": "http://image.banshujiang.cn/5282.jpeg?timestamp=1767425814118",
@@ -261,37 +282,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4726/webstorage_links/23068/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4663,
-        "title": "High Performance PostgreSQL for Rails",
-        "img": "http://image.banshujiang.cn/4663.jpeg?timestamp=1729328041416",
-        "author": "Andrew Atkinson",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "Ruby",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4663/webstorage_links/22821/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4663/webstorage_links/22819/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4663/webstorage_links/22820/to_link"
-            },
-            {
-                "fmt": "CODE",
-                "title": "城通网盘",
-                "link": "/e_books/4663/webstorage_links/22818/to_link"
             }
         ]
     }

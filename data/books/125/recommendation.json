@@ -53,6 +53,38 @@
         ]
     },
     {
+        "id": 5294,
+        "title": "Spring Boot 3 and Spring Framework 6",
+        "img": "http://image.banshujiang.cn/5294.jpeg?timestamp=1768704757402",
+        "author": "Christian Ullenboom",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5294/webstorage_links/24879/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5293,
+        "title": "Spring Boot 3 Recipes 2nd Edition",
+        "img": "http://image.banshujiang.cn/5293.jpeg?timestamp=1768704647329",
+        "author": "Marten Deinum",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5293/webstorage_links/24877/to_link"
+            }
+        ]
+    },
+    {
         "id": 5290,
         "title": "Mockito Made Clear: Java Unit Testing with Mocks, Stubs, and Spies",
         "img": "http://image.banshujiang.cn/5290.jpeg?timestamp=1768703911500",
@@ -245,38 +277,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/5002/webstorage_links/24134/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4993,
-        "title": "Core Java  Volume I: Fundamentals 13th Edition",
-        "img": "http://image.banshujiang.cn/4993.jpeg",
-        "author": "Cay S. Horstmann",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4993/webstorage_links/24103/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4992,
-        "title": "Core Java  Volume II: Advanced Features 13th Edition",
-        "img": "http://image.banshujiang.cn/4992.jpeg",
-        "author": "Cay S. Horstmann",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4992/webstorage_links/24101/to_link"
             }
         ]
     }

@@ -100159,5 +100159,122 @@
                 "link": "/e_books/5291/webstorage_links/24873/to_link"
             }
         ]
+    },
+    {
+        "id": 5292,
+        "title": "Software Development, Design, and Coding",
+        "img": "http://image.banshujiang.cn/5292.jpeg?timestamp=1768704548915",
+        "author": "John F. Dooley and Vera A. Kazakova",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5292/webstorage_links/24875/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5293,
+        "title": "Spring Boot 3 Recipes 2nd Edition",
+        "img": "http://image.banshujiang.cn/5293.jpeg?timestamp=1768704647329",
+        "author": "Marten Deinum",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5293/webstorage_links/24877/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5294,
+        "title": "Spring Boot 3 and Spring Framework 6",
+        "img": "http://image.banshujiang.cn/5294.jpeg?timestamp=1768704757402",
+        "author": "Christian Ullenboom",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5294/webstorage_links/24879/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5295,
+        "title": "Ultimate Microservices with RabbitMQ",
+        "img": "http://image.banshujiang.cn/5295.jpeg?timestamp=1768704842892",
+        "author": "Peter Morlion",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5295/webstorage_links/24881/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5296,
+        "title": "Understanding Langchain: A Comprehensive Guide to Crafting Futuristic Language Model Applications",
+        "img": "http://image.banshujiang.cn/5296.jpeg?timestamp=1768704951132",
+        "author": "Jeffery Owens",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5296/webstorage_links/24883/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5297,
+        "title": "Python 学习手册(上册)",
+        "img": "http://image.banshujiang.cn/5297.jpeg?timestamp=1769221745455",
+        "author": "[美]Mark Lutz [译]秦鹤 林明",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5297/webstorage_links/24885/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5298,
+        "title": "Web Api Development with Python",
+        "img": "http://image.banshujiang.cn/5298.jpeg?timestamp=1769222089229",
+        "author": "Rehan Haider",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5298/webstorage_links/24889/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5298/webstorage_links/24888/to_link"
+            }
+        ]
     }
 ]
