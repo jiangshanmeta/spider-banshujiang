@@ -85,6 +85,38 @@
         ]
     },
     {
+        "id": 5300,
+        "title": "Building Generative AI Services with FastAPI",
+        "img": "http://image.banshujiang.cn/5300.jpeg?timestamp=1769222562694",
+        "author": "Alireza Parandeh",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5300/webstorage_links/24893/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5299,
+        "title": "Building Data Science Applications with FastAPI",
+        "img": "http://image.banshujiang.cn/5299.jpeg?timestamp=1769222477182",
+        "author": "François Voron",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5299/webstorage_links/24891/to_link"
+            }
+        ]
+    },
+    {
         "id": 5297,
         "title": "Python 学习手册(上册)",
         "img": "http://image.banshujiang.cn/5297.jpeg?timestamp=1769221745455",
@@ -225,38 +257,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/5274/webstorage_links/24839/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5273,
-        "title": "Pandas Basics",
-        "img": "http://image.banshujiang.cn/5273.jpeg?timestamp=1766199912469",
-        "author": "Oswald Campesato",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5273/webstorage_links/24837/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5272,
-        "title": "Learning Pandas 2.0",
-        "img": "http://image.banshujiang.cn/5272.jpeg?timestamp=1766199623009",
-        "author": "Matthew Rosch",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/5272/webstorage_links/24835/to_link"
             }
         ]
     }

@@ -100276,5 +100276,37 @@
                 "link": "/e_books/5298/webstorage_links/24888/to_link"
             }
         ]
+    },
+    {
+        "id": 5299,
+        "title": "Building Data Science Applications with FastAPI",
+        "img": "http://image.banshujiang.cn/5299.jpeg?timestamp=1769222477182",
+        "author": "François Voron",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5299/webstorage_links/24891/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5300,
+        "title": "Building Generative AI Services with FastAPI",
+        "img": "http://image.banshujiang.cn/5300.jpeg?timestamp=1769222562694",
+        "author": "Alireza Parandeh",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5300/webstorage_links/24893/to_link"
+            }
+        ]
     }
 ]

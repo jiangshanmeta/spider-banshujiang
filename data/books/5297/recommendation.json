@@ -1,5 +1,37 @@
 [
     {
+        "id": 5300,
+        "title": "Building Generative AI Services with FastAPI",
+        "img": "http://image.banshujiang.cn/5300.jpeg?timestamp=1769222562694",
+        "author": "Alireza Parandeh",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5300/webstorage_links/24893/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5299,
+        "title": "Building Data Science Applications with FastAPI",
+        "img": "http://image.banshujiang.cn/5299.jpeg?timestamp=1769222477182",
+        "author": "François Voron",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5299/webstorage_links/24891/to_link"
+            }
+        ]
+    },
+    {
         "id": 5298,
         "title": "Web Api Development with Python",
         "img": "http://image.banshujiang.cn/5298.jpeg?timestamp=1769222089229",
@@ -225,38 +257,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/5268/webstorage_links/24827/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5262,
-        "title": "Python网络数据采集",
-        "img": "http://image.banshujiang.cn/5262.jpeg?timestamp=1759294518512",
-        "author": "[美]Ryan Mitchell [译]陶俊杰、陈小莉",
-        "language": "中文",
-        "publishYear": 2016,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5262/webstorage_links/24811/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5261,
-        "title": "Python网络编程攻略",
-        "img": "http://image.banshujiang.cn/5261.jpeg?timestamp=1759294401677",
-        "author": "[英]Dr. M. O. Faruque Sarker [译]安道",
-        "language": "中文",
-        "publishYear": 2014,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5261/webstorage_links/24809/to_link"
             }
         ]
     }

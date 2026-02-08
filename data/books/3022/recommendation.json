@@ -85,6 +85,22 @@
         ]
     },
     {
+        "id": 5300,
+        "title": "Building Generative AI Services with FastAPI",
+        "img": "http://image.banshujiang.cn/5300.jpeg?timestamp=1769222562694",
+        "author": "Alireza Parandeh",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5300/webstorage_links/24893/to_link"
+            }
+        ]
+    },
+    {
         "id": 5296,
         "title": "Understanding Langchain: A Comprehensive Guide to Crafting Futuristic Language Model Applications",
         "img": "http://image.banshujiang.cn/5296.jpeg?timestamp=1768704951132",
@@ -241,22 +257,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/5273/webstorage_links/24837/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5272,
-        "title": "Learning Pandas 2.0",
-        "img": "http://image.banshujiang.cn/5272.jpeg?timestamp=1766199623009",
-        "author": "Matthew Rosch",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/5272/webstorage_links/24835/to_link"
             }
         ]
     }
