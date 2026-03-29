@@ -85,6 +85,38 @@
         ]
     },
     {
+        "id": 5302,
+        "title": "Getting started with FastApi",
+        "img": "http://image.banshujiang.cn/5302.jpeg?timestamp=1774615752243",
+        "author": "Andrés Cruz Yoris",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5302/webstorage_links/24896/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5301,
+        "title": "Building High-Performance Web APIs with FastAPI",
+        "img": "http://image.banshujiang.cn/5301.jpeg?timestamp=1774604423460",
+        "author": "Girish Vas",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5301/webstorage_links/24895/to_link"
+            }
+        ]
+    },
+    {
         "id": 5298,
         "title": "Web Api Development with Python",
         "img": "http://image.banshujiang.cn/5298.jpeg?timestamp=1769222089229",
@@ -240,53 +272,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4836/webstorage_links/23537/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4811,
-        "title": "ASP.NET MVC 5 with Bootstrap and Knockout.js",
-        "img": "http://image.banshujiang.cn/4811.jpeg?timestamp=1731734730612",
-        "author": "Jamie Munro",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "ASP.net",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4811/webstorage_links/23430/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4811/webstorage_links/23428/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/4811/webstorage_links/23429/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/4811/webstorage_links/23427/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4726,
-        "title": "MEAN Web开发",
-        "img": "http://image.banshujiang.cn/4726.jpeg?timestamp=1729932675954",
-        "author": "[以色列]Amos Q. Haviv [译]陈世帝",
-        "language": "中文",
-        "publishYear": 2015,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4726/webstorage_links/23068/to_link"
             }
         ]
     }

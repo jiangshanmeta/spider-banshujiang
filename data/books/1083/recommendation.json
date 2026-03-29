@@ -1,5 +1,37 @@
 [
     {
+        "id": 5302,
+        "title": "Getting started with FastApi",
+        "img": "http://image.banshujiang.cn/5302.jpeg?timestamp=1774615752243",
+        "author": "Andrés Cruz Yoris",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5302/webstorage_links/24896/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5301,
+        "title": "Building High-Performance Web APIs with FastAPI",
+        "img": "http://image.banshujiang.cn/5301.jpeg?timestamp=1774604423460",
+        "author": "Girish Vas",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5301/webstorage_links/24895/to_link"
+            }
+        ]
+    },
+    {
         "id": 5298,
         "title": "Web Api Development with Python",
         "img": "http://image.banshujiang.cn/5298.jpeg?timestamp=1769222089229",
@@ -81,6 +113,22 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/2214/webstorage_links/15564/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5303,
+        "title": "Hands-On APIs for AI and Data Science: Python Development with FastAPI",
+        "img": "http://image.banshujiang.cn/5303.jpeg?timestamp=1774615905482",
+        "author": "Ryan Day",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5303/webstorage_links/24897/to_link"
             }
         ]
     },
@@ -209,54 +257,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/5277/webstorage_links/24845/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5276,
-        "title": "Master Data Science and Data Analysis With Pandas",
-        "img": "http://image.banshujiang.cn/5276.jpeg?timestamp=1766200747406",
-        "author": "Arun",
-        "language": "英文",
-        "publishYear": 2020,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5276/webstorage_links/24843/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5275,
-        "title": "Pandas Brain Teasers",
-        "img": "http://image.banshujiang.cn/5275.jpeg?timestamp=1766200390508",
-        "author": "Miki Tebeka",
-        "language": "英文",
-        "publishYear": 2021,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/5275/webstorage_links/24841/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5274,
-        "title": "Learning pandas 2nd Edition",
-        "img": "http://image.banshujiang.cn/5274.jpeg?timestamp=1766200171462",
-        "author": "Michael Heydt",
-        "language": "英文",
-        "publishYear": 2017,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5274/webstorage_links/24839/to_link"
             }
         ]
     }
