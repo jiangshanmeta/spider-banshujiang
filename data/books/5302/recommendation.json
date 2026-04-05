@@ -1,5 +1,21 @@
 [
     {
+        "id": 5304,
+        "title": "High-Performance Web Apps with FastAPI",
+        "img": "http://image.banshujiang.cn/5304.jpeg?timestamp=1774616023935",
+        "author": "Malhar Lathkar",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5304/webstorage_links/24898/to_link"
+            }
+        ]
+    },
+    {
         "id": 5301,
         "title": "Building High-Performance Web APIs with FastAPI",
         "img": "http://image.banshujiang.cn/5301.jpeg?timestamp=1774604423460",
@@ -117,6 +133,22 @@
         ]
     },
     {
+        "id": 5305,
+        "title": "Practical Python Backend Programming",
+        "img": "http://image.banshujiang.cn/5305.jpeg?timestamp=1774616259117",
+        "author": "Tim Peters",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5305/webstorage_links/24899/to_link"
+            }
+        ]
+    },
+    {
         "id": 5303,
         "title": "Hands-On APIs for AI and Data Science: Python Development with FastAPI",
         "img": "http://image.banshujiang.cn/5303.jpeg?timestamp=1774615905482",
@@ -225,38 +257,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/5287/webstorage_links/24865/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5286,
-        "title": "LangChain核心技术与LLM项目实践",
-        "img": "http://image.banshujiang.cn/5286.jpeg?timestamp=1768703266917",
-        "author": "凌峰",
-        "language": "中文",
-        "publishYear": 2025,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/5286/webstorage_links/24863/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5277,
-        "title": "Pandas 数据分析实战",
-        "img": "http://image.banshujiang.cn/5277.jpeg?timestamp=1766201103669",
-        "author": "[美]Boris Paskhaver [译]殷海英",
-        "language": "中文",
-        "publishYear": 2022,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5277/webstorage_links/24845/to_link"
             }
         ]
     }

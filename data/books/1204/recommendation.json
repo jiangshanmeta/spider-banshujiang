@@ -85,6 +85,22 @@
         ]
     },
     {
+        "id": 5304,
+        "title": "High-Performance Web Apps with FastAPI",
+        "img": "http://image.banshujiang.cn/5304.jpeg?timestamp=1774616023935",
+        "author": "Malhar Lathkar",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5304/webstorage_links/24898/to_link"
+            }
+        ]
+    },
+    {
         "id": 5302,
         "title": "Getting started with FastApi",
         "img": "http://image.banshujiang.cn/5302.jpeg?timestamp=1774615752243",
@@ -251,27 +267,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/5139/webstorage_links/24470/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4836,
-        "title": "Learning PHP, MySQL &amp; JavaScript 5th Edition",
-        "img": "http://image.banshujiang.cn/4836.jpeg?timestamp=1731738370095",
-        "author": "Robin Nixon",
-        "language": "英文",
-        "publishYear": 2018,
-        "programLanguage": "PHP",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4836/webstorage_links/23538/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4836/webstorage_links/23537/to_link"
             }
         ]
     }

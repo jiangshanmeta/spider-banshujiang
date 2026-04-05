@@ -90,6 +90,22 @@
         ]
     },
     {
+        "id": 5304,
+        "title": "High-Performance Web Apps with FastAPI",
+        "img": "http://image.banshujiang.cn/5304.jpeg?timestamp=1774616023935",
+        "author": "Malhar Lathkar",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5304/webstorage_links/24898/to_link"
+            }
+        ]
+    },
+    {
         "id": 5302,
         "title": "Getting started with FastApi",
         "img": "http://image.banshujiang.cn/5302.jpeg?timestamp=1774615752243",
@@ -291,22 +307,6 @@
                 "fmt": "AZW3",
                 "title": "城通网盘",
                 "link": "/e_books/4811/webstorage_links/23427/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4798,
-        "title": "The essentials of Object Oriented PHP",
-        "img": "http://image.banshujiang.cn/4798.jpeg?timestamp=1731121711559",
-        "author": "Joseph Benharosh",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "PHP",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4798/webstorage_links/23377/to_link"
             }
         ]
     }

@@ -164,6 +164,38 @@
         ]
     },
     {
+        "id": 5305,
+        "title": "Practical Python Backend Programming",
+        "img": "http://image.banshujiang.cn/5305.jpeg?timestamp=1774616259117",
+        "author": "Tim Peters",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5305/webstorage_links/24899/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5304,
+        "title": "High-Performance Web Apps with FastAPI",
+        "img": "http://image.banshujiang.cn/5304.jpeg?timestamp=1774616023935",
+        "author": "Malhar Lathkar",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5304/webstorage_links/24898/to_link"
+            }
+        ]
+    },
+    {
         "id": 5303,
         "title": "Hands-On APIs for AI and Data Science: Python Development with FastAPI",
         "img": "http://image.banshujiang.cn/5303.jpeg?timestamp=1774615905482",
@@ -240,43 +272,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/5299/webstorage_links/24891/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5298,
-        "title": "Web Api Development with Python",
-        "img": "http://image.banshujiang.cn/5298.jpeg?timestamp=1769222089229",
-        "author": "Rehan Haider",
-        "language": "英文",
-        "publishYear": 2021,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5298/webstorage_links/24889/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/5298/webstorage_links/24888/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5297,
-        "title": "Python 学习手册(上册)",
-        "img": "http://image.banshujiang.cn/5297.jpeg?timestamp=1769221745455",
-        "author": "[美]Mark Lutz [译]秦鹤 林明",
-        "language": "中文",
-        "publishYear": 2018,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5297/webstorage_links/24885/to_link"
             }
         ]
     }

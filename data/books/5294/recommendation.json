@@ -1,5 +1,21 @@
 [
     {
+        "id": 5306,
+        "title": "Applied AI for Enterprise Java Development",
+        "img": "http://image.banshujiang.cn/5306.jpeg?timestamp=1775354823991",
+        "author": "Alex Soto Bueno, Markus Eisele, and Natale Vinto",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5306/webstorage_links/24900/to_link"
+            }
+        ]
+    },
+    {
         "id": 5293,
         "title": "Spring Boot 3 Recipes 2nd Edition",
         "img": "http://image.banshujiang.cn/5293.jpeg?timestamp=1768704647329",
@@ -261,22 +277,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4910/webstorage_links/23837/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4895,
-        "title": "Java 9 High Performance",
-        "img": "http://image.banshujiang.cn/4895.jpeg?timestamp=1739085642505",
-        "author": "Mayur Ramgir",
-        "language": "英文",
-        "publishYear": 2017,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4895/webstorage_links/23776/to_link"
             }
         ]
     }

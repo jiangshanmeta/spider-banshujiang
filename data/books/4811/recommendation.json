@@ -1,5 +1,21 @@
 [
     {
+        "id": 5304,
+        "title": "High-Performance Web Apps with FastAPI",
+        "img": "http://image.banshujiang.cn/5304.jpeg?timestamp=1774616023935",
+        "author": "Malhar Lathkar",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5304/webstorage_links/24898/to_link"
+            }
+        ]
+    },
+    {
         "id": 5302,
         "title": "Getting started with FastApi",
         "img": "http://image.banshujiang.cn/5302.jpeg?timestamp=1774615752243",
@@ -281,22 +297,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/4374/webstorage_links/21685/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4373,
-        "title": "Web开发权威指南",
-        "img": "http://image.banshujiang.cn/4373.jpeg?timestamp=1722049385348",
-        "author": "[美]Chris Aquino、Todd Gandee [译]奇舞团",
-        "language": "中文",
-        "publishYear": 2017,
-        "programLanguage": "",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4373/webstorage_links/21683/to_link"
             }
         ]
     }

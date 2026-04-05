@@ -1,5 +1,21 @@
 [
     {
+        "id": 5306,
+        "title": "Applied AI for Enterprise Java Development",
+        "img": "http://image.banshujiang.cn/5306.jpeg?timestamp=1775354823991",
+        "author": "Alex Soto Bueno, Markus Eisele, and Natale Vinto",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5306/webstorage_links/24900/to_link"
+            }
+        ]
+    },
+    {
         "id": 5300,
         "title": "Building Generative AI Services with FastAPI",
         "img": "http://image.banshujiang.cn/5300.jpeg?timestamp=1769222562694",
@@ -236,22 +252,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/5248/webstorage_links/24779/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5247,
-        "title": "LangChain for Life Sciences and Healthcare",
-        "img": "http://image.banshujiang.cn/5247.jpeg?timestamp=1757210433046",
-        "author": "Ivan Reznikov",
-        "language": "英文",
-        "publishYear": 2025,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5247/webstorage_links/24777/to_link"
             }
         ]
     }

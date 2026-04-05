@@ -1,5 +1,21 @@
 [
     {
+        "id": 5306,
+        "title": "Applied AI for Enterprise Java Development",
+        "img": "http://image.banshujiang.cn/5306.jpeg?timestamp=1775354823991",
+        "author": "Alex Soto Bueno, Markus Eisele, and Natale Vinto",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5306/webstorage_links/24900/to_link"
+            }
+        ]
+    },
+    {
         "id": 5294,
         "title": "Spring Boot 3 and Spring Framework 6",
         "img": "http://image.banshujiang.cn/5294.jpeg?timestamp=1768704757402",
@@ -256,27 +272,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/4992/webstorage_links/24101/to_link"
-            }
-        ]
-    },
-    {
-        "id": 4910,
-        "title": "Optimizing Cloud Native Java 2nd Edition",
-        "img": "http://image.banshujiang.cn/4910.jpeg?timestamp=1739088468585",
-        "author": "Benjamin J. Evans and James Gough",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/4910/webstorage_links/23838/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/4910/webstorage_links/23837/to_link"
             }
         ]
     }

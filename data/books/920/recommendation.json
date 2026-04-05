@@ -64,6 +64,38 @@
         ]
     },
     {
+        "id": 5306,
+        "title": "Applied AI for Enterprise Java Development",
+        "img": "http://image.banshujiang.cn/5306.jpeg?timestamp=1775354823991",
+        "author": "Alex Soto Bueno, Markus Eisele, and Natale Vinto",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Java",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5306/webstorage_links/24900/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5304,
+        "title": "High-Performance Web Apps with FastAPI",
+        "img": "http://image.banshujiang.cn/5304.jpeg?timestamp=1774616023935",
+        "author": "Malhar Lathkar",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5304/webstorage_links/24898/to_link"
+            }
+        ]
+    },
+    {
         "id": 5302,
         "title": "Getting started with FastApi",
         "img": "http://image.banshujiang.cn/5302.jpeg?timestamp=1774615752243",
@@ -225,48 +257,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/5225/webstorage_links/24721/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5174,
-        "title": "RocketMQ实战与原理解析",
-        "img": "http://image.banshujiang.cn/5174.jpeg?timestamp=1746878692689",
-        "author": "杨开元",
-        "language": "中文",
-        "publishYear": 2018,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/5174/webstorage_links/24559/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/5174/webstorage_links/24560/to_link"
-            },
-            {
-                "fmt": "AZW3",
-                "title": "城通网盘",
-                "link": "/e_books/5174/webstorage_links/24558/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5173,
-        "title": "RocketMQ实战",
-        "img": "http://image.banshujiang.cn/5173.jpeg?timestamp=1746878538219",
-        "author": "丁威、梁勇",
-        "language": "中文",
-        "publishYear": 2022,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5173/webstorage_links/24554/to_link"
             }
         ]
     }
