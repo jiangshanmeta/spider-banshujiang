@@ -1,5 +1,74 @@
 [
     {
+        "id": 5312,
+        "title": "Learn Ai-assisted Python Programming: With Github Copilot and ChatGPT",
+        "img": "http://image.banshujiang.cn/5312.jpeg?timestamp=1775355726367",
+        "author": "Leo Porter and Daniel Zingaro",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5312/webstorage_links/24911/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5311,
+        "title": "Knowledge Graphs and LLMs in Action",
+        "img": "http://image.banshujiang.cn/5311.jpeg?timestamp=1775356121981",
+        "author": "Alessandro Negro, Giuseppe Futia, Vlastimil Kůs and Fabio Montagna",
+        "language": "英文",
+        "publishYear": 2026,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5311/webstorage_links/24910/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5311/webstorage_links/24909/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5310,
+        "title": "Introducing Python: Modern Computing in Simple Packages 3rd Edition",
+        "img": "http://image.banshujiang.cn/5310.jpeg?timestamp=1775355416823",
+        "author": "Bill Lubanovic",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5310/webstorage_links/24908/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5308,
+        "title": "Building Applications with AI Agents: Designing and Implementing Multiagent Systems",
+        "img": "http://image.banshujiang.cn/5308.jpeg?timestamp=1775355094290",
+        "author": "Michael Albada",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5308/webstorage_links/24905/to_link"
+            }
+        ]
+    },
+    {
         "id": 5305,
         "title": "Practical Python Backend Programming",
         "img": "http://image.banshujiang.cn/5305.jpeg?timestamp=1774616259117",
@@ -193,70 +262,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/5286/webstorage_links/24863/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5282,
-        "title": "Flask Framework Cookbook 2nd Edition",
-        "img": "http://image.banshujiang.cn/5282.jpeg?timestamp=1767425814118",
-        "author": "Alexander Aronowitz",
-        "language": "英文",
-        "publishYear": 2021,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5282/webstorage_links/24855/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5281,
-        "title": "Flask By Example",
-        "img": "http://image.banshujiang.cn/5281.jpeg?timestamp=1767425653755",
-        "author": "Gareth Dwyer",
-        "language": "英文",
-        "publishYear": 2016,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5281/webstorage_links/24853/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5277,
-        "title": "Pandas 数据分析实战",
-        "img": "http://image.banshujiang.cn/5277.jpeg?timestamp=1766201103669",
-        "author": "[美]Boris Paskhaver [译]殷海英",
-        "language": "中文",
-        "publishYear": 2022,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5277/webstorage_links/24845/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5276,
-        "title": "Master Data Science and Data Analysis With Pandas",
-        "img": "http://image.banshujiang.cn/5276.jpeg?timestamp=1766200747406",
-        "author": "Arun",
-        "language": "英文",
-        "publishYear": 2020,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5276/webstorage_links/24843/to_link"
             }
         ]
     }

@@ -100404,5 +100404,142 @@
                 "link": "/e_books/5306/webstorage_links/24900/to_link"
             }
         ]
+    },
+    {
+        "id": 5307,
+        "title": "Beyond Vibe Coding: From Coder to AI-Era Developer",
+        "img": "http://image.banshujiang.cn/5307.jpeg?timestamp=1775354977840",
+        "author": "Addy Osmani",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5307/webstorage_links/24904/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5307/webstorage_links/24902/to_link"
+            },
+            {
+                "fmt": "MOBI",
+                "title": "城通网盘",
+                "link": "/e_books/5307/webstorage_links/24903/to_link"
+            },
+            {
+                "fmt": "AZW3",
+                "title": "城通网盘",
+                "link": "/e_books/5307/webstorage_links/24901/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5308,
+        "title": "Building Applications with AI Agents: Designing and Implementing Multiagent Systems",
+        "img": "http://image.banshujiang.cn/5308.jpeg?timestamp=1775355094290",
+        "author": "Michael Albada",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5308/webstorage_links/24905/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5309,
+        "title": "Foundations of Agentic AI for Retail",
+        "img": "http://image.banshujiang.cn/5309.jpeg?timestamp=1775355271653",
+        "author": "Dr. Fatih Nayebi",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5309/webstorage_links/24907/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5309/webstorage_links/24906/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5310,
+        "title": "Introducing Python: Modern Computing in Simple Packages 3rd Edition",
+        "img": "http://image.banshujiang.cn/5310.jpeg?timestamp=1775355416823",
+        "author": "Bill Lubanovic",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5310/webstorage_links/24908/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5311,
+        "title": "Knowledge Graphs and LLMs in Action",
+        "img": "http://image.banshujiang.cn/5311.jpeg?timestamp=1775356121981",
+        "author": "Alessandro Negro, Giuseppe Futia, Vlastimil Kůs and Fabio Montagna",
+        "language": "英文",
+        "publishYear": 2026,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5311/webstorage_links/24910/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5311/webstorage_links/24909/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5312,
+        "title": "Learn Ai-assisted Python Programming: With Github Copilot and ChatGPT",
+        "img": "http://image.banshujiang.cn/5312.jpeg?timestamp=1775355726367",
+        "author": "Leo Porter and Daniel Zingaro",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5312/webstorage_links/24911/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5313,
+        "title": "Learning GitHub Copilot: Multiplying Your Coding Productivity Using AI",
+        "img": "http://image.banshujiang.cn/5313.jpeg?timestamp=1775355823486",
+        "author": "Brent Laster",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5313/webstorage_links/24912/to_link"
+            }
+        ]
     }
 ]

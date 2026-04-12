@@ -1,0 +1,268 @@
+[
+    {
+        "id": 5312,
+        "title": "Learn Ai-assisted Python Programming: With Github Copilot and ChatGPT",
+        "img": "http://image.banshujiang.cn/5312.jpeg?timestamp=1775355726367",
+        "author": "Leo Porter and Daniel Zingaro",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5312/webstorage_links/24911/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5311,
+        "title": "Knowledge Graphs and LLMs in Action",
+        "img": "http://image.banshujiang.cn/5311.jpeg?timestamp=1775356121981",
+        "author": "Alessandro Negro, Giuseppe Futia, Vlastimil Kůs and Fabio Montagna",
+        "language": "英文",
+        "publishYear": 2026,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5311/webstorage_links/24910/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5311/webstorage_links/24909/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5308,
+        "title": "Building Applications with AI Agents: Designing and Implementing Multiagent Systems",
+        "img": "http://image.banshujiang.cn/5308.jpeg?timestamp=1775355094290",
+        "author": "Michael Albada",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5308/webstorage_links/24905/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5305,
+        "title": "Practical Python Backend Programming",
+        "img": "http://image.banshujiang.cn/5305.jpeg?timestamp=1774616259117",
+        "author": "Tim Peters",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5305/webstorage_links/24899/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5304,
+        "title": "High-Performance Web Apps with FastAPI",
+        "img": "http://image.banshujiang.cn/5304.jpeg?timestamp=1774616023935",
+        "author": "Malhar Lathkar",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5304/webstorage_links/24898/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5303,
+        "title": "Hands-On APIs for AI and Data Science: Python Development with FastAPI",
+        "img": "http://image.banshujiang.cn/5303.jpeg?timestamp=1774615905482",
+        "author": "Ryan Day",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5303/webstorage_links/24897/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5302,
+        "title": "Getting started with FastApi",
+        "img": "http://image.banshujiang.cn/5302.jpeg?timestamp=1774615752243",
+        "author": "Andrés Cruz Yoris",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5302/webstorage_links/24896/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5301,
+        "title": "Building High-Performance Web APIs with FastAPI",
+        "img": "http://image.banshujiang.cn/5301.jpeg?timestamp=1774604423460",
+        "author": "Girish Vas",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5301/webstorage_links/24895/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5300,
+        "title": "Building Generative AI Services with FastAPI",
+        "img": "http://image.banshujiang.cn/5300.jpeg?timestamp=1769222562694",
+        "author": "Alireza Parandeh",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5300/webstorage_links/24893/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5299,
+        "title": "Building Data Science Applications with FastAPI",
+        "img": "http://image.banshujiang.cn/5299.jpeg?timestamp=1769222477182",
+        "author": "François Voron",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5299/webstorage_links/24891/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5298,
+        "title": "Web Api Development with Python",
+        "img": "http://image.banshujiang.cn/5298.jpeg?timestamp=1769222089229",
+        "author": "Rehan Haider",
+        "language": "英文",
+        "publishYear": 2021,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5298/webstorage_links/24889/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5298/webstorage_links/24888/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5297,
+        "title": "Python 学习手册(上册)",
+        "img": "http://image.banshujiang.cn/5297.jpeg?timestamp=1769221745455",
+        "author": "[美]Mark Lutz [译]秦鹤 林明",
+        "language": "中文",
+        "publishYear": 2018,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5297/webstorage_links/24885/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5296,
+        "title": "Understanding Langchain: A Comprehensive Guide to Crafting Futuristic Language Model Applications",
+        "img": "http://image.banshujiang.cn/5296.jpeg?timestamp=1768704951132",
+        "author": "Jeffery Owens",
+        "language": "英文",
+        "publishYear": 2023,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5296/webstorage_links/24883/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5288,
+        "title": "Mastering LangChain: A Comprehensive Guide to Building Generative AI Applications",
+        "img": "http://image.banshujiang.cn/5288.jpeg?timestamp=1768703478071",
+        "author": "Sanath Raj B Narayan and Nitin Agarwal",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5288/webstorage_links/24867/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5287,
+        "title": "Learning Flask Framework",
+        "img": "http://image.banshujiang.cn/5287.jpeg?timestamp=1768703385120",
+        "author": "Matt Copperwaite and Charles Leifer",
+        "language": "英文",
+        "publishYear": 2015,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5287/webstorage_links/24865/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5286,
+        "title": "LangChain核心技术与LLM项目实践",
+        "img": "http://image.banshujiang.cn/5286.jpeg?timestamp=1768703266917",
+        "author": "凌峰",
+        "language": "中文",
+        "publishYear": 2025,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5286/webstorage_links/24863/to_link"
+            }
+        ]
+    }
+]

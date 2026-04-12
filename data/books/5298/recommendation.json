@@ -128,6 +128,75 @@
         ]
     },
     {
+        "id": 5312,
+        "title": "Learn Ai-assisted Python Programming: With Github Copilot and ChatGPT",
+        "img": "http://image.banshujiang.cn/5312.jpeg?timestamp=1775355726367",
+        "author": "Leo Porter and Daniel Zingaro",
+        "language": "英文",
+        "publishYear": 2024,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5312/webstorage_links/24911/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5311,
+        "title": "Knowledge Graphs and LLMs in Action",
+        "img": "http://image.banshujiang.cn/5311.jpeg?timestamp=1775356121981",
+        "author": "Alessandro Negro, Giuseppe Futia, Vlastimil Kůs and Fabio Montagna",
+        "language": "英文",
+        "publishYear": 2026,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5311/webstorage_links/24910/to_link"
+            },
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5311/webstorage_links/24909/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5310,
+        "title": "Introducing Python: Modern Computing in Simple Packages 3rd Edition",
+        "img": "http://image.banshujiang.cn/5310.jpeg?timestamp=1775355416823",
+        "author": "Bill Lubanovic",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5310/webstorage_links/24908/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5308,
+        "title": "Building Applications with AI Agents: Designing and Implementing Multiagent Systems",
+        "img": "http://image.banshujiang.cn/5308.jpeg?timestamp=1775355094290",
+        "author": "Michael Albada",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5308/webstorage_links/24905/to_link"
+            }
+        ]
+    },
+    {
         "id": 5305,
         "title": "Practical Python Backend Programming",
         "img": "http://image.banshujiang.cn/5305.jpeg?timestamp=1774616259117",
@@ -188,70 +257,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/5299/webstorage_links/24891/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5297,
-        "title": "Python 学习手册(上册)",
-        "img": "http://image.banshujiang.cn/5297.jpeg?timestamp=1769221745455",
-        "author": "[美]Mark Lutz [译]秦鹤 林明",
-        "language": "中文",
-        "publishYear": 2018,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5297/webstorage_links/24885/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5296,
-        "title": "Understanding Langchain: A Comprehensive Guide to Crafting Futuristic Language Model Applications",
-        "img": "http://image.banshujiang.cn/5296.jpeg?timestamp=1768704951132",
-        "author": "Jeffery Owens",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/5296/webstorage_links/24883/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5288,
-        "title": "Mastering LangChain: A Comprehensive Guide to Building Generative AI Applications",
-        "img": "http://image.banshujiang.cn/5288.jpeg?timestamp=1768703478071",
-        "author": "Sanath Raj B Narayan and Nitin Agarwal",
-        "language": "英文",
-        "publishYear": 2025,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5288/webstorage_links/24867/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5287,
-        "title": "Learning Flask Framework",
-        "img": "http://image.banshujiang.cn/5287.jpeg?timestamp=1768703385120",
-        "author": "Matt Copperwaite and Charles Leifer",
-        "language": "英文",
-        "publishYear": 2015,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5287/webstorage_links/24865/to_link"
             }
         ]
     }
