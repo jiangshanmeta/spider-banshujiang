@@ -1,5 +1,37 @@
 [
     {
+        "id": 5317,
+        "title": "The New Generative AI with LangChain Playbook",
+        "img": "http://image.banshujiang.cn/5317.jpeg?timestamp=1775356468706",
+        "author": "Bennett Kouri",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5317/webstorage_links/24916/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5315,
+        "title": "LLMs in Enterprise: Design strategies, patterns, and best practices for large language model development",
+        "img": "http://image.banshujiang.cn/5315.jpeg?timestamp=1775356047183",
+        "author": "Ahmed Menshawy and Mahmoud Fahmy",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5315/webstorage_links/24914/to_link"
+            }
+        ]
+    },
+    {
         "id": 5312,
         "title": "Learn Ai-assisted Python Programming: With Github Copilot and ChatGPT",
         "img": "http://image.banshujiang.cn/5312.jpeg?timestamp=1775355726367",
@@ -225,38 +257,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/5248/webstorage_links/24779/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5247,
-        "title": "LangChain for Life Sciences and Healthcare",
-        "img": "http://image.banshujiang.cn/5247.jpeg?timestamp=1757210433046",
-        "author": "Ivan Reznikov",
-        "language": "英文",
-        "publishYear": 2025,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5247/webstorage_links/24777/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5246,
-        "title": "LangChain and LlamaIndex Projects Lab Book: Hooking Large Language Models Up to the Real World",
-        "img": "http://image.banshujiang.cn/5246.jpeg?timestamp=1757210308155",
-        "author": "Mark Watson",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5246/webstorage_links/24775/to_link"
             }
         ]
     }

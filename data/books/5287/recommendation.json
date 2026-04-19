@@ -1,5 +1,37 @@
 [
     {
+        "id": 5317,
+        "title": "The New Generative AI with LangChain Playbook",
+        "img": "http://image.banshujiang.cn/5317.jpeg?timestamp=1775356468706",
+        "author": "Bennett Kouri",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5317/webstorage_links/24916/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5315,
+        "title": "LLMs in Enterprise: Design strategies, patterns, and best practices for large language model development",
+        "img": "http://image.banshujiang.cn/5315.jpeg?timestamp=1775356047183",
+        "author": "Ahmed Menshawy and Mahmoud Fahmy",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5315/webstorage_links/24914/to_link"
+            }
+        ]
+    },
+    {
         "id": 5312,
         "title": "Learn Ai-assisted Python Programming: With Github Copilot and ChatGPT",
         "img": "http://image.banshujiang.cn/5312.jpeg?timestamp=1775355726367",
@@ -230,38 +262,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/5296/webstorage_links/24883/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5288,
-        "title": "Mastering LangChain: A Comprehensive Guide to Building Generative AI Applications",
-        "img": "http://image.banshujiang.cn/5288.jpeg?timestamp=1768703478071",
-        "author": "Sanath Raj B Narayan and Nitin Agarwal",
-        "language": "英文",
-        "publishYear": 2025,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5288/webstorage_links/24867/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5286,
-        "title": "LangChain核心技术与LLM项目实践",
-        "img": "http://image.banshujiang.cn/5286.jpeg?timestamp=1768703266917",
-        "author": "凌峰",
-        "language": "中文",
-        "publishYear": 2025,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/5286/webstorage_links/24863/to_link"
             }
         ]
     }

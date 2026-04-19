@@ -1,5 +1,85 @@
 [
     {
+        "id": 5318,
+        "title": "Visualizing Generative AI: How AI Paints, Writes, and Assists",
+        "img": "http://image.banshujiang.cn/5318.jpeg?timestamp=1775356554713",
+        "author": "Priyanka Vergadia and Valliappa Lakshmanan",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5318/webstorage_links/24917/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5317,
+        "title": "The New Generative AI with LangChain Playbook",
+        "img": "http://image.banshujiang.cn/5317.jpeg?timestamp=1775356468706",
+        "author": "Bennett Kouri",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5317/webstorage_links/24916/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5316,
+        "title": "Mastering Claude AI: Practical Journey from First Prompts to Pro with Claude AI",
+        "img": "http://image.banshujiang.cn/5316.jpeg?timestamp=1775356223752",
+        "author": "Ryan Dickey",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5316/webstorage_links/24915/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5315,
+        "title": "LLMs in Enterprise: Design strategies, patterns, and best practices for large language model development",
+        "img": "http://image.banshujiang.cn/5315.jpeg?timestamp=1775356047183",
+        "author": "Ahmed Menshawy and Mahmoud Fahmy",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5315/webstorage_links/24914/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5314,
+        "title": "Vibe Coding with GitHub Copilot: Enhancing Productivity by Leveraging GitHub Copilot Inside Visual Studio",
+        "img": "http://image.banshujiang.cn/5314.jpeg?timestamp=1775355934595",
+        "author": "Naga Santhosh Reddy Vootukuri",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "TypeScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5314/webstorage_links/24913/to_link"
+            }
+        ]
+    },
+    {
         "id": 5313,
         "title": "Learning GitHub Copilot: Multiplying Your Coding Productivity Using AI",
         "img": "http://image.banshujiang.cn/5313.jpeg?timestamp=1775355823486",
@@ -197,86 +277,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/5291/webstorage_links/24873/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5290,
-        "title": "Mockito Made Clear: Java Unit Testing with Mocks, Stubs, and Spies",
-        "img": "http://image.banshujiang.cn/5290.jpeg?timestamp=1768703911500",
-        "author": "Ken Kousen",
-        "language": "英文",
-        "publishYear": 2023,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5290/webstorage_links/24871/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5288,
-        "title": "Mastering LangChain: A Comprehensive Guide to Building Generative AI Applications",
-        "img": "http://image.banshujiang.cn/5288.jpeg?timestamp=1768703478071",
-        "author": "Sanath Raj B Narayan and Nitin Agarwal",
-        "language": "英文",
-        "publishYear": 2025,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5288/webstorage_links/24867/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5286,
-        "title": "LangChain核心技术与LLM项目实践",
-        "img": "http://image.banshujiang.cn/5286.jpeg?timestamp=1768703266917",
-        "author": "凌峰",
-        "language": "中文",
-        "publishYear": 2025,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/5286/webstorage_links/24863/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5285,
-        "title": "LangChain for JavaScript developers",
-        "img": "http://image.banshujiang.cn/5285.jpeg?timestamp=1768703143270",
-        "author": "Daniel Nastase",
-        "language": "英文",
-        "publishYear": 2024,
-        "programLanguage": "JavaScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5285/webstorage_links/24861/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5284,
-        "title": "Java Unit Testing with JUnit and Mockito",
-        "img": "http://image.banshujiang.cn/5284.jpeg?timestamp=1768615964004",
-        "author": "",
-        "language": "英文",
-        "publishYear": 2020,
-        "programLanguage": "Java",
-        "formats": [
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/5284/webstorage_links/24859/to_link"
             }
         ]
     }

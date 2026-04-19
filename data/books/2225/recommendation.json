@@ -1,5 +1,21 @@
 [
     {
+        "id": 5314,
+        "title": "Vibe Coding with GitHub Copilot: Enhancing Productivity by Leveraging GitHub Copilot Inside Visual Studio",
+        "img": "http://image.banshujiang.cn/5314.jpeg?timestamp=1775355934595",
+        "author": "Naga Santhosh Reddy Vootukuri",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "TypeScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5314/webstorage_links/24913/to_link"
+            }
+        ]
+    },
+    {
         "id": 4880,
         "title": "ng-book The Complete Guide to Angular 11",
         "img": "http://image.banshujiang.cn/4880.jpeg?timestamp=1733141588325",
@@ -266,32 +282,6 @@
                 "fmt": "EPUB",
                 "title": "城通网盘",
                 "link": "/e_books/2700/webstorage_links/9621/to_link"
-            }
-        ]
-    },
-    {
-        "id": 2675,
-        "title": "Tackling TypeScript",
-        "img": "https://imagebsj.netlify.app/2675.jpeg",
-        "author": "Dr. Axel Rauschmayer",
-        "language": "英文",
-        "publishYear": 2020,
-        "programLanguage": "TypeScript",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/2675/webstorage_links/9522/to_link"
-            },
-            {
-                "fmt": "EPUB",
-                "title": "城通网盘",
-                "link": "/e_books/2675/webstorage_links/9524/to_link"
-            },
-            {
-                "fmt": "MOBI",
-                "title": "城通网盘",
-                "link": "/e_books/2675/webstorage_links/9523/to_link"
             }
         ]
     }

@@ -100541,5 +100541,85 @@
                 "link": "/e_books/5313/webstorage_links/24912/to_link"
             }
         ]
+    },
+    {
+        "id": 5314,
+        "title": "Vibe Coding with GitHub Copilot: Enhancing Productivity by Leveraging GitHub Copilot Inside Visual Studio",
+        "img": "http://image.banshujiang.cn/5314.jpeg?timestamp=1775355934595",
+        "author": "Naga Santhosh Reddy Vootukuri",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "TypeScript",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5314/webstorage_links/24913/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5315,
+        "title": "LLMs in Enterprise: Design strategies, patterns, and best practices for large language model development",
+        "img": "http://image.banshujiang.cn/5315.jpeg?timestamp=1775356047183",
+        "author": "Ahmed Menshawy and Mahmoud Fahmy",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5315/webstorage_links/24914/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5316,
+        "title": "Mastering Claude AI: Practical Journey from First Prompts to Pro with Claude AI",
+        "img": "http://image.banshujiang.cn/5316.jpeg?timestamp=1775356223752",
+        "author": "Ryan Dickey",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5316/webstorage_links/24915/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5317,
+        "title": "The New Generative AI with LangChain Playbook",
+        "img": "http://image.banshujiang.cn/5317.jpeg?timestamp=1775356468706",
+        "author": "Bennett Kouri",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5317/webstorage_links/24916/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5318,
+        "title": "Visualizing Generative AI: How AI Paints, Writes, and Assists",
+        "img": "http://image.banshujiang.cn/5318.jpeg?timestamp=1775356554713",
+        "author": "Priyanka Vergadia and Valliappa Lakshmanan",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5318/webstorage_links/24917/to_link"
+            }
+        ]
     }
 ]

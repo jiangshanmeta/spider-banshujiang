@@ -133,6 +133,38 @@
         ]
     },
     {
+        "id": 5317,
+        "title": "The New Generative AI with LangChain Playbook",
+        "img": "http://image.banshujiang.cn/5317.jpeg?timestamp=1775356468706",
+        "author": "Bennett Kouri",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "PDF",
+                "title": "城通网盘",
+                "link": "/e_books/5317/webstorage_links/24916/to_link"
+            }
+        ]
+    },
+    {
+        "id": 5315,
+        "title": "LLMs in Enterprise: Design strategies, patterns, and best practices for large language model development",
+        "img": "http://image.banshujiang.cn/5315.jpeg?timestamp=1775356047183",
+        "author": "Ahmed Menshawy and Mahmoud Fahmy",
+        "language": "英文",
+        "publishYear": 2025,
+        "programLanguage": "Python",
+        "formats": [
+            {
+                "fmt": "EPUB",
+                "title": "城通网盘",
+                "link": "/e_books/5315/webstorage_links/24914/to_link"
+            }
+        ]
+    },
+    {
         "id": 5312,
         "title": "Learn Ai-assisted Python Programming: With Github Copilot and ChatGPT",
         "img": "http://image.banshujiang.cn/5312.jpeg?timestamp=1775355726367",
@@ -230,38 +262,6 @@
                 "fmt": "PDF",
                 "title": "城通网盘",
                 "link": "/e_books/5303/webstorage_links/24897/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5300,
-        "title": "Building Generative AI Services with FastAPI",
-        "img": "http://image.banshujiang.cn/5300.jpeg?timestamp=1769222562694",
-        "author": "Alireza Parandeh",
-        "language": "英文",
-        "publishYear": 2025,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5300/webstorage_links/24893/to_link"
-            }
-        ]
-    },
-    {
-        "id": 5299,
-        "title": "Building Data Science Applications with FastAPI",
-        "img": "http://image.banshujiang.cn/5299.jpeg?timestamp=1769222477182",
-        "author": "François Voron",
-        "language": "英文",
-        "publishYear": 2021,
-        "programLanguage": "Python",
-        "formats": [
-            {
-                "fmt": "PDF",
-                "title": "城通网盘",
-                "link": "/e_books/5299/webstorage_links/24891/to_link"
             }
         ]
     }
